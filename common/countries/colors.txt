@@ -991,8 +991,8 @@ STA = {
 	color_ui = rgb { 119 7 55 }
 }
 BAH = {
-	color = rgb { 165 157 87 }
-	color_ui = rgb { 165 157 87 }
+	color = rgb { 80 120 230 }
+	color_ui = rgb { 80 120 230 }
 }
 BRD = {
 	color = rgb { 193 193 147 }
