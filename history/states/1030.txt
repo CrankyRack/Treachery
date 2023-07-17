@@ -1,0 +1,32 @@
+state=
+{
+	id=1030
+	name="Petit Manchac"
+
+	manpower = 391788
+	resources={
+		Steel=2 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = TEX
+		victory_points = {
+			2102 1
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = TEX
+	}
+
+	provinces={
+		1528 1643 4507 12313
+	}
+	local_supplies=0.0 
+}

@@ -7,12 +7,13 @@ state={
 	state_category = city
 
 	history={
-		owner = IOW
+		owner = GRC
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 4
 		}
 		add_core_of = IOW
+		add_core_of = GRC
 		victory_points = {
 			1770 3 
 		}

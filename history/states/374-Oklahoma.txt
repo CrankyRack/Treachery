@@ -13,27 +13,22 @@ state={
 
 
 	history={
-		owner = LSS
+		owner = GRC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
-			air_base = 2
 		}
 		add_core_of = LSS
+		add_core_of = GRC
 		victory_points = {
 			1806 1 
 		}
 
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 3
-			}
-		}
 
 	}
 
 	provinces={
-		1618 1806 2043 4919 5103 6803 7762 7904 7945 8025 9822 10702 10798 11743 11802 
+		1618 1806 2043 2055 3972 4919 5001 5103 6803 6968 7762 7904 7945 8025 9822 9829 9908 10702 10798 11743 11802 12401 12624
 	}
 
 	local_supplies=0.0 

@@ -10,12 +10,12 @@ state={
 	}
 
 	history={
-		owner = DAK
+		owner = GRC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = DAK
+		add_core_of = GRC
 		victory_points = {
 			1836 1 
 		}
