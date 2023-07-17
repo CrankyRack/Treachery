@@ -10,12 +10,12 @@ state={
 	}
 
 	history={
-		owner = DAK
+		owner = GRC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = DAK
+		add_core_of = GRC
 		victory_points = {
 			1836 1 
 		}
@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		1836 4759 4772 6722 7877 10685 10709 12566 
+		1836 4759 4772 6722 7877 10709 12566 
 	}
 
 	local_supplies=9.0 

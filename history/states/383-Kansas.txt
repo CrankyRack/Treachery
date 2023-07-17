@@ -10,18 +10,15 @@ state={
 	state_category = city
 
 	history={
-		owner = LSS
+		owner = GRC
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
 			industrial_complex = 1
 		}
 		add_core_of = LSS
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 2
-			}
-		}
+		add_core_of = GRC
+
 		victory_points = {
 			4740 3
 		}
@@ -31,7 +28,7 @@ state={
 	}
 
 	provinces={
-		1352 1753 4740 4757 4811 4814 4871 7834 7892 9802 10340 10532 12024 12513 
+		1352 1753 4586 4740 4757 4811 4814 4871 7834 7892 9802 10340 10532 12024 12513 
 	}
 	
 

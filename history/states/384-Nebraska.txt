@@ -7,12 +7,13 @@ state={
 	state_category = large_town
 
 	history={
-		owner = LSS
+		owner = GRC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
 		add_core_of = LSS
+		add_core_of = GRC
 		victory_points = {
 			12586 1 
 		}
