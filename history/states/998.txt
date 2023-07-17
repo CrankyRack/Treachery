@@ -1,0 +1,33 @@
+state=
+{
+	id=998
+	name="Riau Archipelago"
+
+	manpower = 94788
+	resources={
+		oil=3 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = LBV
+		victory_points = {
+			12798 10 
+		}
+		add_core_of = INS
+		buildings = {
+			infrastructure = 2 #was: 6
+			12113 = {
+				naval_base = 5
+				coastal_bunker = 2
+			}
+		}
+	}
+	provinces={
+		12113
+
+	local_supplies=0.0 
+}

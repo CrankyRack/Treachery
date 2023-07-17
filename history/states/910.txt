@@ -1,0 +1,25 @@
+state = {
+	id = 910
+	name = "Smålene"
+
+	history = {
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+		victory_points = {
+			13240 2 
+		}
+		owner = DEN
+		add_core_of = NOR
+		add_core_of = DEN
+	}
+
+	provinces = {
+		179 3007 3171 6160 11151 11078 11184
+	}
+	manpower = 213000
+	buildings_max_level_factor = 1.000
+	state_category = town
+	local_supplies = 0.000
+}

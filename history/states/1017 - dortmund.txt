@@ -1,0 +1,32 @@
+state=
+{
+	id=1017
+	name="Dortmund"
+
+	manpower = 491788
+	resources={
+		Steel=4 # was: 18
+	}
+	
+	state_category = town
+	
+	
+	history={
+		owner = LEI
+		victory_points = {
+			495 10 
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = LEI
+	}
+
+	provinces={
+		495 6535
+	}
+	local_supplies=0.0 
+}

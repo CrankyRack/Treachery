@@ -1,0 +1,36 @@
+
+state={
+	id=12
+	name="STATE_12"
+	manpower = 408500
+	resources={
+		steel=1 # was: 2
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = LAT
+		victory_points = {
+			10493 1 #Valmiera
+		}
+		victory_points = {
+			222 1 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 3
+		}
+		add_core_of = LAT
+		add_claim_by = SWE
+		add_claim_by = LIT
+
+	}
+
+	provinces={
+		222 341 3298 3388 7482 9501 10493 11222 11302 
+	}
+
+	local_supplies=0.0 
+}

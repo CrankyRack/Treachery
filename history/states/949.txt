@@ -1,0 +1,27 @@
+
+state={
+	id=949
+	name = "STATE_551"
+	manpower = 61003
+
+	history={
+		#owner = ENG
+		add_core_of = SUD
+		add_claim_by = LBV
+		add_claim_by = DAH
+		buildings = {
+			infrastructure = 1
+		}
+		
+		
+
+	}
+
+	provinces={
+		2016 8084 10739 10795
+	}
+	
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

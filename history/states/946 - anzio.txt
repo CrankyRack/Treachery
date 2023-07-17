@@ -1,0 +1,26 @@
+state=
+{
+	id=946
+	name="Anzio"
+	manpower = 496988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = TTS
+		victory_points = {
+			11846 10
+		}
+		add_core_of = TTS
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		923 11846 11882
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,37 @@
+state=
+{
+	id=1000
+	name="Ýolöten"
+
+	manpower = 94788
+	resources={
+		oil=2 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = UZB
+		victory_points = {
+			5098 3 
+		}
+		victory_points = {
+			6826 2
+		}
+		victory_points = {
+			7953 2
+		}
+		add_core_of = TMS
+		add_core_of = BUK
+		add_core_of = UZB
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		4482 4549 4958 5003 7560 10742
+
+	local_supplies=0.0 
+}

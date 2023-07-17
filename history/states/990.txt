@@ -1,0 +1,33 @@
+state=
+{
+	id=990
+	name="North California"
+
+	manpower = 1894788
+	
+	state_category = city
+	
+	
+	history=
+	{
+		owner = CAL
+		victory_points = {
+			9713 5 
+		}
+		victory_points = {
+			11822 10 
+		}
+		add_core_of = CAL
+		add_claim_by = MEX
+		buildings = {
+			infrastructure = 2 #was: 6
+			610 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		610 677 710 766 768 781 1432 1601 3588 3644 4331 6482 6665 6681 6694 6699 6745 6757 6772 6876 9697 9713 9730 10159 11658 11698
+
+	local_supplies=0.0 
+}

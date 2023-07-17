@@ -1,0 +1,26 @@
+state=
+{
+	id=937
+	name="Kalkaman"
+	manpower = 106988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = KAZ
+		victory_points = {
+			10630 1 
+		}
+		add_core_of = KAZ
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		1879 4670 4685 7317 10235 10630
+	}
+
+	local_supplies=0.0 
+}

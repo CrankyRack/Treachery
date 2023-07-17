@@ -1,0 +1,24 @@
+state=
+{
+	id=944
+	name="Parma"
+	manpower = 116988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = ITA
+		victory_points = { 9752 5 }
+		add_core_of = ITA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		3773 6790 9752
+	}
+
+	local_supplies=0.0 
+}

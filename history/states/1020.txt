@@ -1,0 +1,29 @@
+state=
+{
+	id=1020
+	name="Arnsberg"
+
+	manpower = 191788
+	
+	state_category = rural
+	
+	
+	history={
+		owner = VGE
+		victory_points = {
+			9443 1
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = VGE
+	}
+
+	provinces={
+		3398 9443
+	}
+	local_supplies=0.0 
+}

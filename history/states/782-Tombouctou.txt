@@ -1,0 +1,24 @@
+
+state={
+	id=782
+	name="STATE_782" # Tombouctou
+	manpower = 79243
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = MLI
+		add_core_of = MLI
+		buildings = {
+			infrastructure = 0
+		}
+
+	}
+
+	provinces={
+		1115 2068 4920 5095 7041 7939 7979 10838 10868 12849
+	}
+
+	local_supplies=0.0 
+}

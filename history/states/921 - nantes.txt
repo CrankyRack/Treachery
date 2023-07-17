@@ -1,0 +1,31 @@
+state=
+{
+	id=921
+	name="Nantes"
+	manpower = 146988
+	
+	state_category = town
+	
+	resources={
+		aluminium=3 # was: 5
+	}
+	
+	history=
+	{
+		owner = FRA
+		victory_points = {
+			11465 5 
+		}
+		add_core_of = BRI
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		11465 11616
+	}
+
+	local_supplies=0.0 
+}

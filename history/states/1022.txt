@@ -1,0 +1,26 @@
+state=
+{
+	id=1022
+	name="Büchen"
+
+	manpower = 91788
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = HAN
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = HAN
+		add_core_of = MEK
+	}
+
+	provinces={
+		9294 9320 
+	}
+	local_supplies=0.0 
+}

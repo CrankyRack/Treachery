@@ -1,0 +1,29 @@
+state=
+{
+	id=993
+	name="STATE_688"
+
+	manpower = 94788
+	resources={
+		oil=5 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = PAR
+		victory_points = {
+			12798 10 
+		}
+		add_core_of = PAR
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		2195 2209 10973 12922 12943 
+
+	local_supplies=0.0 
+}

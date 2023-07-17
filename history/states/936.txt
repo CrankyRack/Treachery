@@ -1,0 +1,27 @@
+state=
+{
+	id=936
+	name="Isjim"
+	manpower = 126988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = KAZ
+		victory_points = {
+			4354 2 
+		}
+		add_core_of = KAZ
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		1294 1709 1775 1800 3472 4209 4700 4780 7774 7800 7846 9512 10568 10600 10670 12521 12652
+	}
+
+	local_supplies=0.0 
+}

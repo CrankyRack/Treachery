@@ -1,0 +1,31 @@
+
+state={
+	id=240
+	name="STATE_240" # Belgorod
+	manpower = 1364537
+	
+	state_category = town
+
+	history={
+		victory_points = {
+			9449 1
+		}
+		owner = MOS
+		buildings = {
+			infrastructure = 3 #was: 5
+		}
+		add_core_of = MOS
+		add_claim_by = SOV
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 1
+			}
+		}
+	}
+
+	provinces={
+		534 3492 6577 9489 9518 
+	}
+
+	local_supplies=0.0 
+}

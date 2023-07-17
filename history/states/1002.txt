@@ -1,0 +1,30 @@
+state=
+{
+	id=1002
+	name="Tosor"
+
+	manpower = 91788
+	resources={
+		oil=1 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = SIK
+		victory_points = {
+			12248 2 
+		}
+		add_core_of = SIK
+		add_core_of = KYR
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		1675 4391 4768 5062 12370 12511
+
+	local_supplies=0.0 
+}

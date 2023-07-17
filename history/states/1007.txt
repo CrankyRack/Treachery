@@ -1,0 +1,33 @@
+state=
+{
+	id=1007
+	name="Uttarakhand"
+
+	manpower = 3294788
+	resources={
+		oil=2 # was: 5
+		steel=5 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = NEP
+		victory_points = {
+			5098 3 
+		}
+		add_core_of = NEP
+		add_core_of = PAK
+		add_core_of = TIB
+		add_core_of = RAJ
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		1898 3989 10021
+
+	local_supplies=0.0 
+}

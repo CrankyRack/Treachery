@@ -1,0 +1,32 @@
+state=
+{
+	id=996
+	name="Kuala Lumpur"
+
+	manpower = 394788
+	
+	state_category = town
+	
+	resources={
+		rubber=42 # was: 848
+	}
+	
+	history=
+	{
+		owner = LBV
+		victory_points = {
+			10297 5 
+		}
+		add_claim_by = SIA
+		buildings = {
+			infrastructure = 2 #was: 6
+			10297 = {
+				naval_base = 5
+			}
+		}
+	}
+	provinces={
+		1376 4412 10297
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,31 @@
+state=
+{
+	id=1009
+	name="Mysore"
+
+	manpower = 3294788
+	resources={
+		chromium=6 # was: 18
+	}
+	
+	state_category = town
+	
+	
+	history=
+	{
+		owner = ORO
+		victory_points = {
+			4315 5 
+		}
+		add_core_of = RAJ
+		add_core_of = ORO
+		add_claim_by = KOS
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		4315 4344 
+
+	local_supplies=0.0 
+}

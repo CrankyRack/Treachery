@@ -1,0 +1,25 @@
+state=
+{
+	id=909
+	name="Öland"
+	manpower = 26988
+	
+	state_category = small_island
+	
+	history=
+	{
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3 #was: 6
+			211 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		211
+	}
+
+	local_supplies=0.0 
+}

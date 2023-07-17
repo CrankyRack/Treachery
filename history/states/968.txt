@@ -1,0 +1,26 @@
+state=
+{
+	id=968
+	name="Peshkopia"
+
+	manpower = 296988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = YUG
+		victory_points = { 6913 2 }
+		add_core_of = YUG
+		add_core_of = ALB
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1		
+		}
+	}
+	provinces={
+		3896 11762
+	}
+
+	local_supplies=0.0 
+}

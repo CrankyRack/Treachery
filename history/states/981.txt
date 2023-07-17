@@ -1,0 +1,26 @@
+state=
+{
+	id=981
+	name="Hawkins"
+
+	manpower = 624788
+	
+	state_category = town
+	
+	history=
+	{
+		owner = HKS
+		victory_points = { 8014 5 }
+		add_core_of = HKS
+		add_core_of = USA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		913 7558 7791 8014 9779
+	}
+
+	local_supplies=0.0 
+}

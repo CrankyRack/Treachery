@@ -1,0 +1,36 @@
+state=
+{
+	id=1018
+	name="Nassau"
+
+	manpower = 491788
+	resources={
+		Steel=2 # was: 18
+	}
+	
+	state_category = town
+	
+	
+	history={
+		owner = ANS
+		victory_points = {
+			6444 3
+		}
+			set_province_name = {
+			id = 6444
+			name = "Wiesbaden"
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = ANS
+	}
+
+	provinces={
+		529 6444
+	}
+	local_supplies=0.0 
+}

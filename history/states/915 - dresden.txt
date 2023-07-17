@@ -1,0 +1,27 @@
+state=
+{
+	id=915
+	name="Dresden"
+	manpower = 1196988
+	
+	state_category = city
+	
+	history=
+	{
+		owner = SAX
+		victory_points = {
+			514 10 
+		}
+		add_core_of = SAX
+		buildings = {
+			infrastructure = 3 #was: 6
+			arms_factory = 1
+			industrial_complex = 3
+		}
+	}
+	provinces={
+		478 514 573 3514 3572 6441 9535 11415 11517
+	}
+
+	local_supplies=0.0 
+}

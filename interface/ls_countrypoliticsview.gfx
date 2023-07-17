@@ -1,0 +1,12 @@
+spriteTypes = {	
+
+	SpriteType = {
+		name = "GFX_autonomy_german_prince_1_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_german_prince_1.dds"
+	}
+	SpriteType = {
+		name = "GFX_autonomy_german_prince_2_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_german_prince_2.dds"
+	}
+	
+}

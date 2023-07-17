@@ -1,0 +1,27 @@
+state=
+{
+	id=928
+	name="Vespia"
+	manpower = 446988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = SOV
+		victory_points = {
+			3140 1 
+		}
+		add_core_of = SOV
+		add_claim_by = SOV
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		57 60 152 3057 3140 3142 6073 6169 9082 9184 9190 11059 11062 11165
+	}
+
+	local_supplies=0.0 
+}

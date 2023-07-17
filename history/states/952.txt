@@ -1,0 +1,26 @@
+state=
+{
+	id=952
+	name="Cheim"
+	manpower = 116988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = LIT
+		victory_points = { 9752 5 }
+		add_core_of = POL
+		add_core_of = UKR
+		add_core_of = LIT
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		535 3496 6415 9520 11503 11528
+	}
+
+	local_supplies=0.0 
+}

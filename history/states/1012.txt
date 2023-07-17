@@ -1,0 +1,32 @@
+state=
+{
+	id=1012
+	name="Herat"
+
+	manpower = 691788
+	resources={
+		tungsten=2 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = TAJ
+		victory_points = {
+			4893 10 
+		}
+		add_core_of = AFG
+		add_core_of = TAJ
+		add_claim_by = PER
+		add_claim_by = PAK
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		2017 2062 4893 12788
+
+	local_supplies=0.0 
+}

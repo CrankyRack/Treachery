@@ -1,0 +1,31 @@
+state=
+{
+	id=925
+	name="Northern Franken"
+	manpower = 3146988
+	
+	state_category = town
+	
+	resources={
+		aluminium=3 # was: 5
+	}
+	
+	history=
+	{
+		owner = BAY
+		victory_points = {
+			11465 5 
+		}
+		add_core_of = VGE
+		add_core_of = BAY
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		586 3474 6421 9416 11404
+	}
+
+	local_supplies=0.0 
+}

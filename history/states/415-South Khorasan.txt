@@ -1,0 +1,25 @@
+
+state={
+	id=415
+	name="Kandahar" # Herat
+	manpower = 1132860
+	
+	state_category = rural
+
+	history={
+		owner = AFG
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			5064 1 
+		}
+		add_core_of = AFG
+	}
+
+	provinces={
+		1948 1995 2078 2101 4949 5020 5064 5075 8090 10789 
+	}
+
+	local_supplies=0.0 
+}

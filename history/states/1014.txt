@@ -1,0 +1,35 @@
+state=
+{
+	id=1014
+	name="Côte des Moustiques"
+
+	manpower = 291788
+	resources={
+		oil=2 # was: 18
+	}
+	
+	state_category = town
+	
+	
+	history=
+	{
+		owner = ITA
+		victory_points = {
+			11360 10 
+		}
+		add_core_of = NIC
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+			dockyard = 1
+			2075 = {
+				naval_base = 5
+
+			}
+		}
+	}
+	provinces={
+		2075
+
+	local_supplies=0.0 
+}

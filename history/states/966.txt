@@ -1,0 +1,25 @@
+state=
+{
+	id=966
+	name="Segna"
+	manpower = 96988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = LBV
+		victory_points = { 6886 2 }
+		add_core_of = CRO
+		add_core_of = LBV
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1		
+		}
+	}
+	provinces={
+		591 3601 6611
+	}
+
+	local_supplies=0.0 
+}

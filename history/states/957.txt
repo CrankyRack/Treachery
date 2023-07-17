@@ -1,0 +1,26 @@
+state=
+{
+	id=957
+	name="Wartheland"
+	manpower = 186988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = PRE
+		victory_points = { 287 5 }
+		add_core_of = DNZ
+		add_core_of = GER
+		add_core_of = PRE
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		537 6236 9387
+	}
+
+	local_supplies=0.0 
+}

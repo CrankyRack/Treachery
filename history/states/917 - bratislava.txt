@@ -1,0 +1,33 @@
+state=
+{
+	id=917
+	name="Bratislava"
+	manpower = 196988
+	
+	state_category = city
+	
+	resources={
+		steel=10 # was: 12
+	}
+	
+	history=
+	{
+		owner = AUS
+		victory_points = {
+			9692 10 
+		}
+		add_core_of = SLO
+		add_core_of = AUS
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 5
+		}
+	}
+	provinces={
+		541 9539 9692
+	}
+
+	local_supplies=0.0 
+}

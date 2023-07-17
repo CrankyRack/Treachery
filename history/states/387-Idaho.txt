@@ -1,0 +1,32 @@
+
+state={
+	id=387
+	name="STATE_387"
+	manpower = 445031
+	
+	state_category = rural
+	
+	resources={
+		steel=18 # was: 32
+		chromium=1 # was: 2
+		tungsten=18 # was: 34
+	}
+
+	history={
+		owner = CAS
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = CAS
+		victory_points = {
+			9616 1
+		}
+	}
+
+	provinces={
+		1736 1789 1832 3781 4778 4838 6742 7688 7845 7888 9616 9695 10556 10602 10672 12124 12535 12607 12651 12676
+	}
+	
+
+	local_supplies=7.0 
+}

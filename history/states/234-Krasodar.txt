@@ -1,0 +1,37 @@
+
+state={
+	id=234
+	name="STATE_234"
+	manpower = 1903371
+	
+	state_category = city
+	resources={
+		tungsten=17 # was: 26
+		oil=12 # was: 18
+	}
+
+	history={
+		owner = KAZ
+		victory_points = {
+			3720 1 
+		}
+		victory_points = {
+			719 3
+		}
+		victory_points = {
+			3734 5
+		}
+		buildings = {
+			infrastructure = 3 #was: 5
+			industrial_complex = 1
+		}
+		add_core_of = ABK
+		add_core_of = KAZ
+	}
+
+	provinces={
+		735 750 765 3734 3752 3765 6741 6755 6768 6781 6783 9709 9744 11729 
+	}
+
+	local_supplies=9.0 
+}

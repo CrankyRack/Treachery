@@ -1,0 +1,23 @@
+
+state={
+	id=381
+	name="STATE_381"
+	manpower = 225564
+	state_category = rural
+	
+	history={
+		owner = BAH
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = BAH
+		add_core_of = DAK
+	}
+
+	provinces={
+		1815 4610 4723 4794 4820 7814 10711 12633 
+	}
+	
+
+	local_supplies=0.0 
+}

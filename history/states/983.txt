@@ -1,0 +1,24 @@
+state=
+{
+	id=983
+	name="West New Mexico"
+
+	manpower = 194788
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = MEX
+		victory_points = { 8014 5 }
+		add_core_of = MEX
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		3834 5044 7920 10783
+	}
+
+	local_supplies=0.0 
+}

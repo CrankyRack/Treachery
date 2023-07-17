@@ -1,0 +1,30 @@
+state=
+{
+	id=1001
+	name="Kunduz"
+
+	manpower = 231788
+	resources={
+		steel=1 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = UZB
+		victory_points = {
+			12248 2 
+		}
+		add_core_of = AFG
+		add_core_of = UZB
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		7448 7519 7584 7916 7984 10476 10781 10826 10852 10896 12248 12314 12653 12877
+
+	local_supplies=0.0 
+}

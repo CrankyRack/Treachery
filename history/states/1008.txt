@@ -1,0 +1,35 @@
+state=
+{
+	id=1008
+	name="Malabar"
+
+	manpower = 8294788
+	resources={
+		oil=1 # was: 5
+		steel=6 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = ORO
+		victory_points = {
+			10190 3 
+		}
+		add_core_of = RAJ
+		add_core_of = ORO
+		add_claim_by = KOS
+		buildings = {
+			infrastructure = 2 #was: 6
+			10190 ={
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		4278 4291 4395 7244 7391 7395 10190 12105 12208
+
+	local_supplies=0.0 
+}

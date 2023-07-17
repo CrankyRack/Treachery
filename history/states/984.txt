@@ -1,0 +1,24 @@
+state=
+{
+	id=984
+	name="Colorado Panhandle"
+
+	manpower = 94788
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = TEX
+		victory_points = { 8014 5 }
+		add_core_of = TEX
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		868 1658 3869 10640 12561
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,30 @@
+state=
+{
+	id=1016
+	name="Rotterdam"
+
+	manpower = 691788
+	
+	state_category = city
+	
+	
+	history=
+	{
+		owner = FRA
+		victory_points = {
+			9498 20 
+		}
+		add_core_of = FRA
+		add_core_of = HOL
+		buildings = {
+			infrastructure = 4 #was: 6
+			9498 = {
+				naval_base = 9
+			}
+		}
+	}
+	provinces={
+		9498
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,30 @@
+state=
+{
+	id=911
+	name="Karlskrona"
+	manpower = 96988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			11215 5 
+		}
+		add_core_of = DEN
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3 #was: 6
+			11215 = {
+				naval_base = 7
+				coastal_bunker = 3
+			}
+		}
+	}
+	provinces={
+		11215
+	}
+
+	local_supplies=0.0 
+}

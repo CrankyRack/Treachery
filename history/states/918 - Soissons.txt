@@ -1,0 +1,32 @@
+state=
+{
+	id=918
+	name="Soissons"
+	manpower = 296988
+	
+	state_category = town
+	
+	resources={
+		steel=10 # was: 12
+	}
+	
+	history=
+	{
+		owner = FRA
+		victory_points = {
+			11549 2 
+		}
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 5
+		}
+	}
+	provinces={
+		3402 3447 9561 11549
+	}
+
+	local_supplies=0.0 
+}

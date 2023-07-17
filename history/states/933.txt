@@ -1,0 +1,27 @@
+state=
+{
+	id=933
+	name="Tjistopol"
+	manpower = 546988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = KAZ
+		victory_points = {
+			11496 10 
+		}
+		add_core_of = KAZ
+		add_claim_by = SOV
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		292 355 403 3214 3328 3348 3382 6308 6352 6368 9385 9401 9514 10301 11273 11319 11339 11389 11496 
+	}
+
+	local_supplies=0.0 
+}

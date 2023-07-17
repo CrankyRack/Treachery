@@ -1,0 +1,28 @@
+state=
+{
+	id=932
+	name="Wołgogród"
+	manpower = 1246988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = MOS
+		victory_points = {
+			3529 25 
+		}
+		add_core_of = MOS
+		add_core_of = KAZ
+		add_claim_by = SOV
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		518 544 3518 3529 3539 3555 3582 6506 6539 6563 6602 9436 9475 9504 11423 11485
+	}
+
+	local_supplies=0.0 
+}

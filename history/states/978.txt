@@ -1,0 +1,24 @@
+state=
+{
+	id=978
+	name="Karlsland"
+
+	manpower = 311012
+	
+	state_category = town
+	
+	history=
+	{
+		owner = NSV
+		victory_points = { 3917 3 }
+		add_core_of = NSV
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		9801 9864 11740 11900
+	}
+
+	local_supplies=0.0 
+}

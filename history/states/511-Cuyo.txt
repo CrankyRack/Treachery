@@ -1,0 +1,31 @@
+
+state={
+	id=511
+	name="STATE_511" # Mendoza
+	manpower = 1090274
+	
+	state_category = rural
+
+	history={
+		owner = BOL
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+		}
+		add_core_of = BOL
+		victory_points = {
+			12942 1 
+		}
+		victory_points = {
+			7500 1 
+		}
+
+	}
+
+	provinces={
+		2158 2215 5152 5163 5184 5219 7500 7550 8192 8215 10964 10975 10985 10992 11021 11022 12942 12970 12998 13000
+	}
+
+	local_supplies=0.0 
+}

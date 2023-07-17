@@ -1,0 +1,33 @@
+state=
+{
+	id=989
+	name="Tianjin"
+
+	manpower = 894788
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = CHI
+		victory_points = {
+			10068 5 
+		}
+		victory_points = {
+			11822 10 
+		}
+		add_core_of = MEN
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 2 #was: 6
+			10068 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		4137 9969 10068 11761 11822 12043
+
+	local_supplies=0.0 
+}

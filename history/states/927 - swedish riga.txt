@@ -1,0 +1,27 @@
+state=
+{
+	id=927
+	name="Saulkrasti"
+	manpower = 46988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = LAT
+		victory_points = {
+			11465 5 
+		}
+		add_core_of = LAT
+		add_claim_by POL
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		9240 9317
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,27 @@
+state=
+{
+	id=969
+	name="Stara Zagora"
+
+	manpower = 124788
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = YUG
+		victory_points = { 6814 2 }
+		add_core_of = YUG
+		add_core_of = BUL
+		add_claim_by = TUR
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1		
+		}
+	}
+	provinces={
+		6814 6952 6982
+	}
+
+	local_supplies=0.0 
+}

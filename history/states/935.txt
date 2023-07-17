@@ -1,0 +1,26 @@
+state=
+{
+	id=935
+	name="Troitsk"
+	manpower = 146988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = SOV
+		victory_points = {
+			4354 2 
+		}
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		4340 7233 7429 10284 12229
+	}
+
+	local_supplies=0.0 
+}

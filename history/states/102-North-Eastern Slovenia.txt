@@ -1,0 +1,26 @@
+state=
+{
+	id=102
+	name="STATE_102"
+	manpower = 811050 # was 1144300 before Ljubljana split
+	
+	state_category = large_town
+	
+	history =
+	{
+		owner = LBV
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = {
+			665 1
+		}
+		add_core_of = SLV
+		add_core_of = LBV
+	}
+	provinces={
+		3631 9596
+	}
+	
+	local_supplies=0.0 
+}

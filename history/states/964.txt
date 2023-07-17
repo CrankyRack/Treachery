@@ -1,0 +1,27 @@
+state=
+{
+	id=964
+	name="Strumica"
+	manpower = 86988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = GBA
+		victory_points = { 6886 2 }
+		add_core_of = GBA
+		add_core_of = MAC
+		add_claim_by = BUL
+		add_claim_by = TUR
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1		
+		}
+	}
+	provinces={
+		3833 6886
+	}
+
+	local_supplies=0.0 
+}

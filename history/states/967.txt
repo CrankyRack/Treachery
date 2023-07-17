@@ -1,0 +1,29 @@
+state=
+{
+	id=967
+	name="Berane"
+	resources={
+		aluminium=18.000
+	}
+	manpower = 296988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = CRO
+		victory_points = { 6913 2 }
+		add_core_of = CRO
+		add_core_of = MNT
+		add_core_of = YUG
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1		
+		}
+	}
+	provinces={
+		937 6913 11858
+	}
+
+	local_supplies=0.0 
+}

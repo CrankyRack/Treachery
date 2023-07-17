@@ -1,0 +1,27 @@
+state=
+{
+	id=988
+	name="Huanghua"
+
+	manpower = 9194788
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = CHI
+		victory_points = {
+			11944 3 
+		}
+		add_core_of = MAN
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		1084 7189 10119 11944 11980 11996 12093
+
+	local_supplies=0.0 
+}

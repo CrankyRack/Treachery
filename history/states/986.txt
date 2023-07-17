@@ -1,0 +1,24 @@
+state=
+{
+	id=986
+	name="Red River"
+
+	manpower = 194788
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = BEL
+		victory_points = { 3719 3 }
+		add_core_of = BEL
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		1752 1870 3719 11667 12597 12685
+	}
+
+	local_supplies=0.0 
+}

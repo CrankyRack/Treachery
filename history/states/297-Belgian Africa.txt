@@ -1,0 +1,40 @@
+state=
+{
+	id=297
+	name="West Africa" # Equatorial Guinea
+	manpower = 185000
+	
+	state_category = enclave
+	
+	history=
+	{
+		owner = POL
+		add_core_of = EQG
+		victory_points = {
+			1903 1 
+		}
+		victory_points = {
+			5139 1 
+		}
+		buildings = {
+			infrastructure = 1
+			1903 = {
+				naval_base = 1
+			}
+			5139 = {
+				naval_base = 1
+			}
+			6039 = {
+				naval_base = 1
+			}
+			8244 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces=
+	{
+1903 5036 5139 6039 8207 8244 	}
+
+	local_supplies=0.0 
+}

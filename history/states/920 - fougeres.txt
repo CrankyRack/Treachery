@@ -1,0 +1,31 @@
+state=
+{
+	id=920
+	name="Fougères"
+	manpower = 96988
+	
+	state_category = town
+	
+	resources={
+		steel=8 # was: 22
+	}
+	
+	history=
+	{
+		owner = FRA
+		victory_points = {
+			527 1 
+		}
+		add_core_of = BRI
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		527 3523
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,33 @@
+state=
+{
+	id=926
+	name="Valga Strip"
+	manpower = 46988
+	
+	state_category = rural
+	
+	resources={
+		aluminium=3 # was: 5
+	}
+	
+	history=
+	{
+		owner = LAT
+		victory_points = {
+			11465 5 
+		}
+		add_core_of = EST
+		add_core_of = LAT
+		add_claim_by = SWE
+		add_claim_by = LIT
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		308 6408 9485
+	}
+
+	local_supplies=0.0 
+}

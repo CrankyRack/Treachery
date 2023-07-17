@@ -1,0 +1,34 @@
+
+state={
+	id=55
+	name="STATE_55"
+	manpower = 798235
+
+	state_category = large_city
+
+	history={
+		owner = VGE
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		victory_points = {
+			3524 5
+		}
+			set_province_name = {
+			id = 3524
+			name = "Siegen"
+		}
+		victory_points = {
+			564 3
+		}
+		add_core_of = VGE
+	}
+
+	provinces={
+		3524 9486 9547 11533 
+	}
+
+	local_supplies=15.0 
+}

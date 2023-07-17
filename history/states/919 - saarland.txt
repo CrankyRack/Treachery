@@ -1,0 +1,33 @@
+state=
+{
+	id=919
+	name="Saarland"
+	manpower = 296988
+	
+	state_category = town
+	
+	resources={
+		steel=20 # was: 22
+	}
+	
+	history=
+	{
+		owner = FRA
+		victory_points = {
+			11531 5 
+		}
+		add_core_of = ALC
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 2
+			arms_factory = 1
+			air_base = 5
+		}
+	}
+	provinces={
+		563 3558 11531
+	}
+
+	local_supplies=0.0 
+}

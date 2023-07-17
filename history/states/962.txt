@@ -1,0 +1,24 @@
+state=
+{
+	id=962
+	name="Kumachove"
+	manpower = 86988
+	
+	state_category = pastoral
+	
+	history=
+	{
+		owner = KAZ
+		victory_points = { 657 3 }
+		add_core_of = KAZ
+		add_core_of = UKR
+		buildings = {
+			infrastructure = 2 #was: 6	
+		}
+	}
+	provinces={
+		3421 6493 9446
+	}
+
+	local_supplies=0.0 
+}

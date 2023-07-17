@@ -1,0 +1,35 @@
+state=
+{
+	id=939
+	name="Salzburg"
+	manpower = 496988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = BAD
+		victory_points = {
+			688 5 
+		}
+		victory_points = {
+			11640 1
+		}
+		victory_points = {
+			6712 3
+		}
+		victory_points = {
+			3530 10
+		}
+		add_core_of = BAD
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		3530 3679 3692 6542 6568 6712 11640
+	}
+
+	local_supplies=0.0 
+}

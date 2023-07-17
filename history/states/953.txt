@@ -1,0 +1,26 @@
+state=
+{
+	id=953
+	name="Czeczersk"
+	manpower = 316988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = LIT
+		victory_points = { 9752 5 }
+		add_core_of = LIT
+		add_core_of = BLR
+		add_claim_by = SOV
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		289 6233 6344 6354 9247 11230 11271
+	}
+
+	local_supplies=0.0 
+}

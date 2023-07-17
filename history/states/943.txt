@@ -1,0 +1,24 @@
+state=
+{
+	id=943
+	name="Schweinfurt"
+	manpower = 116988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = KSH
+		victory_points = { 13116 5 }
+		add_core_of = KSH
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		6594 9524 11417 11445 13116
+	}
+
+	local_supplies=0.0 
+}

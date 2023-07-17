@@ -1,0 +1,26 @@
+state=
+{
+	id=930
+	name="Kostroma"
+	manpower = 446988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = SOV
+		victory_points = {
+			3190 10 
+		}
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		2 62 97 164 3190 6143 9122 9188 11099 11166
+	}
+
+	local_supplies=0.0 
+}

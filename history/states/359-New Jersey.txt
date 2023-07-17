@@ -1,0 +1,29 @@
+
+state={
+	id=359
+	name="STATE_359"
+	manpower = 4041332
+	
+	state_category = large_city
+
+	history={
+		owner = CAN
+		victory_points = {
+			6882 5 
+		}
+		buildings = {
+			infrastructure = 4 #was: 7
+			industrial_complex = 7
+			air_base = 4
+
+		}
+		add_core_of = HOL
+	}
+
+	provinces={
+		3693 3863 6882 11782 
+	}
+	
+
+	local_supplies=15.0 
+}

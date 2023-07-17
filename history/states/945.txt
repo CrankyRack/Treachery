@@ -1,0 +1,28 @@
+state=
+{
+	id=945
+	name="Lucca"
+	manpower = 496988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = FRA
+		victory_points = {
+			1616 5 
+		}
+		add_core_of = ITA
+		add_core_of = TOS
+		
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 2
+		}
+	}
+	provinces={
+		1616
+	}
+
+	local_supplies=0.0 
+}

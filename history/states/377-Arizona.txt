@@ -1,0 +1,35 @@
+
+state={
+	id=377
+	name="STATE_377"
+	manpower = 435572
+	
+	state_category = rural
+	
+	resources={
+		steel=20 # was: 40
+		oil=5 # was: 10
+		aluminium=8 # was: 16
+	}
+
+	history={
+		owner = STA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+		}
+		add_core_of = STA
+		add_claim_by = MEX
+		victory_points = {
+			853 3 
+		}
+
+	}
+
+	provinces={
+		853 1793 4796 6897 7747 7821 8115 10573 11814 12765 
+	}
+
+	local_supplies=8.0 
+}

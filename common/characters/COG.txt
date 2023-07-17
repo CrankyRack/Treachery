@@ -1,0 +1,16 @@
+characters = {
+	COG_alvaro = {
+		name="Alvaro IXX"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/COG/COG_alvaro.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

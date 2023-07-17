@@ -1,0 +1,31 @@
+state=
+{
+	id=922
+	name="Dordogne"
+	manpower = 146988
+	
+	state_category = town
+	
+	resources={
+		aluminium=3 # was: 5
+	}
+	
+	history=
+	{
+		owner = FRA
+		victory_points = {
+			11465 5 
+		}
+		add_core_of = OCC
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		755 3598 3771 6773 6775 6792 9717 9734 9751 11718 11720
+	}
+
+	local_supplies=0.0 
+}

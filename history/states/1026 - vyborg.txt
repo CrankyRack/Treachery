@@ -1,0 +1,42 @@
+state=
+{
+	id=1026
+	name="Vyborg"
+
+	manpower = 391788
+	resources={
+		Steel=2 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = SOV
+		victory_points = {
+			9206 5
+		}
+			set_province_name = {
+			id = 9206
+			name = "Vyborg"
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+			9206 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+
+		}
+		add_core_of = SOV
+		add_core_of = SWE
+		add_core_of = FIN
+	}
+
+	provinces={
+		3061 6082 6186 9206 11056
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,38 @@
+state=
+{
+	id=1023
+	name="Hamburg"
+
+	manpower = 1191788
+	resources={
+		steel=15 # was: 18
+		oil=1 # was: 18
+	}
+
+	
+	state_category = large_city
+	
+	
+	history={
+		owner = DEN
+		victory_points = {
+			9347 25 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			dockyard = 6
+			air_base = 5
+			9347 ={
+				naval_base = 8
+			}
+		}
+		add_core_of = SHL
+		add_core_of = DEN
+	}
+
+	provinces={
+		6325 9347
+	}
+	local_supplies=0.0 
+}

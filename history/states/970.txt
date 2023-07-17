@@ -1,0 +1,26 @@
+state=
+{
+	id=970
+	name="Trikala"
+
+	manpower = 224788
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = GBA
+		victory_points = { 6814 2 }
+		add_core_of = GBA
+		add_claim_by = TUR
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1		
+		}
+	}
+	provinces={
+		841 3980 11786
+	}
+
+	local_supplies=0.0 
+}

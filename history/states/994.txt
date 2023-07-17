@@ -1,0 +1,29 @@
+state=
+{
+	id=994
+	name="Sikkim"
+
+	manpower = 394788
+	resources={
+		steel=4.000
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = BAN
+		victory_points = {
+			12798 10 
+		}
+		add_core_of = BAN
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		4435 12338
+
+	local_supplies=0.0 
+}

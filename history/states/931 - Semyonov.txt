@@ -1,0 +1,26 @@
+state=
+{
+	id=931
+	name="Semyonov"
+	manpower = 1246988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = SOV
+		victory_points = {
+			270 2 
+		}
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		12 256 270 368 3245 3261 3349 6149 9291 9358 9368 11275 11340
+	}
+
+	local_supplies=0.0 
+}

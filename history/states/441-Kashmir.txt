@@ -1,0 +1,26 @@
+
+state={
+	id=441
+	name="STATE_441"
+	manpower = 2123700
+	
+	state_category = rural
+
+	history={
+		owner = RAJ
+		victory_points = {
+			1910 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = RAJ
+		add_claim_by = PAK
+	}
+
+	provinces={
+		1910 2041 2084 7316 10905 12754 
+	}
+
+	local_supplies=0.0 
+}

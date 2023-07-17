@@ -1,0 +1,30 @@
+
+state={
+	id=391
+	name="STATE_391"
+	manpower = 2563952
+	state_category = city
+
+	resources={
+		steel=110 # was: 208
+	}
+
+	history={
+		owner = DAK
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 3
+		}
+		add_core_of = DAK
+		victory_points = {
+			1866 5 
+		}
+
+	}
+
+	provinces={
+		1866 1867 6752 9880 10618 10719 12577 12646 12693 
+	}
+
+	local_supplies=0.0 
+}

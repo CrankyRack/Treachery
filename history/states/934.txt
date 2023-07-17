@@ -1,0 +1,27 @@
+state=
+{
+	id=934
+	name="Sterlitamak"
+	manpower = 246988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = KAZ
+		victory_points = {
+			4354 2 
+		}
+		add_core_of = KAZ
+		add_claim_by = SOV
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		273 1305 3289 4283 4354 7237 9349 12172
+	}
+
+	local_supplies=0.0 
+}

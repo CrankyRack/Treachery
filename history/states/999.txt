@@ -1,0 +1,38 @@
+state=
+{
+	id=999
+	name="Zagros Mountains"
+
+	manpower = 294788
+	resources={
+		oil=5 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = TUR
+		victory_points = {
+			5098 3 
+		}
+		victory_points = {
+			6826 2
+		}
+		victory_points = {
+			7953 2
+		}
+		add_core_of = IRQ
+		add_core_of = PER
+		add_core_of = TUR
+		add_core_of = KUR
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		78 829 5098 6826 7953 8123 10774 10793
+
+	local_supplies=0.0 
+}

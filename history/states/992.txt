@@ -1,0 +1,31 @@
+state=
+{
+	id=992
+	name="Quito"
+
+	manpower = 194788
+	resources={
+		oil=5 # was: 18
+	}
+	
+	state_category = town
+	
+	
+	history=
+	{
+		owner = COL
+		victory_points = {
+			12798 10 
+		}
+		add_core_of = COL
+		add_core_of = ECU
+		add_claim_by = PRU
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		5051 8075 10888 12798
+
+	local_supplies=0.0 
+}

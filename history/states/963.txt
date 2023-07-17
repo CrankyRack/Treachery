@@ -1,0 +1,32 @@
+state=
+{
+	id=963
+	name="Larissa"
+	manpower = 116988
+	resources={
+		steel=7 # was: 4
+		tungsten = 10 # was: 20
+	}
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = GBA
+		victory_points = { 863 1 }
+		victory_points = { 3864 1 }
+		victory_points = { 3973 3 }
+		add_core_of = GRE
+		add_core_of = GBA
+		add_claim_by = TUR
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		863 3864 3973 6930
+	}
+
+	local_supplies=0.0 
+}

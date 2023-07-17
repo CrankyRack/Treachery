@@ -1,0 +1,24 @@
+state=
+{
+	id=956
+	name="Potjep"
+	manpower = 186988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = UKR
+		victory_points = { 287 5 }
+		add_core_of = UKR
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		236 315 343 371 398 9342 9371 9396 11229 11298 11325 11383
+	}
+
+	local_supplies=0.0 
+}

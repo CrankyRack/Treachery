@@ -1,0 +1,34 @@
+state=
+{
+	id=1006
+	name="Mandura"
+
+	manpower = 9791788
+	resources={
+		rubber=9 # was: 18
+	}
+	
+	state_category = small_town
+	
+	
+	history=
+	{
+		owner = KOS
+		victory_points = {
+			1409 5 
+		}
+		add_core_of = RAJ
+		add_core_of = KOS
+		add_claim_by = ORO
+		buildings = {
+			infrastructure = 2 #was: 6
+			7265 = {
+				naval_base = 4
+			}
+		}
+	}
+	provinces={
+		1238 1321 1409 4327 4416 7265 7288 7363 7402 7447 10130 10274 12247 12275
+
+	local_supplies=0.0 
+}

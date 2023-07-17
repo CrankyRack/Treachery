@@ -1,0 +1,31 @@
+state=
+{
+	id=913
+	name="Bremen-Verden"
+	manpower = 143988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = HAN
+		victory_points = {
+			3326 5 
+		}
+		add_core_of = HAN
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+			dockyard = 1
+			3326 = {
+				naval_base = 2
+
+			}
+		}
+	}
+	provinces={
+		374 3271 3326 6349
+	}
+
+	local_supplies=0.0 
+}

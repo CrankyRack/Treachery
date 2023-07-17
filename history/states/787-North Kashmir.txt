@@ -1,0 +1,26 @@
+state={
+	id=787
+	name="STATE_787" # Northern Kashmir
+	manpower = 1415800
+	
+	state_category = rural
+
+	history={
+		victory_points = {
+			1910 1
+		}
+		owner = TIB
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = PAK
+		add_core_of = TIB
+
+	}
+
+	provinces={
+		5042 7273 8005 10821 12884
+	}
+
+	local_supplies=0.0 
+}

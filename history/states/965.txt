@@ -1,0 +1,25 @@
+state=
+{
+	id=965
+	name="Celje"
+	manpower = 56988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = CRO
+		victory_points = { 6886 2 }
+		add_core_of = CRO
+		add_core_of = SLV
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1		
+		}
+	}
+	provinces={
+		596 3654
+	}
+
+	local_supplies=0.0 
+}

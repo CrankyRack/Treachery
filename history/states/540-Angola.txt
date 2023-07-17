@@ -1,0 +1,33 @@
+
+state={
+	id=540
+	name="STATE_540"
+	manpower = 1600000
+	state_category=rural
+
+	history={
+		owner = SID
+		buildings = {
+			infrastructure = 1
+			5158 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			5158 1 
+		}
+		add_core_of = ANG
+		add_core_of = SID
+
+	}
+
+	provinces={
+		5158 12981 
+	}
+
+	buildings_max_level_factor=1.000
+	
+	local_supplies=0.000
+}

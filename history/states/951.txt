@@ -1,0 +1,27 @@
+
+state={
+	id=951
+	name = "Malawi"
+	manpower = 211003
+
+	history={
+		owner = MLW
+		add_core_of = MLW
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			1846 1 
+		}
+		
+
+	}
+
+	provinces={
+		1846
+	}
+	
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

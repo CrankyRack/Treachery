@@ -1,0 +1,27 @@
+
+state={
+	id=243
+	name="STATE_243"
+	manpower = 576210
+	
+	state_category = rural
+
+	history={
+		owner = LIT
+		buildings = {
+			infrastructure = 3 #was: 5
+			air_base = 2
+		}
+		add_core_of = LIT
+		add_claim_by = SOV
+		victory_points = {
+			11336 1
+		}
+	}
+
+	provinces={
+		223 352 3210 3226 3278 3297 6243 6305 9351 11336 
+	}
+
+	local_supplies=0.0 
+}

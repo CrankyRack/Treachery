@@ -1,0 +1,31 @@
+state=
+{
+	id=972
+	name="Thessaloniki"
+
+	manpower = 312784
+	
+	state_category = town
+	
+	history=
+	{
+		owner = LBV
+		victory_points = { 11818 15 }
+		add_core_of = GBA
+		add_core_of = GRE
+		add_claim_by = TUR
+		buildings = {
+			infrastructure = 2 #was: 6
+			industrial_complex = 1
+			11818 = {
+				naval_base = 3
+
+			}
+		}
+	}
+	provinces={
+		11818
+	}
+
+	local_supplies=0.0 
+}
