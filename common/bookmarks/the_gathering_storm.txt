@@ -7,7 +7,7 @@ bookmarks = {
 		default_country = "SWE"
 		default = yes
 		
-		"ITA"={
+		"FRA"={
 			history = "FRA_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -21,7 +21,7 @@ bookmarks = {
 				FRA_france_leads
 			}
 		}
-		"DEN"={
+		"ENG"={
 			history = "USA_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -35,7 +35,7 @@ bookmarks = {
 				USA_reestablish_the_gold_standard
 			}
 		}
-		"KAZ"={
+		"AUS"={
 			history = "ENG_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -49,7 +49,7 @@ bookmarks = {
 				ENG_war_with_italy
 			}
 		}
-		"POL"={
+		"SAX"={
 			history = "GER_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
@@ -63,7 +63,7 @@ bookmarks = {
 				GER_ussr_war_goal
 			}
 		}
-		"LBV"={
+		"HAN"={
 			history = "ITA_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
@@ -77,7 +77,7 @@ bookmarks = {
 				ITA_a_colonial_empire
 			}		
 		}
-		"HOL"={
+		"MAN"={
 			history = "JAP_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
@@ -91,7 +91,7 @@ bookmarks = {
 				JAP_strike_on_the_southern_resource_area
 			}			
 		}
-		"SWE"={
+		"SOV"={
 			history = "SOV_GATHERING_STORM_DESC"
 			ideology = communism
 			ideas = {
@@ -112,7 +112,7 @@ bookmarks = {
 
 
 		# minors from DLC ####
-		"CAN"={
+		"SWE"={
 			minor = yes
 			history = "CAN_GATHERING_STORM_DESC"
 			ideology = democratic
@@ -126,7 +126,7 @@ bookmarks = {
 				CAN_join_comintern
 			}
 		}
-		"AST"={
+		"DEN"={
 			minor = yes
 			history = "AST_GATHERING_STORM_DESC"
 			ideology = democratic
@@ -139,7 +139,7 @@ bookmarks = {
 				AST_delegation_to_china
 			}
 		}
-		"NZL"={
+		"PRE"={
 			minor = yes
 			history = "NZL_GATHERING_STORM_DESC"
 			ideology = democratic
@@ -152,7 +152,7 @@ bookmarks = {
 				NZL_maori_volunteers
 			}
 		}
-		"SAF"={
+		"BAY"={
 			minor = yes
 			history = "SAF_GATHERING_STORM_DESC"
 			ideology = democratic
@@ -166,7 +166,7 @@ bookmarks = {
 				SAF_anti_colonialist_crusade
 			}
 		}
-		"RAJ"={
+		"ITA"={
 			minor = yes
 			history = "RAJ_GATHERING_STORM_DESC"
 			ideology = neutrality
@@ -269,7 +269,7 @@ bookmarks = {
 				PRC_anti_japanese_expedition
 			}
 		}
-		"MAN"={
+		"USA"={
 			minor = yes
 			history = "MAN_GATHERING_STORM_DESC"
 			ideology = fascism

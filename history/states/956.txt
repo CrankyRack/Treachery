@@ -8,9 +8,10 @@ state=
 	
 	history=
 	{
-		owner = UKR
+		owner = SOV
 		victory_points = { 287 5 }
 		add_core_of = UKR
+		add_core_of = SOV
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1

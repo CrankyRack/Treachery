@@ -9,11 +9,11 @@ state=
 	
 	history=
 	{
-		owner = YUG
+		owner = TUR
 		victory_points = { 6814 2 }
 		add_core_of = YUG
 		add_core_of = BUL
-		add_claim_by = TUR
+		add_core_of = TUR
 		buildings = {
 			infrastructure = 2 #was: 6
 			industrial_complex = 1		

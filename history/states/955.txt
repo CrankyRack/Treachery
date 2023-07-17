@@ -8,9 +8,9 @@ state=
 	
 	history=
 	{
-		owner = LIT
+		owner = SOV
 		victory_points = { 287 5 }
-		add_core_of = LIT
+		add_core_of = SOV
 		add_core_of = BLR
 		add_claim_by = SOV
 		buildings = {

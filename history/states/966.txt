@@ -8,17 +8,17 @@ state=
 	
 	history=
 	{
-		owner = LBV
+		owner = CRO
 		victory_points = { 6886 2 }
 		add_core_of = CRO
-		add_core_of = LBV
+		add_core_of = HRZ
 		buildings = {
 			infrastructure = 2 #was: 6
 			industrial_complex = 1		
 		}
 	}
 	provinces={
-		591 3601 6611
+		591 3592 3596 3601 6611 6614
 	}
 
 	local_supplies=0.0 

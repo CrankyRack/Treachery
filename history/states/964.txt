@@ -8,9 +8,9 @@ state=
 	
 	history=
 	{
-		owner = GBA
+		owner = TUR
 		victory_points = { 6886 2 }
-		add_core_of = GBA
+		add_core_of = TUR
 		add_core_of = MAC
 		add_claim_by = BUL
 		add_claim_by = TUR

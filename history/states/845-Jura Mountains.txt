@@ -19,7 +19,7 @@ state={
 		add_core_of = FRA
 	}
 	provinces={
-		6666 6683 9622 13124 
+		6666 6683 9622 
 	}
 	local_supplies=0.0 
 }

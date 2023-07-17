@@ -1,24 +1,25 @@
 state=
 {
 	id=1025
-	name="Styria"
+	name="Lienz"
 
-	manpower = 1211788
+	manpower = 111788
 
 	
 	state_category = rural
 	
 	
 	history={
-		owner = AUS
+		owner = CRO
 		victory_points = {
-			11276 10 
+			671 4 
 		}
 		buildings = {
 			infrastructure = 3
 			arms_factory = 1
 		}
 		add_core_of = AUS
+		add_core_of = CRO
 	}
 
 	provinces={

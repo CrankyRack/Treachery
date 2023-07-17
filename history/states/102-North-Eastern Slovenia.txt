@@ -8,18 +8,19 @@ state=
 	
 	history =
 	{
-		owner = LBV
+		owner = AUS
 		buildings = {
 			infrastructure = 3
 		}
 		victory_points = {
-			665 1
+			11612 3
 		}
 		add_core_of = SLV
-		add_core_of = LBV
+		add_core_of = CRO
+		add_core_of = AUS
 	}
 	provinces={
-		3631 9596
+		9596 11612
 	}
 	
 	local_supplies=0.0 

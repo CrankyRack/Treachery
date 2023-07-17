@@ -10,7 +10,7 @@ state= {
 
 	history=
 	{
-		owner = LBV
+		owner = FRA
 		add_core_of = GRE
 		victory_points = {
 			11984 5

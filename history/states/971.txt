@@ -9,9 +9,9 @@ state=
 	
 	history=
 	{
-		owner = LBV
+		owner = TUR
 		victory_points = { 849 5 }
-		add_core_of = GBA
+		add_core_of = TUR
 		add_core_of = GRE
 		add_claim_by = TUR
 		buildings = {

@@ -171,12 +171,7 @@ if = {
 
 
 set_convoys = 10
-LBV = {
-set_autonomy = {
-		target = YUG
-		autonomous_state = autonomy_integrated_puppet
-	}
-}
+
 
 set_politics = {
 	ruling_party = neutrality

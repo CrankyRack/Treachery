@@ -12,13 +12,13 @@ state=
 	
 	history=
 	{
-		owner = GBA
+		owner = TUR
 		victory_points = { 863 1 }
 		victory_points = { 3864 1 }
 		victory_points = { 3973 3 }
 		add_core_of = GRE
-		add_core_of = GBA
-		add_claim_by = TUR
+		add_core_of = TUR
+
 		buildings = {
 			infrastructure = 2 #was: 6
 			industrial_complex = 1

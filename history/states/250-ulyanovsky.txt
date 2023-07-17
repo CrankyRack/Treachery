@@ -10,13 +10,14 @@ state={
 	}
 
 	history={
-		owner = MOS
+		owner = SOV
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
 		add_core_of = MOS
 		add_core_of = CHU
+		add_core_of = SOV
 	    add_claim_by = SOV
 		victory_points = {
 			392 1

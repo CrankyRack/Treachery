@@ -9,7 +9,7 @@ state=
 	
 	history= {
 		add_core_of = SUD
-		#owner = ENG
+		owner = FRA
 		add_claim_by = LBV
 		add_claim_by = DAH
 		buildings = {

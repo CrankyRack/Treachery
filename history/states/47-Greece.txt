@@ -12,7 +12,7 @@ state={
 	state_category = city
 
 	history={
-		owner = LBV
+		owner = GRE
 		victory_points = {
 			4109 20 
 		}
@@ -47,7 +47,6 @@ state={
 		}
 		add_core_of = GRE
 		add_claim_by = TUR
-		add_core_of = LBV
 
 	}
 

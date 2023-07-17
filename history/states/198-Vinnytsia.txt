@@ -16,10 +16,11 @@ state = {
 			air_base = 3
 		}
 		add_core_of = UKR
+		add_claim_by = SOV
 	}
 
 	provinces = {
-		476 6480 9435 9481 
+		476 6480 9435 9481 9576
 	}
 
 	local_supplies = 0.0 

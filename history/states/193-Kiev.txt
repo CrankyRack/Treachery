@@ -10,16 +10,17 @@ state={
 		victory_points = {
 			3568 3
 		}
-		owner = UKR
+		owner = SOV
 		buildings = {
 			infrastructure = 3 #was: 5
 			air_base = 8
 		}
 		add_core_of = UKR
+		add_core_of = SOV
 	}
 
 	provinces={
-		238 546 3480 3542 3568 3584 6458 6508 6532 6589 9249 9437 9506 11425 11489 
+		238 546 582 3480 3542 3568 3584 6458 6508 6532 6589 9249 9437 9506 9543 11425 11489 11557
 	}
 
 	local_supplies=0.0 
