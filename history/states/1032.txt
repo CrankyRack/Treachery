@@ -1,0 +1,35 @@
+state=
+{
+	id=1032
+	name="Torún"
+
+	manpower = 291788
+	resources={
+		Steel=5 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = POL
+		victory_points = {
+			3295 5
+		}
+		victory_points = {
+			279 1
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = PRE
+		add_core_of = POL
+	}
+	provinces={
+		243 279 3295 6347
+	}
+	local_supplies=0.0 
+}

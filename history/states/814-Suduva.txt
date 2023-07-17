@@ -4,7 +4,7 @@ state={
 	name="STATE_814"
 
 	history={
-		owner = LIT
+		owner = POL
 		victory_points = {
 			11312 1 #Marijampole
 		}
@@ -19,11 +19,12 @@ state={
 
 		}
 		add_core_of = LIT
+		add_core_of = POL
 
 	}
 
 	provinces={
-		3254 3272 6281 6407 11312 
+		400 3254 3272 6281 6407 11312 
 	}
 	manpower=219740
 	buildings_max_level_factor=1.000

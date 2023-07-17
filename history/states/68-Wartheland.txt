@@ -23,7 +23,7 @@ state={
 	}
 
 	provinces={
-		444 3473 11478 
+		444 3473 
 	}
 
 	local_supplies=0.0 

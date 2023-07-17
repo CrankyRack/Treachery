@@ -17,7 +17,6 @@ state={
 			infrastructure = 2
 			industrial_complex = 2
 		}
-		add_core_of = LSS
 		add_core_of = GRC
 		victory_points = {
 			12489 1 
