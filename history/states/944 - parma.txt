@@ -14,10 +14,13 @@ state=
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 2
+			6973 = {
+				naval_base = 10
+			}
 		}
 	}
 	provinces={
-		3773 6790 9752
+		3773 6790 6973 9752
 	}
 
 	local_supplies=0.0 
