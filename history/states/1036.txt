@@ -1,0 +1,31 @@
+state=
+{
+	id=1036
+	name="Šabac"
+
+	manpower = 72112
+	resources={
+		#Steel=5 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = HRZ
+		victory_points = {
+			797 4
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = HRZ
+		add_core_of = YUG
+	}
+	provinces={
+		797 3609
+	}
+	local_supplies=0.0 
+}

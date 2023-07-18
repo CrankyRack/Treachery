@@ -1,6 +1,6 @@
 state={
 	id=816
-	name="STATE_816"
+	name="Appalachia"
 	state_category = town
 	history={
 		owner = VAN

@@ -12,12 +12,12 @@ state=
 	
 	history=
 	{
-		owner = TUR
+		owner = GRE
 		victory_points = { 863 1 }
 		victory_points = { 3864 1 }
 		victory_points = { 3973 3 }
 		add_core_of = GRE
-		add_core_of = TUR
+		add_claim_by = TUR
 
 		buildings = {
 			infrastructure = 2 #was: 6
@@ -25,7 +25,7 @@ state=
 		}
 	}
 	provinces={
-		863 3864 3973 6930
+		863 3864 3973 11786
 	}
 
 	local_supplies=0.0 

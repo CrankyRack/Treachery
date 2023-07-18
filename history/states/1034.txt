@@ -1,0 +1,32 @@
+state=
+{
+	id=1034
+	name="Bolgrad"
+
+	manpower = 111788
+	resources={
+		Steel=5 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = MOL
+		victory_points = {
+			3704 4
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = MOL
+		add_core_of = UKR
+		add_claim_by = SOV
+	}
+	provinces={
+		3701 3704 3724
+	}
+	local_supplies=0.0 
+}

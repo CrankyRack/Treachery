@@ -9,16 +9,19 @@ state=
 	
 	history=
 	{
-		owner = TUR
+		owner = MAC
 		victory_points = { 6814 2 }
 		add_core_of = TUR
+		add_core_of = ALB
+		add_core_of = GRE
+		add_core_of = MAC
 		buildings = {
 			infrastructure = 2 #was: 6
 			industrial_complex = 1		
 		}
 	}
 	provinces={
-		841 3980 11786
+		841 3980
 	}
 
 	local_supplies=0.0 

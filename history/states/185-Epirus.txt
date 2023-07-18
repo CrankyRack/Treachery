@@ -21,21 +21,21 @@ state={
 		victory_points = {
 			1205 1
 		}
-		owner = GRE
+		owner = ALB
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-			air_base = 3
 			9805 = {
-				naval_base = 1
+				naval_base = 3
 			}
 		}
 		add_core_of = GRE
+		add_core_of = ALB
 		add_claim_by = TUR
 	}
 
 	provinces = {
-		1106 1205 3914 9805 9916 10203 11895 12001 
+		3914 9805 9916 12001 
 	}
 
 	local_supplies=9.0 

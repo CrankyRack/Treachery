@@ -11,7 +11,7 @@ state=
 	{
 		owner = TUR
 		victory_points = { 6814 2 }
-		add_core_of = YUG
+		add_core_of = KNT
 		add_core_of = BUL
 		add_core_of = TUR
 		buildings = {

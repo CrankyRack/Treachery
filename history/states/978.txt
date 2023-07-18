@@ -1,7 +1,7 @@
 state=
 {
 	id=978
-	name="Karlsland"
+	name="New Gothemburg"
 
 	manpower = 311012
 	
@@ -9,9 +9,9 @@ state=
 	
 	history=
 	{
-		owner = NSV
+		owner = USA
 		victory_points = { 3917 3 }
-		add_core_of = NSV
+		add_core_of = USA
 		buildings = {
 			infrastructure = 2 #was: 6
 		}

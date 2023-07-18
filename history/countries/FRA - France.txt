@@ -56,6 +56,14 @@ if = {
 }
 
 set_research_slots = 3
+set_autonomy = {
+		target = ALB
+		autonomous_state = autonomy_puppet
+	}
+set_autonomy = {
+		target = CRO
+		autonomous_state = autonomy_puppet
+	}
 set_stability = 0.5
 add_command_power = 20
 

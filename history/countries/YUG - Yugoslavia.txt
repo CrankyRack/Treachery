@@ -37,6 +37,10 @@ if = {
 }
 
 set_research_slots = 3
+set_autonomy = {
+		target = BUL
+		autonomous_state = autonomy_puppet
+	}
 
 recruit_character = YUG_prince_paul
 recruit_character = YUG_milan_stojadinovic

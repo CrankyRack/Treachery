@@ -8,7 +8,7 @@ state={
 	state_category = megalopolis
 
 	history={
-		owner = CAN
+		owner = NIR
 		buildings = {
 			infrastructure = 4 #was: 8
 			arms_factory = 2
@@ -21,7 +21,8 @@ state={
 			}
 
 		}
-		add_core_of = CAN
+		add_core_of = USA
+		add_core_of = NRI
 		victory_points = {
 			3878 30.0 
 		}

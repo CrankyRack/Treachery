@@ -5,8 +5,8 @@ GER = {
 	color_ui = rgb { 106 100 95 }
 }
 ENG = {
-	color = rgb { 201 56 93 }
-	color_ui = rgb { 255 73 121 }
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
 }
 SOV = {
 	color = rgb { 76 122 17 }
@@ -103,8 +103,8 @@ GRE = {
 	color_ui = rgb { 121 235 255 }
 }
 ALB = {
-	color = rgb { 149 45 102 }
-	color_ui = rgb { 194 59 133 }
+	color = rgb { 72 113 160 }
+	color_ui = rgb { 72 113 160 }
 }
 NOR = {
 	color = rgb { 111 71 71 }
@@ -115,8 +115,8 @@ DEN = {
 	color_ui = rgb { 140 28 46 }
 }
 BUL = {
-	color = rgb { 51 155 0 }
-	color_ui = rgb { 210 147 217 }
+	color = rgb { 59 148 65 }
+	color_ui = rgb { 74 186 82 }
 }
 POR = {
 	color = rgb { 22 119 160 }
@@ -127,8 +127,8 @@ FIN = {
 	color_ui = rgb { 255 255 255 }
 }
 IRE = {
-	color = rgb { 80 159 90 }
-	color_ui = rgb { 104 207 117 }
+	color = rgb { 76 145 63 }
+	color_ui = rgb { 99 189 82 }
 }
 HUN = {
 	color = rgb { 175 95 77 }
@@ -329,8 +329,8 @@ RAJ = {
 }
 
 CRO = {
-	color = rgb { 114 148 80 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 72 113 160 }
+	color_ui = rgb { 72 113 160 }
 }
 
 PRC = {
@@ -1022,4 +1022,8 @@ DNZ = {
 MOL = {
 	color = rgb { 153 61 0 }
 	color_ui = rgb { 153 61 0 }
+}
+MAC = {
+	color = rgb { 115 79 145 }
+	color_ui = rgb { 89 68 107 }
 }

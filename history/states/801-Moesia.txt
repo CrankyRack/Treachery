@@ -6,7 +6,7 @@ state={
 	state_category=rural
 
 	history={
-		owner = TUR
+		owner = KNT
 		victory_points = { #Ruse
 			9612 3
 		}
@@ -19,17 +19,16 @@ state={
 
 		}
 		add_core_of = BUL
-		add_core_of = YUG
-		add_core_of = TUR
+		add_core_of = KNT
 
 	}
 
 	provinces={
 		3796 3819 3952 6842 9610 9612 
 	}
-#	resources={
-#		oil=1
-#	}
+	resources={
+		oil=1
+	}
 
 	local_supplies=0.0 
 }
