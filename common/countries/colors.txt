@@ -397,8 +397,8 @@ ICE = {
 }
 
 UKR = {
-	color = rgb { 0  80  230 }
-	color_ui = rgb { 0  80  230 }	
+	color = rgb { 17 79 173 }
+	color_ui = rgb { 0 76 153 }
 }
 
 AZR = {
@@ -1020,6 +1020,6 @@ DNZ = {
 	color_ui = rgb { 198 79 89 }
 }
 MOL = {
-	color = rgb { 93 153 106 }
-	color_ui = rgb { 67 111 77 }
+	color = rgb { 153 61 0 }
+	color_ui = rgb { 153 61 0 }
 }

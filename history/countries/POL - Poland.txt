@@ -34,13 +34,9 @@ set_autonomy = {
 		target = LIT
 		autonomous_state = autonomy_personal_union
 	}
-set_autonomy = {
-		target = UKR
-		autonomous_state = autonomy_personal_union
-	}
 
-
-give_guarantee = TRA
+give_guarantee = BAH
+give_guarantee = SIL
 
 # Starting tech
 set_technology = {

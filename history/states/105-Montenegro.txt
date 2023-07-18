@@ -12,18 +12,18 @@ state={
 			9809 3 
 		}
 		victory_points = {
-			9821 1
+			9821 10
 		}
-		owner = HRZ
+		owner = AUS
 		add_core_of = MNT
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			9809 = {
-				naval_base = 1
+				naval_base = 3
 			}
 			9821 = {
-				naval_base = 1
+				naval_base = 8
 			}
 		}
 		add_core_of = HRZ
