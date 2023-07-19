@@ -13,14 +13,14 @@ state=
 	
 	history=
 	{
-		owner = TUR
+		owner = IRQ
 		victory_points = {
 			3916 3 
 		}
 		victory_points = {
 			6826 1
 		}
-		add_core_of = TUR
+		add_core_of = KUR
 		add_core_of = IRQ
 		buildings = {
 			infrastructure = 2 #was: 6

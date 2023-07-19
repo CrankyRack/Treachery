@@ -1,0 +1,29 @@
+state=
+{
+	id=1037
+	name="Talladega"
+
+	manpower = 272112
+
+	state_category = rural
+	
+	
+	history={
+		owner = LIB
+		victory_points = {
+			797 4
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+
+		}
+		add_core_of = LIB
+		add_core_of = USA
+		add_core_of = STR
+	}
+	provinces={
+		4594 9996 11509
+	}
+	local_supplies=0.0 
+}

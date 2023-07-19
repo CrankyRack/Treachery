@@ -1,6 +1,6 @@
 characters={
 	SWE_per_albin_hansson={
-		name="Emperor Karl IV"
+		name="Oscar II"
 		portraits={
 			civilian={
 				large=GFX_portrait_SWE_per_albin_hansson

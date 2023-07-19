@@ -49,7 +49,7 @@ bookmarks = {
 				ENG_war_with_italy
 			}
 		}
-		"SAX"={
+		"NIR"={
 			history = "GER_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
@@ -63,7 +63,7 @@ bookmarks = {
 				GER_ussr_war_goal
 			}
 		}
-		"HAN"={
+		"SWE"={
 			history = "ITA_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
@@ -77,7 +77,7 @@ bookmarks = {
 				ITA_a_colonial_empire
 			}		
 		}
-		"MAN"={
+		"SAX"={
 			history = "JAP_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
@@ -112,9 +112,9 @@ bookmarks = {
 
 
 		# minors from DLC ####
-		"SWE"={
+		"HAN"={
 			minor = yes
-			history = "CAN_GATHERING_STORM_DESC"
+			history = "SWE_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 				CAN_great_depression_1
@@ -128,7 +128,7 @@ bookmarks = {
 		}
 		"DEN"={
 			minor = yes
-			history = "AST_GATHERING_STORM_DESC"
+			history = "DEN_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
 				AST_great_depression_1

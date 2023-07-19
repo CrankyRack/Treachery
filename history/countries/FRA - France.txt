@@ -64,6 +64,20 @@ set_autonomy = {
 		target = CRO
 		autonomous_state = autonomy_puppet
 	}
+set_autonomy = {
+		target = HOL
+		autonomous_state = autonomy_puppet
+	}
+set_autonomy = {
+		target = BAH
+		autonomous_state = autonomy_puppet
+	}	
+give_guarantee = TOS
+give_guarantee = HAN
+give_guarantee = LSS
+give_guarantee = MAC
+give_guarantee = NSV
+
 set_stability = 0.5
 add_command_power = 20
 

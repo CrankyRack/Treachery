@@ -13,7 +13,7 @@ state=
 	
 	history=
 	{
-		owner = ITA
+		owner = NIR
 		victory_points = {
 			11360 10 
 		}

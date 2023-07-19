@@ -10,12 +10,11 @@ state= {
 	state_category = town
 
 	history= {
-		owner = CUB
+		owner = SPR
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
 			industrial_complex = 3
-			air_base = 1
 			7622 = {
 				naval_base = 3
 			}

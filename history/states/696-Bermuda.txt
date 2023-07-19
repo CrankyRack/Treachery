@@ -5,7 +5,7 @@ state={
 	state_category = small_island
 
 	history={
-		owner = HOL
+		owner = NIR
 		victory_points = {
 			13010 1
 		}
@@ -15,6 +15,7 @@ state={
 				naval_base = 1
 			}
 		}
+		add_core_of = NIR
 	}
 	
 	provinces={

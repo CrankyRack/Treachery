@@ -15,21 +15,27 @@ state={
 		add_core_of = STR
 		add_core_of = USA
 		victory_points = {
-			7480 1 
+			492 10 
+		}
+			set_province_name = {
+			id = 492
+			name = "Montgomery"
 		}
 		victory_points = {
-			12735 1 
+			12735 20 
 		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-			}
+		victory_points = {
+			968 5
+		}
+			set_province_name = {
+			id = 968
+			name = "Chattanooga"
 		}
 
 	}
 
 	provinces={
-		492 860 968 1587 4594 4622 4756 7422 7640 9996 10192 10909 11509 11942 12735 12803 
+		492 860 968 1587 4622 4756 7422 7640 10192 10909 11942 12735 12803 
 	}
 
 	local_supplies=0.0 

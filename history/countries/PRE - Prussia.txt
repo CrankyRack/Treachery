@@ -1,5 +1,9 @@
 ﻿capital = 64
-
+add_ideas = {
+		PRE_military_traditions
+		#laws
+		partial_economic_mobilisation
+	}
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

@@ -8,8 +8,7 @@ state=
 	history=
 	{
 		add_core_of = BLZ
-		add_core_of = CUB
-		owner = CUB
+		owner = NIR
 		victory_points = {
 			2077 1 
 		}
