@@ -10,12 +10,11 @@ state=
 	
 	history=
 	{
-		owner = CHI
+		owner = MAN
 		victory_points = {
 			11944 3 
 		}
 		add_core_of = MAN
-		add_core_of = CHI
 		buildings = {
 			infrastructure = 2 #was: 6
 		}
