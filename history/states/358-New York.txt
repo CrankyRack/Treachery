@@ -17,7 +17,7 @@ state={
 
 		}
 		add_core_of = USA
-		add_core_of = NRI
+		add_core_of = NIR
 		victory_points = {
 			3878 30.0 
 		}

@@ -34,8 +34,6 @@ give_guarantee = LAT
 
 add_ideas = {
 	en_svensk_tiger
-	imperial_army
-	memories_of_the_scanian_war
 }
 set_stability = 0.9
 set_war_support = 0.1
