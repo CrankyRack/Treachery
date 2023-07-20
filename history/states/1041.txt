@@ -1,0 +1,36 @@
+state=
+{
+	id=1041
+	name="Sudzhuk"
+	resources={
+		oil=1 # was: 18
+	}
+
+	manpower = 27788
+
+	
+	state_category = town
+	
+	
+	history={
+		owner = ABK
+		victory_points = {
+			719 5 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			dockyard = 1
+			719 ={
+				naval_base = 8
+			}
+		}
+		add_core_of = ABK
+		add_claim_by = SOV
+	}
+
+	provinces={
+		717 719
+	}
+	local_supplies=0.0 
+}

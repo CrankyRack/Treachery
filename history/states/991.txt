@@ -13,7 +13,7 @@ state=
 	
 	history=
 	{
-		owner = ABK
+		owner = SOV
 		victory_points = {
 			3720 2 
 		}
@@ -21,15 +21,14 @@ state=
 			719 10 
 		}
 		add_core_of = ABK
+		add_core_of = SOV
+		
 		buildings = {
 			infrastructure = 2 #was: 6
-			719 = {
-				naval_base = 2
-			}
 		}
 	}
 	provinces={
-		717 719 3717 3720 3760 6736 6738 9691 9694 9696 11668 11681
+		3717 3720 3760 6736 6738 9691 9694 9696 11668 11681
 
 	local_supplies=0.0 
 }

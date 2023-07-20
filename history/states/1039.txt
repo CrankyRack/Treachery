@@ -1,0 +1,31 @@
+state=
+{
+	id=1039
+	name="Nakhon Ratchasima"
+	resources={
+		rubber=4.000
+	}
+
+	manpower = 611788
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = VIN
+		victory_points = {
+			10438 2 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SIA
+		add_core_of = VIN
+	}
+
+	provinces={
+		7601 10438 12195 12417 12264 12431
+	}
+	local_supplies=0.0 
+}

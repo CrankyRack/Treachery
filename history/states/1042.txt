@@ -1,0 +1,42 @@
+state=
+{
+	id=1042
+	name="Batumi"
+	resources={
+		steel=5 # was: 18
+	}
+
+	manpower = 27788
+
+	
+	state_category = town
+	
+	
+	history={
+		owner = ABK
+		victory_points = {
+			3653 5 
+		}
+		victory_points = {
+			11614 2 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			3653 = {
+				naval_base = 2
+				coastal_bunker = 1
+
+			}
+		}
+		add_core_of = ABK
+		add_core_of = GEO
+		add_claim_by = SOV
+	}
+
+	provinces={
+		654 772 3653 3658 6674 9626 9632 11614
+	}
+	local_supplies=0.0 
+}

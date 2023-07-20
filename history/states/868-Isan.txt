@@ -2,7 +2,7 @@ state={
 	id=868
 	name="STATE_868"
 	provinces={
-		1357 1535 1548 4511 4582 7516 7601 10384 10425 10438 12195 12264 12360 12373 12388 12402 12417 12431 
+		1357 1535 1548 4511 4582 7516 10384 10425 12360 12373 12388 12402 
 	}
 	history = {
 		owner = SIA
@@ -14,7 +14,7 @@ state={
 		}
 		add_core_of = SIA
 	}
-	manpower=2000000
+	manpower=1501000
 	state_category = rural
 	buildings_max_level_factor=1.000
 	local_supplies=0.000
