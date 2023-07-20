@@ -1,0 +1,205 @@
+﻿############################
+## Qing Events
+############################
+
+add_namespace = colapse_of_qing
+
+
+country_event = {
+	id = colapse_of_qing.1 #a new dynasty? ##starting event
+	title = colapse_of_qing.1.t
+	desc = colapse_of_qing.1.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		hidden_effect = {
+			country_event = {
+				id = colapse_of_qing.2
+				days = 166
+				random_hours = 12
+				random_days = 15
+			}
+		}
+	}
+	
+	option = {
+		name = colapse_of_qing.1.a
+		
+	}
+			
+}
+
+country_event = { #new dynasty seccedes
+	id = colapse_of_qing.2
+	title = colapse_of_qing.2.t
+	desc = colapse_of_qing.2.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		hidden_effect = {
+			GXC = {
+				transfer_state = 592
+				transfer_state = 591
+				transfer_state = 594
+				transfer_state = 599
+				transfer_state = 603
+				transfer_state = 748
+				transfer_state = 325
+			}
+			325 = {
+				add_core_of = GXC
+			}
+			592 = {
+				add_core_of = GXC
+			}
+			591 = {
+				add_core_of = GXC
+			}
+			594 = {
+				add_core_of = GXC
+			}
+			599 = {
+				add_core_of = GXC
+			}
+			603 = {
+				add_core_of = GXC
+			}
+			748 = {
+				add_core_of = GXC
+			}
+		}
+	}
+	
+	option = { #oh no
+		name = colapse_of_qing.2.a
+		
+	}
+	
+	option = { #for *insert new dynasty*
+		name = colapse_of_qing.2.b
+		GXC = { change_tag_from = ROOT }
+	}
+			
+}
+
+country_event = { #republican revolution
+	id = colapse_of_qing.3
+	title = colapse_of_qing.3.t
+	desc = colapse_of_qing.3.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		hidden_effect = {
+			CHI = {
+				transfer_state = 613
+				transfer_state = 749
+				transfer_state = 596
+			}
+			612 = {
+				add_core_of = CHI
+			}
+			749 = {
+				add_core_of = CHI
+			}
+			596 = {
+				add_core_of = CHI
+			}
+		}
+	}
+	
+	option = { #oh no
+		name = colapse_of_qing.3.a
+		
+	}
+	
+	option = { #for a new republic
+		name = colapse_of_qing.3.b
+		CHI = { change_tag_from = ROOT }
+	}
+	
+}
+
+country_event = { #republican revolution
+	id = colapse_of_qing.3
+	title = colapse_of_qing.3.t
+	desc = colapse_of_qing.3.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		hidden_effect = {
+			TIB = {
+				transfer_state = 601
+				transfer_state = 757
+				transfer_state = 322
+				transfer_state = 758
+			}
+			601 = {
+				add_core_of = TIB
+			}
+			757 = {
+				add_core_of = TIB
+			}
+			758 = {
+				add_core_of = TIB
+			}
+			322 = {
+				add_core_of = TIB
+			}
+		}
+	}
+	
+	option = { #oh no
+		name = colapse_of_qing.3.a
+		
+	}
+	
+	option = { #for a new republic
+		name = colapse_of_qing.3.b
+		TIB = { change_tag_from = ROOT }
+	}
+	
+}
