@@ -9,12 +9,7 @@ set_technology = {
 
 set_convoys = 5
 
-MAN = {
-set_autonomy = {
-		target = UZB
-		autonomous_state = autonomy_wtt_imperial_subject
-	}
-}
+
 
 set_politics = {
 	ruling_party = fascism

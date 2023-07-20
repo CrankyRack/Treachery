@@ -38,12 +38,7 @@ if = {
 		CHI_ineffective_bureaucracy_warlord
 	}
 }
-MAN = {
-set_autonomy = {
-		target = SIK
-		autonomous_state = autonomy_wtt_imperial_subject
-	}
-}
+
 set_politics = {
 	ruling_party = fascism
 	last_election = "1936.1.1"

@@ -28,12 +28,6 @@ recruit_character = XSM_li_shiqun
 recruit_character = XSM_fang_jing
 recruit_character = XSM_zi_shen
 
-MAN = {
-set_autonomy = {
-		target = XSM
-		autonomous_state = autonomy_wtt_imperial_subject
-	}
-}
 
 if = {
 	limit = {

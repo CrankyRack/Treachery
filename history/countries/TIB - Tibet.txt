@@ -28,13 +28,6 @@ recruit_character = TIB_jigme_taring
 recruit_character = TIB_reting_rimpoche
 recruit_character = TIB_taktra_rinpoche
 
-MAN = {
-set_autonomy = {
-		target = TIB
-		autonomous_state = autonomy_wtt_imperial_subject
-	}
-}
-
 set_politics = {
 	ruling_party = fascism
 	last_election = "1936.1.1"
