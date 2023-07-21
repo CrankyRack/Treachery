@@ -10,19 +10,20 @@ state= {
 	}
 
 	history={
-		owner = DES
+		owner = MEX
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
 		add_core_of = DES
+		add_core_of = MEX
 		add_claim_by = MEX
 		victory_points = {
 			4865 1 
 		}
 	}
 	provinces={
-		850 1663 1740 1756 4668 4742 4865 6887 10535 10582 10651 10662 12573 12699 13153
+		850 1663 1740 1756 4668 4742 4865 6887 10535 10582 10651 10662 12573 12699 
 	}
 
 	local_supplies=0.0 

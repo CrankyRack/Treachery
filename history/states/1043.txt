@@ -1,0 +1,37 @@
+state=
+{
+	id=1043
+	name="Swedish Gold Coast"
+	resources={
+		rubber=5 # was: 18
+	}
+
+	manpower = 1327788
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = SWE
+		victory_points = {
+			10862 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			10862 = {
+				naval_base = 2
+				coastal_bunker = 1
+
+			}
+		}
+		add_core_of = GHA
+		add_claim_by = DEN
+	}
+
+	provinces={
+		8039 10862 13212
+	}
+	local_supplies=0.0 
+}

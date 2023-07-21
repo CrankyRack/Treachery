@@ -9,9 +9,11 @@ state=
 	
 	history=
 	{
-		owner = TEX
+		owner = MEX
 		victory_points = { 8014 5 }
 		add_core_of = TEX
+		add_core_of = MEX
+		add_core_of = DES
 		buildings = {
 			infrastructure = 2 #was: 6
 		}

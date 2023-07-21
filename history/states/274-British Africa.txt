@@ -1,7 +1,9 @@
 state={
 	id=274
 	name="STATE_274"
-
+    resources={
+		rubber=3 # was: 18
+	}
 	history={
 		owner = DEN
 		add_core_of = GHA
@@ -20,9 +22,9 @@ state={
 	}
 
 	provinces={
-		8039 8096 10862 12742 12785 12787 13136 
+		8096 12742 12787 
 	}
-	manpower=3163600
+	manpower=1863600
 	buildings_max_level_factor=1.000
 	state_category=rural
 

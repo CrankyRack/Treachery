@@ -4419,8 +4419,10 @@
  
  CAS_fascism:0 "Cascadian Empire"
  CAS_fascism_DEF:0 "the Cascadian Empire"
- CAS_democratic:0 "New Vlaanderen"
- CAS_democratic_DEF:0 "New Vlaanderen"
+ CAS_democratic:0 "Cascadia"
+ CAS_democratic_DEF:0 "Cascadia"
+ CAS_subject:0 "British Columbia"
+ CAS_subject_DEF:0 "British Columbia"
  CAS_neutrality:0 "Greater Cascadia"
  CAS_neutrality_DEF:0 "Greater Cascadia"
  CAS_communism:0 "Union of Cascadia"

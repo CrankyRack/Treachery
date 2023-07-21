@@ -1027,3 +1027,11 @@ MAC = {
 	color = rgb { 115 79 145 }
 	color_ui = rgb { 89 68 107 }
 }
+DES = {
+	color = rgb { 54 128 193 }
+	color_ui = rgb { 54 128 193 }
+}
+CAL = {
+	color = rgb { 48 73 142 }
+	color_ui = rgb { 48 73 142 }
+}

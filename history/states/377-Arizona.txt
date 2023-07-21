@@ -13,14 +13,15 @@ state={
 	}
 
 	history={
-		owner = STA
+		owner = MEX
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 			air_base = 2
 		}
 		add_core_of = STA
-		add_claim_by = MEX
+		add_core_of = MEX
+		add_claim_by = DES
 		victory_points = {
 			853 3 
 		}
