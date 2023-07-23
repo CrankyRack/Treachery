@@ -259,12 +259,12 @@ SIA = {
 	color_ui = rgb { 222 247 198 }
 }
 SIK = {
-	color = rgb { 71 190 152 }
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 239 187 55 }
+	color_ui = rgb { 239 187 55 }
 }
 TIB = {
-	color = rgb { 80 115 45}
-	color_ui = rgb { 222 247 198 }
+	color = rgb { 239 187 55 }
+	color_ui = rgb { 239 187 55 }
 }
 URG = {
 	color = rgb { 171 190 152 }
@@ -284,8 +284,8 @@ USA = {
 }
 MON = {
 	#color = HSV { 0.1 0.15 0.4 }
-	color = rgb { 108 140 42 }
-	color_ui = rgb { 209 247 133 }
+	color = rgb { 239 187 55 }
+	color_ui = rgb { 239 187 55 }
 }
 MEN = {
 	color = rgb { 185  255  152 }
@@ -451,8 +451,8 @@ BLR = {
 	color_ui = rgb { 180 220 190 }
 }
 MAN = {
-	color = rgb { 229 190 13 }
-	color_ui = rgb { 229 190 13 }
+	color = rgb { 211 151 0 }
+	color_ui = rgb { 211 151 0 }
 }
 ANG = {
 	color = rgb { 204 175 138 }
@@ -1034,4 +1034,8 @@ DES = {
 CAL = {
 	color = rgb { 48 73 142 }
 	color_ui = rgb { 48 73 142 }
+}
+UZB = {
+	color = rgb { 239 187 55 }
+	color_ui = rgb { 239 187 55 }
 }

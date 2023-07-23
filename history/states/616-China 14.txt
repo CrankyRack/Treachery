@@ -3,8 +3,9 @@ state={
 	name="STATE_616"
 
 	history={
-		owner = MAN
+		owner = MON
 		add_core_of = MAN
+		add_core_of = MON
 		buildings = {
 			infrastructure = 1
 
@@ -29,7 +30,7 @@ state={
 	}
 
 	provinces={
-		8055 8127 12750 
+		8055 12750 
 	}
 	manpower=2077600
 	buildings_max_level_factor=1.000

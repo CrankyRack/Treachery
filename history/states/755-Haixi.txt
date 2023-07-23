@@ -2,14 +2,15 @@ state={
 	id=755
 	name="STATE_755"
 	provinces={
-		2053 2099 5100 7997 10750 10796 10834 10865 12846 12890 
+		2053 2099 5057 5100 7997 10750 10796 10834 10865 12327 12846 12890 
 	}
 	manpower=1000000
 	buildings_max_level_factor=1.000
 	state_category = pastoral
 	history={
-		owner = MAN
+		owner = UZB
 		add_core_of = MAN
+		add_core_of = UZB
 		buildings = {
 			infrastructure = 1
 			industrial_complex = 1

@@ -12,8 +12,9 @@ state={
 	}
 
 	history={
-		owner = MAN
+		owner = SIK
 		add_core_of = MAN
+		add_core_of = SIK
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1

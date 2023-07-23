@@ -13,12 +13,11 @@ state=
 	
 	history=
 	{
-		owner = UZB
+		owner = SOV
 		victory_points = {
 			12248 2 
 		}
 		add_core_of = AFG
-		add_core_of = UZB
 		buildings = {
 			infrastructure = 2 #was: 6
 		}

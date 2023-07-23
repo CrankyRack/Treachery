@@ -13,11 +13,11 @@ state=
 	
 	history=
 	{
-		owner = MAN
+		owner = SIK
 		victory_points = {
 			12248 2 
 		}
-		add_core_of = MAN
+		add_core_of = SIK
 		buildings = {
 			infrastructure = 2 #was: 6
 		}

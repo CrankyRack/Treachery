@@ -2,14 +2,15 @@ state={
 	id=753
 	name="STATE_753"
 	provinces={
-		4403 5193 10787 10903 
+		4403 5193 10787 10817 10903 
 	}
 	manpower=3000000
 	buildings_max_level_factor=1.000
 	state_category = rural
 	history={
-		owner = MAN
+		owner = UZB
 		add_core_of = MAN
+		add_core_of = UZB
 		victory_points = {
 			2045 1 
 		}
