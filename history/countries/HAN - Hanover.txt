@@ -1,5 +1,7 @@
 ﻿capital = 941
 
+recruit_character = HAN_king_jerome
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

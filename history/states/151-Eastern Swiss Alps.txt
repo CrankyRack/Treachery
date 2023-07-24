@@ -18,7 +18,7 @@ state={
 		add_core_of = SCH
 	}
 	provinces={
-		658 3662 
+		658 3660 3662 
 	}
 	local_supplies=0.0 
 }

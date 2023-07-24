@@ -10,11 +10,19 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_BEG_frederik_hillingso"
-		texturefile =  "gfx/leaders/BEG/BEG_frederik_hillingso.dds"
+		texturefile =  "gfx/leaders/BEG/BEG_frederik_hillingso.dds"  
 	}
 	spriteType = {
 		name = "GFX_portrait_king_edward"
-		texturefile =  "gfx/leaders/NIR/GFX_portrait_king_edward.dds"
+		texturefile =  "gfx/leaders/NIR/GFX_portrait_king_edward.dds" 
+	}
+	spriteType = {
+		name = "GFX_SAX_Frederick_III"
+		texturefile =  "gfx/leaders/SAX/SAX_Frederick_III.dds"
+	}
+	spriteType = {
+		name = "GFX_HAN_king_jerome"
+		texturefile =  "gfx/leaders/HAN/HAN_king_jerome.dds"
 	}
 	
 }
