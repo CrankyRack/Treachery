@@ -1,7 +1,7 @@
 
 state={
 	id=119
-	name="STATE_119"
+	name="Ulster"
 
 	history={
 		owner = IRE
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		276 385 3217 3242 3329 3379 11257 
+		276 385 3242 3329 3379 
 	}
 	manpower=1198537
 	buildings_max_level_factor=1

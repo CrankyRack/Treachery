@@ -1,0 +1,31 @@
+state=
+{
+	id=1044
+	name="South Ulster"
+	resources={
+		steel=3 # was: 18
+	}
+
+	manpower =227788
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = IRE
+		victory_points = {
+			11371 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = IRE
+	}
+
+	provinces={
+		337 11257 11303 11371
+	}
+	local_supplies=0.0 
+}

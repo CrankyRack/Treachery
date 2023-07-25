@@ -1,0 +1,31 @@
+state=
+{
+	id=1045
+	name="Wexford"
+	resources={
+		chromium=1 # was: 18
+	}
+
+	manpower =131288
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = IRE
+		victory_points = {
+			285 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = IRE
+	}
+
+	provinces={
+		285 9310 11237 11267 
+	}
+	local_supplies=0.0 
+}

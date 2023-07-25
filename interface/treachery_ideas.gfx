@@ -19,6 +19,14 @@ spriteTypes = {
 		name = "GFX_idea_PRE_military_traditions"
 		texturefile = "gfx/interface/ideas/PRE_military_traditions.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_IRE_king_louis"
+		texturefile = "gfx/interface/ideas/IRE_king_louis.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_IRE_northern_protestants"
+		texturefile = "gfx/interface/ideas/IRE_northern_protestants.dds"  
+	}
 
 	### new tfv nat spirit icons
 	

@@ -20,4 +20,41 @@ ideas = {
 				planning_speed = 0.25
 			}
 		}
+		IRE_king_louis = {
+			
+			picture = IRE_king_louis
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.15
+			}
+		}
+		IRE_northern_protestants = {
+			
+			picture = IRE_northern_protestants
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.1
+				consumer_goods_factor = 0.05
+			}
+		}
 }
