@@ -1519,11 +1519,11 @@
  ITA_italian_empire_communism_DEF:0 "the Grand Italian Union"
 
 
- WES_SWE:0 "Nya Västergötaland"
+ WES_SWE:0 "$OVERLORDADJ$ West Africa"
  
  DAH_HOL:0 "$OVERLORDADJ$ Central Africa"
  
- BEG_DEN:0 "$OVERLORDADJ$ South Africa"
+ BEG_DEN:0 "$OVERLORDADJ$ Africa"
  
  MZB_LBV:0 "$OVERLORDADJ$ Mozambique"
  

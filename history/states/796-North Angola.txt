@@ -5,7 +5,7 @@ state={
 		rubber=11.000
 	}
 	history={
-		owner = DEN
+		owner = DAH
 		buildings = {
 			infrastructure = 1
 			2115 = {
@@ -15,7 +15,7 @@ state={
 		victory_points = {
 			2115 1 
 		}
-		add_core_of = ANG
+		add_core_of = COG
 	}
 	provinces={
 		2115 8219

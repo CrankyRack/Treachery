@@ -42,26 +42,7 @@ recruit_character = DEN_ejnar_warum
 recruit_character = DEN_viggo_kampman
 recruit_character = DEN_knud_kristensen
 
-set_autonomy = {
-		target = BEG
-		autonomous_state = autonomy_colony
-		freedom_level = 0.35
-	}
-set_autonomy = {
-		target = PAN
-		autonomous_state = autonomy_colony
-		freedom_level = 0.35
-	}
-	set_autonomy = {
-		target = ELS
-		autonomous_state = autonomy_colony
-		freedom_level = 0.35
-	}
-		set_autonomy = {
-		target = BRM
-		autonomous_state = autonomy_colony
-		freedom_level = 0.35
-	}
+
 set_research_slots = 3
 set_stability = 0.9
 set_war_support = 0.1

@@ -12,7 +12,6 @@ state={
 	history={
 		owner = BEG
 		add_core_of = ZAM
-		add_core_of = BEG
 		victory_points = {
 			5199 1
 		}
