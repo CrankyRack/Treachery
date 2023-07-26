@@ -1,0 +1,35 @@
+state=
+{
+	id=1046
+	name="Oran"
+	resources={
+		steel=11 # was: 18
+	}
+
+	manpower =631288
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = RIF
+		victory_points = {
+			7132 2 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		    7132 = {
+				naval_base = 6
+			}
+		}
+		add_core_of = MOR
+		add_core_of = ALG
+	}
+
+	provinces={
+		3991 4116 4150 7008 7132 12018 13074
+	}
+	local_supplies=0.0 
+}

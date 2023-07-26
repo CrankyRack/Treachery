@@ -8,7 +8,7 @@ state={
 	impassable = yes
 
 	history={
-		owner = FRA
+		owner = RIF
 		add_core_of = ALG
 		buildings = {
 			infrastructure = 0
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		1043 1095 1901 1958 2049 4903 5035 8061 8077 8088 10731 12711 12842 
+		1958 8088 10731
 	}
 
 	local_supplies=0.0 
