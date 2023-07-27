@@ -10,7 +10,7 @@ state={
 		victory_points = {
 			8066 1
 		}
-		owner = KAL
+		owner = RAJ
 		buildings = {
 			infrastructure = 1
 		}
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		1179 5043 8013 8066 8098 12761 
+		1179 8013 8066 8098 
 	}
 
 	local_supplies=0.0 

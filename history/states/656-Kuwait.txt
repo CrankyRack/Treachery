@@ -6,9 +6,9 @@ state={
 	state_category = rural
 	
 	history={
-		add_core_of = KUW
-		add_core_of = IRQ
-		owner = IRQ
+		add_core_of = SAU
+		add_core_of = JAB
+		owner = SAU
 		victory_points = {
 			8085 1 
 		}
@@ -21,7 +21,7 @@ state={
 
 	}
 	provinces={
-		8085
+		8085 12879
 	}
 
 	local_supplies=0.0 

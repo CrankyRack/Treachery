@@ -13,7 +13,7 @@ state=
 	
 	history=
 	{
-		owner = IRQ
+		owner = PER
 		victory_points = {
 			5098 3 
 		}
@@ -30,7 +30,7 @@ state=
 		}
 	}
 	provinces={
-		78 829 5098 6826 7953 8123 10774 10793
+		829 5098 7953 10774
 
 	local_supplies=0.0 
 }

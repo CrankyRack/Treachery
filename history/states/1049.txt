@@ -1,0 +1,32 @@
+state=
+{
+	id=1049
+	name="Akhal"
+	resources={
+		steel=4 # was: 18
+	}
+
+	manpower = 217281
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = PER
+		victory_points = {
+			12333 2 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PER
+		add_core_of = TMS
+		add_claim_by = SOV
+	}
+
+	provinces={
+		4482 4958 5003 7491 7560 10357 10510 10414 12333 12359 
+	}
+	local_supplies=0.0 
+}

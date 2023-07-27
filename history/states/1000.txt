@@ -30,7 +30,7 @@ state=
 		}
 	}
 	provinces={
-		4482 4549 4958 5003 7560 10742
+		4549 10742
 
 	local_supplies=0.0 
 }

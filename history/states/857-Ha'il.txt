@@ -2,11 +2,16 @@ state={
 	id=857
 	name="STATE_857"
 	provinces={
-		4968 10892 10923 
+		4968 5027 10748 10892 10923 12758
 	}
 	history = {
-		owner = SAU
+		owner = JAB
+		victory_points = {
+			12758 1 
+		}
 		add_core_of = SAU
+		add_core_of = ANA
+		add_core_of = JAB
 	}
 	manpower=5000
 	state_category = pastoral

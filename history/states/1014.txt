@@ -1,7 +1,7 @@
 state=
 {
 	id=1014
-	name="Côte des Moustiques"
+	name="Mosquito Coast"
 
 	manpower = 291788
 	resources={

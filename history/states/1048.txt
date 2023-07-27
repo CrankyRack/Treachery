@@ -1,0 +1,32 @@
+state=
+{
+	id=1048
+	name="Ganja"
+	resources={
+		steel=10 # was: 18
+	}
+
+	manpower = 417281
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = PER
+		victory_points = {
+			11674 2 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PER
+		add_core_of = ARM
+		add_core_of = AZR
+	}
+
+	provinces={
+		1467 1539 1610 9715 11674 11704 11708
+	}
+	local_supplies=0.0 
+}

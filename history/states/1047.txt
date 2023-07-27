@@ -1,0 +1,32 @@
+state=
+{
+	id=1047
+	name="Nackchivan"
+	resources={
+		steel=6 # was: 18
+	}
+
+	manpower = 331288
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = PER
+		victory_points = {
+			7132 2 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PER
+		add_core_of = ARM
+		add_core_of = AZR
+	}
+
+	provinces={
+		4660 6642 6997 12450
+	}
+	local_supplies=0.0 
+}

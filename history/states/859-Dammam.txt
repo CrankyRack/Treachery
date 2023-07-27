@@ -10,6 +10,7 @@ state={
 	history = {
 		owner = SAU
 		add_core_of = SAU
+		add_core_of = JAB
 		buildings = {
 			infrastructure = 1
 			12702 = {
