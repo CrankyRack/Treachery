@@ -235,8 +235,8 @@ PAN = {
 	color_ui = rgb { 198 169 248 }
 }
 PER = {
-	color = rgb { 70 112 85 }
-	color_ui = rgb { 70 112 85 }
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 92 147 126 }
 }
 PHI = {
 	color = rgb { 152 130 191 }

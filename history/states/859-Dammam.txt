@@ -18,6 +18,13 @@ state={
 
 			}
 		}
+		victory_points = {
+			12702 5
+		}
+			set_province_name = {
+			id = 12702
+			name = "Dammam"
+		}
 	}
 	manpower=440000
 	state_category = rural

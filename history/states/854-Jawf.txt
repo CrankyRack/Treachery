@@ -11,7 +11,7 @@ state={
 		}
 		add_core_of = ANA
 	}
-	manpower=5000
+	manpower=85352
 	state_category=pastoral
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

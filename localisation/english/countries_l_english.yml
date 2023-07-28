@@ -1344,6 +1344,8 @@
  ICE_ADJ:0 "Icelandic"
  SYR_fascism:0 "Syrian National State"
  SYR_fascism_DEF:0 "the Syrian National State"
+ SYR_subject:0 "$OVERLORDADJ$ Syrie"
+ SYR_subject_DEF:0 "$OVERLORDADJ$ Syrie"
  SYR_democratic:0 "Syria"
  SYR_democratic_DEF:0 "Syria"
  SYR_neutrality:0 "Kingdom of Syria"
