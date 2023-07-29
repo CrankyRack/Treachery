@@ -1,0 +1,29 @@
+state=
+{
+	id=1052
+	name="Cabo Corso Interior"
+
+	manpower = 273788
+	resources={
+		rubber=1 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = WES
+		victory_points = {
+			3704 4
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = GHA
+	}
+	provinces={
+		8039
+	}
+	local_supplies=0.0 
+}

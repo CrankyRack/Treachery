@@ -5,7 +5,7 @@ state={
 	state_category = pastoral 
 
 	history={
-		owner = WES
+		owner = DAH
 		add_core_of = NGA
 		buildings = {
 			infrastructure = 2

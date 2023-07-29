@@ -3,7 +3,7 @@ state=
 	id=1043
 	name="Swedish Gold Coast"
 	resources={
-		rubber=5 # was: 18
+		rubber=3 # was: 18
 	}
 
 	manpower = 1327788
@@ -31,7 +31,7 @@ state=
 	}
 
 	provinces={
-		8039 10862 13212
+		10862 13212
 	}
 	local_supplies=0.0 
 }

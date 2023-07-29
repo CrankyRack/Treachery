@@ -3,9 +3,8 @@ state={
 	name="STATE_701"
 
 	history={
-		owner = WES
+		owner = GAM
 		add_core_of = GAM
-		add_core_of = WES
 		victory_points = {
 			4989 1 
 		}
@@ -21,7 +20,7 @@ state={
 	}
 
 	provinces={
-		4989 13213 
+		4989 12834 13213 
 	}
 	manpower=199520
 	buildings_max_level_factor=1.000

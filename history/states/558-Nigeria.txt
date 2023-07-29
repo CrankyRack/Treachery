@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = QEM
+		owner = WES
 		add_core_of = NGA
 		buildings = {
 			infrastructure = 2

@@ -2660,6 +2660,8 @@
  GAM:0 "The Gambia"
  GAM_DEF:0 "The Gambia"
  GAM_ADJ:0 "Gambian"
+ GAM_subject:0 "Franz Joseph Land"
+ GAM_subject_DEF:0 "Franz Joseph Land"
  WLS_fascism:0 "Cambria"
  WLS_fascism_DEF:0 "Cambria"
  WLS_democratic:0 "Wales"
