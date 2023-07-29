@@ -5,7 +5,7 @@ state={
 	manpower = 131003
 
 	history={
-		owner = ANG
+		owner = BEG
 		add_core_of = ANG
 		add_core_of = COG
 		add_core_of = SID
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		8248
+		8219 8248 
 	}
 	
 	buildings_max_level_factor=1.000

@@ -9,17 +9,20 @@ state = {
 	}
 
 	history = {
-		owner = BEG
+		owner = DAH
 		buildings = {
 			infrastructure = 1
 
 		}
 		add_core_of = COG
+		victory_points = {
+			191 1
+		}
 
 	}
 	
 	provinces = {
-		1516 1968 4515 12795 
+		191 1516 1968 4515 12795 
 	}
 
 	buildings_max_level_factor = 1.000

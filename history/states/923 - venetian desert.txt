@@ -1,22 +1,22 @@
 
 state={
 	id=923
-	name="STATE_273" # Libyan Desert
+	name="Giza" # Libyan Desert
 	manpower = 42633
 	
 	state_category = wasteland
-	impassable = yes
 
 	history={
-		owner = FRA
+		owner = GDL
 		buildings = {
 			infrastructure = 0
 		}
-		add_core_of = LBA
+		add_core_of = GDL
+		add_core_of = EGY
 	}
 
 	provinces={
-		1060 1143 10127 10785 11951 12764
+		1143 7216 10127 12099
 	}
 
 	local_supplies=0.0 

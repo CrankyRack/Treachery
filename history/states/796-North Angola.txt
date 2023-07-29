@@ -18,7 +18,7 @@ state={
 		add_core_of = COG
 	}
 	provinces={
-		2115 8219
+		2115
 	}
 	manpower=25000
 	buildings_max_level_factor=1.000

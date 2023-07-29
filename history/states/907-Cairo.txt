@@ -5,11 +5,10 @@ state={
 	state_category=town
 
 	history={
-		owner = FRA
+		owner = GDL
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			air_base = 5
 			
 
 		}
@@ -25,6 +24,7 @@ state={
 			1068 3 
 		}
 		add_core_of = EGY
+		add_core_of = GDL
 
 	}
 	provinces={

@@ -6,8 +6,7 @@ state={
 	state_category = wasteland
 	
 	history = {
-		owner = DAH
-		add_core_of = DAH
+		owner = GDL
 		add_core_of = SUD
 		buildings = {
 			infrastructure = 1
@@ -16,7 +15,7 @@ state={
 	}
 
 	provinces={
-		1960 10857 
+		1960 5060 10857 
 	}
 	
 	buildings_max_level_factor = 1.000

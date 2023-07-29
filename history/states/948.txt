@@ -5,8 +5,9 @@ state={
 	manpower = 21003
 
 	history={
-		owner = FRA
+		owner = GDL
 		add_core_of = SUD
+		add_core_of = GDL
 		add_claim_by = LBV
 		buildings = {
 			infrastructure = 1

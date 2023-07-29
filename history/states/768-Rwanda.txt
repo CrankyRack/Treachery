@@ -8,7 +8,7 @@ state={
 	}
 
 	history={
-		owner = QEM
+		owner = DAH
 		add_core_of = RWA
 		victory_points = {
 			9962 1
