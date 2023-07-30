@@ -1055,3 +1055,11 @@ HJZ = {
 	color = rgb { 64 160 167 }
 	color_ui = rgb { 83 208 217 }
 }
+CHA = {
+	color = rgb { 144 0 32 }
+	color_ui = rgb { 144 0 32 }
+}
+ADR = {
+	color = rgb { 204 204 0 }
+	color_ui = rgb { 204 204 0 }
+}

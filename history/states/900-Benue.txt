@@ -2,6 +2,10 @@ state={
 	id=900
 	name="STATE_900"
 	manpower = 1163674
+	resources={
+		rubber=7 # was: 18
+		oil=3 # was: 18
+	}
 	state_category = pastoral 
 
 	history={
@@ -13,7 +17,7 @@ state={
 	}
 
 	provinces={
-		1992 4889 7978 8034 10831 
+		4889 7978 10831 
 	}
 	
 	buildings_max_level_factor=1.000

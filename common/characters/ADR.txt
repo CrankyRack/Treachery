@@ -1,0 +1,16 @@
+characters = {
+	ADR_maal_Aynayn = {
+		name="Mohamed Mustafa Ma al-'Aynayn"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/ADR/ADR_maal_Aynayn.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
