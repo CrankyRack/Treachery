@@ -1,0 +1,26 @@
+state=
+{
+	id=1056
+	name="East Masalit"
+
+	manpower = 71788
+	
+	state_category = rural
+	
+	
+	history={
+		owner = MAS
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = MAS
+		add_core_of = DAR
+		add_core_of = SUD
+		add_claim_by = GDL
+	}
+	provinces={
+		7919
+	}
+	local_supplies=0.0 
+}

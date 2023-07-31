@@ -9,9 +9,9 @@ state=
 	
 	history= {
 		add_core_of = SUD
-		owner = FRA
-		add_claim_by = LBV
-		add_claim_by = DAH
+		owner = SNU
+		add_core_of = SNU
+		add_claim_by = GDL
 		buildings = {
 			infrastructure = 0
 		}

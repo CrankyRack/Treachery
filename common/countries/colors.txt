@@ -1063,3 +1063,23 @@ ADR = {
 	color = rgb { 204 204 0 }
 	color_ui = rgb { 204 204 0 }
 }
+DAR = {
+	color = rgb { 98 134 153 }
+	color_ui = rgb { 98 134 153 }
+}
+MAS = {
+	color = rgb { 140 0 0 }
+	color_ui = rgb { 140 0 0 }
+}
+WAD = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 92 147 126 }
+}
+KUT = {
+	color = rgb { 103 156 87 }
+	color_ui = rgb { 103 156 87 }
+}
+FNA = {
+	color = rgb { 31 59 119 }
+	color_ui = rgb { 31 59 119 }
+}

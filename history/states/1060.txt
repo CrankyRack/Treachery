@@ -1,0 +1,28 @@
+state=
+{
+	id=1060
+	name="Wadi Al-Maraa"
+
+	manpower = 37481
+	
+	state_category = rural
+	
+	
+	history={
+		owner = SNU
+		victory_points = {
+			11951 1 
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = SNU
+		add_core_of = LIB
+		add_claim_by = FRA
+	}
+	provinces={
+		10785 11951 
+	}
+	local_supplies=0.0 
+}

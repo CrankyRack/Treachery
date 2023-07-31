@@ -1,0 +1,16 @@
+characters = {
+	FNA_general_bescond = {
+		name="Emmanuel Bescond"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/FRA/FNA_general_bescond.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,24 @@
+state=
+{
+	id=1061
+	name="Borno"
+
+	manpower = 87481
+	
+	state_category = rural
+	
+	
+	history={
+		owner = FNA
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = CHA
+		add_core_of = WAD
+	}
+	provinces={
+		3123
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,25 @@
+state=
+{
+	id=1057
+	name="West Masalit"
+
+	manpower = 123481
+	
+	state_category = rural
+	
+	
+	history={
+		owner = MAS
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = MAS
+		add_core_of = WAD
+		add_claim_by = FNA
+	}
+	provinces={
+		1473
+	}
+	local_supplies=0.0 
+}

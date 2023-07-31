@@ -22,11 +22,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_HAN_king_jerome"
-		texturefile =  "gfx/leaders/HAN/HAN_king_jerome.dds"
+		texturefile =  "gfx/leaders/HAN/HAN_king_jerome.dds" 
 	}
 	spriteType = {
 		name = "GFX_ADR_maal_Aynayn"
 		texturefile =  "gfx/leaders/ADR/ADR_maal_Aynayn.dds"
+	}
+	spriteType = {
+		name = "GFX_FNA_general_bescond"
+		texturefile =  "gfx/leaders/FRA/FNA_general_bescond.dds"
 	}
 	
 }

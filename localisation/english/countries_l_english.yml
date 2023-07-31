@@ -4592,4 +4592,11 @@
  SNU_DEF:0 "Senusiyya"
  SNU_ADJ:0 "Senussi"
  
+ DAR:0 "Sultanate of Darfur"
+ DAR_DEF:0 "the Sultanate of Darfur"
+ DAR_ADJ:0 "Darfur"
+ 
+ FNA:0 "Armée d’Afrique"
+ FNA_DEF:0 "the Armée d’Afrique"
+ FNA_ADJ:0 "French"
 }

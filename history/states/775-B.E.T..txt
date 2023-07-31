@@ -6,9 +6,11 @@ state={
 	impassable = yes
 
 	history={
-		owner = FRA
+		owner = SNU
 		add_core_of = CHA
-		add_claim_by = DAH
+		add_core_of = WAD
+		add_claim_by = FRA
+		add_core_of = SNU
 		buildings = {
 			infrastructure = 0
 		}

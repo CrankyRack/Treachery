@@ -1,0 +1,25 @@
+state=
+{
+	id=1059
+	name="Kuti"
+
+	manpower = 87481
+	
+	state_category = rural
+	
+	
+	history={
+		owner = KUT
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = KUT
+		add_core_of = CAR
+		add_claim_by = DAH
+	}
+	provinces={
+		5084
+	}
+	local_supplies=0.0 
+}

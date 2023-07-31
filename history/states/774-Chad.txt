@@ -5,6 +5,7 @@ state={
 	history={
 		owner = CHA
 		add_core_of = CHA
+		add_claim_by = FNA
 		victory_points = {
 			2081 1
 		}
@@ -16,9 +17,9 @@ state={
 	}
 
 	provinces={
-		1473 1883 2081 3123 3181 4897 4978 7919 9152 
+		1883 2081 4897 9152 
 	}
-	manpower=1442456
+	manpower=442456
 	buildings_max_level_factor=1.000
 	state_category=pastoral
 

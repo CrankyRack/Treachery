@@ -1,0 +1,25 @@
+state=
+{
+	id=1058
+	name="Wadai"
+
+	manpower = 323481
+	
+	state_category = rural
+	
+	
+	history={
+		owner = WAD
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = WAD
+		add_claim_by = FNA
+		add_claim_by = CHA
+	}
+	provinces={
+		3181 4978
+	}
+	local_supplies=0.0 
+}
