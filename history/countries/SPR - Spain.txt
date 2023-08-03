@@ -4,7 +4,10 @@ set_autonomy = {
 		target = RIF
 		autonomous_state = autonomy_colony
 	}
-
+set_autonomy = {
+		target = PHI
+		autonomous_state = autonomy_colony
+	}
 oob = "SPR_1936"
 if = {
 	limit = { has_dlc = "Man the Guns" }
