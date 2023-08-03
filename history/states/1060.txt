@@ -9,7 +9,7 @@ state=
 	
 	
 	history={
-		owner = SNU
+		owner = FRA
 		victory_points = {
 			11951 1 
 		}
@@ -19,7 +19,6 @@ state=
 		}
 		add_core_of = SNU
 		add_core_of = LIB
-		add_claim_by = FRA
 	}
 	provinces={
 		10785 11951 
