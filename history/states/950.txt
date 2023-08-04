@@ -15,16 +15,23 @@ state={
 				naval_base = 1
 
 			}
+			5158 = {
+				naval_base = 1
+
+			}
 		}
 		victory_points = {
 			8248 1 
+		}
+		victory_points = {
+			5158 1 
 		}
 		
 
 	}
 
 	provinces={
-		8219 8248 
+		5158 8219 8248 
 	}
 	
 	buildings_max_level_factor=1.000

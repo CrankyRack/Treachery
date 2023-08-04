@@ -6,17 +6,13 @@ state={
 	state_category=rural
 
 	history={
-		owner = BEG
+		owner = DAH
 		buildings = {
 			infrastructure = 1
-			5158 = {
-				naval_base = 1
-
-			}
 
 		}
 		victory_points = {
-			5158 1 
+			7548 1 
 		}
 		add_core_of = ANG
 		add_core_of = SID
@@ -24,7 +20,7 @@ state={
 	}
 
 	provinces={
-		5158 12981 
+		7548 12981 
 	}
 
 	buildings_max_level_factor=1.000

@@ -5,7 +5,7 @@ state={
 	manpower = 211003
 
 	history={
-		owner = MLW
+		owner = DAH
 		add_core_of = MLW
 		buildings = {
 			infrastructure = 1
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		1846
+		1846 10594 13209
 	}
 	
 	buildings_max_level_factor=1.000

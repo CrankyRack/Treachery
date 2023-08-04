@@ -4,7 +4,7 @@ state={
 
 	history={
 		owner = BEG
-		add_core_of = MZB
+		add_core_of = MLW
 		victory_points = {
 			12986 1 
 		}
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		2255 12908 12986 13209 
+		12908 12986 
 	}
 	manpower=1603975
 	buildings_max_level_factor=1.000
