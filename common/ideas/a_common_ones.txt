@@ -57,4 +57,122 @@ ideas = {
 				consumer_goods_factor = 0.05
 			}
 		}
+		DEN_the_controversal_king = {
+			
+			picture = DEN_the_controversal_king
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.1
+			}
+		}
+		DEN_norwegian_unrest = {
+			
+			picture = DEN_norwegian_unrest
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    war_support_factor = -0.05
+				stability_factor = -0.2
+			    recruitable_population_factor = -0.1
+			    consumer_goods_factor = 0.05
+			}
+		}
+		DEN_danish_fleet = {
+			
+			picture = DEN_danish_fleet
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = 0.1
+			naval_coordination = 0.15
+			experience_gain_navy_factor = 0.1
+			}
+		}
+		DEN_outdated_land_forces = {
+			
+			picture = DEN_outdated_land_forces
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			war_support_factor = -0.05
+			land_doctrine_cost_factor = 0.2
+			training_time_factor = -0.05
+			army_org_Factor = -0.1
+			}
+		}
+		DEN_souring_relations_with_sweden = {
+			
+			picture = DEN_souring_relations_with_sweden.dds
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			war_support_factor = 0.1
+			}
+			targeted_modifier = { tag = SWE trade_cost_for_target_factor = 0.25 }
+			targeted_modifier = { tag = SWE improve_relations_maintain_cost_factor = 1 }
+		}
+		DEN_union_with_brandenburg = {
+			
+			picture = DEN_union_with_brandenburg
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = 0.2
+			}
+		}
 }

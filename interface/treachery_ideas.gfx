@@ -27,6 +27,30 @@ spriteTypes = {
 		name = "GFX_idea_IRE_northern_protestants"
 		texturefile = "gfx/interface/ideas/IRE_northern_protestants.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_DEN_the_controversal_king"
+		texturefile = "gfx/interface/ideas/DEN_the_controversal_king.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_DEN_norwegian_unrest"
+		texturefile = "gfx/interface/ideas/DEN_norwegian_unrest.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_DEN_danish_fleet"
+		texturefile = "gfx/interface/ideas/DEN_danish_fleet.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_DEN_outdated_land_forces"
+		texturefile = "gfx/interface/ideas/DEN_outdated_land_forces.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_DEN_souring_relations_with_sweden"
+		texturefile = "gfx/interface/ideas/DEN_souring_relations_with_sweden.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_DEN_union_with_brandenburg"
+		texturefile = "gfx/interface/ideas/DEN_union_with_brandenburg.dds"  
+	}
 
 	### new tfv nat spirit icons
 	

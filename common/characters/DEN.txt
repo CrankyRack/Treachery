@@ -1,6 +1,6 @@
 characters={
 	DEN_thorvald_stauning={
-		name="Agatha II"
+		name="Frederick VIII"
 		portraits={
 			civilian={
 				large=GFX_portrait_Thorvald_Stauning
