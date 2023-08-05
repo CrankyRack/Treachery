@@ -1,0 +1,36 @@
+state=
+{
+	id=1063
+	name="Schleswig"
+
+	manpower = 251788
+	resources={
+		steel=3 # was: 18
+	}
+	
+	state_category = pastoral
+	
+	
+	history={
+		owner = DEN
+		victory_points = {
+			11366 3
+		}
+			set_province_name = {
+			id = 11366
+			name = "Flensburg"
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+
+		}
+		add_core_of = DEN
+		add_core_of = SHL
+	}
+
+	provinces={
+		317 11366
+	}
+	local_supplies=0.0 
+}
