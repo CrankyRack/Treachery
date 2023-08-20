@@ -30,6 +30,6 @@ state=
 	}
 	provinces={
 		2075
-
+    }
 	local_supplies=0.0 
 }

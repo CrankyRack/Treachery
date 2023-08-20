@@ -24,6 +24,6 @@ state=
 	}
 	provinces={
 		4435 12338
-
+    }
 	local_supplies=0.0 
 }
