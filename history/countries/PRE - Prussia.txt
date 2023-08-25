@@ -1,4 +1,9 @@
 ﻿capital = 64
+
+
+recruit_character = PRE_frederich_III
+
+
 add_ideas = {
 		PRE_military_traditions
 		#laws

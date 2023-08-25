@@ -1,0 +1,16 @@
+characters = {
+	PRE_frederich_III = {
+		name="Frederick III"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PRE/PRE_frederich_III.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

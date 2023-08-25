@@ -26,11 +26,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_ADR_maal_Aynayn"
-		texturefile =  "gfx/leaders/ADR/ADR_maal_Aynayn.dds"
+		texturefile =  "gfx/leaders/ADR/ADR_maal_Aynayn.dds" 
 	}
 	spriteType = {
 		name = "GFX_FNA_general_bescond"
 		texturefile =  "gfx/leaders/FRA/FNA_general_bescond.dds"
+	}
+	spriteType = {
+		name = "GFX_PRE_frederich_III"
+		texturefile =  "gfx/leaders/PRE/PRE_frederich_III.dds"
 	}
 	
 }
