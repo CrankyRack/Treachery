@@ -1,0 +1,40 @@
+state=
+{
+	id=1066
+	name="Borneo Interior"
+
+	manpower = 91732
+	resources={
+		rubber=7 # was: 268
+		oil=2 # was: 24
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = MAL
+		victory_points = {
+			12138 2
+		}
+			set_province_name = {
+			id = 12138
+			name = "Fort Marlborough"
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			12138 = {
+				naval_base = 5
+			}
+
+		}
+		add_core_of = MAL
+		add_claim_by = INS
+	}
+
+	provinces={
+		2170 2184 5176 5226 7299 7355 7424 8221
+	}
+	local_supplies=0.0 
+}

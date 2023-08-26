@@ -1,0 +1,40 @@
+state=
+{
+	id=1067
+	name="Sabah"
+
+	manpower = 196732
+	resources={
+		steel=6 # was: 18
+		rubber=10 # was: 268
+	}
+	
+	state_category = pastoral
+	
+	
+	history={
+		owner = MAL
+		victory_points = {
+			12138 2
+		}
+			set_province_name = {
+			id = 12138
+			name = "Fort Marlborough"
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			10325 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = MAL
+		add_claim_by = INS
+	}
+
+	provinces={
+		1404 2047 4236 7231 7415 10181 10325 12243
+	}
+	local_supplies=0.0 
+}

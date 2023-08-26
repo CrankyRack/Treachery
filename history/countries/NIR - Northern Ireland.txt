@@ -33,6 +33,10 @@ set_autonomy = {
 		target = HAR
 		autonomous_state = autonomy_colony
 	}
+set_autonomy = {
+		target = AST
+		autonomous_state = autonomy_dominion
+	}
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1

@@ -1,0 +1,41 @@
+state=
+{
+	id=1068
+	name="Lanfang"
+
+	manpower = 1031211
+	resources={
+		rubber=10 # was: 268
+		oil=9 # was: 24
+	}
+	
+	state_category = town
+	
+	
+	history={
+		owner = LAN
+		victory_points = {
+			4279 10
+		}
+			set_province_name = {
+			id = 4279
+			name = "Pontianak"
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			4279 = {
+				naval_base = 8
+			}
+
+		}
+		add_core_of = LAN
+		add_claim_by = INS
+		add_claim_by = MAL
+	}
+
+	provinces={
+		1230 1304 2222 4279 12129
+	}
+	local_supplies=0.0 
+}

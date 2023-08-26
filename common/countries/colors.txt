@@ -1087,4 +1087,8 @@ FNA = {
 CAS = {
 	color = rgb { 168 14 11 }
 	color_ui = rgb { 168 14 11 }
-}	
+}
+LAN = {
+	color = rgb { 204 155 59 }
+	color_ui = rgb { 204 155 59 }
+}
