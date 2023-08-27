@@ -13,7 +13,7 @@ state=
 	
 	
 	history={
-		owner = MAL
+		owner = BNJ
 		victory_points = {
 			12138 2
 		}
@@ -29,8 +29,9 @@ state=
 			}
 
 		}
-		add_core_of = MAL
+		add_core_of = BNJ
 		add_claim_by = INS
+		add_claim_by = MAL
 	}
 
 	provinces={

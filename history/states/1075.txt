@@ -1,0 +1,32 @@
+state=
+{
+	id=1075
+	name="Shan"
+
+	manpower = 511732
+	resources={
+		#steel=3 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = SIA
+		victory_points = {
+			4626 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = BRM
+		add_core_of = SIA
+	}
+
+	provinces={
+		4175 4210 7400 7647 7909 7974 10413 12317
+	}
+	local_supplies=0.0 
+}

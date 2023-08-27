@@ -287,6 +287,8 @@ NAJ = "countries/najran.txt"
 HJZ = "countries/hejaz.txt"
 LAN = "countries/lanfang.txt"
 PAH = "countries/Pahang.txt"
+BNJ = "countries/banjang.txt"
+NEW = "countries/new_holland.txt"
 
 ADR = "countries/adrar.txt"
 KUT = "countries/kuti.txt"

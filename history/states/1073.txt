@@ -1,0 +1,31 @@
+state=
+{
+	id=1073
+	name="Chin"
+
+	manpower = 2171732
+	resources={
+		steel=3 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = BRM
+		victory_points = {
+			4626 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = BRM
+	}
+
+	provinces={
+		4147 4541 7122 7163 7190 7534 10033
+	}
+	local_supplies=0.0 
+}

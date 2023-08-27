@@ -10,21 +10,21 @@ state=
 	
 	history=
 	{
-		owner = BAN
+		owner = RAJ
 		victory_points = {
 			9713 5 
 		}
 		victory_points = {
 			11822 10 
 		}
-		add_core_of = BAN
-		add_claim_by = BRM
+		add_core_of = BRM
+		add_claim_by = BAN
 		buildings = {
 			infrastructure = 2 #was: 6
 		}
 	}
 	provinces={
-		1014 1142 1333 3651 3999 4019 4059 4147 4454 4541 7122 7163 7190 7254 7382 7534 10033 10182 10223 10267 11966 12090 12197 12267 12284
+		1014 1142 1333 3651 7254 7382 10182 10223 10267 12090 12197 12267 12284
     }
 	local_supplies=0.0 
 }

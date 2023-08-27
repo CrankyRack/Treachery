@@ -12,7 +12,7 @@ state=
 	
 	
 	history={
-		owner = SIA
+		owner = VIN
 		victory_points = {
 			7329 2
 		}

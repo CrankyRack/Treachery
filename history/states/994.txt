@@ -13,11 +13,12 @@ state=
 	
 	history=
 	{
-		owner = BAN
+		owner = RAJ
 		victory_points = {
 			12798 10 
 		}
 		add_core_of = BAN
+		add_core_of = RAJ
 		buildings = {
 			infrastructure = 2 #was: 6
 		}

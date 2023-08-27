@@ -1,0 +1,31 @@
+state=
+{
+	id=1074
+	name="Sagaing"
+
+	manpower = 2171732
+	resources={
+		#steel=3 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = RAJ
+		victory_points = {
+			4626 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = BRM
+	}
+
+	provinces={
+		1197 3999 4087 4318 4454 4588 8063 10486 11966
+	}
+	local_supplies=0.0 
+}

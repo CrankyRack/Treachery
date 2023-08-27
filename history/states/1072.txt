@@ -1,0 +1,31 @@
+state=
+{
+	id=1072
+	name="Naypyidaw"
+
+	manpower = 2171732
+	resources={
+		#steel=3 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = BRM
+		victory_points = {
+			4626 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = BRM
+	}
+
+	provinces={
+		1650 4019 4059 4202 4626 7034 12449
+	}
+	local_supplies=0.0 
+}

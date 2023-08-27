@@ -1,0 +1,25 @@
+
+state={
+	id=1077
+	name="Territoire Central"
+	impassable = yes
+
+	history={
+		owner = NEW
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = NEW
+
+	}
+
+	provinces={
+		2133 2177 2186 8134 8155 10473 12904 12912 12926
+	}
+	manpower=23100
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=0.0 
+}

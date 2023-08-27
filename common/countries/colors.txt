@@ -143,8 +143,8 @@ ARG = {
 	color_ui = rgb { 189 204 255 }
 }
 AST = {
-	color = rgb { 57 143 97 }
-	color_ui = rgb { 74 186 126 }
+	color = rgb { 168 14 11 }
+	color_ui = rgb { 168 14 11 }
 }
 BHU = {
 	color = rgb { 172 122 88 }
@@ -1091,4 +1091,24 @@ CAS = {
 LAN = {
 	color = rgb { 204 155 59 }
 	color_ui = rgb { 204 155 59 }
+}
+BRM = {
+	color = rgb { 181 158 77 }
+	color_ui = rgb { 181 158 77 }
+}
+PAH = {
+	color = rgb { 168 14 11 }
+	color_ui = rgb { 168 14 11 }
+}
+SIA = {
+	color = rgb { 72 113 160 }
+	color_ui = rgb { 72 113 160 }
+}
+BNJ = {
+	color = rgb { 76 145 63 }
+	color_ui = rgb { 99 189 82 }
+}
+NEW = {
+	color = rgb { 72 113 160 }
+	color_ui = rgb { 72 113 160 }
 }
