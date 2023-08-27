@@ -16,14 +16,15 @@ state=
 	
 	history=
 	{
-		owner = SIA
+		owner = INS
 		add_core_of = SIA
+		add_core_of = INS
 		buildings = {
 			infrastructure = 2 #was: 6
 		}
 	}
 	provinces={
-		1291 1348 1364 1392 4310 4355 4367 4384 7329 7342 7399 7427 10227 12144 12199 12215 12255 12271    
+		1291 1364 1376 4310 4384 7342 12144 12215    
     }
 	local_supplies=0.0 
 }

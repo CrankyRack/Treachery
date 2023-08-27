@@ -1,0 +1,25 @@
+state=
+{
+	id=1070
+	name="Tereng"
+
+	manpower = 371788
+	
+	state_category = rural
+	
+	
+	history={
+		owner = MAL
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = MAL
+		add_core_of = PAH
+		add_core_of = SIA
+	}
+	provinces={
+		1348 4355 12199
+	}
+	local_supplies=0.0 
+}

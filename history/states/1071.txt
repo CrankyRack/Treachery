@@ -1,0 +1,32 @@
+state=
+{
+	id=1071
+	name="Kota Bharu"
+
+	manpower = 171732
+	resources={
+		#steel=3 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = SIA
+		victory_points = {
+			7329 2
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = SIA
+		add_core_of = PAH
+	}
+
+	provinces={
+		7329 10227
+	}
+	local_supplies=0.0 
+}

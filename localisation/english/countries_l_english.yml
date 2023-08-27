@@ -4607,4 +4607,8 @@
  LAN:0 "Lanfang Republic"
  LAN_DEF:0 "the Lanfang Republic"
  LAN_ADJ:0 "Lanfang"
+ 
+ PAH:0 "Kingdom of Pahang"
+ PAH_DEF:0 "the Kingdom of Pahang"
+ PAH_ADJ:0 "Pahang"
 }
