@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = BRA
+		owner = POR
 		victory_points = {
 			7476 3
 		}
@@ -26,6 +26,7 @@ state={
 			}
 		}
 		add_core_of = BRA
+		add_core_of = POR
 	}
 
 	provinces={

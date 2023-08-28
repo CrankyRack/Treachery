@@ -6,8 +6,9 @@ state={
 	state_category = city
 
 	history={
-		owner = BRA
+		owner = POR
 		add_core_of = BRA
+		add_core_of = POR
 		buildings = {
 			arms_factory = 1
 			industrial_complex = 3

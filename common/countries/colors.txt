@@ -151,8 +151,8 @@ BHU = {
 	color_ui = rgb { 172 122 88 }
 }
 BOL = {
-	color = rgb { 165 91 48 }
-	color_ui = rgb { 165 91 48 }
+	color = rgb { 242 205 94 }
+	color_ui = rgb { 255 255 122 }
 }
 BRA = {
 	color = rgb { 76 145 63 }
@@ -171,8 +171,8 @@ CHL = {
 	color_ui = rgb { 202 131 139 }
 }
 COL = {
-	color = rgb { 222 187 91 }
-	color_ui = rgb { 255 243 118 }
+	color = rgb { 200 100 31 }
+	color_ui = rgb { 245 123 38 }
 }
 COS = {
 	color = rgb { 145 157 236 }
@@ -183,8 +183,8 @@ ECU = {
 	color_ui = rgb { 255 190 127 }
 }
 ELS = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 142 43 43 }
+	color_ui = rgb { 142 43 43 }
 }
 ETH = {
 	color = rgb { 216 189 125 }
@@ -215,16 +215,16 @@ LIB = {
 	color_ui = rgb { 198 169 248 }
 }
 MEX = {
-	color = rgb { 104 152 83 }
-	color_ui = rgb { 135 198 108 }
+	color = rgb { 59 148 65 }
+	color_ui = rgb { 74 186 82 }
 }
 NEP = {
 	color = rgb { 152 130 191 }
 	color_ui = rgb { 198 169 248 }
 }
 NIC = {
-	color = rgb { 146 179 191 }
-	color_ui = rgb { 146 179 191 }
+	color = rgb { 210 110 41 }
+	color_ui = rgb { 245 123 38 }
 }
 NZL = {
 	color = rgb { 152 130 191 }
@@ -243,8 +243,8 @@ PHI = {
 	color_ui = rgb { 198 169 248 }
 }
 PRU = {
-	color = rgb { 196 98 132 }
-	color_ui = rgb { 196 98 132 }
+	color = rgb { 168 50 59 }
+	color_ui = rgb { 168 50 59 }
 }
 SAF = {
 	color = rgb { 195 107 160 }

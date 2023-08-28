@@ -7,11 +7,10 @@ state={
 	state_category = city
 
 	history={
-		owner = SPR
+		owner = COL
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 3
-			air_base = 8
 			1572 = {
 				naval_base = 2
 			}
@@ -31,7 +30,7 @@ state={
 		add_core_of = FLO
 		add_claim_by = USA
 		add_claim_by = STR
-		add_core_of = SPR
+		add_core_of = COL
 		victory_points = {
 			1843 5 
 		}

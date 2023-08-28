@@ -1,7 +1,7 @@
 
 state={
 	id=313
-	name="STATE_313"
+	name="Santa Rosa"
 	manpower = 1771000
 	resources={
 		chromium=9 # was: 6

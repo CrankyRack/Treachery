@@ -37,6 +37,8 @@ set_autonomy = {
 		target = AST
 		autonomous_state = autonomy_dominion
 	}
+give_guarantee = ELS
+
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1

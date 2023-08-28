@@ -1,21 +1,27 @@
 
 state={
-	id=486
-	name="STATE_486"
-	manpower = 213160
+	id=1078
+	name="Tabatinga"
+	manpower = 29900
 	
 	state_category = pastoral
+	
+	resources={
+		rubber=3 # was: 4
+	}
 
 	history={
 		owner = COL
 		buildings = {
-			infrastructure = 1
+			infrastructure = 0
+
 		}
+		add_core_of = BRA
 		add_core_of = COL
 	}
 
 	provinces={
-		1887 2007 5026 10792 12729 12770 
+		8185 13083
 	}
 
 	local_supplies=0.0 

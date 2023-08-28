@@ -1,17 +1,19 @@
 state={
-	id=687
-	name="STATE_687"
-	manpower = 239000
+	id=1080
+	name="Guayana Esequiba"
+	manpower = 149000
 	
 	state_category = pastoral
 	
 	resources={
-		aluminium=30 # was: 112
+		aluminium=24 # was: 112
 	}
 
 	history={
 		add_core_of = GYA
-		owner = NIR
+		add_core_of = COL
+		add_claim_by = NIR
+		owner = COL
 		victory_points = {
 			4982 1
 		}
@@ -24,7 +26,7 @@ state={
 	}
 	
 	provinces={
-		4982 8107 
+		12716 
 	}
 
 	local_supplies=5.0 

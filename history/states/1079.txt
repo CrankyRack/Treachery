@@ -1,24 +1,28 @@
 
 state={
-	id=487
-	name="STATE_487"
-	manpower = 334500
+	id=1079
+	name="IDK NAME YET"
+	manpower = 9900
 	
 	state_category = pastoral
+	
+	resources={
+		#aluminium=4 # was: 4
+	}
 
 	history={
 		owner = BOL
 		buildings = {
-			infrastructure = 1
-			industrial_complex = 1
+			infrastructure = 0
+
 		}
+		add_core_of = BRA
 		add_core_of = BOL
 	}
 
 	provinces={
-		2160 8240 10924 12902 12916 12973 
+		5200
 	}
-	
 
 	local_supplies=0.0 
 }
