@@ -54,6 +54,8 @@ if = {
 	}
 }
 
+recruit_character = COL_king_carlos
+
 recruit_character = COL_alfonso_lópez_pumarejo
 recruit_character = COL_mariano_ospina_pérez
 recruit_character = COL_gustavo_rojas_pinilla
@@ -76,7 +78,7 @@ recruit_character = COL_ruben_piedrahita_arango
 recruit_character = COL_jose_ellis_quinsado
 recruit_character = COL_m_e_rojas_de_moreno
 recruit_character = COL_raphael_hollmann
-recruit_character = COL_jorge_lopez_suyo
+
 
 
 

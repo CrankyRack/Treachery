@@ -30,11 +30,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_FNA_general_bescond"
-		texturefile =  "gfx/leaders/FRA/FNA_general_bescond.dds"
+		texturefile =  "gfx/leaders/FRA/FNA_general_bescond.dds" 
 	}
 	spriteType = {
 		name = "GFX_PRE_frederich_III"
 		texturefile =  "gfx/leaders/PRE/PRE_frederich_III.dds"
+	}
+	spriteType = {
+		name = "GFX_COL_king_carlos"
+		texturefile =  "gfx/leaders/COL/COL_king_carlos.dds"
 	}
 	
 }

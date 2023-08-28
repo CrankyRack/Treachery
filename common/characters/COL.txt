@@ -1,0 +1,16 @@
+characters = {
+	COL_king_carlos = {
+		name="Carlos VII"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/COL/COL_king_carlos.dds"
+			}
+		}
+		country_leader = {
+			ideology=nazism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
