@@ -8,6 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology=nazism
+			desc = COL_KING_CARLOS_VII
 			traits = { the_criollo_king spainsh_king_in_exile }
 			expire="1965.1.1.1"
 			id=-1
