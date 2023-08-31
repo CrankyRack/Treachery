@@ -517,16 +517,6 @@ on_actions = {
 
 	on_startup = {
 		effect = {
-			#colonial oil concessions
-			if = {
-				limit = {
-					has_dlc = "Man the Guns"
-				}
-				MEX = {
-					give_resource_rights = { receiver = STA state = 479 }
-					give_resource_rights = { receiver = STA state = 378 }
-				}
-			}
 			# Game Rules - Decolonization
 			if = {
 				limit = {

@@ -1,0 +1,58 @@
+# Core or Claim:
+defined_text = {
+	name = GetCoreAndClaimMapModeTooltip
+
+	text = {
+		trigger = {
+			is_core_of = ROOT
+		}
+		localization_key = core_and_claim_map_mode_tt_core
+	}
+	text = {
+		trigger = {
+			is_owned_by = ROOT
+		}
+		localization_key = core_and_claim_map_mode_tt_owned
+	}
+	text = {
+		trigger = {
+			is_claimed_by = ROOT
+		}
+		localization_key = core_and_claim_map_mode_tt_claimed
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = ""
+	}
+}
+
+defined_text = {
+	name = GetCoreAndClaimMapModeTooltipDelayed
+
+	text = {
+		trigger = {
+			is_owned_by = ROOT
+			NOT = { is_controlled_by = ROOT }
+		}
+		localization_key = core_and_claim_map_mode_tt_occupied_by_enemy
+	}
+	text = {
+		trigger = {
+			OR = {
+				is_core_of = ROOT
+				is_claimed_by = ROOT
+			}
+			NOT = { is_owned_by = ROOT }
+			NOT = { is_controlled_by = ROOT }
+		}
+		localization_key = core_and_claim_map_mode_tt_core_not_owned
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = ""
+	}
+}

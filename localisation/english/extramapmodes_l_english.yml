@@ -1,0 +1,11 @@
+﻿l_english:
+ cores_and_claims_map_mode_name:0 "Cores And Claims"
+ cores_and_claims_map_mode_name:0 "Shows our Cores and Claims in different colours"
+ cores_and_claims_map_mode_tooltip:0 "[From.GetCoreAndClaimMapModeTooltip]"
+ cores_and_claims_map_mode_tooltip_delayed:0 "[From.GetCoreAndClaimMapModeTooltipDelayed]"
+ 
+ core_and_claim_map_mode_tt_core:0 "§Y[From.GetName]§! is our core state."
+ core_and_claim_map_mode_tt_owned:0 "§Y[From.GetName]§! is a non core state of ours"
+ core_and_claim_map_mode_tt_claimed:0 "We have a claim on §Y[From.GetName]§!"
+ core_and_claim_map_mode_tt_occupied_by_enemy:0 "§Y[From.GetName]§! is Occupied by an enemy nation."
+ core_and_claim_map_mode_tt_core_not_owned:0 "§Y[From.GetName]§! is owned by §Y[From.Owner.GetNameWithFlag]§!."
