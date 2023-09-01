@@ -1,6 +1,7 @@
 ﻿l_english:
- cores_and_claims_map_mode_name:0 "Cores And Claims"
- cores_and_claims_map_mode_name:0 "Shows our Cores and Claims in different colours"
+ MAPMODE_CORES_AND_CLAIMS_MAP_MODE:0 "Cores And Claims"
+ MAPMODE_CORES_AND_CLAIMS_MAP_MODE_NAME:0 "Cores And Claims"
+ MAPMODE_CORES_AND_CLAIMS_MAP_MODE_DESCRIPTION:0 "Shows our Cores and Claims in different colours"
  cores_and_claims_map_mode_tooltip:0 "[From.GetCoreAndClaimMapModeTooltip]"
  cores_and_claims_map_mode_tooltip_delayed:0 "[From.GetCoreAndClaimMapModeTooltipDelayed]"
  
