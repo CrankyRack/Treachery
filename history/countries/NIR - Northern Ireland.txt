@@ -34,6 +34,10 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 	}
 set_autonomy = {
+		target = BRP
+		autonomous_state = autonomy_colony
+	}
+set_autonomy = {
 		target = AST
 		autonomous_state = autonomy_dominion
 	}

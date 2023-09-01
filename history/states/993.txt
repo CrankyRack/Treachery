@@ -13,7 +13,7 @@ state=
 	
 	history=
 	{
-		owner = BOL
+		owner = PAR
 		victory_points = {
 			12798 10 
 		}
@@ -24,7 +24,7 @@ state=
 		}
 	}
 	provinces={
-		2195 2209 10944 10965 10973 10986 12922 12943 
+		2195 2209 12922 12943 
     }
 	local_supplies=0.0 
 }

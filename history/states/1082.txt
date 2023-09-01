@@ -1,0 +1,30 @@
+state={
+	id=1082
+	name="Formosa"
+	manpower = 273000
+	
+	state_category = pastoral
+	
+	resources={
+		oil=1 # was: 112
+	}
+
+	history={
+		add_core_of = PAR
+		add_core_of = ARG
+		add_core_of = BOL
+		owner = ARG
+		victory_points = {
+			4982 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		10944 10965 10986
+	}
+
+	local_supplies=5.0 
+}

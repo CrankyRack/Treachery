@@ -1,0 +1,30 @@
+state={
+	id=1081
+	name="Jujuy"
+	manpower = 149000
+	
+	state_category = pastoral
+	
+	resources={
+		steel=10 # was: 112
+	}
+
+	history={
+		add_core_of = BOL
+		add_core_of = ARG
+		add_core_of = LAP
+		owner = LAP
+		victory_points = {
+			4982 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	
+	provinces={
+		2224 11001 
+	}
+
+	local_supplies=5.0 
+}

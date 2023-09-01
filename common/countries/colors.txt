@@ -1112,3 +1112,11 @@ NEW = {
 	color = rgb { 72 113 160 }
 	color_ui = rgb { 72 113 160 }
 }
+LAP = {
+	color = rgb { 158 50 50 }
+	color_ui = rgb { 158 50 50 }
+}
+BRP = {
+	color = rgb { 168 14 11 }
+	color_ui = rgb { 168 14 11 }
+}
