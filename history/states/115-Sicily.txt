@@ -4,7 +4,7 @@ state = {
 	name = "STATE_115"
 
 	history = {
-		owner = TTS
+		owner = SIC
 		victory_points = {
 			10074 20 
 		}
@@ -20,7 +20,6 @@ state = {
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			air_base = 10
 			dockyard = 1
 			10074 = {
 				naval_base = 2
@@ -40,7 +39,8 @@ state = {
 			}
 
 		}
-		add_core_of = TTS
+		add_core_of = SIC
+		add_claim_by = TTS
 
 	}
 

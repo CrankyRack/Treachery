@@ -1,0 +1,33 @@
+state={
+	id=1084
+	name="Piombino"
+	manpower = 73000
+	
+	state_category = town
+	
+	resources={
+		#oil=1 # was: 112
+	}
+
+	history={
+		add_core_of = LSS
+		add_core_of = ITA
+		add_core_of = TOS
+		owner = LSS
+		victory_points = {
+			11833 1
+		}
+		buildings = {
+			infrastructure = 1
+			11833 = {
+				naval_base = 3
+			}
+		}
+	}
+	
+	provinces={
+		11833
+	}
+
+	local_supplies=5.0 
+}

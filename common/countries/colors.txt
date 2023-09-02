@@ -892,8 +892,8 @@ LBV = {
 	color_ui = rgb { 196 35 39 }
 }
 PAP = {
-	color = rgb { 255 255 204 }
-	color_ui = rgb { 255 255 26 }
+	color = rgb { 190 90 31 }
+	color_ui = rgb { 190 90 31 }
 }
 TOS = {
 	color = rgb { 72 113 160 }
@@ -904,8 +904,8 @@ SPM = {
 	color_ui = rgb { 196 98 132 }
 }
 TTS = {
-	color = hsv { 0.1 0.47 0.8 } #255 180 136
-	color_ui = rgb { 255 234 177 }
+	color = rgb { 115 79 145 }
+	color_ui = rgb { 89 68 107 }
 }
 BAD = {
 	color = rgb { 190 145 56 }
@@ -1119,4 +1119,8 @@ LAP = {
 BRP = {
 	color = rgb { 168 14 11 }
 	color_ui = rgb { 168 14 11 }
+}
+SIC = {
+	color = hsv { 0.1 0.47 0.8 } #255 180 136
+	color_ui = rgb { 255 234 177 }
 }

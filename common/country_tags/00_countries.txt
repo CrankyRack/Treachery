@@ -291,6 +291,7 @@ BNJ = "countries/banjang.txt"
 NEW = "countries/new_holland.txt"
 LAP = "countries/lapaz.txt"
 BRP = "countries/patagonia.txt"
+SIC = "countries/sicily.txt"
 
 ADR = "countries/adrar.txt"
 KUT = "countries/kuti.txt"

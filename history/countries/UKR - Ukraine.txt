@@ -4,6 +4,8 @@ oob = "UKR_1936"
 
 set_research_slots = 3
 
+recruit_character = UKR_Yurii_Bernadotte
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -81,56 +83,17 @@ if = {
 		basic_torpedo = 1
 	}
 }
-
+set_politics = {
+	ruling_party = neutrality
+	last_election = "1934.3.26"
+	election_frequency = 60
+	elections_allowed = no
+}
 set_popularities = {
 	democratic = 20
 	fascism = 30
-	communism = 50
+	neutrality = 50
 }
-
-create_country_leader = {
-	name = "Kost Levytsky"
-	desc = ""
-	picture = GFX_portrait_Kost_Levytsky
-	expire = "1953.3.1"
-	ideology = conservatism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Nikita Sergeyevich Khrushchyov"
-	desc = ""
-	picture = GFX_portrait_Nikita_Sergeyevich_Khrushchyov
-	expire = "1953.3.1"
-	ideology = marxism
-	traits = {
-		
-	}
-}
-
-create_country_leader = {
-	name = "Stepan Bandera"
-	desc = ""
-	picture = GFX_portrait_Stepan_Bandera
-	expire = "1953.3.1"
-	ideology = fascism_ideology
-	traits = {
-		
-	}
-}
-
-#create_country_leader = {
-#	name = ""
-#	desc = ""
-#	picture = ""
-#	expire = "1953.3.1"
-#	ideology = oligarchism
-#	traits = {
-#		
-#	}
-#}
 
 
 

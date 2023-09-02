@@ -40,5 +40,13 @@ spriteTypes = {
 		name = "GFX_COL_king_carlos"
 		texturefile =  "gfx/leaders/COL/COL_king_carlos.dds"
 	}
+	spriteType = {
+	name = "GFX_TTS_Joachim_III"
+	texturefile =   "gfx/leaders/TTS/TTS_Joachim_III.dds" 
+	}
+	spriteType = {
+		name = "GFX_UKR_Yurii_Bernadotte"
+		texturefile =   "gfx/leaders/UKR/UKR_Yurii_Bernadotte.dds"
+	}
 	
 }

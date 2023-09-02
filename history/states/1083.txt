@@ -1,0 +1,28 @@
+state=
+{
+	id=1083
+	name="Elba"
+	manpower = 46988
+	
+	state_category = small_island
+	
+	history=
+	{
+		owner = LSS
+		add_core_of = LSS
+		add_core_of = ITA
+		add_core_of = TOS
+		add_core_of = COR
+		buildings = {
+			infrastructure = 3 #was: 6
+			9851 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces={
+		9851
+	}
+
+	local_supplies=0.0 
+}
