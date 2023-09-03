@@ -1,6 +1,7 @@
 ﻿capital = 162
 
 
+recruit_character = TOS_king_louis_IV
 
 set_research_slots = 3
 set_stability = 0.5

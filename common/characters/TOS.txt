@@ -1,0 +1,16 @@
+characters = {
+	TOS_king_louis_IV = {
+		name="Louis IV Bourbon-Parma"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/TOS/TOS_king_louis_IV.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

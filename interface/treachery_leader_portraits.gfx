@@ -34,7 +34,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_PRE_frederich_III"
-		texturefile =  "gfx/leaders/PRE/PRE_frederich_III.dds"
+		texturefile =  "gfx/leaders/PRE/PRE_frederich_III.dds" 
 	}
 	spriteType = {
 		name = "GFX_COL_king_carlos"
@@ -47,6 +47,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_UKR_Yurii_Bernadotte"
 		texturefile =   "gfx/leaders/UKR/UKR_Yurii_Bernadotte.dds"
+	}
+	spriteType = {
+		name = "GFX_TOS_king_louis_IV"
+		texturefile =   "gfx/leaders/TOS/TOS_king_louis_IV.dds"
 	}
 	
 }
