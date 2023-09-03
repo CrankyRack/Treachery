@@ -1,0 +1,25 @@
+
+state={
+	id=1085
+	name="Wallis"
+	manpower = 367296
+	resources={
+		steel=5 # was: 28 #CarloTODO
+	}
+	state_category = town
+	history={
+		owner = FRA
+		victory_points = { 6666 5 }
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = SCH
+		add_core_of = FRA
+	}
+	provinces={
+		636 3612
+	}
+	local_supplies=0.0 
+}
