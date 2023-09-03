@@ -1,0 +1,24 @@
+
+state={
+	id=1087
+	name="Schaffhausen"
+	manpower = 237296
+	resources={
+		steel=4 
+	}
+	state_category = town
+	history={
+		owner = SCH
+		victory_points = { 11640 3 }
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		add_core_of = SCH
+		add_core_of = BAD
+	}
+	provinces={
+		11640
+	}
+	local_supplies=0.0 
+}

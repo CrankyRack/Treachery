@@ -924,8 +924,8 @@ ALC = {
 	color_ui = rgb { 105 105 105 }
 }
 SCH = {
-	color = rgb { 62  68  127 }
-	color_ui = rgb { 62  68  127 }
+	color = rgb { 224 5 5 }
+	color_ui = rgb { 193 81 81 }
 }
 BRU = {
 	color = rgb { 255 0 0 }

@@ -1,6 +1,6 @@
 characters = {
 	TTS_Joachim_III = {
-		name="Joachim Murat III"
+		name="Joachim III Murat"
 		portraits = {
 			civilian = {
 				large="gfx/leaders/TTS/TTS_Joachim_III.dds"

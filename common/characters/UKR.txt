@@ -1,6 +1,6 @@
 characters = {
 	UKR_Yurii_Bernadotte = {
-		name="Yurii Bernadotte I"
+		name="Yurii I Bernadotte"
 		portraits = {
 			civilian = {
 				large="gfx/leaders/UKR/UKR_Yurii_Bernadotte.dds"

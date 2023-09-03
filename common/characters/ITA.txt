@@ -10,7 +10,7 @@ characters = {
 
 
 	ITA_benito_mussolini = {
-		name = "Quinton of Corsica"
+		name = "Eugène II de Beauharnais"
 		portraits = {
 			civilian = {
 				large = GFX_portrait_ITA_benito_mussolini
@@ -19,7 +19,7 @@ characters = {
 
 		country_leader = {
 			ideology = fascism_ideology
-			traits = { il_duce }
+			traits = { #il_duce }
 			expire = "1965.1.1.1"
 			id = -1
 		}
