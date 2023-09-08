@@ -3,7 +3,7 @@ state={
 	name="STATE_770"
 
 	history={
-		owner = BEG
+		owner = DAH
 		add_core_of = MLW
 		victory_points = {
 			12986 1 
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		12908 12986 
+		12950 12986 
 	}
 	manpower=1603975
 	buildings_max_level_factor=1.000

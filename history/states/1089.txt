@@ -1,0 +1,27 @@
+
+state={
+	id=1089
+	name="Georgetown"
+	manpower = 2137296
+	resources={
+		rubber=2 
+	}
+	state_category = rural
+	history={
+		owner = DAH
+		victory_points = { 2202 3 }
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			2202 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = TZN
+		add_core_of = MZB
+	}
+	provinces={
+		2202 2217
+	}
+	local_supplies=0.0 
+}

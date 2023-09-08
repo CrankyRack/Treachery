@@ -1,0 +1,27 @@
+
+state={
+	id=1088
+	name="Port Edward"
+	manpower = 1237296
+	resources={
+		rubber=4 
+	}
+	state_category = town
+	history={
+		owner = DAH
+		victory_points = { 8193 3 }
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			12975 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = DAH
+		add_core_of = COG
+	}
+	provinces={
+		12975 8193
+	}
+	local_supplies=0.0 
+}

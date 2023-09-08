@@ -1,0 +1,26 @@
+
+state={
+	id=1090
+	name="UNNAMED"
+	manpower = 437296
+	resources={
+		steel=8 
+	}
+	state_category = rural
+	history={
+		owner = SAF
+		victory_points = { 8202 1 }
+		buildings = {
+			infrastructure = 2
+			8202 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = SID
+		add_core_of = NMB
+	}
+	provinces={
+		8202
+	}
+	local_supplies=0.0 
+}
