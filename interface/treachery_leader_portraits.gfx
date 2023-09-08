@@ -46,11 +46,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_UKR_Yurii_Bernadotte"
-		texturefile =   "gfx/leaders/UKR/UKR_Yurii_Bernadotte.dds"
+		texturefile =   "gfx/leaders/UKR/UKR_Yurii_Bernadotte.dds" 
 	}
 	spriteType = {
 		name = "GFX_TOS_king_louis_IV"
 		texturefile =   "gfx/leaders/TOS/TOS_king_louis_IV.dds"
+	}
+	spriteType = {
+		name = "GFX_LSS_princess_maria"
+		texturefile =   "gfx/leaders/LSS/LSS_princess_maria.dds"
 	}
 	
 }

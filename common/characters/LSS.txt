@@ -1,0 +1,16 @@
+characters = {
+	LSS_princess_maria = {
+		name="Maria Letizia Bonaparte"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/LSS/LSS_princess_maria.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
