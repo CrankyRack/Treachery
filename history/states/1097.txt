@@ -1,0 +1,22 @@
+
+state={
+	id=1097
+	name="Bantwana"
+	manpower = 183296
+	resources={
+		#steel=3 
+	}
+	state_category = pastoral
+	history={
+		owner = BAT
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BAM
+		add_core_of = BAT
+	}
+	provinces={
+		1580
+	}
+	local_supplies=0.0 
+}

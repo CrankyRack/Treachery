@@ -3,10 +3,19 @@ state={
 	
 	state_category = pastoral
 	
-	name="STATE_545"
+	name="Mthwakazi"
+	resources={
+		tungsten=3 
+		rubber=4
+	}
 
 	history={
-		owner = SAF
+		owner = ZIM
+		victory_points = { 4851 1 }
+		set_province_name = {
+			id = 4851
+			name = "Bulawayo"
+		}
 		buildings = {
 			infrastructure = 2
 
@@ -15,12 +24,13 @@ state={
 			10929 1 
 		}
 		add_core_of = ZIM
+		add_claim_by = ROZ
 	}
 
 	provinces={
-		2151 4851 7842 10929
+		2151 4851
 	}
-	manpower=1171336
+	manpower=671336
 	buildings_max_level_factor=1.000
 
 	local_supplies=3.0 

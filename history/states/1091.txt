@@ -1,0 +1,26 @@
+
+state={
+	id=1091
+	name="Oranje-Vrystaat"
+	manpower = 937296
+	resources={
+		steel=8 
+	}
+	state_category = town
+	history={
+		owner = ORA
+		victory_points = { 12648 1 }
+			set_province_name = {
+			id = 12648
+			name = "Bloemfontein"
+		}
+		buildings = {
+			infrastructure = 3
+		}
+		add_core_of = ORA
+	}
+	provinces={
+		5231 12064 12648
+	}
+	local_supplies=0.0 
+}

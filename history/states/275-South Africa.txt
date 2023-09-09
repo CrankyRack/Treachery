@@ -12,21 +12,20 @@ state={
 	}
 
 	history={
-		owner = SAF
+		owner = TRS
 		buildings = {
 			infrastructure = 3 #was: 5
-			arms_factory = 1
-			industrial_complex = 5
-			air_base = 3
+			arms_factory = 2
+			industrial_complex = 3
 		}
 		victory_points = {
 			10400 10
 		}
-		add_core_of = SAF
+		add_core_of = TRS
 	}
 
 	provinces={
-		1688 2171 2213 5106 5217 5231 10400 10566 10668 12064 12648 
+		1688 2171 2213 5106 5217 10400 10566 
 	}
 
 	local_supplies=0.0 

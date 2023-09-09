@@ -5,7 +5,10 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = SAF
+		owner = SSV
+		victory_points = {
+			4879 1 
+		}
 		buildings = {
 			infrastructure = 2
 
@@ -15,7 +18,7 @@ state={
 
 	}
 	provinces={
-		10957 10978 
+		4879 7770 10957 10978 12921
 	}
 	
 	buildings_max_level_factor=1.000

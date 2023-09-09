@@ -1,0 +1,29 @@
+
+state={
+	id=1095
+	name="Danangombe"
+	manpower = 321811
+	resources={
+		steel=2 
+		rubber=1
+	}
+	state_category = pastoral
+	history={
+		owner = ROZ
+		victory_points = { 7842 1 }
+		set_province_name = {
+			id = 7842
+			name = "Danangombe"
+	    }
+
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = ROZ
+		add_claim_by = ZIM
+	}
+	provinces={
+		7842 10929
+	}
+	local_supplies=0.0 
+}

@@ -41,6 +41,10 @@ set_autonomy = {
 		target = AST
 		autonomous_state = autonomy_dominion
 	}
+set_autonomy = {
+		target = SAF
+		autonomous_state = autonomy_colony
+	}
 give_guarantee = ELS
 
 set_technology = {

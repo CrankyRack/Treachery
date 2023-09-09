@@ -1,0 +1,22 @@
+
+state={
+	id=1098
+	name="Gaborone"
+	manpower = 73296
+	resources={
+		#steel=3 
+	}
+	state_category = pastoral
+	history={
+		owner = BOT
+		victory_points = { 8214 1 }
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BOT
+	}
+	provinces={
+		8214
+	}
+	local_supplies=0.0 
+}

@@ -472,12 +472,12 @@ KEN = {
 	color_ui = rgb { 145 103 14 }
 }
 ZIM = {
-	color = rgb { 7 7 239 }
-	color_ui = rgb { 7 7 239 }
+	color = rgb { 204 155 59 }
+	color_ui = rgb { 204 155 59 }
 }
 BOT = {
-	color = rgb { 11 132 112 }
-	color_ui = rgb { 11 132 112 }
+	color = rgb { 168 14 11 }
+	color_ui = rgb { 168 14 11 }
 }
 PAK = {
 	color = rgb { 21 38 66 }
@@ -1123,4 +1123,44 @@ BRP = {
 SIC = {
 	color = hsv { 0.1 0.47 0.8 } #255 180 136
 	color_ui = rgb { 255 234 177 }
+}
+ORA = {
+	color = rgb { 219 125 30 }
+	color_ui = rgb { 191 109 26 }
+}
+TRS = {
+	color = rgb { 11 132 112 }
+	color_ui = rgb { 11 132 112 }
+}
+SBS = {
+	color = rgb { 42 66 132 }
+	color_ui = rgb { 42 66 132 }
+}
+ZUL = {
+	color = rgb { 137 42 53 }
+	color_ui = rgb { 137 42 53 }
+}
+SSV = {
+	color = rgb { 30 84 120 }
+	color_ui = rgb { 30 84 120 }
+}
+BAT = {
+	color = rgb { 30 84 120 }
+	color_ui = rgb { 30 84 120 }
+}
+ROZ = {
+	color = rgb { 114 47 55 }
+	color_ui = rgb { 114 47 55 }
+}
+BAM = {
+	color = rgb { 255 212 128 }
+	color_ui = rgb { 255 212 128 }
+}
+TSW = {
+	color = rgb { 76 122 17 }
+	color_ui = rgb { 76 122 17 }
+}
+NAM = {
+	color = rgb { 168 14 11 }
+	color_ui = rgb { 168 14 11 }
 }

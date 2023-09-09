@@ -6,18 +6,19 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = SAF
+		owner = BAT
 		buildings = {
 			infrastructure = 2
 
 		}
 		
 		add_core_of = NMB
+		add_core_of = BAT
 
 	}
 
 	provinces={
-		8136 12519 12921 13217 
+		8136 12519 13217 
 	}
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

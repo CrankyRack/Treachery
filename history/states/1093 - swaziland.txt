@@ -1,0 +1,27 @@
+
+state={
+	id=1093
+	name="Swaziland"
+	manpower = 183296
+	resources={
+		#steel=3 
+	}
+	state_category = town
+	history={
+		owner = TRS
+		victory_points = { 7900 1 }
+			set_province_name = {
+			id = 7900
+			name = "Bremersdorp"
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = ZUL
+		add_core_of = TRS
+	}
+	provinces={
+		7900
+	}
+	local_supplies=0.0 
+}

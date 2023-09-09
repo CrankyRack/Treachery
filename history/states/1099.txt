@@ -1,0 +1,22 @@
+
+state={
+	id=1099
+	name="Bechuanaland"
+	manpower = 17296
+	resources={
+		steel=6 
+	}
+	state_category = pastoral
+	history={
+		owner = BOT
+
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = BOT
+	}
+	provinces={
+		1509 5203 10668
+	}
+	local_supplies=0.0 
+}
