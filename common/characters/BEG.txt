@@ -1,6 +1,6 @@
 characters = {
 	BEG_frederik_hillingso = {
-		name="Frederik Hillingsø"
+		name="Joaquim José Machado"
 		portraits = {
 			civilian = {
 				large="gfx/leaders/BEG/BEG_frederik_hillingso.dds"
