@@ -51,6 +51,10 @@ spriteTypes = {
 		name = "GFX_idea_DEN_union_with_brandenburg"
 		texturefile = "gfx/interface/ideas/DEN_union_with_brandenburg.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_MAD_british_support"
+		texturefile = "gfx/interface/ideas/MAD_british_support.dds"  
+	}
 
 	### new tfv nat spirit icons
 	

@@ -1164,3 +1164,15 @@ NAM = {
 	color = rgb { 168 14 11 }
 	color_ui = rgb { 168 14 11 }
 }
+ONI = {
+	color = rgb { 0 102 0 }
+	color_ui = rgb { 0 102 0 }
+}
+ZAF = {
+	color = rgb { 206 97 123 }
+	color_ui = rgb { 255 120 138 }
+}
+MAD = {
+	color = rgb { 112 67 58 }
+	color_ui = rgb { 112 67 58 }
+}

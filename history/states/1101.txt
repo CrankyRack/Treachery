@@ -1,0 +1,27 @@
+
+state={
+	id=1101
+	name="Île Sainte-Marie"
+
+	history={
+		owner = FRA
+		buildings = {
+			infrastructure = 3
+			13258 = {
+				naval_base = 5
+			}
+
+		}
+		add_core_of = MAD
+
+	}
+
+	provinces={
+		13258
+	}
+	manpower=53100
+	buildings_max_level_factor=1.000
+	state_category=small_island
+
+	local_supplies=0.0 
+}

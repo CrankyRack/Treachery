@@ -1,0 +1,32 @@
+state={
+	id=1102
+	name="Antisiranana"
+	manpower = 149000
+	
+	state_category = pastoral
+	
+	resources={
+		rubber=3 # was: 112
+	}
+
+	history={
+		add_core_of = MAD
+		add_claim_by = OMA
+		owner = FRA
+		victory_points = {
+			13260 2
+		}
+		buildings = {
+			infrastructure = 1
+			13260 = {
+				naval_base = 2
+			}
+		}
+	}
+	
+	provinces={
+		13259 13260
+	}
+
+	local_supplies=5.0 
+}

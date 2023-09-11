@@ -1,0 +1,16 @@
+characters = {
+	MAD_queen_ranavalona = {
+		name="Ranavalona III Hova"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/MAD/MAD_queen_ranavalona.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

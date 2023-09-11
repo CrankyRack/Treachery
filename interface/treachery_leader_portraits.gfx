@@ -54,11 +54,19 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_LSS_princess_maria"
-		texturefile =   "gfx/leaders/LSS/LSS_princess_maria.dds"
+		texturefile =   "gfx/leaders/LSS/LSS_princess_maria.dds" 
 	}
 	spriteType = {
 		name = "GFX_POR_king_carlos_I"
-		texturefile =  "gfx/leaders/POR/POR_king_carlos_I.dds"
+		texturefile =  "gfx/leaders/POR/POR_king_carlos_I.dds" 
+	}
+	spriteType = {
+		name = "GFX_MAD_queen_ranavalona"
+		texturefile =  "gfx/leaders/MAD/MAD_queen_ranavalona.dds"
+	}
+	spriteType = {
+		name = "GFX_DAH_Percy_Girouard"
+		texturefile =  "gfx/leaders/NIR/DAH_Percy_Girouard.dds"
 	}
 	
 }

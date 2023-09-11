@@ -1,0 +1,15 @@
+characters={
+	DAH_Percy_Girouard={
+		name="Sir Percy Girouard"
+		portraits={
+			civilian={
+				large="gfx/leaders/NIR/DAH_Percy_Girouard.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

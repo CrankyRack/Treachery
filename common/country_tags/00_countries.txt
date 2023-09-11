@@ -302,6 +302,8 @@ BAM = "countries/bamangwato.txt"
 TSW = "countries/Tswana.txt"
 NAM = "countries/namaland.txt"
 BAT = "countries/batswana.txt"
+ONI = "countries/oniland.txt"
+ZAF = "countries/zafiland.txt"
 
 ADR = "countries/adrar.txt"
 KUT = "countries/kuti.txt"
