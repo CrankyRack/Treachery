@@ -12,8 +12,9 @@ state=
 
 	history={
 		add_core_of = SRL
-		add_core_of = KOS
-		owner = KOS
+		add_core_of = MAL
+		add_claim_by = INS
+		owner = MAL
 		victory_points = {
 			10201 3 
 		}

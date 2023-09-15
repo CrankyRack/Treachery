@@ -1,0 +1,28 @@
+state=
+{
+	id = 1105
+	name = "Geledi"
+	manpower = 171671# was 1028895
+	resources = {
+		#steel = 1
+	}
+	
+	state_category = rural
+	
+	history={
+		owner = GEL
+		add_core_of = SOM
+		add_core_of = GEL
+		victory_points = {
+			12991 3 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	provinces = {
+		2063
+	}
+
+	local_supplies=0.0 
+}

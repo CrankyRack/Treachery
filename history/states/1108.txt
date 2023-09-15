@@ -1,0 +1,30 @@
+state=
+{
+	id=1108
+	name="Malao"
+	manpower = 261208
+	
+	state_category = enclave
+	
+	history= {
+		victory_points = { 
+			10833 1
+		}
+		victory_points = { 
+			10777 1
+		}
+		owner = MLO
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 2
+			10833 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		10777 10833 12759
+	}
+
+	local_supplies=0.0 
+}

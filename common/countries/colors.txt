@@ -1176,3 +1176,19 @@ MAD = {
 	color = rgb { 112 67 58 }
 	color_ui = rgb { 112 67 58 }
 }
+SOM = {
+	color = rgb { 46 107 107 }
+	color_ui = rgb { 46 107 107 }
+}
+GEL = {
+	color = rgb { 247 133 39 }
+	color_ui = rgb { 247 133 39 }
+}
+HOB = {
+	color = rgb { 106 100 95 }
+	color_ui = rgb { 106 100 95 }
+}
+MLO = {
+	color = rgb { 93 181 227 }
+	color_ui = rgb { 121 235 255 }
+}

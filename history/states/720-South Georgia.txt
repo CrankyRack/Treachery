@@ -6,7 +6,7 @@ state={
 	
 	history=
 	{
-		owner = ENG
+		owner = BRP
 		buildings = {
 			infrastructure = 1
 			10995 = {
@@ -14,6 +14,7 @@ state={
 			}
 		}
 		add_claim_by = ARG
+		add_core_of = BRP
 	}
 	
 	provinces={
