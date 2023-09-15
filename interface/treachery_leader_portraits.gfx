@@ -62,11 +62,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_MAD_queen_ranavalona"
-		texturefile =  "gfx/leaders/MAD/MAD_queen_ranavalona.dds"
+		texturefile =  "gfx/leaders/MAD/MAD_queen_ranavalona.dds" 
 	}
 	spriteType = {
 		name = "GFX_DAH_Percy_Girouard"
 		texturefile =  "gfx/leaders/NIR/DAH_Percy_Girouard.dds"
+	}
+	spriteType = {
+		name = "GFX_WES_William_Merlaud_Ponty"
+		texturefile =  "gfx/leaders/FRA/WES_William_Merlaud_Ponty.dds"
 	}
 	
 }
