@@ -1,0 +1,29 @@
+state={
+	id=1113
+	name="Tidore"
+	manpower = 314300
+	resources={
+		rubber=8.000
+	}
+
+	state_category = pastoral
+
+	history= {
+		owner = TID
+		add_core_of = TID
+		victory_points = {
+			7413 1 
+		}
+		buildings = {
+			infrastructure = 2
+			7413 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces={
+		1419 7413 10141
+	}
+
+	local_supplies=1.0 
+}

@@ -1,12 +1,12 @@
 state=
 {
 	id=648
-	name="STATE_648"
+	name="Sebastián López"
 	state_category = tiny_island
 	manpower=42
 	history=
 	{
-		owner = SPR
+		owner = PHI
 		add_core_of = GUM
 		buildings = {
 			infrastructure = 2

@@ -1,0 +1,16 @@
+characters = {
+	GDL_Parfait_monteil = {
+		name="Parfait-Louis Monteil"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/FRA/GDL_Parfait_monteil.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,26 @@
+state={
+	id=1111
+	name="Fak-Fak"
+	manpower = 74300
+	resources={
+		rubber=2.000
+	}
+
+	state_category = pastoral
+
+	history= {
+		owner = TID
+		add_core_of = TID
+		victory_points = {
+			#4468 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces={
+		1546 4509 7269 7529 7542 7585 10369 12386
+	}
+
+	local_supplies=1.0 
+}

@@ -104,7 +104,7 @@ set_convoys = 80
 
 if = { 
 	limit = { has_dlc = "Battle for the Bosporus" }
-	recruit_character = GRE_konstantinos_demertzis
+	recruit_character = GRE_otto_III
 	recruit_character = GRE_nikos_zachariadis
 	recruit_character = GRE_george_mercouris
 	recruit_character = GRE_alexandros_papagos
@@ -146,7 +146,7 @@ if = {
 
 if = {
 	limit = { NOT = { has_dlc = "Battle for the Bosporus" } }
-	recruit_character = GRE_ioannis_metaxas
+	recruit_character = GRE_otto_III
 	recruit_character = GRE_markos_vafiadis
 	recruit_character = GRE_konstantinos_tsaldaris
 	recruit_character = GRE_georgios_kosmidis

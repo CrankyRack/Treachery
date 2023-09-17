@@ -1,0 +1,32 @@
+state={
+	id=1115
+	name="Shanghai"
+	manpower = 3344300
+	resources={
+		#steel=2.000
+	}
+
+	state_category = city
+
+	history= {
+		owner = MAL
+		add_core_of = MAN
+		victory_points = {
+			7014 20 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			7014 = {
+				naval_base = 6
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+	}
+	provinces={
+		7014 12076
+	}
+
+	local_supplies=1.0 
+}

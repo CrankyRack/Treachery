@@ -1,0 +1,30 @@
+state={
+	id=1110
+	name="Sorong"
+	manpower = 214300
+	resources={
+		rubber=5.000
+		oil=1.000
+	}
+
+	state_category = pastoral
+
+	history= {
+		owner = TID
+		add_core_of = TID
+		victory_points = {
+			4468 1 
+		}
+		buildings = {
+			infrastructure = 2
+			4468 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		4468 4524 7487 7512 12315
+	}
+
+	local_supplies=1.0 
+}

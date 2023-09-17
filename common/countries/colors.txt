@@ -99,8 +99,8 @@ TUR = {
 	color_ui = rgb { 169 17 1 }
 }
 GRE = {
-	color = rgb { 93 181 227 }
-	color_ui = rgb { 121 235 255 }
+	color = rgb { 107 147 206 }
+	color_ui = rgb { 107 147 206 }
 }
 ALB = {
 	color = rgb { 72 113 160 }
@@ -1189,6 +1189,10 @@ HOB = {
 	color_ui = rgb { 106 100 95 }
 }
 MLO = {
-	color = rgb { 93 181 227 }
-	color_ui = rgb { 121 235 255 }
+	color = rgb { 107 147 206 }
+	color_ui = rgb { 107 147 206 }
+}
+TID = {
+	color = rgb { 72 113 160 }
+	color_ui = rgb { 72 113 160 }
 }
