@@ -11,7 +11,7 @@ state={
 	state_category = city
 
 	history={
-		owner = BUL
+		owner = KNT
 		victory_points = { #Sofia
 			949 15 
 		}
@@ -25,6 +25,7 @@ state={
 		}
 		add_core_of = BUL
 		add_core_of = KNT
+		add_claim_by = TUR
 	}
 
 	provinces={

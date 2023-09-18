@@ -1,17 +1,18 @@
 
 state={
 	id=390
-	name="STATE_390"
+	name="Dakota"
 	manpower = 692849
 	state_category = rural
 
 	history={
-		owner = GRC
+		owner = WAA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = GRC
+		add_core_of = WAA
+		add_claim_by = GRC
 		victory_points = {
 			1747 1 
 		}
@@ -19,7 +20,7 @@ state={
 	}
 
 	provinces={
-		1747 1875 3750 4839 4880 7745 7771 7862 10569 10595 12620 12667 
+		1747 1875 3750 4759 4839 6722 7745 7771 7877 12566 
 	}
 
 	local_supplies=0.0 

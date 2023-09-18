@@ -308,6 +308,7 @@ MLO = "countries/malao.txt"
 GEL = "countries/geledi.txt"
 HOB = "countries/hobyo.txt"
 TID = "countries/Tidore.txt"
+WAA = "countries/Waakhispiistak.txt"
 
 ADR = "countries/adrar.txt"
 KUT = "countries/kuti.txt"

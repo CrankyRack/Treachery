@@ -10,7 +10,7 @@ state=
 	
 	
 	history={
-		owner = FRA
+		owner = TTS
 		victory_points = {
 			10203 1 
 		}

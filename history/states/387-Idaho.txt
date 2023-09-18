@@ -7,9 +7,9 @@ state={
 	state_category = rural
 	
 	resources={
-		steel=18 # was: 32
+		steel=10 # was: 32
 		chromium=1 # was: 2
-		tungsten=18 # was: 34
+		tungsten=6 # was: 34
 	}
 
 	history={
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		1736 1789 1832 3781 4778 4838 6742 7688 7845 7888 9616 9695 10556 10602 10672 12124 12535 12607 12651 12676
+		1736 1789 1832 3781 4778 4838 6742 7845 9616 10556 10602 10672 12124 12651 12676
 	}
 	
 

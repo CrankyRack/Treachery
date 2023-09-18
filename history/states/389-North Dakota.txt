@@ -1,7 +1,7 @@
 
 state={
 	id=389
-	name="STATE_389"
+	name="Rivière Rouge"
 	manpower = 680844
 	state_category = rural
 	resources={
@@ -10,12 +10,13 @@ state={
 	}
 
 	history={
-		owner = GRC
+		owner = IOW
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = GRC
+		add_core_of = IOW
+		add_claim_by = GRC
 		victory_points = {
 			1836 1 
 		}
@@ -23,7 +24,7 @@ state={
 	}
 
 	provinces={
-		1836 4759 4772 6722 7877 10709 12566 
+		1836 4772 4880 7862 10569 10595 10709 12620 12667 
 	}
 
 	local_supplies=9.0 

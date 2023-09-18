@@ -22,7 +22,7 @@ state={
 			9888 1
 		}
 		victory_points = { #Shumen
-			9769 1
+			9862 1
 		}
 		buildings = {
 			infrastructure = 2

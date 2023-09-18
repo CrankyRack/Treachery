@@ -2,17 +2,18 @@
 state={
 	id=384
 	name="STATE_384"
-	manpower = 1377962
+	manpower = 377962
 	
-	state_category = large_town
+	state_category = rural
 
 	history={
-		owner = GRC
+		owner = WAA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = GRC
+		add_core_of = WAA
+		add_claim_by = GRC
 		victory_points = {
 			12586 1 
 		}

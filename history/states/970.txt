@@ -11,7 +11,7 @@ state=
 	{
 		owner = MAC
 		victory_points = { 6814 2 }
-		add_core_of = TUR
+		add_claim_by = TUR
 		add_core_of = ALB
 		add_core_of = GRE
 		add_core_of = MAC
@@ -21,7 +21,7 @@ state=
 		}
 	}
 	provinces={
-		841 3980
+		841 3980 9837
 	}
 
 	local_supplies=0.0 

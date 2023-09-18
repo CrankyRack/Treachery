@@ -4682,6 +4682,10 @@
  TID_DEF:0 "the Sultanate of Tidore"
  TID_ADJ:0 "Tidoran"
  
+ WAA:0 "Waakhispiistak Confederation"
+ WAA_DEF:0 "the Waakhispiistak Confederation"
+ WAA_ADJ:0 "Waakhispiistaki"
+ 
  SSV:0 "Sydvästafrika"
  SSV_DEF:0 "the Republic of Sydvästafrika"
  SSV_ADJ:0 "Sydvästafrikan"

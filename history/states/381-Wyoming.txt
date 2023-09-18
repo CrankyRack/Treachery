@@ -4,13 +4,17 @@ state={
 	name="STATE_381"
 	manpower = 225564
 	state_category = rural
+	resources={
+		steel=15 # was: 42
+	}
 	
 	history={
-		owner = GRC
+		owner = WAA
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = GRC
+		add_core_of = WAA
+		add_claim_by = GRC
 	}
 
 	provinces={

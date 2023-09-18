@@ -1,0 +1,29 @@
+state={
+	id=1116
+	name="Bruneau River"
+	manpower = 94300
+	resources={
+		steel=6.000
+	}
+
+	state_category = rural
+
+	history= {
+		owner = MEX
+		add_core_of = CAL
+		add_core_of = MEX
+		add_claim_by = CAS
+		victory_points = {
+			#7014 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		7688 7888 9695 12535 12607
+	}
+
+	local_supplies=1.0 
+}

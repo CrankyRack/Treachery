@@ -8,6 +8,13 @@ set_technology = {
 	tech_recon = 1
 }
 
+TTS = {
+set_autonomy = {
+		target = ALB
+		autonomous_state = autonomy_personal_union
+	}
+}
+
 recruit_character = ALB_king_zog
 recruit_character = ALB_enver_hoxha
 recruit_character = ALB_xhemal_aranitasi
@@ -44,5 +51,5 @@ set_popularities = {
 	neutrality = 100
 }
 
-set_convoys = 5
+set_convoys = 9
 

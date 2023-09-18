@@ -103,8 +103,8 @@ GRE = {
 	color_ui = rgb { 107 147 206 }
 }
 ALB = {
-	color = rgb { 72 113 160 }
-	color_ui = rgb { 72 113 160 }
+	color = rgb { 115 79 145 }
+	color_ui = rgb { 89 68 107 }
 }
 NOR = {
 	color = rgb { 111 71 71 }
@@ -960,8 +960,8 @@ VAN = {
 	color_ui = rgb { 83 208 217 }
 }
 KNT = {
-	color = rgb { 80 120 230 }
-	color_ui = rgb { 80 120 230 }
+	color = rgb { 188 53 41 }
+	color_ui = rgb { 188 53 41 }
 }
 GRC = {
 	color = rgb { 58 100 153 }
@@ -1024,8 +1024,8 @@ MOL = {
 	color_ui = rgb { 153 61 0 }
 }
 MAC = {
-	color = rgb { 115 79 145 }
-	color_ui = rgb { 89 68 107 }
+	color = rgb { 72 113 160 }
+	color_ui = rgb { 72 113 160 }
 }
 DES = {
 	color = rgb { 54 128 193 }
@@ -1195,4 +1195,8 @@ MLO = {
 TID = {
 	color = rgb { 72 113 160 }
 	color_ui = rgb { 72 113 160 }
+}
+WAA = {
+	color = rgb { 118 99 151 }
+	color_ui = rgb { 118 99 151 }
 }

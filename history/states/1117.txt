@@ -1,0 +1,26 @@
+state={
+	id=1117
+	name="Northern California"
+	manpower = 394300
+
+	state_category = rural
+
+	history= {
+		owner = MEX
+		add_core_of = CAL
+		add_core_of = MEX
+		add_claim_by = CAS
+		victory_points = {
+			#7014 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		505 3471 4347 10151 10305 10625 11495 11733
+	}
+
+	local_supplies=1.0 
+}

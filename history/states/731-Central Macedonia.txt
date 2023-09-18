@@ -4,7 +4,7 @@ state={
 	name="STATE_731"
 
 	history={
-		owner = MAC
+		owner = TUR
 		victory_points = {
 			11818 5 
 		}
@@ -14,14 +14,14 @@ state={
 
 		}
 		add_core_of = GRE
-		add_core_of = TUR
+		add_claim_by = TUR
 		add_core_of = MAC
 		add_claim_by = BUL
 
 	}
 
 	provinces={
-		895 936 966 3526 3844 3936 6930 9837 10163 
+		936 966 3844 6930 10163 
 	}
 	manpower=1155700
 	buildings_max_level_factor=1.000
