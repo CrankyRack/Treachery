@@ -1,0 +1,16 @@
+characters = {
+	TUR_abdul_hamid_II = {
+		name="Abdul Hamid II"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/TUR/TUR_abdul_hamid_II.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

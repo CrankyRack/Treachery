@@ -78,11 +78,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_GDL_Parfait_monteil"
-		texturefile =  "gfx/leaders/FRA/GDL_Parfait_monteil.dds"
+		texturefile =  "gfx/leaders/FRA/GDL_Parfait_monteil.dds" 
 	}
 	spriteType = {
 		name = "GFX_CSA_king_nelson"
 		texturefile =  "gfx/leaders/CSA/CSA_king_nelson.dds"
+	}
+	spriteType = {
+		name = "GFX_TUR_abdul_hamid_II"
+		texturefile =  "gfx/leaders/TUR/TUR_abdul_hamid_II.dds"
 	}
 	
 }
