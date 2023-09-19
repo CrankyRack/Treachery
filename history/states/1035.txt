@@ -12,7 +12,7 @@ state=
 	
 	
 	history={
-		owner = BUL
+		owner = TUR
 		victory_points = {
 			9769 4
 		}
@@ -32,7 +32,7 @@ state=
 		add_claim_by = TUR
 	}
 	provinces={
-		649 9769 9783 9919 
+		9783 9919 
 	}
 	local_supplies=0.0 
 }

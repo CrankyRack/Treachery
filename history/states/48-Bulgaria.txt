@@ -11,7 +11,7 @@ state={
 	state_category = city
 
 	history={
-		owner = KNT
+		owner = BUL
 		victory_points = { #Sofia
 			949 15 
 		}
@@ -21,7 +21,6 @@ state={
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 6
-			air_base = 3
 		}
 		add_core_of = BUL
 		add_core_of = KNT
@@ -29,7 +28,7 @@ state={
 	}
 
 	provinces={
-		793 935 949 965 3908 3971 9771 11754 
+		793 949 965 3971 9771 11754 
 	}
 
 	local_supplies=0.0 

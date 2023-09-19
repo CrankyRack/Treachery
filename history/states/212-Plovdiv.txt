@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = TUR
+		owner = KNT
 		victory_points = { #Plovdiv
 			6923 10
 		}
@@ -25,7 +25,6 @@ state={
 			infrastructure = 2
 			arms_factory = 3
 			industrial_complex =2
-			air_base = 2
 		}
 		add_core_of = BUL
 		add_core_of = KNT
@@ -33,7 +32,7 @@ state={
 	}
 
 	provinces={
-		878 893 3937 6857 6923 9818 9862 11813 
+		878 893 935 3908 3937 6857 6923 9818 9862 11813 
 	}
 
 	local_supplies=5.0 

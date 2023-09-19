@@ -1,7 +1,7 @@
 state=
 {
 	id=982
-	name="West New Mexico"
+	name="Acoma Pueblo"
 
 	manpower = 324788
 	

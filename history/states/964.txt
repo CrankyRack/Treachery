@@ -1,16 +1,24 @@
 state=
 {
 	id=964
-	name="Strumica"
-	manpower = 86988
+	name="Skopje"
+	manpower = 1186988
+	resources={
+		chromium=70.000
+	}
 	
 	state_category = town
 	
 	history=
 	{
-		owner = MAC
-		victory_points = { 6886 2 }
-		add_core_of = TUR
+		owner = KNT
+		victory_points = {
+			6886 2
+		}
+		victory_points = {
+			3882 5
+		}
+		add_core_of = KNT
 		add_core_of = MAC
 		add_claim_by = BUL
 		add_claim_by = TUR
@@ -20,7 +28,7 @@ state=
 		}
 	}
 	provinces={
-		3833 6886
+		907 3833 3865 3882 6886 11832
 	}
 
 	local_supplies=0.0 

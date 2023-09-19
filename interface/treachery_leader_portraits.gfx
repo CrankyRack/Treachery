@@ -70,7 +70,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_WES_William_Merlaud_Ponty"
-		texturefile =  "gfx/leaders/FRA/WES_William_Merlaud_Ponty.dds" 
+		texturefile =  "gfx/leaders/FRA/WES_William_Merlaud_Ponty.dds"  
 	}
 	spriteType = {
 		name = "GFX_GRE_otto_III"
@@ -79,6 +79,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_GDL_Parfait_monteil"
 		texturefile =  "gfx/leaders/FRA/GDL_Parfait_monteil.dds"
+	}
+	spriteType = {
+		name = "GFX_CSA_king_nelson"
+		texturefile =  "gfx/leaders/CSA/CSA_king_nelson.dds"
 	}
 	
 }

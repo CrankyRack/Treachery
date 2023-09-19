@@ -4,7 +4,7 @@ state={
 	name="STATE_731"
 
 	history={
-		owner = TUR
+		owner = KNT
 		victory_points = {
 			11818 5 
 		}
@@ -15,15 +15,15 @@ state={
 		}
 		add_core_of = GRE
 		add_claim_by = TUR
-		add_core_of = MAC
+		add_core_of = KNT
 		add_claim_by = BUL
 
 	}
 
 	provinces={
-		936 966 3844 6930 10163 
+		966 3844 6930 
 	}
-	manpower=1155700
+	manpower=355700
 	buildings_max_level_factor=1.000
 	state_category=town
 

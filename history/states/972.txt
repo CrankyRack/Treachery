@@ -9,11 +9,12 @@ state=
 	
 	history=
 	{
-		owner = TUR
+		owner = KNT
 		victory_points = { 11818 15 }
-		add_core_of = TUR
+		add_core_of = KNT
 		add_core_of = GRE
 		add_core_of = MAC
+		add_claim_by = TUR
 		buildings = {
 			infrastructure = 2 #was: 6
 			industrial_complex = 1
@@ -24,7 +25,7 @@ state=
 		}
 	}
 	provinces={
-		895 3526 3936 11818
+		895 3526 3936 10163 11818
 	}
 
 	local_supplies=0.0 
