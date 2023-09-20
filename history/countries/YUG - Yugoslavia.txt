@@ -38,7 +38,7 @@ if = {
 
 set_research_slots = 3
 set_autonomy = {
-		target = BUL
+		target = SOF
 		autonomous_state = autonomy_puppet
 	}
 

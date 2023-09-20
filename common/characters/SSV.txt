@@ -1,0 +1,16 @@
+characters = {
+	SSV_carl_von_essen = {
+		name="Carl von Essen"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SWE/SSV_carl_von_essen.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,12 +1,12 @@
 
 state={
 	id=632
-	name="STATE_632"
+	name="Isla San Francisco"
 	manpower=150
 	state_category = tiny_island
 
 	history={
-		owner = USA
+		owner = PHI
 		add_core_of = GUM
 		buildings = {
 			infrastructure = 2

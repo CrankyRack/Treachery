@@ -1200,3 +1200,7 @@ WAA = {
 	color = rgb { 118 99 151 }
 	color_ui = rgb { 118 99 151 }
 }
+SOF = {
+	color = rgb { 82 83 136 }
+	color_ui = rgb { 82 83 136 }
+}

@@ -11,9 +11,9 @@ set_technology = {
 	interwar_antiair = 1
 }
 
-set_convoys = 10
+set_convoys = 30
 
-#recruit_character = BEG_frederik_hillingso
+recruit_character = SSV_carl_von_essen
 
 set_politics = {
 	ruling_party = neutrality

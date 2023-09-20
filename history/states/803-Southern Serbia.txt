@@ -1,18 +1,18 @@
 
 state={
 	id=803
-	name="STATE_803"
+	name="Leskovac"
 
 	history={
 		victory_points = {
 			11857 1 
 		}
-		owner = BUL
+		owner = SOF
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = YUG
+		add_core_of = SOF
 		add_core_of = BUL
 		add_claim_by = TUR
 

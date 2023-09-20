@@ -1,13 +1,12 @@
 state=
 {
 	id=631
-	name="STATE_631"
+	name="Santisteban Atoll"
 	manpower=2159	
 	state_category = tiny_island
 
 	history={
-		owner = USA
-		add_core_of = HAW
+		owner = PHI
 		buildings = {
 			infrastructure = 2
 			13052 = {
