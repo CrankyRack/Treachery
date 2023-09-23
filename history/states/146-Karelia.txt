@@ -9,6 +9,7 @@ state={
 		add_core_of = FIN
 		add_core_of = KAR
 		add_core_of = SOV
+		add_core_of = SWE
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2

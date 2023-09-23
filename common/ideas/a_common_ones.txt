@@ -194,4 +194,22 @@ ideas = {
 			    consumer_goods_factor = -0.05
 			}
 		}
+		SWE_adelsparre = {
+			
+			picture = SWE_adelsparre
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = 0.2
+			}
+		}
 }

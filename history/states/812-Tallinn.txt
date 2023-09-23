@@ -6,7 +6,7 @@ state={
 		oil=1 # was: 1
 	}
 	history={
-		owner = SWE
+		owner = EST
 		victory_points = {
 			3152 5 
 		}
