@@ -1,0 +1,43 @@
+state=
+{
+	id=1119
+	name="Kymmene"
+
+	manpower = 111788
+	resources={
+		#Steel=2 # was: 18
+	}
+	
+	state_category = rural
+	
+	
+	history={
+		owner = SWE
+		victory_points = {
+			6082 2
+		}
+			set_province_name = {
+			id = 6082
+			name = "Willmanstrad"
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			6082 = {
+				bunker = 2
+			}
+			3061 = {
+				bunker = 2
+			}
+
+		}
+		add_claim_by = SOV
+		add_core_of = SWE
+		add_core_of = FIN
+	}
+
+	provinces={
+		3061 6082 11056
+	}
+	local_supplies=0.0 
+}

@@ -1,0 +1,39 @@
+state=
+{
+	id=1121
+	name="Kammin"
+
+	manpower = 121788
+
+	
+	state_category = town
+	
+	
+	history={
+		owner = SWE
+		victory_points = {
+			6334 5
+		}
+			set_province_name = {
+			id = 6334
+			name = "Kammin"
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			6334 = {
+				bunker = 2
+			}
+
+		}
+		add_core_of = DNZ
+		add_core_of = PRE
+		add_core_of = GER
+		add_core_of = SWE
+	}
+
+	provinces={
+		6334 6390
+	}
+	local_supplies=0.0 
+}

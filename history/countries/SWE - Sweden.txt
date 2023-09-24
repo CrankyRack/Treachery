@@ -43,7 +43,9 @@ give_guarantee = NSV
 
 add_ideas = {
 	SWE_adelsparre
-	en_svensk_tiger
+	SWE_swedish_lion_roars
+	SWE_krigsmakten
+	#en_svensk_tiger
 }
 set_stability = 0.6
 set_war_support = 0.4

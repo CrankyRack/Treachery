@@ -20,7 +20,6 @@ state={
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			air_base = 3
 		}
 		add_core_of = LAT
 		add_claim_by = LIT
@@ -28,7 +27,7 @@ state={
 	}
 
 	provinces={
-		222 341 3298 3388 7482 9501 10493 11222 11302 
+		3298 3388 7482 9501 10493 11222 11302 
 	}
 
 	local_supplies=0.0 

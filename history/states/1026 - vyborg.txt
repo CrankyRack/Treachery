@@ -3,12 +3,12 @@ state=
 	id=1026
 	name="Vyborg"
 
-	manpower = 391788
+	manpower = 331788
 	resources={
 		Steel=2 # was: 18
 	}
 	
-	state_category = rural
+	state_category = town
 	
 	
 	history={
@@ -36,7 +36,7 @@ state=
 	}
 
 	provinces={
-		3061 6082 6186 9206 11056
+		6186 9206
 	}
 	local_supplies=0.0 
 }

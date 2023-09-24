@@ -209,7 +209,48 @@ ideas = {
 			removal_cost = -1
 			
 			modifier = {
-			stability_factor = 0.2
+			stability_factor = 0.05
+			}
+		}
+		SWE_swedish_lion_roars = {
+			
+			picture = SWE_swedish_lion_roars
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    war_support_factor = 0.05
+				stability_factor = 0.1
+			    recruitable_population_factor = 0.1
+			    consumer_goods_factor = -0.05
+			}
+		}
+		SWE_krigsmakten = {
+			
+			picture = SWE_krigsmakten
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			land_doctrine_cost_factor = 0.1
+			consumer_goods_factor = 0.1
+			army_org_Factor = -0.1
 			}
 		}
 }

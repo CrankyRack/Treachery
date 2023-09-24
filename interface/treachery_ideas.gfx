@@ -59,6 +59,14 @@ spriteTypes = {
 		name = "GFX_idea_SWE_adelsparre"
 		texturefile = "gfx/interface/ideas/SWE_adelsparre.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_SWE_swedish_lion_roars"
+		texturefile = "gfx/interface/ideas/SWE_swedish_lion_roars.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_SWE_krigsmakten"
+		texturefile = "gfx/interface/ideas/SWE_krigsmakten.dds"  
+	}
 
 	### new tfv nat spirit icons
 	
