@@ -67,9 +67,9 @@ bookmarks = {
 			history = "ITA_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
-				vittorio_emanuele
-				ITA_iri_fake_ns
-				ITA_re_fake_ns
+	            SWE_swedish_lion_roars
+	            SWE_krigsmakten
+	            SWE_american_emigration
 			}	
 			focuses = {
 				ITA_comandante_diavolo

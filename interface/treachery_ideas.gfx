@@ -67,6 +67,10 @@ spriteTypes = {
 		name = "GFX_idea_SWE_krigsmakten"
 		texturefile = "gfx/interface/ideas/SWE_krigsmakten.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_SWE_american_emigration"
+		texturefile = "gfx/interface/ideas/SWE_american_emigration.dds"  
+	}
 
 	### new tfv nat spirit icons
 	

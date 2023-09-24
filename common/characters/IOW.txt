@@ -1,0 +1,15 @@
+characters={
+	IOW_john_andersen={
+		name="John Andersen"
+		portraits={
+			civilian={
+				large="gfx/leaders/IOW/IOW_john_andersen.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

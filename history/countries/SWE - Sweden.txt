@@ -45,6 +45,7 @@ add_ideas = {
 	SWE_adelsparre
 	SWE_swedish_lion_roars
 	SWE_krigsmakten
+	SWE_american_emigration
 	#en_svensk_tiger
 }
 set_stability = 0.6

@@ -228,9 +228,8 @@ ideas = {
 			
 			modifier = {
 			    war_support_factor = 0.05
-				stability_factor = 0.1
 			    recruitable_population_factor = 0.1
-			    consumer_goods_factor = -0.05
+			    consumer_goods_factor = -0.025
 			}
 		}
 		SWE_krigsmakten = {
@@ -251,6 +250,26 @@ ideas = {
 			land_doctrine_cost_factor = 0.1
 			consumer_goods_factor = 0.1
 			army_org_Factor = -0.1
+			}
+		}
+		SWE_american_emigration = {
+			
+			picture = SWE_american_emigration
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    stability_factor = -0.05
+				consumer_goods_factor = -0.02
+			    monthly_population = -0.2
 			}
 		}
 }
