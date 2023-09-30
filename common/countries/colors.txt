@@ -1204,3 +1204,7 @@ SOF = {
 	color = rgb { 82 83 136 }
 	color_ui = rgb { 82 83 136 }
 }
+SIL = {
+	color = rgb { 67 158 34 }
+	color_ui = rgb { 67 158 34 }
+}

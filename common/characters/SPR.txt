@@ -1,0 +1,16 @@
+characters = {
+	SPR_king_louis_II = {
+		name="Louis II Bonaparte"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SPR/SPR_king_louis_II.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

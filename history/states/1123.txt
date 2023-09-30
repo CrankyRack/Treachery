@@ -1,0 +1,30 @@
+state=
+{
+	id=1123
+	name="Bragança"
+
+	manpower = 101788
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = VAN
+		victory_points = {
+			3892 1
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = VAN
+		add_claim_by = POR
+	}
+
+	provinces={
+		724 877 3892 6921 6941
+	}
+	local_supplies=0.0 
+}

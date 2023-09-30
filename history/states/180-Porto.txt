@@ -2,12 +2,12 @@
 state={
 	id=180
 	name="STATE_180"
-	manpower = 1904600
+	manpower = 1604600
 	
 	state_category = large_town
 
 	history={
-		owner = POR
+		owner = ORO
 		victory_points = {
 			9817 10
 		}
@@ -22,11 +22,13 @@ state={
 				naval_base = 3
 			}
 		}
-		add_core_of = POR
+		add_core_of = VAN
+		add_core_of = ORO
+		add_claim_by = POR
 	}
 
 	provinces={
-		724 877 3892 6921 6941 9817 11673 
+		9817 11673 
 	}
 
 	local_supplies=0.0 

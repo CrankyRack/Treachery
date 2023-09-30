@@ -5,7 +5,7 @@ state={
 		chromium=20.000 #added due to portugal setup
 	}
 	history={
-		owner = POR
+		owner = DDR
 		victory_points = {
 			9869 1 
 		}
@@ -17,12 +17,14 @@ state={
 			industrial_complex = 2
 
 		}
-		add_core_of = POR
+		add_core_of = VAN
+		add_core_of = DDR
+		add_claim_by = POR
 
 	}
 
 	provinces={
-		844 924 3846 3886 3926 6986 9869 11768 
+		844 3846 3886 3926 6986 9869 11768 
 	}
 	manpower=729712
 	buildings_max_level_factor=1.000

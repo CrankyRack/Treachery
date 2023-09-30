@@ -86,7 +86,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_TUR_abdul_hamid_II" 
-		texturefile =  "gfx/leaders/TUR/TUR_abdul_hamid_II.dds"
+		texturefile =  "gfx/leaders/TUR/TUR_abdul_hamid_II.dds" 
 	}
 	spriteType = {
 		name = "GFX_SSV_carl_von_essen"
@@ -95,6 +95,10 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_IOW_john_andersen"
 		texturefile =   "gfx/leaders/IOW/IOW_john_andersen.dds"
+	}
+	spriteType = {
+		name = "GFX_SPR_king_louis_II"
+		texturefile =   "gfx/leaders/SPR/SPR_king_louis_II.dds"
 	}
 	
 }

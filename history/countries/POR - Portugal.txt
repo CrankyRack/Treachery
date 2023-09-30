@@ -22,10 +22,7 @@ if = {
 }
 
 set_research_slots = 3
-set_autonomy = {
-		target = ORO
-		autonomous_state = autonomy_colony
-	}
+
 set_autonomy = {
 		target = BEG
 		autonomous_state = autonomy_colony

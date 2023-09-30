@@ -1,0 +1,35 @@
+state=
+{
+	id=1122
+	name="Oleshnya"
+
+	manpower = 81788
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = LIT
+		victory_points = {
+			546 1
+		}
+			set_province_name = {
+			id = 546
+			name = "Oleshnya"
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = LIT
+		add_core_of = UKR
+		add_core_of = SOV
+	}
+
+	provinces={
+		546 9506
+	}
+	local_supplies=0.0 
+}
