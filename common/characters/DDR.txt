@@ -1,0 +1,16 @@
+characters = {
+	DDR_manuel_III = {
+		name="Manuel III de Godoy"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/DDR/DDR_manuel_III.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { political_dancer assassination_survivor }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

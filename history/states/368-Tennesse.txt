@@ -12,7 +12,7 @@ state={
 
 
 	history={
-		owner = STR
+		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 3

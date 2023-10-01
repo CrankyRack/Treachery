@@ -2,29 +2,57 @@
 state={
 	id=364
 	name="STATE_364"
-	manpower = 1738764
+	manpower = 2738764
 	
 	state_category = city
 
 	history={
-		owner = USA
+		owner = CSA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
 			7202 = {
 				naval_base = 2
-
+			}
+			1132 = {
+				naval_base = 2
 			}
 		}
 		add_core_of = USA
+		add_core_of = CSA
+		add_claim_by = STR
 		victory_points = {
 			7202 1 
+		}
+		victory_points = {
+			7138 20 
+		}
+		victory_points = {
+			1132 10 
+		}
+			set_province_name = {
+			id = 1132
+			name = "Wilmington"
+		}
+		victory_points = {
+			4168 5 
+		}
+			set_province_name = {
+			id = 4168
+			name = "New Bern"
+		}
+		victory_points = {
+			7012 10 
+		}
+			set_province_name = {
+			id = 7012
+			name = "Columbia"
 		}
 
 	}
 
 	provinces={
-		1485 1547 3994 4491 4653 7012 7134 7202 7527 10029 10047 11927 
+		1019 1077 1132 1485 1163 1547 3994 4168 4491 4653 7012 7083 7134 7138 7202 7527 10029 10047 10051 11927 12054
 	}
 
 	local_supplies=0.0 

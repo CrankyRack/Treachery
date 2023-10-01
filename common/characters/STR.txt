@@ -1,0 +1,16 @@
+characters = {
+	STR_Garlington = {
+		name="Ernest Albert Garlington"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/STR/STR_Garlington.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ dictator }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

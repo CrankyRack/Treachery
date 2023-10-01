@@ -94,11 +94,19 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_IOW_john_andersen"
-		texturefile =   "gfx/leaders/IOW/IOW_john_andersen.dds"
+		texturefile =   "gfx/leaders/IOW/IOW_john_andersen.dds" 
 	}
 	spriteType = {
 		name = "GFX_SPR_king_louis_II"
-		texturefile =   "gfx/leaders/SPR/SPR_king_louis_II.dds"
+		texturefile =   "gfx/leaders/SPR/SPR_king_louis_II.dds" 
+	}
+	spriteType = {
+		name = "GFX_DDR_manuel_III"
+		texturefile =   "gfx/leaders/DDR/DDR_manuel_III.dds"
+	}
+	spriteType = {
+		name = "GFX_STR_Garlington"
+		texturefile =  "gfx/leaders/STR/STR_Garlington.dds"
 	}
 	
 }

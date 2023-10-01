@@ -3,14 +3,21 @@ state=
 	id=980
 	name="North Georgia"
 
-	manpower = 324788
+	manpower = 1924788
 	
 	state_category = town
 	
 	history=
 	{
-		owner = USA
-		victory_points = { 12384 10 }
+		owner = CSA
+		victory_points = { 12384 20 }
+		victory_points = {
+			11975 5 
+		}
+			set_province_name = {
+			id = 11975
+			name = "Savannah"
+		}
 		add_core_of = USA
 		add_core_of = CSA
 		add_claim_by = STR
@@ -18,12 +25,12 @@ state=
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
 			11975 = {
-				naval_base = 1
+				naval_base = 3
 			}
 		}
 	}
 	provinces={
-		638 5090 7118 9949 10394 10437 10465 11975 12384
+		638 5090 7118 7612 9949 10394 10437 10465 11975 12384
 	}
 
 	local_supplies=0.0 

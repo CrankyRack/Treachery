@@ -3,13 +3,11 @@ state={
 	name="Appalachia"
 	state_category = town
 	history={
-		owner = VAN
-		add_core_of = VAN
+		owner = USA
 		add_core_of = USA
 		buildings = {
-			industrial_complex = 2
+			industrial_complex = 1
 			infrastructure = 3
-			air_base = 3
 		}
 		victory_points = {
 			7588 3

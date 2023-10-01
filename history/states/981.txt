@@ -9,9 +9,8 @@ state=
 	
 	history=
 	{
-		owner = HKS
+		owner = USA
 		victory_points = { 8014 5 }
-		add_core_of = HKS
 		add_core_of = USA
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -19,7 +18,7 @@ state=
 		}
 	}
 	provinces={
-		913 1582 7558 7791 8014 9779 10657 12637
+		913 7791 8014 10657
 	}
 
 	local_supplies=0.0 
