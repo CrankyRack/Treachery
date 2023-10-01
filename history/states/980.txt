@@ -3,7 +3,7 @@ state=
 	id=980
 	name="North Georgia"
 
-	manpower = 1924788
+	manpower = 2924788
 	
 	state_category = town
 	
