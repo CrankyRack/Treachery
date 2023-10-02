@@ -31,7 +31,7 @@ country_event = {
 		hidden_effect = {
 			country_event = {
 				id = ng_constitutional_convention.2
-				days = 1
+				days = 7
 				random_hours = 12
 			}
 		}
@@ -60,31 +60,34 @@ country_event = { #a new administration?
 		
 	}
 	
-	option = { #our Current Administrative Apparatus Works
+	option = { #We must reform our administration to administer the American empire
 		name = ng_constitutional_convention.2.a
-		country_event = {
-			id = ng_constitutional_convention.3
-			days = 1
-			random_hours = 12
+		hidden_effect = {
+			country_event = {
+				id = ng_constitutional_convention.3
+				days = 7
+				random_hours = 12
+			}
+			set_country_flag = american_empire
 		}
-	}
-	
-	option = { #A more Inclusive administration would be better
-		name = ng_constitutional_convention.2.b
-		country_event = {
-			id = ng_constitutional_convention.3
-			days = 1
-			random_hours = 12
-		}
+		add_to_variable = { COL_1906_constitution_stability_factor = 0.1 }
+		add_to_variable = { COL_1906_constitution_war_support_factor = 0.2 }
 	}
 	
 	option = { #We should prepare for a return to the colonial Administation from the Homeland
 		name = ng_constitutional_convention.2.c
-		country_event = {
-			id = ng_constitutional_convention.3
-			days = 1
-			random_hours = 12
+		hidden_effect = {
+			country_event = {
+				id = ng_constitutional_convention.3
+				days = 7
+				random_hours = 12
+			}
+			set_country_flag = exile_tree_ulocked
 		}
+		add_to_variable = { COL_1906_constitution_stability_factor = -0.1 }
+		add_to_variable = { COL_1906_constitution_war_support_factor = 0.2 }
+		add_to_variable = { COL_1906_constitution_attack_bonus_against = 0.1 }
+		add_to_variable = { COL_1906_constitution_defense_bonus_against = 0.1 }
 	}	
 }
 
@@ -111,29 +114,45 @@ country_event = { #extent of the Electorate
 	
 	option = { #oh no
 		name = ng_constitutional_convention.3.a
-		country_event = {
-			id = ng_constitutional_convention.4
-			days = 1
-			random_hours = 12
+		hidden_effect = {
+			country_event = {
+				id = ng_constitutional_convention.4
+				days = 7
+				random_hours = 12
+			}
 		}
+		add_to_variable = { COL_1906_constitution_stability_factor = -0.1 }
+		add_to_variable = { COL_1906_constitution_drift_defence_factor = 0.5 }
+		add_to_variable = { COL_1906_constitution_political_power_gain = 1 }
+		
 	}
 	
 	option = { #The Rich may have the vote
 		name = ng_constitutional_convention.3.b
-		country_event = {
-			id = ng_constitutional_convention.4
-			days = 1
-			random_hours = 12
+		hidden_effect = {
+			country_event = {
+				id = ng_constitutional_convention.4
+				days = 7
+				random_hours = 12
+			}
 		}
+		add_to_variable = { COL_1906_constitution_stability_factor = -0.05 }
+		add_to_variable = { COL_1906_constitution_drift_defence_factor = 0.1 }
+		add_to_variable = { COL_1906_constitution_consumer_goods_factor = -0.05 }
 	}
 	
 	option = { #Universal Sufferage
 		name = ng_constitutional_convention.3.b
-		country_event = {
-			id = ng_constitutional_convention.4
-			days = 1
-			random_hours = 12
+		hidden_effect = {
+			country_event = {
+				id = ng_constitutional_convention.4
+				days = 7
+				random_hours = 12
+			}
 		}
+		add_to_variable = { COL_1906_constitution_stability_factor = 0.1 }
+		add_to_variable = { COL_1906_constitution_drift_defence_factor = -0.3 }
+		add_to_variable = { COL_1906_constitution_political_power_gain = -0.5 }
 	}
 	
 }
