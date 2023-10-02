@@ -1,5 +1,5 @@
 ﻿############################
-## Qing Events
+## New Granada Events
 ############################
 
 add_namespace = ng_constitutional_convention
