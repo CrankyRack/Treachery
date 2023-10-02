@@ -5,12 +5,15 @@ state={
 	manpower = 2614588
 	
 	state_category = city
-
+	resources={
+		Oil=12 # was: 80
+	}
+ 
 	history={
 		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 5
-			industrial_complex = 3
+			industrial_complex = 1
 		}
 		add_core_of = USA
 		victory_points = {

@@ -1,7 +1,13 @@
 state={
 	id=816
 	name="Appalachia"
+	
 	state_category = town
+	resources={
+		chromium=2 # was: 80
+		steel=20 # was: 80
+	}
+	
 	history={
 		owner = USA
 		add_core_of = USA
