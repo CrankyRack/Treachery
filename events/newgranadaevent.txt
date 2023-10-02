@@ -1,0 +1,175 @@
+﻿############################
+## Qing Events
+############################
+
+add_namespace = ng_constitutional_convention
+
+
+country_event = {
+	id = ng_constitutional_convention.1 #convention starts ##starting event
+	title = ng_constitutional_convention.1.t
+	desc = ng_constitutional_convention.1.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = {
+		name = ng_constitutional_convention.1.a
+		hidden_effect = {
+			country_event = {
+				id = ng_constitutional_convention.2
+				days = 1
+				random_hours = 12
+			}
+		}
+	}
+			
+}
+
+country_event = { #a new administration?
+	id = ng_constitutional_convention.2
+	title = ng_constitutional_convention.2.t
+	desc = ng_constitutional_convention.2.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #our Current Administrative Apparatus Works
+		name = ng_constitutional_convention.2.a
+		country_event = {
+			id = ng_constitutional_convention.3
+			days = 1
+			random_hours = 12
+		}
+	}
+	
+	option = { #A more Inclusive administration would be better
+		name = ng_constitutional_convention.2.b
+		country_event = {
+			id = ng_constitutional_convention.3
+			days = 1
+			random_hours = 12
+		}
+	}
+	
+	option = { #We should prepare for a return to the colonial Administation from the Homeland
+		name = ng_constitutional_convention.2.c
+		country_event = {
+			id = ng_constitutional_convention.3
+			days = 1
+			random_hours = 12
+		}
+	}	
+}
+
+country_event = { #extent of the Electorate
+	id = ng_constitutional_convention.3
+	title = ng_constitutional_convention.3.t
+	desc = ng_constitutional_convention.3.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #oh no
+		name = ng_constitutional_convention.3.a
+		country_event = {
+			id = ng_constitutional_convention.4
+			days = 1
+			random_hours = 12
+		}
+	}
+	
+	option = { #The Rich may have the vote
+		name = ng_constitutional_convention.3.b
+		country_event = {
+			id = ng_constitutional_convention.4
+			days = 1
+			random_hours = 12
+		}
+	}
+	
+	option = { #Universal Sufferage
+		name = ng_constitutional_convention.3.b
+		country_event = {
+			id = ng_constitutional_convention.4
+			days = 1
+			random_hours = 12
+		}
+	}
+	
+}
+
+country_event = { #status of the Casta
+	id = ng_constitutional_convention.4
+	title = ng_constitutional_convention.4.t
+	desc = ng_constitutional_convention.4.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #let it stay as it is
+		name = ng_constitutional_convention.4.a
+		
+	}
+	
+	option = { #abolish the Casta
+		name = ng_constitutional_convention.4.b
+	}
+	
+	option = { #entrench the Casta
+		name = ng_constitutional_convention.4.c
+	}
+	
+}
