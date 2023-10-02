@@ -1,15 +1,19 @@
 state={
 	id=816
 	name="Appalachia"
+	
 	state_category = town
+	resources={
+		chromium=2 # was: 80
+		steel=20 # was: 80
+	}
+	
 	history={
-		owner = VAN
-		add_core_of = VAN
+		owner = USA
 		add_core_of = USA
 		buildings = {
-			industrial_complex = 2
+			industrial_complex = 1
 			infrastructure = 3
-			air_base = 3
 		}
 		victory_points = {
 			7588 3

@@ -2,14 +2,30 @@
 state={
 	id=370
 	name="STATE_370"
-	manpower = 2009820
+	manpower = 4209820
 	
 	state_category = city
+	
+	resources={
+		steel=12 # was: 80
+		Oil=4 # was: 80
+	}
 
 	history={
 		owner = STR
 		victory_points = {
-			4464 1 
+			4565 20 
+		}
+			set_province_name = {
+			id = 4565
+			name = "Jackson"
+		}
+		victory_points = {
+			1615 10 
+		}
+			set_province_name = {
+			id = 1615
+			name = "Hattiesburg"
 		}
 		buildings = {
 			infrastructure = 2

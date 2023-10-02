@@ -2,34 +2,38 @@
 state={
 	id=365
 	name="STATE_365"
-	manpower = 2908504
+	manpower = 2308504
 	
 	state_category = city
 
 	history={
-		owner = CSA
+		owner = STR
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 3
-			air_base = 2
 		}
 		add_core_of = CSA
 		add_core_of = USA
 		add_core_of = STR
 		victory_points = {
-			12384 10 
+			7583 10 
 		}
-
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 4
-			}
+			set_province_name = {
+			id = 7583
+			name = "Columbus"
+		}
+		victory_points = {
+			1433 5 
+		}
+			set_province_name = {
+			id = 1433
+			name = "Valdosta"
 		}
 
 	}
 
 	provinces={
-		1433 1480 7583 7612 10492 12325 12470 12498 
+		1433 1480 7583 10492 12325 12470 12498 
 	}
 
 	local_supplies=0.0 

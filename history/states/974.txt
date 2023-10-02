@@ -1,23 +1,26 @@
 state=
 {
 	id=974
-	name="Susquehanna"
+	name="Hawkins"
 
-	manpower = 97012
+	manpower = 397012
 	
-	state_category = rural
+	state_category = town
 	
 	history=
 	{
 		owner = USA
-		victory_points = { 3716 2 }
+		victory_points = { 11662 2 }
+		add_core_of = HKS
 		add_core_of = USA
 		buildings = {
 			infrastructure = 2 #was: 6
+			arms_factory = 2
+			industrial_complex = 1
 		}
 	}
 	provinces={
-		822
+		3602 10381 11662
 	}
 
 	local_supplies=0.0 

@@ -1,31 +1,28 @@
 state=
 {
 	id=977
-	name="Philadelphia"
+	name="Edmundston"
 
-	manpower = 2161012
+	manpower = 111012
 	
-	state_category = large_city
+	state_category = rural
 	
 	history=
 	{
-		owner = USA
+		owner = CAN
 		victory_points = {
-			6845 25
+			4287 6
 		}
-		add_core_of = USA
+		add_core_of = CAN
+		add_core_of = NIR
+		add_claim_by = USA
 		buildings = {
-			infrastructure = 4 #was: 6
-			industrial_complex = 3
-			dockyard = 2			
-			6845 = {
-				naval_base = 8
-
-			}
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
 		}
 	}
 	provinces={
-		6845
+		4287 10247
 	}
 
 	local_supplies=0.0 

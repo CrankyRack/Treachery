@@ -5,8 +5,8 @@ GER = {
 	color_ui = rgb { 106 100 95 }
 }
 ENG = {
-	color = rgb { 174 23 47 }
-	color_ui = rgb { 174 23 47 }
+	color = rgb { 168 14 11 }
+	color_ui = rgb { 168 14 11 }
 }
 SOV = {
 	color = rgb { 76 122 17 }
@@ -38,8 +38,8 @@ HOL = {
 	color_ui = rgb { 72 113 160 }
 }
 NIR = {
-	color = rgb { 168 14 11 }
-	color_ui = rgb { 168 14 11 }
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
 }
 CZE = {	
 	color = rgb { 54 167 156 }
@@ -211,8 +211,8 @@ JAP = {
 	#color_ui = hsv { 0.05 0.25 1.2 }
 #}
 LIB = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 142 62 58 }
+	color_ui = rgb { 142 62 58 }
 }
 MEX = {
 	color = rgb { 59 148 65 }
@@ -944,8 +944,8 @@ HKS = {
 	color_ui = rgb { 168 50 59 }
 }
 STR = {
-	color = rgb { 145 128 149 }
-	color_ui = rgb { 145 128 149 }
+	color = rgb { 125 109 102 }
+	color_ui = rgb { 125 109 102 }
 }
 TEX = {
 	color = rgb { 168 50 59 }

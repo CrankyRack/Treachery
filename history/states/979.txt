@@ -1,7 +1,7 @@
 state=
 {
 	id=979
-	name="Kingston"
+	name="Johnstown"
 
 	manpower = 254788
 	
@@ -10,15 +10,15 @@ state=
 	history=
 	{
 		owner = USA
-		victory_points = { 3847 5 }
+		victory_points = { 880 3 }
 		add_core_of = USA
 		buildings = {
-			infrastructure = 2 #was: 6
+			infrastructure = 3 #was: 6
 			industrial_complex = 1
 		}
 	}
 	provinces={
-		3847 6823 6929 11758 11769
+		880 3880 6899 9662 9836 11648 11789
 	}
 
 	local_supplies=0.0 

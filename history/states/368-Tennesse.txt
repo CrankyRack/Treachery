@@ -7,15 +7,15 @@ state={
 	state_category = city
 	
 	resources={
-		steel=60 # was: 112
+		steel=10 # was: 112
 	}
 
 
 	history={
-		owner = STR
+		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 5
-			industrial_complex = 3
+			industrial_complex = 1
 		}
 		add_core_of = STR
 		add_core_of = USA
