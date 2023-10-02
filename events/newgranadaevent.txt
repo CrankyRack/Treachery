@@ -192,3 +192,31 @@ country_event = { #status of the Casta
 	}
 	
 }
+
+
+country_event = { #The New Contituion
+	id = ng_constitutional_convention.5
+	title = ng_constitutional_convention.5.t
+	desc = ng_constitutional_convention.5.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #Enact it!
+		name = ng_constitutional_convention.5.a
+		
+	}
+}
