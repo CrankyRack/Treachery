@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = NIR
 		victory_points = {
 			351 10 
 		}
@@ -25,7 +25,6 @@ state={
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
 			dockyard = 4
-			air_base = 6
 			351 = {
 				naval_base = 6
 			}
@@ -33,13 +32,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
-				dockyard = 5
-				industrial_complex = 2
-			}
-		}
+		add_core_of = NIR
 	}
 
 	provinces={

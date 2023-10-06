@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = NIR
 		victory_points = {
 			6237 10 #Nottingham
 		}
@@ -22,15 +22,8 @@ state={
 			infrastructure = 4 #was: 8
 			arms_factory = 2
 			industrial_complex = 1
-			air_base = 5
 		}
-		add_core_of = ENG
-		1939.1.1 = {
-			buildings = {
-				arms_factory = 3
-				industrial_complex = 2
-			}
-		}
+		add_core_of = NIR
 	}
 
 	provinces={
