@@ -11,7 +11,6 @@ state=
 	{
 		owner = MEX
 		victory_points = { 8014 5 }
-		add_core_of = STA
 		add_core_of = MEX
 		add_core_of = DES
 		buildings = {

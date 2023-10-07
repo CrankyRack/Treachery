@@ -19,7 +19,6 @@ state={
 			industrial_complex = 1
 			air_base = 2
 		}
-		add_core_of = STA
 		add_core_of = MEX
 		add_claim_by = DES
 		victory_points = {
