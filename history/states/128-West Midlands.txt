@@ -10,17 +10,16 @@ state={
 	}
 
 	history={
-		owner = ENG
+		owner = NIR
 		buildings = {
 			infrastructure = 4 #was: 8
 			arms_factory = 2
 			industrial_complex = 3
-			air_base = 6
 		}
 		victory_points = {
 			9297 25
 		}
-		add_core_of = ENG
+		add_core_of = NIR
 	}
 
 	provinces={
