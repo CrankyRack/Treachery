@@ -708,8 +708,8 @@ BAY = {
 	color_ui = rgb { 71 144 178 }
 }
 MEK = {
-	color = rgb { 186 245 86 }
-	color_ui = rgb { 186 245 86 }
+	color = rgb { 178 196 98 }
+	color_ui = rgb { 178 196 98 }
 }
 PRE = {
 	color = rgb { 160  160  160 }
@@ -1205,6 +1205,6 @@ SOF = {
 	color_ui = rgb { 82 83 136 }
 }
 SIL = {
-	color = rgb { 67 158 34 }
-	color_ui = rgb { 67 158 34 }
+	color = rgb { 216 180 62 }
+	color_ui = rgb { 216 180 62 }
 }
