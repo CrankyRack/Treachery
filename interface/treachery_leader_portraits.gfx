@@ -98,7 +98,7 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_SPR_king_louis_II"
-		texturefile =   "gfx/leaders/SPR/SPR_king_louis_II.dds" 
+		texturefile =   "gfx/leaders/SPR/SPR_king_louis_II.dds"  
 	}
 	spriteType = {
 		name = "GFX_DDR_manuel_III"
@@ -110,7 +110,15 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_LIB_charles_young"
-		texturefile =  "gfx/leaders/LIB/LIB_charles_young.dds"
+		texturefile =  "gfx/leaders/LIB/LIB_charles_young.dds" 
+	}
+	spriteType = {
+		name = "GFX_PRE_royal_council"
+		texturefile =  "gfx/leaders/PRE/PRE_royal_council.dds"
+	}
+	spriteType = {
+		name = "GFX_SIC_king_ferdinand"
+		texturefile =  "gfx/leaders/SIC/SIC_king_ferdinand.dds"
 	}
 	
 }

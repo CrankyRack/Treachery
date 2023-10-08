@@ -1,4 +1,18 @@
 characters = {
+	PRE_royal_council = {
+		name="House of Lords"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PRE/PRE_royal_council.dds"
+			}
+		}
+		country_leader = {
+			ideology=oligarchism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
 	PRE_frederich_III = {
 		name="Frederick III"
 		portraits = {
@@ -7,7 +21,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			ideology=despotism
+			ideology=nazism
 			traits = { # }
 			expire="1965.1.1.1"
 			id=-1

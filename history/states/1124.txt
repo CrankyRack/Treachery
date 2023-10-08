@@ -1,0 +1,29 @@
+state=
+{
+	id=1124
+	name="Sétubal"
+
+	manpower = 72748
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = VAN
+		victory_points = {
+			970 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = VAN
+		add_claim_by = POR
+	}
+
+	provinces={
+		970 980
+	}
+	local_supplies=0.0 
+}

@@ -38,7 +38,7 @@ if = {
 	}
 }
 
-recruit_character = NZL_michael_joseph_savage
+recruit_character = SIC_king_ferdinand
 
 
 

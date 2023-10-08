@@ -1,6 +1,6 @@
 ﻿capital = 64
 
-
+recruit_character = PRE_royal_council
 recruit_character = PRE_frederich_III
 
 
