@@ -2718,3 +2718,5 @@
  
  SWE_american_emigration:0 "Large Emigration to America"
  SWE_american_emigration_desc:0 "."
+
+ GEN_french_army_tooltip_loc:0 "§RThis spirit will be removed and replaced with "Traitors In The Army" if we were to go to war with France!"

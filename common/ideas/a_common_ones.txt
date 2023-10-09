@@ -272,4 +272,65 @@ ideas = {
 			    monthly_population = -0.2
 			}
 		}
+		gen_french_army = {
+
+			# picture = #
+
+			allowed = {
+				always = yes
+			}
+
+			cancel = {
+				ROOT = { has_war_with = FRA }
+			}
+
+			rule = {
+				
+			}
+
+			on_remove = {
+				if = {
+					limit = { has_country_flag = nationalized_army}
+					add_political_power = 100
+				}
+				else = {
+					add_ideas = {
+						gen_traitors_in_the_army
+					}
+				}
+			}
+
+			modifier = {
+				stability_factor = -0.20
+				political_power_cost = 0.2
+				war_support_factor = -0.15
+				army_defence_factor = 0.25
+				army_attack_factor = 0.25
+				custom_modifier_tooltip = GEN_french_army_tooltip_loc
+			}
+		}
+		gen_traitors_in_the_army = {
+
+			# picture = #
+
+			allowed = {
+				always = yes
+			}
+
+			cancel = {
+				ROOT = { has_war = no }
+			}
+
+			rule = {
+
+			}
+
+			modifier = {
+				stability_factor = -0.20
+				war_support_factor = -0.20
+				army_attack_factor = -0.15
+				army_defence_factor = -0.15
+				army_org_factor = -0.20
+			}
+		}
 }   }
