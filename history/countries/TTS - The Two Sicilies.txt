@@ -4,6 +4,8 @@ set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
 
+country_lock_all_division_template = yes
+
 add_ideas = {
 	gen_french_army
 }

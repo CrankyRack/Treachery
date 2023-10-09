@@ -285,13 +285,14 @@ ideas = {
 			}
 
 			#rule = {
-			#	can_
+				
 			#}
 
 			on_remove = {
 				if = {
 					limit = { ROOT = { has_country_flag = nationalized_army } }
 					add_political_power = 100
+					country_lock_all_division_template = no
 				}
 				else = {
 					add_ideas = {
