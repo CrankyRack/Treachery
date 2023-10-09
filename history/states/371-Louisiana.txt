@@ -21,7 +21,6 @@ state={
 
 			}
 		}
-		add_core_of = TEX
 		add_core_of = GRC
 		victory_points = {
 			7552 10 

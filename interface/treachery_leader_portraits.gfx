@@ -120,5 +120,16 @@ spriteTypes = {
 		name = "GFX_SIC_king_ferdinand"
 		texturefile =  "gfx/leaders/SIC/SIC_king_ferdinand.dds"
 	}
-	
+	spriteType = {
+		name = "GFX_portrait_USA_theodore_roosevelt"
+		texturefile =  "gfx/leaders/USA/USA_theodore_roosevelt.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_USA_alton_b_parker"
+		texturefile =  "gfx/leaders/USA/USA_alton_b_parker.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_USA_william_randolph_hearst"
+		texturefile =  "gfx/leaders/USA/USA_william_randolph_hearst.dds"
+	}
 }
