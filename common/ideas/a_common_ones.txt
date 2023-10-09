@@ -284,13 +284,13 @@ ideas = {
 				ROOT = { has_war_with = FRA }
 			}
 
-			rule = {
-				
-			}
+			#rule = {
+			#	can_
+			#}
 
 			on_remove = {
 				if = {
-					limit = { has_country_flag = nationalized_army}
+					limit = { ROOT = { has_country_flag = nationalized_army } }
 					add_political_power = 100
 				}
 				else = {

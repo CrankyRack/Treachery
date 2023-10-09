@@ -55,7 +55,7 @@ focus_tree = {
 		#	remove_ideas = {
 		#		gen_french_army
 		#	}
-			set_country_flag = nationalized_army
+			#set_country_flag = nationalized_army
 		#}
 	#}
 }
