@@ -4311,6 +4311,9 @@
  FLO:0 "Florida"
  FLO_DEF:0 "Florida"
  FLO_ADJ:0 "Floridan"
+ FLO_COL_subject:0 "Captaincy General of Florida"
+ FLO_COL_subject_DEF:0 "the Captaincy General of Florida"
+ FLO_COL_subject_ADJ:0 "Floridan"
  
  NSV_fascism:0 "Rigan Empire"
  NSV_fascism_DEF:0 "the Rigan Empire"

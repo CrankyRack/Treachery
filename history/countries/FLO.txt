@@ -193,22 +193,25 @@ set_convoys = 100
 
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1932.11.8"
+	ruling_party = Patrimonialism
+	last_election = "1900.11.8"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	democratic = 80
-	fascism = 10
-	communism = 10
+	democratic = 13.33
+	liberalism = 11.33
+	socialism = 8.1
+	communism = 3.1
+	fascism = 16.34
+	neutrality = 13.6
+	Patrimonialism = 34.2
 }
 
 add_ideas = {
 	civilian_economy
 	volunteer_only
 	free_trade
-	home_of_the_free
 }
 
 1939.1.1 = {

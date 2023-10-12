@@ -5,9 +5,14 @@ oob = "COL_1936"
 set_research_slots = 3
 
 set_autonomy = {
-		target = NIC
-		autonomous_state = autonomy_dominion
-	}
+	target = NIC
+	autonomous_state = autonomy_dominion
+}
+set_autonomy = {
+	target = FLO
+	autonomous_state = autonomy_integrated_puppet
+}
+
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "COL_1936_naval_mtg"
@@ -96,13 +101,26 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 15
-	fascism = 37
-	communism = 7
-	neutrality = 41
+	democratic = 2.3
+	liberalism = 2.3
+	socialism = 9.2
+	communism = 2.3
+	fascism = 47.5
+	neutrality = 24.2
+	Patrimonialism = 12.2
 }
 
-
+FLO = {
+	set_popularities = {
+		democratic = 13.33
+		liberalism = 11.33
+		socialism = 8.1
+		communism = 3.1
+		fascism = 16.34
+		neutrality = 13.6
+		Patrimonialism = 34.2
+	}
+}
 
 
 ### VARIANTS ###
