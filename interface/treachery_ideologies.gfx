@@ -1,0 +1,29 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_ideology_colonial_government"
+		texturefile = "gfx/interface/ideologies/colonial_government.dds" 
+	}
+	spriteType = {
+		name = "GFX_ideology_liberalism"
+		texturefile = "gfx/interface/ideologies/liberalism.dds" 
+	}
+	spriteType = {
+		name = "GFX_ideology_social_liberalism"
+		texturefile = "gfx/interface/ideologies/social_liberalism.dds" 
+	}
+	spriteType = {
+		name = "GFX_ideology_market_liberalism"
+		texturefile = "gfx/interface/ideologies/market_liberalism.dds" 
+	}
+	spriteType = {
+		name = "GFX_ideology_Autocracy"
+		texturefile = "gfx/interface/ideologies/Autocracy.dds" 
+	}
+	spriteType = {
+		name = "GFX_ideology_military_dictatorship"
+		texturefile = "gfx/interface/ideologies/military_dictatorship.dds" 
+	}
+
+}
+

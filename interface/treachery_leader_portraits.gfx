@@ -126,10 +126,14 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_USA_alton_b_parker"
-		texturefile =  "gfx/leaders/USA/USA_alton_b_parker.dds"
+		texturefile =  "gfx/leaders/USA/USA_alton_b_parker.dds" 
 	}
 	spriteType = {
 		name = "GFX_portrait_USA_william_randolph_hearst"
 		texturefile =  "gfx/leaders/USA/USA_william_randolph_hearst.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_HAR_sir_percy_carter"
+		texturefile =  "gfx/leaders/NIR/HAR_sir_percy_carter.dds"
 	}
 }

@@ -1,0 +1,16 @@
+characters = {
+	HAR_sir_percy_carter = {
+		name="Sir Percy Carter"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/NIR/HAR_sir_percy_carter.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

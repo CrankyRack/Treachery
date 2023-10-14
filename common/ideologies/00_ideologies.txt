@@ -7,7 +7,7 @@ ideologies = {
 			conservatism = {
 			}
 
-			liberalism = {
+			liberalism_2 = {
 			}
 
 			national_conservatism = {
@@ -294,6 +294,9 @@ ideologies = {
 			}
 
 			oligarchism  = {
+			}
+			
+			colonial_government  = {
 			}
 
 			anarchism = {
