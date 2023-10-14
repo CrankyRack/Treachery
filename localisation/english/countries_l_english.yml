@@ -4695,6 +4695,14 @@
  WAA_DEF:0 "the Waakhispiistak Confederation"
  WAA_ADJ:0 "Waakhispiistaki"
  
+ VIT:0 "Governorate of Vitebsk"
+ VIT_DEF:0 "the Governorate of Vitebsk"
+ VIT_ADJ:0 "Vitebsker"
+ 
+ MOG:0 "Governorate of Mogilev"
+ MOG_DEF:0 "the Governorate of Mogilev"
+ MOG_ADJ:0 "Mogilev"
+ 
  SSV:0 "Sydvästafrika"
  SSV_DEF:0 "the Republic of Sydvästafrika"
  SSV_ADJ:0 "Sydvästafrikan"

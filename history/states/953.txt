@@ -1,17 +1,18 @@
 state=
 {
 	id=953
-	name="Czeczersk"
+	name="Mogilev"
 	manpower = 316988
 	
 	state_category = town
 	
 	history=
 	{
-		owner = SOV
+		owner = MOG
 		victory_points = { 9752 5 }
 		add_core_of = SOV
 		add_core_of = BLR
+		add_core_of = MOG
 		add_claim_by = SOV
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -19,7 +20,7 @@ state=
 		}
 	}
 	provinces={
-		289 6354 9247 11230 11271
+		289 3278 6354 9247 9351 9371 9396 11230 11271 11383
 	}
 
 	local_supplies=0.0 

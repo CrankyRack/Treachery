@@ -1208,3 +1208,11 @@ SIL = {
 	color = rgb { 216 180 62 }
 	color_ui = rgb { 216 180 62 }
 }
+VIT = {
+	color = rgb { 54 167 156 }
+	color_ui = rgb { 70 217 203 }
+}
+MOG = {
+	color = rgb { 159 83 80 }
+	color_ui = rgb { 197 101 98 }
+}

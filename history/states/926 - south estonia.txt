@@ -1,31 +1,28 @@
 state=
 {
 	id=926
-	name="Valga Strip"
+	name="Ludza"
 	manpower = 46988
 	
 	state_category = rural
-	
-	resources={
-		aluminium=3 # was: 5
-	}
-	
+
 	history=
 	{
 		owner = SOV
 		victory_points = {
 			11465 5 
 		}
-		add_core_of = EST
+		add_core_of = NOV
 		add_core_of = LAT
-		add_claim_by = LIT
+		add_core_of = VIT
+		add_claim_by = SOV
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
 		}
 	}
 	provinces={
-		308 6408 9485
+		319 3333
 	}
 
 	local_supplies=0.0 

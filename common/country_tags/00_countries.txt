@@ -310,6 +310,8 @@ HOB = "countries/hobyo.txt"
 TID = "countries/Tidore.txt"
 WAA = "countries/Waakhispiistak.txt"
 SOF = "countries/sofia.txt"
+VIT = "countries/vitebsk.txt"
+MOG = "countries/mogilev.txt"
 
 ADR = "countries/adrar.txt"
 KUT = "countries/kuti.txt"

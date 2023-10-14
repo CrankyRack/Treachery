@@ -7,19 +7,19 @@ state={
 	state_category = rural
 
 	history={
-		owner = SOV
+		owner = VIT
 		buildings = {
 			infrastructure = 3 #was: 5
 		}
 		add_core_of = SOV
-		add_claim_by = SOV
+		add_core_of = VIT
 		victory_points = {
 			11234 1
 		}
 	}
 
 	provinces={
-		207 319 354 387 3333 6242 6293 9353 9386 11234 11259 
+		354 387 6293 9386 11259 11272
 	}
 
 	local_supplies=0.0 

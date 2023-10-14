@@ -17,12 +17,11 @@ state={
 		}
 		add_core_of = EST
 		add_core_of = LAT
-		add_claim_by SWE
 
 	}
 
 	provinces={
-		592 6099 6178 9221 
+		592 308 6099 6178 6408 9221 9485
 	}
 	manpower=225840
 	buildings_max_level_factor=1.000

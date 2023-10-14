@@ -11,9 +11,11 @@ state={
 		victory_points = {
 			11202 3
 		}
+		victory_points = {
+			11234 2
+		}
 		buildings = {
 			infrastructure = 3 #was: 6
-			air_base = 4
 		}
 		add_core_of = NOV
 		add_core_of = SOV
@@ -21,7 +23,7 @@ state={
 	}
 
 	provinces={
-		95 248 415 3053 3310 6324 9254 9319 9331 11097 11202 11304 11392 
+		95 207 248 415 3053 3310 6242 6324 9254 9319 9331 9353 11097 11202 11234 11304 11392 
 	}
 
 	local_supplies=0.0 

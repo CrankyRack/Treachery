@@ -1,0 +1,29 @@
+state=
+{
+	id=1125
+	name="Ljozna"
+
+	manpower = 72748
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = MOG
+		victory_points = {
+			11290 1
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SOV
+        add_core_of = BLR
+	}
+
+	provinces={
+		3331 9241 11220 11290
+	}
+	local_supplies=0.0 
+}

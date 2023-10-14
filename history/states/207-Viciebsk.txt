@@ -7,7 +7,7 @@ state={
 	state_category = town
 
 	history={
-		owner = SOV
+		owner = VIT
 		victory_points = {
 			11241 5
 		}
@@ -15,12 +15,13 @@ state={
 			infrastructure = 3 #was: 5
 		}
 		add_core_of = SOV
+		add_core_of = VIT
 		add_core_of = BLR
 		add_claim_by = SOV
 	}
 
 	provinces={
-		323 3219 3331 6249 6326 6371 9241 9323 11220 11241 
+		323 3219 3313 6249 6326 6371 9323 11241 11353
 	}
 
 	local_supplies=5.0 
