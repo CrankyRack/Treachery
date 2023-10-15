@@ -795,10 +795,6 @@ OVO = {
 	color = rgb { 0 153 51 }
 	color_ui = rgb { 0 102 34 }
 }
-NEN = {
-	color = rgb { 204 255 204 }
-	color_ui = rgb { 102 255 102 }
-}
 KOM = {
 	color = rgb { 0 230 184 }
 	color_ui = rgb { 0 128 102 }
@@ -1216,3 +1212,11 @@ MOG = {
 	color = rgb { 159 83 80 }
 	color_ui = rgb { 197 101 98 }
 }
+NEN = {
+	color = rgb { 164 13 37 }
+	color_ui = rgb { 164 13 37 }
+}
+#NEN = {
+	#color = rgb { 204 255 204 }
+	#color_ui = rgb { 102 255 102 }
+#}

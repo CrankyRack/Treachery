@@ -9,7 +9,7 @@ state={
 
 
 	history={
-		owner = NIR
+		owner = NEN
 		buildings = {
 			infrastructure = 4 #was: 7
 			arms_factory = 1
@@ -25,7 +25,8 @@ state={
 			}
 
 		}
-		add_core_of = NIR
+		add_core_of = NEN
+		add_claim_by = USA
 		victory_points = {
 			6732 20 
 		}
