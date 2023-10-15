@@ -21,7 +21,7 @@ bookmarks = {
 				FRA_france_leads
 			}
 		}
-		"ENG"={
+		"NIR"={
 			history = "USA_GATHERING_STORM_DESC"
 			ideology = democratic
 			ideas = {
@@ -49,7 +49,7 @@ bookmarks = {
 				ENG_war_with_italy
 			}
 		}
-		"NIR"={
+		"SOV"={
 			history = "GER_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
@@ -63,27 +63,27 @@ bookmarks = {
 				GER_ussr_war_goal
 			}
 		}
-		"SWE"={
+		"POL"={
 			history = "ITA_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
-	            SWE_swedish_lion_roars
-	            SWE_krigsmakten
-	            SWE_american_emigration
-			}	
+				uncontrolled_exports
+				POL_april_constitution_1
+				POL_looming_peasants_strike
+			}
 			focuses = {
-				ITA_comandante_diavolo
-				ITA_to_live_as_a_lion
-				ITA_a_colonial_empire
-			}		
+				POL_complete_april_constitution
+				POL_clamp_down_on_danzig
+				POL_the_between_the_seas_concept
+			}
 		}
-		"SAX"={
+		"SWE"={
 			history = "JAP_GATHERING_STORM_DESC"
 			ideology = fascism
 			ideas = {
-				state_shintoism
-				JAP_zaibatsus
-				JAP_militarism
+				SWE_swedish_lion_roars
+	            SWE_krigsmakten
+	            SWE_american_emigration
 			}	
 			focuses = {
 				JAP_the_zero
@@ -91,7 +91,7 @@ bookmarks = {
 				JAP_strike_on_the_southern_resource_area
 			}			
 		}
-		"SOV"={
+		"DEN"={
 			history = "SOV_GATHERING_STORM_DESC"
 			ideology = communism
 			ideas = {
@@ -418,7 +418,7 @@ bookmarks = {
 				EST_unite_our_nations
 			}
 		}
-		"POL"={
+		"SAX"={
 			minor = yes
 			history = "POL_GATHERING_STORM_DESC"
 			ideology = neutrality

@@ -1,0 +1,16 @@
+characters = {
+	DAK_msipesi = {
+		name="Msipesi"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/DAK/DAK_msipesi.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

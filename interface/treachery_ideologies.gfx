@@ -24,6 +24,10 @@ spriteTypes = {
 		name = "GFX_ideology_military_dictatorship"
 		texturefile = "gfx/interface/ideologies/military_dictatorship.dds" 
 	}
+	spriteType = {
+		name = "GFX_ideology_national_conservatism"
+		texturefile = "gfx/interface/ideologies/national_conservatism.dds" 
+	}
 
 }
 
