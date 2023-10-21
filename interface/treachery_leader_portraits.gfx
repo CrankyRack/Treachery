@@ -134,10 +134,14 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_HAR_sir_percy_carter"
-		texturefile =  "gfx/leaders/NIR/HAR_sir_percy_carter.dds"
+		texturefile =  "gfx/leaders/NIR/HAR_sir_percy_carter.dds" 
 	}
 	spriteType = {
 		name = "GFX_portrait_DAK_msipesi"
 		texturefile =  "gfx/leaders/DAK/DAK_msipesi.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_MEX_agustin_II"
+		texturefile =  "gfx/leaders/MEX/MEX_agustin_II.dds"
 	}
 }

@@ -1,0 +1,16 @@
+characters = {
+	MEX_agustin_II = {
+		name="Agustín II Iturbide"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/MEX/MEX_agustin_II.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
