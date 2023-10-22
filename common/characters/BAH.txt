@@ -1,0 +1,16 @@
+characters = {
+	BAH_clemens_delbruck = {
+		name="Clemens von Delbrück"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BAH/BAH_clemens_delbruck.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

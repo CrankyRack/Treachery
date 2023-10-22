@@ -1,0 +1,16 @@
+characters = {
+	VIT_isak_jewish_man = {
+		name="Isak Zaslavsky"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/VIT/VIT_isak_jewish_man.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
