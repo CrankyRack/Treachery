@@ -13,12 +13,11 @@ state=
 	
 	history=
 	{
-		owner = ORO
+		owner = POR
 		victory_points = {
 			4315 5 
 		}
 		add_core_of = RAJ
-		add_core_of = ORO
 		add_claim_by = KOS
 		buildings = {
 			infrastructure = 2 #was: 6

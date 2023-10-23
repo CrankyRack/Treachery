@@ -3,10 +3,10 @@ state=
 	id=1043
 	name="Swedish Gold Coast"
 	resources={
-		rubber=3 # was: 18
+		rubber=2 # was: 18
 	}
 
-	manpower = 1327788
+	manpower = 327788
 
 	
 	state_category = rural
@@ -15,23 +15,28 @@ state=
 	history={
 		owner = SWE
 		victory_points = {
-			10862 5 
+			12785 5 
+		}
+			set_province_name = {
+			id = 12785
+			name = "Fort Gustaf"
 		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-			10862 = {
+			12785 = {
 				naval_base = 2
 				coastal_bunker = 1
 
 			}
 		}
 		add_core_of = GHA
-		add_claim_by = DEN
+		add_core_of = TOG
+		add_claim_by = SWE
 	}
 
 	provinces={
-		10862 13212
+		12785
 	}
 	local_supplies=0.0 
 }

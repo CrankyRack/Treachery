@@ -1,0 +1,16 @@
+characters = {
+	VAN_louis_II_junot = {
+		name="Louis II Junot"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/VAN/VAN_louis_II_junot.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

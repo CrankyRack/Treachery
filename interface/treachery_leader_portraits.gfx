@@ -146,10 +146,18 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_BAH_clemens_delbruck"
-		texturefile =  "gfx/leaders/BAH/BAH_clemens_delbruck.dds"
+		texturefile =  "gfx/leaders/BAH/BAH_clemens_delbruck.dds" 
 	}
 	spriteType = {
 		name = "GFX_portrait_VIT_isak_jewish_man"
-		texturefile =  "gfx/leaders/VIT/VIT_isak_jewish_man.dds"
+		texturefile =  "gfx/leaders/VIT/VIT_isak_jewish_man.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_VAN_louis_II_junot"
+		texturefile =  "gfx/leaders/VAN/VAN_louis_II_junot.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ORO_henry_I"
+		texturefile =  "gfx/leaders/ORO/ORO_henry_I.dds"
 	}
 }
