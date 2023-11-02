@@ -165,7 +165,7 @@ characters = {
 	}
 
 	POL_ignacy_moscicki = {
-		name="Frederick Augustus III"
+		name="Polacken polackson"
 		portraits = {
 			army={
 				small=GFX_portrait_POL_ignacy_moscicki_small

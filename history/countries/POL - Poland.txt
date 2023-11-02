@@ -30,12 +30,7 @@ if = {
 }
 
 set_research_slots = 3
-SAX = {
-set_autonomy = {
-		target = POL
-		autonomous_state = autonomy_personal_union
-	}
-}
+
 set_autonomy = {
 		target = LIT
 		autonomous_state = autonomy_personal_union
