@@ -1,8 +1,10 @@
-﻿capital = 825 #Naryan-Mar
+﻿capital = 357 
 
 #oob = "NEN_1936"  # Troops should probably not be able to use nen
 
 set_research_slots = 3
+
+recruit_character = NEN_edwin
 
 # Starting tech
 set_technology = {
@@ -89,10 +91,11 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 50
-	fascism = 0
-	communism = 20
-	neutrality = 30
+	democratic = 37
+	liberalism = 27
+	neutrality = 26
+	communism = 2	
+	socialism = 8
 }
 
 

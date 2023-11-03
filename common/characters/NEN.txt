@@ -1,0 +1,16 @@
+characters = {
+	NEN_edwin = {
+		name="Edwin Upton Curtis"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/NEN/NEN_edwin.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
