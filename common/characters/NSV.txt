@@ -1,0 +1,16 @@
+characters = {
+	NSV_georg_schwein = {
+		name="Georg August Schweinfurth"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/NSV/NSV_georg_schwein.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
