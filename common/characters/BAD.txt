@@ -1,0 +1,16 @@
+characters = {
+	BAD_frederick_ii = {
+		name="Frederick II Zähringen"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BAD/BAD_frederick_ii.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

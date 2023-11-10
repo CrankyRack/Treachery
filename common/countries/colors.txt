@@ -74,6 +74,10 @@ SPR = {
 	color = rgb { 204 155 59 }
 	color_ui = rgb { 204 155 59 }
 }
+ERI = {
+	color = rgb { 204 155 59 }
+	color_ui = rgb { 204 155 59 }
+}
 ITA = {
 	color = rgb { 97 132 47 }
 	color_ui = rgb { 97 132 47 }

@@ -7,6 +7,10 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 	}
 set_autonomy = {
+		target = ERI
+		autonomous_state = autonomy_colony
+	}
+set_autonomy = {
 		target = PHI
 		autonomous_state = autonomy_colony
 	}

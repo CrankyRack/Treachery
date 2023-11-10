@@ -1,0 +1,28 @@
+state=
+{
+	id=1126
+	name="Zwadiba"
+
+	manpower = 172748
+
+	
+	state_category = pastoral
+	
+	
+	history={
+		owner = DAH
+		victory_points = {
+			2080 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+        add_core_of = COG
+	}
+
+	provinces={
+		2080 5054
+	}
+	local_supplies=0.0 
+}

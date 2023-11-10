@@ -1,0 +1,28 @@
+state=
+{
+	id=1127
+	name="Maroua"
+
+	manpower = 272748
+
+	
+	state_category = pastoral
+	
+	
+	history={
+		owner = WES
+		victory_points = {
+			8078 1
+		}
+		buildings = {
+			infrastructure = 0
+
+		}
+        add_core_of = NGA
+	}
+
+	provinces={
+		1993 8078
+	}
+	local_supplies=0.0 
+}

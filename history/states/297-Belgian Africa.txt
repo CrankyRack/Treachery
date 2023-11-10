@@ -8,8 +8,9 @@ state=
 	
 	history=
 	{
-		owner = SPR
+		owner = ERI
 		add_core_of = EQG
+		add_core_of = ERI
 		victory_points = {
 			1903 1 
 		}
@@ -18,14 +19,14 @@ state=
 			1903 = {
 				naval_base = 1
 			}
-			8244 = {
+			6039 = {
 				naval_base = 1
 			}
 		}
 	}
 	provinces=
 	{
-1903 8244 10948	}
+1903 6039 9137 11194 }
 
 	local_supplies=0.0 
 }
