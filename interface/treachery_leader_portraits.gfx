@@ -174,10 +174,18 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_NSV_georg_schwein"
-		texturefile =  "gfx/leaders/NSV/NSV_georg_schwein.dds"
+		texturefile =  "gfx/leaders/NSV/NSV_georg_schwein.dds" 
 	}
 	spriteType = {
 		name = "GFX_portrait_BAD_frederick_ii"
-		texturefile =  "gfx/leaders/BAD/BAD_frederick_ii.dds"
+		texturefile =  "gfx/leaders/BAD/BAD_frederick_ii.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_ERI_emilio_barrera"
+		texturefile =  "gfx/leaders/SPR/ERI_emilio_barrera.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_RCG_emile_gentil"
+		texturefile =  "gfx/leaders/FRA/RCG_emile_gentil.dds"
 	}
 }

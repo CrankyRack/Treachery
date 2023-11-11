@@ -1,0 +1,16 @@
+characters = {
+	RCG_emile_gentil = {
+		name="Émile Gentil"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/FRA/RCG_emile_gentil.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

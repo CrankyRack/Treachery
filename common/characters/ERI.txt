@@ -1,0 +1,16 @@
+characters = {
+	ERI_emilio_barrera = {
+		name="Emilio Barrera"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SPR/ERI_emilio_barrera.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
