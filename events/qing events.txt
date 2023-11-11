@@ -203,3 +203,31 @@ country_event = { #republican revolution
 	}
 	
 }
+
+country_event = {
+	id = colapse_of_qing.4 #a new dynasty? ##starting event
+	title = colapse_of_qing.4.t
+	desc = colapse_of_qing.4.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		set_country_flag = influence_in_china
+	}
+	
+	option = {
+		name = colapse_of_qing.1.a
+		
+	}
+			
+}

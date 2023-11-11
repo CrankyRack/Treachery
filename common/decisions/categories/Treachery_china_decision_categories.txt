@@ -1,0 +1,28 @@
+############################
+##### China Influence ######
+############################
+
+China_Influence_Dec_Cat = {
+	picture = GFX_parliament_picture
+	icon = power_struggle
+	priority = 100
+	scripted_gui = china_influence_gui
+	visible_when_empty = yes
+	allowed = {
+		
+	}
+	visible = {
+		has_country_flag = influence_in_china
+	} 
+}
+
+
+
+
+
+
+
+
+
+
+

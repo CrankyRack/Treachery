@@ -1,0 +1,73 @@
+scripted_gui = {
+  china_influence_gui = {
+    window_name = "china_influence_gui_window"
+    context_type = player_context
+
+    visible = {
+		has_country_flag = china_influence_open
+    }
+
+    effects = {
+		close_button_click = {
+			clr_country_flag = china_influence_open
+		}
+		manchuria_button_click = {
+			set_country_flag = region_selected
+			set_country_flag = manchuria_selected
+			if = {
+				limit = {
+					OR = {
+						has_country_flag = canton_selected
+						has_country_flag = tibet_selected
+						has_country_flag = mongolia_selected
+						has_country_flag = tartary_selected
+						has_country_flag = qinghai_selected
+						has_country_flag = shanghai_selected
+						has_country_flag = peking_selected
+						has_country_flag = yunnan_selected
+						has_country_flag = shanxi_selected
+						has_country_flag = chongqing_selected
+					}
+				}
+				clr_country_flag = canton_selected
+				clr_country_flag = tibet_selected
+				clr_country_flag = mongolia_selected
+				clr_country_flag = tartary_selected
+				clr_country_flag = qinghai_selected
+				clr_country_flag = shanghai_selected
+				clr_country_flag = peking_selected
+				clr_country_flag = yunnan_selected
+				clr_country_flag = shanxi_selected
+				clr_country_flag = chongqing_selected
+			}
+		}
+    }
+
+    triggers = {
+		
+	}
+
+    dynamic_lists = {
+	}
+
+    properties = {
+		
+    }
+
+    ai_enabled = {
+		always = yes
+    }
+
+    ai_test_interval = 290  # The higher, the long it takes the ai to do actions
+	ai_test_variance = 0.5
+
+    ai_check = {
+    }
+
+    ai_check_scope = {
+    }
+
+    ai_weights = {
+    }
+  }
+}

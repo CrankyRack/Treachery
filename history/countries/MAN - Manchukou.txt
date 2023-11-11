@@ -74,3 +74,4 @@ set_popularities = {
 	fascism = 80
 	neutrality = 20
 }
+set_country_flag = influence_in_china
