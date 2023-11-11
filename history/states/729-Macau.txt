@@ -9,12 +9,12 @@ state={
 		owner = POR
 		add_core_of = MAN
 		victory_points = {
-			4189 1 
+			4189 10 
 		}
 		buildings = {
 			infrastructure = 2
 			4189 = {
-				naval_base = 1
+				naval_base = 5
 			}
 		}
 	}

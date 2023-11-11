@@ -716,8 +716,8 @@ MEK = {
 	color_ui = rgb { 178 196 98 }
 }
 PRE = {
-	color = rgb { 160  160  160 }
-	color_ui = rgb { 160  160  160 }
+	color = rgb { 125 142 160 }
+	color_ui = rgb { 125 142 160 }
 }
 SAX = {
 	color = rgb { 102 102 0 }
