@@ -28,7 +28,7 @@ guiTypes = {
 	containerWindowType = {
 		name = "china_influence_gui_window"
 		position = { x = 0 y = 0}	
-		size = { width = 800 height= 650 }
+		size = { width = 100% height= 650 }
 		orientation = center
 		origo = center
 		fade_time = 100
@@ -37,26 +37,32 @@ guiTypes = {
 		click_to_front = no
 		clipping = no
 		
-		background = {
+		iconType = {
 			name = "Background"		
-			quadTextureSprite ="GFX_scripted_gui_window_background"
-		}
-
-		buttonType ={
-			name ="close_button"
-			spriteType = "GFX_scripted_gui_close"
-			position = { x= 752 y = 19 }
+			spriteType = "GFX_china_influence_gui_window_bg"
+			position = { x=5 y=0 }
 			Orientation = "UPPER_LEFT"
+		}
+		
+		instantTextboxType = {
+			name = "china_influence_title"
+			position = { x = 150 y = 10 }
+			font = "vic_36"
+			borderSize = {x = 0 y = 0}
+			text = "Spheres of Influence"
+			maxWidth = 400
+			maxHeight = 30
+			fixedsize = yes
 		}
 		
 		containerWindowType = {
 			name = "China_influence_zones"
-			position = { x=240 y=90 }
+			position = { x=0 y=90 }
 			
 			buttonType ={
 				name ="manchuria_button"
 				spriteType = "GFX_scripted_gui_close"
-				position = { x= 752 y = 19 }
+				position = { x= 40 y = 19 }
 				Orientation = "UPPER_LEFT"
 			}
 			
@@ -64,12 +70,12 @@ guiTypes = {
 		
 		containerWindowType = {
 			name = "Influence_in_zones"
-			position = { x=340 y=90 }
+			position = { x=0 y=400 }
 			
 			instantTextboxType = {
-				name = "china_region"
-				position = { x = 300 y = 40 }
-				font = "vic_36s"
+				name = china_region
+				position = { x = 150 y = 30 }
+				font = "vic_36"
 				borderSize = {x = 0 y = 0}
 				text = china_region
 				maxWidth = 400
@@ -88,15 +94,6 @@ guiTypes = {
 		#	Orientation = "UPPER_LEFT"
 		#}	
 
-		instantTextboxType = {
-			name = "china_influence_title"
-			position = { x = 300 y = 40 }
-			font = "vic_36s"
-			borderSize = {x = 0 y = 0}
-			text = "Spheres of Influence"
-			maxWidth = 400
-			maxHeight = 20
-			fixedsize = yes
-		}
+		
 	}
 }

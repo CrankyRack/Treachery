@@ -1,5 +1,7 @@
-spriteType = {
-		name = "GFX_china_influence_gui_window"
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_china_influence_gui_window_bg"
 		texturefile = "gfx/interface/china_influence/china_influence_bg.dds"
 		legacy_lazy_load = no
 	}
+}
