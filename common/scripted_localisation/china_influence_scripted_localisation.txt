@@ -1,0 +1,78 @@
+# Core or Claim:
+defined_text = {
+	name = get_chinese_region
+
+	text = {
+		trigger = {
+			has_country_flag = canton_selected
+		}
+		localization_key = "Canton"
+	}
+	text = {
+		trigger = {
+			has_country_flag = tibet_selected
+		}
+		localization_key = "Tibet"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mongolia_selected
+		}
+		localization_key = "Mongolia"
+	}
+	text = {
+		trigger = {
+			has_country_flag = tartary_selected
+		}
+		localization_key = "Tartary"
+	}
+	text = {
+		trigger = {
+			has_country_flag = qinghai_selected
+		}
+		localization_key = "Qinghai"
+	}
+	text = {
+		trigger = {
+			has_country_flag = shanghai_selected
+		}
+		localization_key = "Shanghai"
+	}
+	text = {
+		trigger = {
+			has_country_flag = peking_selected
+		}
+		localization_key = "Peking"
+	}
+	text = {
+		trigger = {
+			has_country_flag = yunnan_selected
+		}
+		localization_key = "Yunnan"
+	}
+	text = {
+		trigger = {
+			has_country_flag = shanxi_selected
+		}
+		localization_key = "Shanxi"
+	}
+	text = {
+		trigger = {
+			has_country_flag = chongqing_selected
+		}
+		localization_key = "Chingqing"
+	}
+	text = {
+		trigger = {
+			has_country_flag = manchuria_selected
+		}
+		localization_key = "Manchuria"
+	}
+	text = {
+		trigger = {
+			always = yes
+		}
+		localization_key = ""
+	}
+}
+

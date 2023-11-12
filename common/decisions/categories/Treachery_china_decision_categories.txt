@@ -11,6 +11,9 @@ China_Influence_Dec_Cat = {
 	allowed = {
 		
 	}
+	visible = {
+		has_country_flag = influence_in_china
+	}
 }
 
 
