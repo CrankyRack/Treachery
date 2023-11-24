@@ -182,10 +182,14 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_ERI_emilio_barrera"
-		texturefile =  "gfx/leaders/SPR/ERI_emilio_barrera.dds"
+		texturefile =  "gfx/leaders/SPR/ERI_emilio_barrera.dds" 
 	}
 	spriteType = {
 		name = "GFX_portrait_RCG_emile_gentil"
 		texturefile =  "gfx/leaders/FRA/RCG_emile_gentil.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_KOR_emperor_gojong"
+		texturefile =  "gfx/leaders/KOR/KOR_emperor_gojong.dds"
 	}
 }
