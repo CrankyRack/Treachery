@@ -1,0 +1,16 @@
+characters = {
+	MAC_konda = {
+		name="Konda I Batzaria"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/MAC/MAC_konda.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

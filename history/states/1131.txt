@@ -1,0 +1,27 @@
+state={
+	id=1131
+	name="Shimoda"
+	manpower = 212909
+	
+	state_category = enclave
+	
+	history={
+		owner = MAL
+		add_core_of = JAP
+		victory_points = {
+			4378 5 
+		}
+		buildings = {
+			infrastructure = 3
+			4378 = {
+				naval_base = 5
+			}
+		}
+	}
+	
+	provinces={
+		4378 
+	}
+
+	local_supplies=0.0 
+}

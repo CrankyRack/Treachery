@@ -1,0 +1,27 @@
+state={
+	id=1130
+	name="Mokpo"
+	manpower = 312309
+	
+	state_category = enclave
+	
+	history={
+		owner = FRA
+		add_core_of = KOR
+		victory_points = {
+			11948 3 
+		}
+		buildings = {
+			infrastructure = 2
+			11948 = {
+				naval_base = 4
+			}
+		}
+	}
+	
+	provinces={
+		11948 
+	}
+
+	local_supplies=0.0 
+}

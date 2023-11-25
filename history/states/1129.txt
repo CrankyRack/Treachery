@@ -1,0 +1,27 @@
+state={
+	id=1129
+	name="Jemulpo"
+	manpower = 257805
+	
+	state_category = enclave
+	
+	history={
+		owner = MAL
+		add_core_of = KOR
+		victory_points = {
+			7221 5 
+		}
+		buildings = {
+			infrastructure = 2
+			7221 = {
+				naval_base = 6
+			}
+		}
+	}
+	
+	provinces={
+		7221 
+	}
+
+	local_supplies=0.0 
+}

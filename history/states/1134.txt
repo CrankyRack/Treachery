@@ -1,0 +1,29 @@
+state={
+	id=1134
+	name="Xiamen"
+	manpower = 691109
+	
+	state_category = enclave
+	
+	history={
+		owner = PHI
+		add_core_of = MAN
+		victory_points = {
+			7071 10 
+		}
+		buildings = {
+			infrastructure = 3
+			7071 = {
+				naval_base = 4
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+	}
+	
+	provinces={
+		7071 
+	}
+
+	local_supplies=0.0 
+}

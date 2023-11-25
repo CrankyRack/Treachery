@@ -1,0 +1,29 @@
+state={
+	id=1135
+	name="Ningpo"
+	manpower = 391109
+	
+	state_category = enclave
+	
+	history={
+		owner = FRA
+		add_core_of = MAN
+		victory_points = {
+			9974 10 
+		}
+		buildings = {
+			infrastructure = 3
+			9974 = {
+				naval_base = 6
+				coastal_bunker = 1
+				bunker = 1
+			}
+		}
+	}
+	
+	provinces={
+		9974 
+	}
+
+	local_supplies=0.0 
+}

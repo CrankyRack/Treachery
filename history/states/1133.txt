@@ -1,0 +1,27 @@
+state={
+	id=1133
+	name="Jeju Island"
+	manpower = 291109
+	
+	state_category = small_island
+	
+	history={
+		owner = MAL
+		add_core_of = KOR
+		victory_points = {
+			1177 1 
+		}
+		buildings = {
+			infrastructure = 3
+			1177 = {
+				naval_base = 3
+			}
+		}
+	}
+	
+	provinces={
+		1177 
+	}
+
+	local_supplies=0.0 
+}
