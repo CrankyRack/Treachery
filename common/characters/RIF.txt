@@ -1,0 +1,16 @@
+characters = {
+	RIF_jose_vega = {
+		name="José Marina Vega"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SPR/RIF_jose_vega.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

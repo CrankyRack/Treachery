@@ -381,8 +381,8 @@ LEB = {
 }
 
 JOR = {
-	color = rgb { 111  55  78 }
-	color_ui = rgb { 111  55  78 }
+	color = rgb { 167  98  97 }
+	color_ui = rgb { 167  98  97 }
 }
 
 SYR = {
@@ -1040,8 +1040,8 @@ UZB = {
 	color_ui = rgb { 239 187 55 }
 }
 ANA = {
-	color = rgb { 195 107 160 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 204 206 72 }
+	color_ui = rgb { 204 206 72 }
 }
 JAB = {
 	color = rgb { 165 91 48 }
@@ -1052,8 +1052,8 @@ NAJ = {
 	color_ui = rgb { 255 120 138 }
 }
 HJZ = {
-	color = rgb { 64 160 167 }
-	color_ui = rgb { 83 208 217 }
+	color = rgb { 37 140 93 }
+	color_ui = rgb { 37 140 93 }
 }
 CHA = {
 	color = rgb { 144 0 32 }
@@ -1224,3 +1224,15 @@ NEN = {
 	#color = rgb { 204 255 204 }
 	#color_ui = rgb { 102 255 102 }
 #}
+CMR = {
+	color = rgb { 211 104 58 }
+	color_ui = rgb { 211 104 58 }
+}
+ZAM = {
+	color = rgb { 211 104 58 }
+	color_ui = rgb { 211 104 58 }
+}
+TRI = {
+	color = rgb { 210 128 20 }
+	color_ui = rgb { 210 128 20 }
+}

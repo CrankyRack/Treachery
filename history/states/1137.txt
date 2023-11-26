@@ -1,0 +1,33 @@
+
+state={
+	id=1137
+	name="STATE_291"
+	manpower = 144165
+	
+	state_category = rural
+	
+	resources={
+		steel=1 # was: 22
+	}
+
+	history={
+		owner = CMR
+		victory_points = {
+			12413 1
+		}
+		buildings = {
+			infrastructure = 2 #was: 5
+			industrial_complex = 1
+		}
+		add_core_of = CMR
+		add_core_of = ANA
+		add_core_of = IRQ
+		add_core_of = JAB
+	}
+
+	provinces={
+	12413 12839
+	}
+
+	local_supplies=6.0 
+}

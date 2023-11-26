@@ -194,10 +194,18 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_MAC_konda"
-		texturefile =  "gfx/leaders/MAC/MAC_konda.dds"
+		texturefile =  "gfx/leaders/MAC/MAC_konda.dds" 
 	}
 	spriteType = {
 		name = "GFX_portrait_PHI_pascual_cervera"
-		texturefile =  "gfx/leaders/PHI/PHI_pascual_cervera.dds"
+		texturefile =  "gfx/leaders/PHI/PHI_pascual_cervera.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_RIF_jose_vega"
+		texturefile =  "gfx/leaders/SPR/RIF_jose_vega.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_IRQ_sultan_yusef"
+		texturefile =  "gfx/leaders/IRQ/IRQ_sultan_yusef.dds"
 	}
 }

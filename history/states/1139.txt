@@ -1,0 +1,26 @@
+
+state={
+	id=1139
+	name="Bani Atiya"
+	manpower = 72302
+	
+	state_category = rural
+
+	history={
+		owner = ZAM
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			4603 1 
+		}
+		add_core_of = ZAM
+		add_core_of = JAB
+	}
+
+	provinces={
+		4603 12455
+	}
+
+	local_supplies=0.0 
+}

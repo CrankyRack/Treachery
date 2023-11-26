@@ -1,0 +1,31 @@
+
+state={
+	id=1138
+	name="At Tanf"
+	manpower = 132000
+	
+	state_category = rural
+
+	history={
+		owner = ANA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			7151 1 
+		}
+		victory_points = {
+			11976 1 
+		}
+
+		add_core_of = ANA
+		add_core_of = JAB
+	}
+
+	provinces={
+		1631 4440 7184 10383 12316
+	}
+
+	local_supplies=0.0 
+}

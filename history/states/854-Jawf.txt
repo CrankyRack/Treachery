@@ -2,7 +2,7 @@ state={
 	id=854
 	name="STATE_854"
 	provinces={
-		4603 4974 7970 8101 10815 10901 12455
+		4951 4974 10744 10815
 	}
 	history = {
 		owner = ANA
@@ -10,6 +10,7 @@ state={
 			12758 1 
 		}
 		add_core_of = ANA
+		add_core_of = JAB
 	}
 	manpower=85352
 	state_category=pastoral

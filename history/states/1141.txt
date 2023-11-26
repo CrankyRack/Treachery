@@ -1,0 +1,28 @@
+
+state={
+	id=1141
+	name="Huwaitat"
+	manpower = 317302
+	
+	state_category = pastoral
+
+	history={
+		owner = TRI
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			11976 1 
+		}
+		add_core_of = TRI
+		add_core_of = JAB
+		add_core_of = ZAM
+		add_core_of = JOR
+	}
+
+	provinces={
+		4562 4591 11976
+	}
+
+	local_supplies=0.0 
+}
