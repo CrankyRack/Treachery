@@ -1,0 +1,26 @@
+state=
+{
+	id=1146
+	name="Schwarzburg-Rudolstadt"
+	manpower = 76988
+	
+	state_category = pastoral
+	
+	history=
+	{
+		owner = OVO
+		victory_points = {
+			3474 2 #Rudolstadt
+		}
+		add_core_of = OVO
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		3474
+	}
+
+	local_supplies=0.0 
+}

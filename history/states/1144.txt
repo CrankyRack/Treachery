@@ -1,0 +1,26 @@
+state=
+{
+	id=1144
+	name="Darmstadt"
+	manpower = 176988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = VGE
+		victory_points = {
+			589 2 
+		}
+		add_core_of = VGE
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		589
+	}
+
+	local_supplies=0.0 
+}

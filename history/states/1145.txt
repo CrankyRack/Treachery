@@ -1,0 +1,26 @@
+state=
+{
+	id=1145
+	name="Marburg"
+	manpower = 176988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = VGE
+		victory_points = {
+			3397 2 
+		}
+		add_core_of = VGE
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		3397
+	}
+
+	local_supplies=0.0 
+}

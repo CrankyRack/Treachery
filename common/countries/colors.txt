@@ -796,8 +796,16 @@ TAY = {
 	color_ui = rgb { 0 68 102 }
 }
 OVO = {
-	color = rgb { 0 153 51 }
-	color_ui = rgb { 0 102 34 }
+	color = rgb { 42 66 132 }
+	color_ui = rgb { 42 66 132 }
+}
+CRC = {
+	color = rgb { 54 167 156 }
+	color_ui = rgb { 70 217 203 }
+}
+BAS = {
+	color = rgb { 205 38 38 }
+	color_ui = rgb { 205 38 38 }
 }
 KOM = {
 	color = rgb { 0 230 184 }
@@ -1054,6 +1062,7 @@ NAJ = {
 HJZ = {
 	color = rgb { 37 140 93 }
 	color_ui = rgb { 37 140 93 }
+	
 }
 CHA = {
 	color = rgb { 144 0 32 }

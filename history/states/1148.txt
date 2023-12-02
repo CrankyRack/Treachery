@@ -1,0 +1,26 @@
+state=
+{
+	id=1148
+	name="Jena"
+	manpower = 216988
+	
+	state_category = pastoral
+	
+	history=
+	{
+		owner = CRC
+		victory_points = {
+			538 2 
+		}
+		add_core_of = CRC
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		538 9497
+	}
+
+	local_supplies=0.0 
+}

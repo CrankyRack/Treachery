@@ -1,0 +1,26 @@
+state=
+{
+	id=1147
+	name="Gotha"
+	manpower = 316988
+	
+	state_category = pastoral
+	
+	history=
+	{
+		owner = BAS
+		victory_points = {
+			3397 2 
+		}
+		add_core_of = BAS
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		6421 9524 13116
+	}
+
+	local_supplies=0.0 
+}

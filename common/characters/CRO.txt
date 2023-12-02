@@ -1,0 +1,16 @@
+characters = {
+	CRO_auguste_marmont = {
+		name="Auguste III Marmont"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/CRO/CRO_auguste_marmont.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

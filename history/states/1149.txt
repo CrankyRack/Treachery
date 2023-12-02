@@ -1,0 +1,28 @@
+state=
+{
+	id=1149
+	name="Neustrelitz"
+	manpower = 96988
+	
+	state_category = pastoral
+	
+	history=
+	{
+		owner = MEK
+		victory_points = {
+			3258 2 
+		}
+		add_core_of = MEK
+		add_core_of = PRE
+		add_core_of = GER
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		3258
+	}
+
+	local_supplies=0.0 
+}

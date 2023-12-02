@@ -1,8 +1,10 @@
-﻿capital = 580 #Khanty-Mansiysk (Tobolsk state) 
+﻿capital = 1146 #Khanty-Mansiysk (Tobolsk state) 
 
 #oob = "OVO_1936"
 
 set_research_slots = 2
+
+recruit_character = OVO_louis_frederick_III
 
 # Starting tech
 set_technology = {

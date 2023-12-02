@@ -1,0 +1,26 @@
+state=
+{
+	id=1143
+	name="Anhalt-Bernburg"
+	manpower = 296988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = ANH
+		victory_points = {
+			9560 2 
+		}
+		add_core_of = ANH
+		buildings = {
+			infrastructure = 3 #was: 6
+			industrial_complex = 1
+		}
+	}
+	provinces={
+		9560
+	}
+
+	local_supplies=0.0 
+}

@@ -202,10 +202,18 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_RIF_jose_vega"
-		texturefile =  "gfx/leaders/SPR/RIF_jose_vega.dds"
+		texturefile =  "gfx/leaders/SPR/RIF_jose_vega.dds" 
 	}
 	spriteType = {
 		name = "GFX_portrait_IRQ_sultan_yusef"
-		texturefile =  "gfx/leaders/IRQ/IRQ_sultan_yusef.dds"
+		texturefile =  "gfx/leaders/IRQ/IRQ_sultan_yusef.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_OVO_louis_frederick_III"
+		texturefile =  "gfx/leaders/OVO/OVO_louis_frederick_III.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_CRO_auguste_marmont"
+		texturefile =  "gfx/leaders/CRO/CRO_auguste_marmont.dds"
 	}
 }

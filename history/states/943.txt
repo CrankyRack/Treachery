@@ -9,7 +9,7 @@ state=
 	history=
 	{
 		owner = KSH
-		victory_points = { 13116 5 }
+		victory_points = { 11417 5 }
 		add_core_of = KSH
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -17,7 +17,7 @@ state=
 		}
 	}
 	provinces={
-		6594 9524 11417 11445 13116
+		9572 11417
 	}
 
 	local_supplies=0.0 

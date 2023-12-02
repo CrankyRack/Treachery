@@ -1,0 +1,16 @@
+characters = {
+	OVO_louis_frederick_III = {
+		name="Louis Frederick III"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/OVO/OVO_louis_frederick_III.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

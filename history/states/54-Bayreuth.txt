@@ -18,15 +18,10 @@ state={
 		add_core_of = ANS
 		add_core_of = BAY
 
-		1939.1.1 = {
-			buildings = {
-				air_base = 3
-			}
-		}
 	}
 
 	provinces={
-		561 9557 9572 11529 11544 
+		561 9557 11529 11544 
 	}
 
 	local_supplies=0.0 
