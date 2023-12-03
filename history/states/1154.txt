@@ -1,0 +1,26 @@
+state=
+{
+	id=1154
+	name="Bückeburg"
+	manpower = 49988
+	
+	state_category = town
+	
+	history=
+	{
+		owner = DAG
+		victory_points = {
+			1505 3 
+		}
+		add_core_of = DAG
+		add_core_of = HAN
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+	}
+	provinces={
+		1505
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,27 @@
+state=
+{
+	id=1151
+	name="Arenberg"
+	manpower = 72988
+	
+	state_category = pastoral
+	
+	history=
+	{
+		owner = CHU
+		victory_points = {
+			9294 2 
+		}
+		add_core_of = CHU
+		add_claim_by = HAN
+		add_claim_by = HOL
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+	}
+	provinces={
+		9281
+	}
+
+	local_supplies=0.0 
+}

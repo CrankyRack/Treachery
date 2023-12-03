@@ -1,0 +1,26 @@
+state=
+{
+	id=1153
+	name="Ahaus"
+	manpower = 99988
+	
+	state_category = pastoral
+	
+	history=
+	{
+		owner = LEI
+		victory_points = {
+			6622 2 
+		}
+		add_core_of = LEI
+		add_claim_by = HAN
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+	}
+	provinces={
+		6622
+	}
+
+	local_supplies=0.0 
+}

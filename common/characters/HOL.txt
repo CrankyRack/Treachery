@@ -1,6 +1,6 @@
 characters={
 	HOL_hendrikus_colijn={
-		name="Kees van der Leer"
+		name="Rutger I Schimmelpenninck"
 		portraits={
 			civilian={
 				large="GFX_portrait_holland_hendrikus_colijn"

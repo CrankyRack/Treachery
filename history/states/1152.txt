@@ -1,0 +1,26 @@
+state=
+{
+	id=1152
+	name="Bocholt"
+	manpower = 99988
+	
+	state_category = pastoral
+	
+	history=
+	{
+		owner = GBA
+		victory_points = {
+			3512 2 
+		}
+		add_core_of = GBA
+		add_claim_by = LEI
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+	}
+	provinces={
+		3512
+	}
+
+	local_supplies=0.0 
+}

@@ -1,4 +1,4 @@
-﻿capital = 232 #Machakala
+﻿capital = 1154 #Machakala
 
 #oob = "DAG_1936"
 
@@ -95,7 +95,7 @@ set_popularities = {
 }
 
 
-recruit_character = DAG_khair_hajji_uzunsky
-recruit_character = DAG_adil_girey_takhtarov
+recruit_character = DAG_adolf_II
+
 
 

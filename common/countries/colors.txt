@@ -760,8 +760,8 @@ CIN = {
 	color_ui = rgb { 0 153 0 }
 }
 DAG = {
-	color = rgb { 0 204 255 }
-	color_ui = rgb { 0 163 204 }
+	color = rgb { 205 38 38 }
+	color_ui = rgb { 205 38 38 }
 }
 BYA = {
 	color = rgb { 0 64 255 }
@@ -804,8 +804,8 @@ CRC = {
 	color_ui = rgb { 70 217 203 }
 }
 BAS = {
-	color = rgb { 205 38 38 }
-	color_ui = rgb { 205 38 38 }
+	color = rgb { 205 212 228 }
+	color_ui = rgb { 255 255 255 }
 }
 KOM = {
 	color = rgb { 0 230 184 }
@@ -828,8 +828,8 @@ VGE = {
 	color_ui = rgb { 89 89 89 }
 }
 BSK = {
-	color = rgb { 51 204 51 }
-	color_ui = rgb { 36 143 36 }
+	color = rgb { 31 102 132 }
+	color_ui = rgb { 31 102 132 }
 }
 BUK = {
 	color = rgb { 204 153 102 }

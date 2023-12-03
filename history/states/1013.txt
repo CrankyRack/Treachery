@@ -3,7 +3,7 @@ state=
 	id=1013
 	name="Emden"
 
-	manpower = 1291788
+	manpower = 291788
 	resources={
 		oil=2 # was: 18
 	}
@@ -23,10 +23,13 @@ state=
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
 			dockyard = 1
+			11360 ={
+				naval_base = 2
+			}
 		}
 	}
 	provinces={
-		336 9281 11264 11360
+		336 11360
     }
 	local_supplies=0.0 
 }

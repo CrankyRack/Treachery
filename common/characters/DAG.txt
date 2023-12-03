@@ -1,0 +1,16 @@
+characters = {
+	DAG_adolf_II = {
+		name="Adolf II Schaumburg-Lippe"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/DAG/DAG_adolf_II.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
