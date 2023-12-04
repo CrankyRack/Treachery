@@ -61,7 +61,7 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_idea_SWE_swedish_lion_roars"
-		texturefile = "gfx/interface/ideas/SWE_swedish_lion_roars.dds"  
+		texturefile = "gfx/interface/ideas/SWE_swedish_lion_roars.dds"   
 	}
 	SpriteType = {
 		name = "GFX_idea_SWE_krigsmakten"
@@ -70,6 +70,14 @@ spriteTypes = {
 	SpriteType = {
 		name = "GFX_idea_SWE_american_emigration"
 		texturefile = "gfx/interface/ideas/SWE_american_emigration.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_confederation_of_rhine"
+		texturefile = "gfx/interface/ideas/confederation_of_rhine.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_westphalian_army"
+		texturefile = "gfx/interface/ideas/westphalian_army.dds"  
 	}
 
 	### new tfv nat spirit icons

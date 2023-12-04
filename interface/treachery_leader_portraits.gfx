@@ -214,10 +214,14 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_CRO_auguste_marmont"
-		texturefile =  "gfx/leaders/CRO/CRO_auguste_marmont.dds"
+		texturefile =  "gfx/leaders/CRO/CRO_auguste_marmont.dds" 
 	}
 	spriteType = {
 		name = "GFX_portrait_DAG_adolf_II"
 		texturefile =  "gfx/leaders/DAG/DAG_adolf_II.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_VGE_ludwig_V"
+		texturefile =  "gfx/leaders/VGE/VGE_ludwig_V.dds"
 	}
 }

@@ -1,0 +1,16 @@
+characters = {
+	VGE_ludwig_V = {
+		name="Louis V Hesse-Darmstadt"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/VGE/VGE_ludwig_V.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
