@@ -6,9 +6,9 @@ add_namespace = ferstinneaple
 
 
 country_event = {
-	id = ng_constitutional_convention.1 #convention starts ##starting event
-	title = ng_constitutional_convention.1.t
-	desc = ng_constitutional_convention.1.d
+	id = ferstinneaple.1 #invatiation to neapel
+	title = ferstinneaple.1.t
+	desc = ferstinneaple.1.d
 	picture = GFX_report_event_swe_coronation
 	
 	fire_only_once = yes
@@ -26,16 +26,53 @@ country_event = {
 		
 	}
 	
-	option = {
-		name = ng_constitutional_convention.1.a
+	option = { #les go
+		name = ferstinneaple.1.a
 		hidden_effect = {
 			country_event = {
-				id = ng_constitutional_convention.2
+				id = ferstinneaple.2
 				days = 7
-				random_hours = 12
 			}
 		}
+		
 	}
-			
+	
+	option = { #go home
+		name = ferstinneaple.1.b
+		add_political_power = -10
+	}
+		
 }
 
+country_event = {
+	id = ferstinneaple.2 #small loss.
+	title = ferstinneaple.2.t
+	desc = ferstinneaple.2.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #open the national treasury
+		name = ferstinneaple.2.a
+		
+	}
+	
+	option = { #go home
+		name = ferstinneaple.2.b
+		
+	}
+		
+}
