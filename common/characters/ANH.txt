@@ -1,0 +1,16 @@
+characters = {
+	ANH_frederick_II = {
+		name="Frederick II Ascania"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/ANH/ANH_frederick_II.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

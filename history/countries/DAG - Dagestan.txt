@@ -2,7 +2,12 @@
 
 #oob = "DAG_1936"
 
-set_research_slots = 3
+set_research_slots = 2
+
+add_ideas = {
+    confederation_of_rhine
+}
+
 
 # Starting tech
 set_technology = {

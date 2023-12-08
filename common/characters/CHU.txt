@@ -1,0 +1,16 @@
+characters = {
+	CHU_marie_I = {
+		name="Marie I Arenberg"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/CHU/CHU_marie_I.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

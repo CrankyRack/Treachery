@@ -1,0 +1,16 @@
+characters = {
+	CRC_wilhelm_I = {
+		name="Wilhelm Ernst I Saxe-Weimar"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/CRC/CRC_wilhelm_I.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

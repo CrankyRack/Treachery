@@ -1,0 +1,16 @@
+characters = {
+	GBA_franz_I = {
+		name="Franz Emanuel I Salm-Salm "
+		portraits = {
+			civilian = {
+				large="gfx/leaders/GBA/GBA_franz_I.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

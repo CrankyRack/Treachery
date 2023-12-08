@@ -1,0 +1,16 @@
+characters = {
+	LEI_lucien_ii = {
+		name="Lucien II Bonaparte-Wyse"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/LEI/LEI_lucien_ii.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

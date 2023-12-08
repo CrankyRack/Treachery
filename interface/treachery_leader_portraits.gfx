@@ -218,10 +218,26 @@ spriteTypes = {
 	}
 	spriteType = {
 		name = "GFX_portrait_DAG_adolf_II"
-		texturefile =  "gfx/leaders/DAG/DAG_adolf_II.dds"
+		texturefile =  "gfx/leaders/DAG/DAG_adolf_II.dds" 
 	}
 	spriteType = {
 		name = "GFX_portrait_VGE_ludwig_V"
-		texturefile =  "gfx/leaders/VGE/VGE_ludwig_V.dds"
+		texturefile =  "gfx/leaders/VGE/VGE_ludwig_V.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_LEI_lucien_ii"
+		texturefile =  "gfx/leaders/LEI/LEI_lucien_ii.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_BSK_leopold_iv"
+		texturefile =  "gfx/leaders/BSK/BSK_leopold_iv.dds" 
+	}
+	spriteType = {
+		name = "GFX_portrait_CHU_marie_I"
+		texturefile =  "gfx/leaders/CHU/CHU_marie_I.dds"
+	}
+	spriteType = {
+		name = "GFX_portrait_ANS_guillaume_IV"
+		texturefile =  "gfx/leaders/ANS/ANS_guillaume_IV.dds"
 	}
 }
