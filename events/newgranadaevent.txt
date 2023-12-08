@@ -175,7 +175,11 @@ country_event = { #status of the Casta
 	}
 
 	immediate = {
-		
+		country_event = {
+				id = ng_constitutional_convention.5
+				days = 7
+				random_hours = 12
+			}
 	}
 	
 	option = { #let it stay as it is
@@ -193,8 +197,7 @@ country_event = { #status of the Casta
 	
 }
 
-
-country_event = { #The New Contituion
+country_event = { #status of freespeech
 	id = ng_constitutional_convention.5
 	title = ng_constitutional_convention.5.t
 	desc = ng_constitutional_convention.5.d
@@ -215,12 +218,116 @@ country_event = { #The New Contituion
 		
 	}
 	
-	option = { #Enact it!
+	option = { #everything must be approved
 		name = ng_constitutional_convention.5.a
 		
 	}
+	
+	option = { #limit anti government_symbols
+		name = ng_constitutional_convention.5.b
+	}
+	
+	option = { #everyone has a right to freespeech
+		name = ng_constitutional_convention.5.c
+		set_country_flag = freespeech_approved
+	}
+	
 }
 
+country_event = { #reach of the consitution
+	id = ng_constitutional_convention.6
+	title = ng_constitutional_convention.6.t
+	desc = ng_constitutional_convention.6.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #It shall not apply to the captain generalcies
+		name = ng_constitutional_convention.6.a
+		
+	}
+	
+	option = { #All of the Lands of Spain shall follow the same laws
+		name = ng_constitutional_convention.6.b
+		set_country_flag = applies_to_all
+	}
+	
+}
+
+country_event = { #The New Contituion
+	id = ng_constitutional_convention.10
+	title = ng_constitutional_convention.10.t
+	desc = ng_constitutional_convention.10.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #Enact it!
+		name = ng_constitutional_convention.10.a
+		hidden_effect = {
+			if = {
+				limit = {
+					has_country_flag = freespeech_approved
+					has_country_flag = applies_to_all
+				}
+				
+			}
+		}
+	}
+}
+
+country_event = { #The New Contituion
+	id = ng_constitutional_convention.11
+	title = ng_constitutional_convention.11.t
+	desc = ng_constitutional_convention.11.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #Enact it!
+		name = ng_constitutional_convention.11.a
+		
+	}
+}
 
 add_namespace = ng_ven_revolution
 
