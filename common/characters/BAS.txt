@@ -1,0 +1,16 @@
+characters = {
+	BAS_ernst_II = {
+		name="Ernst II Wettin"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BAS/BAS_ernst_II.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

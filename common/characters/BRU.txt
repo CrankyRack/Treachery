@@ -1,0 +1,16 @@
+characters = {
+	BRU_charles_I = {
+		name="Charles I Bonaparte"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BRU/BRU_charles_I.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
