@@ -1,0 +1,33 @@
+state=
+{
+	id=1157
+	name="Tenasserim Coast"
+	manpower = 1272988
+	
+	state_category = rural
+	
+	resources={
+		rubber=11 # was: 4
+	}
+	
+	history=
+	{
+		owner = DEN
+		victory_points = {
+			4275 5 
+		}
+		add_core_of = BRM
+		add_core_of = SIA
+		buildings = {
+			infrastructure = 2 #was: 6
+			4275 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces={
+		1296 1315 1385 4275 10217 12292
+	}
+
+	local_supplies=0.0 
+}

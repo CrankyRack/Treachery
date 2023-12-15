@@ -1,0 +1,15 @@
+characters={
+	CAS_james_dunsmuir={
+		name="Sir James Dunsmuir"
+		portraits={
+			civilian={
+				large="gfx/leaders/CAS/CAS_james_dunsmuir.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

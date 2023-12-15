@@ -1,0 +1,15 @@
+characters={
+	BEL_tribal_autonomny={
+		name="Tribal Autonomy"
+		portraits={
+			civilian={
+				large="gfx/leaders/BEL/BEL_tribal_autonomny.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
