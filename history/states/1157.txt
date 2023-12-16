@@ -16,6 +16,10 @@ state=
 		victory_points = {
 			4275 5 
 		}
+		set_province_name = {
+			id = 4275
+			name = "Frederikshavn"
+		}
 		add_core_of = BRM
 		add_core_of = SIA
 		buildings = {
