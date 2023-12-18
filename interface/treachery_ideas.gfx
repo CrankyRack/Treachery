@@ -79,6 +79,10 @@ spriteTypes = {
 		name = "GFX_idea_westphalian_army"
 		texturefile = "gfx/interface/ideas/westphalian_army.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_PRE_landwehr"
+		texturefile = "gfx/interface/ideas/PRE_landwehr.dds"  
+	}
 
 	### new tfv nat spirit icons
 	

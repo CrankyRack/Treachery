@@ -377,4 +377,25 @@ ideas = {
 				political_power_factor = -0.1
 			}
 		}
+		PRE_landwehr = {
+			
+			picture = SWE_swedish_lion_roars
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    war_support_factor = 0.1
+			    recruitable_population_factor = 0.25
+				army_org_factor = -0.10
+			    consumer_goods_factor = 0.2
+			}
+		}
 }   }
