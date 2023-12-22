@@ -1,0 +1,16 @@
+characters = {
+	PAP_charles_louis_bonaparte = {
+		name="Charles-Louis Bonaparte"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PAP/PAP_charles_louis_bonaparte.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

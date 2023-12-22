@@ -1,0 +1,16 @@
+characters={
+	ROM_armand_calinescu={
+		name="Alexandru Ioan II"
+		portraits={
+			civilian={
+				large="GFX_Portrait_romania_armand_calinescu"
+			}
+		}
+
+		country_leader={
+			ideology=despotism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
