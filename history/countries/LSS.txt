@@ -37,6 +37,17 @@ set_technology = {
 	basic_train = 1
 }
 
+add_dynamic_modifier = {
+	modifier = French_Army_Italy_Dynamic_Modifier
+}
+
+set_country_flag = CT_French_Army_Presence_flag
+
+set_variable = {
+	var = LSS.CT_French_Army_variable
+	value = 0.1
+}
+
 if = {
 	limit = {
 		NOT = { has_dlc = "By Blood Alone" }

@@ -1,0 +1,11 @@
+French_Army_Italy_Dynamic_Modifier = {
+	icon = GFX_idea_westphalian_army
+	
+	enable = { always = yes }
+	
+	war_support_factor = ROOT.CT_French_Army_variable
+	stability_factor = ROOT.CT_French_Army_variable
+	political_power_cost = ROOT.CT_French_Army_variable
+	army_defence_factor = ROOT.CT_French_Army_variable
+	army_attack_factor = ROOT.CT_French_Army_variable
+}
