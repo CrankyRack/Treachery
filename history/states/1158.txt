@@ -1,0 +1,31 @@
+state=
+{
+	id=1158
+	name="Phra Tabong"
+	manpower = 1132988
+	
+	state_category = rural
+	
+	resources={
+		rubber=9 # was: 4
+	}
+	
+	history=
+	{
+		owner = SIA
+
+		add_core_of = CAM
+		add_core_of = SIA
+		buildings = {
+			infrastructure = 2 #was: 6
+			4275 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces={
+		1353 4251 4302 4359 7404 10134 10177 10467 12191
+	}
+
+	local_supplies=0.0 
+}

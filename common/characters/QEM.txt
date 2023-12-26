@@ -1,0 +1,16 @@
+characters = {
+	QEM_william_edward = {
+		name="Sir William Edward Maxwell"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/NIR/QEM_william_edward.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
