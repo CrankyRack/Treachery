@@ -1,0 +1,58 @@
+﻿####################################
+### French Army Influence Events ###
+####################################
+
+add_namespace = frencharmyinfluence
+
+
+# Fight At Armory
+country_event = {
+	id = frencharmyinfluence.1
+	title = frencharmyinfluence.1.t
+	desc = frencharmyinfluence.1.d
+	picture = GFX_report_event_elisabeth_and_erdmann
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = frencharmyinfluence.1.a
+		ai_chance = { factor = 100 }
+		ROOT = {
+			
+		}
+	}
+
+	option = {
+		name = frencharmyinfluence.1.b
+		ai_chance = { factor = 100 }
+		ROOT = {
+			
+		}
+	}
+}
+
+# Joint Exercise Gone Wrong, See What Happens Next! Not Clickbait!
+country_event = {
+	id = frencharmyinfluence.2
+	title = frencharmyinfluence.2.t
+	desc = frencharmyinfluence.2.d
+	picture = GFX_report_event_elisabeth_and_erdmann
+	
+	is_triggered_only = yes
+	
+	option = {
+		name = frencharmyinfluence.2.a
+		ai_chance = { factor = 100 }
+		ROOT = {
+			
+		}
+	}
+
+	option = {
+		name = frencharmyinfluence.2.b
+		ai_chance = { factor = 100 }
+		ROOT = {
+			
+		}
+	}
+}

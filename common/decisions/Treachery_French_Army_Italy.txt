@@ -1,0 +1,494 @@
+CT_French_Army_Influence = {
+
+	Purge_French_Commanders = {
+
+		icon = generic_decision
+
+		cost = 25
+
+		visible = {
+
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 5
+		}
+
+		fire_only_once = yes
+
+		days_remove = 14
+
+		remove_effect = {
+			add_to_variable = {
+				var = ROOT.CT_French_Army_variable
+				value = -0.025
+				tooltip = lower_FA_Influence_tt
+			}
+			ROOT = {
+				random_army_leader = {
+					retire = yes
+				}
+			}
+		}
+	}
+
+	Joint_Exercises_With_France = {
+
+		icon = generic_decision
+
+		cost = 15
+
+		visible = {
+
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 5
+		}
+
+		days_remove = 14
+
+		days_re_enable = 90
+
+		remove_effect = {
+			add_to_variable = {
+				var = ROOT.CT_French_Army_variable
+				value = 0.025
+				tooltip = raise_FA_Influence_tt
+			}
+			ROOT = {
+				army_experience = 5
+			}
+			FRA = {
+				army_experience = 5
+			}
+		}
+	}
+
+	Promote_Native_Junior_Officers = {
+
+		icon = generic_decision
+
+		cost = 25
+
+		visible = {
+			NOT = {
+				has_global_flag = Carlo_Anti_Has_Been_Recruited_flag
+			}
+		}
+
+		available = {
+		
+		}
+
+		ai_will_do = {
+			factor = 5
+		}
+
+		days_remove = 14
+
+		days_re_enable = 90
+
+		remove_effect = {
+			add_to_variable = {
+				var = ROOT.CT_French_Army_variable
+				value = -0.025
+				tooltip = lower_FA_Influence_tt
+			}
+			ROOT = {
+				create_corps_commander = {
+					name = "Carlo Anti"
+					picture = GFX_FNA_general_bescond
+					traits = { trickster }
+					skill = 2
+					attack_skill = 1
+					defense_skill = 3
+					planning_skill = 2
+					logistics_skill = 1
+				}
+			}
+			set_global_flag = Carlo_Anti_Has_Been_Recruited_flag
+		}
+	}
+
+	Purchase_French_Equipment = {
+
+		icon = generic_decision
+
+		cost = 40
+
+		visible = {
+
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 5
+		} 
+
+		days_remove = 14
+
+		days_re_enable = 90
+
+		remove_effect = {
+			add_to_variable = {
+				var = ROOT.CT_French_Army_variable
+				value = 0.025
+				tooltip = raise_FA_Influence_tt
+			}
+			ROOT = {
+				add_equipment_to_stockpile = {
+					type = infantry_equipment
+					amount = 300
+					producer = FRA
+				}
+			}
+		}
+	}
+
+	Produce_Local_Equipment = {
+
+		icon = generic_decision
+
+		cost = 40
+
+		visible = {
+
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 5
+		} 
+
+		days_remove = 14
+
+		days_re_enable = 120
+
+		remove_effect = {
+			add_to_variable = {
+				var = ROOT.CT_French_Army_variable
+				value = -0.025
+				tooltip = lower_FA_Influence_tt
+			}
+			ROOT = {
+				random_owned_state = {
+					add_building_construction = {
+						type = arms_factory
+						level = 1
+						instant_build = yes
+					}
+				}
+			}
+		}
+	}
+
+	Launch_Recruitment_Drive = {
+
+		icon = generic_decision
+
+		cost = 25
+
+		visible = {
+
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 5
+		} 
+
+		days_remove = 14
+
+		days_re_enable = 90
+
+		remove_effect = {
+			add_to_variable = {
+				var = ROOT.CT_French_Army_variable
+				value = -0.025
+				tooltip = lower_FA_Influence_tt
+			}
+			ROOT = {
+				add_manpower = 2500
+			}
+		}
+	}
+
+	Request_Support_Paris = {
+
+		icon = generic_decision
+
+		cost = 25
+
+		visible = {
+
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 8
+		} 
+
+		days_remove = 14
+
+		days_re_enable = 90
+
+		remove_effect = {
+			add_to_variable = {
+				var = ROOT.CT_French_Army_variable
+				value = 0.025
+				tooltip = raise_FA_Influence_tt
+			}
+			ROOT = {
+				add_manpower = 250
+				add_equipment_to_stockpile = {
+					type = infantry_equipment
+					amount = 50
+					producer = FRA
+				}
+			}
+		}
+	}
+
+	Bolster_Papal_Gaurd = {
+
+		icon = generic_decision
+
+		cost = 50
+
+		visible = {
+			original_tag = PAP
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 10
+		}
+
+		days_remove = 28
+
+		fire_only_once = yes
+
+		remove_effect = {
+			add_to_variable = {
+				var = PAP.CT_French_Army_variable
+				value = -0.05
+				tooltip = lower_FA_Influence_significantly_tt
+			}
+			PAP = {
+				division_template = {
+					name = "Papal Gaurd"
+					is_locked = yes
+					division_cap = 1
+					regiments = {
+						infantry = { x = 0 y = 0 }
+						infantry = { x = 0 y = 1 }
+						infantry = { x = 1 y = 0 }
+						infantry = { x = 1 y = 1 }
+					}
+					support = {
+						military_police = { x = 0 y = 0 }
+					}
+				}
+			}
+			PAP = {
+				random_owned_state = {
+					create_unit = {
+						division = "name = \"Infantry Division\" division_template = \"Papal Gaurd\" start_experience_factor = 0.2"
+						owner = PAP
+					}
+				}
+			}
+		}
+	}
+
+	Pride_Sicilian_Navy = {
+
+		icon = generic_decision
+
+		cost = 50
+
+		visible = {
+			original_tag = SIC
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 10
+		}
+
+		days_remove = 28
+
+		fire_only_once = yes
+
+		remove_effect = {
+			add_to_variable = {
+				var = SIC.CT_French_Army_variable
+				value = -0.05
+				tooltip = lower_FA_Influence_significantly_tt
+			}
+			SIC = {
+				create_ship = {
+					type = ship_hull_heavy_1
+					equipment_variant = "Hiero Class"
+					creator = SIC
+					name = "Hiero II"
+					pride_of_the_fleet = yes
+				}
+			}
+		}
+	}
+
+	Claim_Corsica = {
+
+		icon = generic_decision
+
+		cost = 50
+
+		visible = {
+			original_tag = SPM
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 10
+		}
+
+		days_remove = 28
+
+		fire_only_once = yes
+
+		remove_effect = {
+			add_to_variable = {
+				var = SPM.CT_French_Army_variable
+				value = -0.05
+				tooltip = lower_FA_Influence_significantly_tt
+			}
+			SPM = {
+				add_state_claim = 1
+			}
+		}
+	}
+
+	Crush_Croatian_Rebels = {
+
+		icon = generic_decision
+
+		cost = 50
+
+		custom_cost_trigger = {
+			AND = {
+				has_equipment = {
+					infantry_equipment_1 > 199
+				}
+				command_power > 5
+			}
+		}
+		custom_cost_text = decision_cost_CP_5_Infantry_Equipment_200
+
+		visible = {
+			original_tag = CRO
+		}
+
+		available = {
+		
+		}
+
+		ai_will_do = {
+			factor = 10
+		}
+
+		days_remove = 28
+
+		fire_only_once = yes
+
+		remove_effect = {
+			add_to_variable = {
+				var = CRO.CT_French_Army_variable
+				value = -0.05
+				tooltip = raise_FA_Influence_significantly_tt
+			}
+			add_popularity = {
+				ideology = communism
+				popularity = -0.05
+			}
+			hidden_effect = {
+                add_command_power = -5
+                add_equipment_to_stockpile = {
+					type = infantry_equipment
+					amount = -200
+				}
+            }
+		}
+	}
+
+	Establish_Independent_Tuscan_Army_Acadamy = {
+
+		icon = generic_decision
+
+		cost = 50
+
+		visible = {
+			original_tag = TOS
+		}
+
+		available = {
+		
+		} 
+
+		ai_will_do = {
+			factor = 10
+		}
+
+		days_remove = 60
+
+		fire_only_once = yes
+
+		remove_effect = {
+			add_to_variable = {
+				var = TOS.CT_French_Army_variable
+				value = -0.05
+				tooltip = lower_FA_Influence_significantly_tt
+			}
+			TOS = {
+				army_experience = 50
+				random_owned_state = {
+					add_building_construction = {
+						type = infrastructure
+						level = 1
+						instant_build = yes
+					}
+				}
+			}
+		}
+	}
+}

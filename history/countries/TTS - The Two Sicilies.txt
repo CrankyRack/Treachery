@@ -6,8 +6,15 @@ set_war_support = 0.5
 
 country_lock_all_division_template = yes
 
-add_ideas = {
-	gen_french_army
+add_dynamic_modifier = {
+	modifier = French_Army_Italy_Dynamic_Modifier
+}
+
+set_country_flag = CT_French_Army_Presence_flag
+
+set_variable = {
+	var = TTS.CT_French_Army_variable
+	value = 0.1
 }
 
 set_autonomy = {
@@ -115,6 +122,7 @@ set_politics = {
 	election_frequency = 60
 	elections_allowed = no
 }
+
 set_popularities = {
 	democratic = 20
 	fascism = 10
