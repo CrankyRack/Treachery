@@ -1245,3 +1245,7 @@ TRI = {
 	color = rgb { 210 128 20 }
 	color_ui = rgb { 210 128 20 }
 }
+DPA = {
+	color = rgb { 154 69 116 }
+	color_ui = rgb { 154 69 116 }
+}

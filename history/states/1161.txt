@@ -1,17 +1,13 @@
 state={
-	id=737
-	name="STATE_737"
+	id=1161
+	name="New Ireland"
 
 	history={
 		add_core_of = SOL
-		owner = MAL
+		owner = FRA
 		buildings = {
 			infrastructure = 1
-			7251 = {
-				naval_base = 5
-
-			}
-			7339 = {
+			4352 = {
 				naval_base = 1
 
 			}			
@@ -25,7 +21,7 @@ state={
 	}
 
 	provinces={
-		1286 1301 1329 4304 4332 7251 7324 7339 7352 10166 10206 12222 
+		1361 4352 4421 7412
 	}
 	manpower=345640
 	buildings_max_level_factor=1

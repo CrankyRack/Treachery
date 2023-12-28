@@ -1,0 +1,15 @@
+characters={
+	DPA_georg_zachariae={
+		name="Georg Hugh Robert Zachariae"
+		portraits={
+			civilian={
+				large="gfx/leaders/DEN/DPA_georg_zachariae.dds"
+			}
+		}
+		country_leader={
+			ideology=colonial_government
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
