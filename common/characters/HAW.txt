@@ -1,0 +1,16 @@
+characters = {
+	HAW_queen_of_hawaii = {
+		name="Lili´uokalani"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/HAW/HAW_queen_of_hawaii.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

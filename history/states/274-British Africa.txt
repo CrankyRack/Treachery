@@ -5,7 +5,7 @@ state={
 		rubber=3 # was: 18
 	}
 	history={
-		owner = DEN
+		owner = GHA
 		add_core_of = GHA
 		victory_points = {
 			10862 3 

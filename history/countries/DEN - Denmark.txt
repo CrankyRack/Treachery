@@ -13,6 +13,11 @@ add_ideas = {
 		partial_economic_mobilisation
 }
 
+set_autonomy = {
+		target = GHA
+		autonomous_state = autonomy_colony
+}
+	
 if = {
 	limit = { has_dlc = "Man the Guns" }
 		set_naval_oob = "DEN_1936_naval_mtg"
