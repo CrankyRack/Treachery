@@ -1,0 +1,31 @@
+state={
+	id=1162
+	name="Paihia"
+
+	history={
+		add_core_of = NZL
+		owner = SOL
+		buildings = {
+			infrastructure = 2
+			4543 = {
+				naval_base = 3
+
+			}			
+
+		}
+		
+		victory_points = {
+			4543 10 
+		}
+		
+	}
+
+	provinces={
+		4543 4615 10334 10373
+	}
+	manpower=245640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

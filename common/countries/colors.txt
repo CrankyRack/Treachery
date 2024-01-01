@@ -28,9 +28,10 @@ LUX = {
 	color = rgb { 65 175 179 }
 	color_ui = rgb { 85 228 233 }
 }
-BEL = { color = rgb { 168 14 11 }
-	    color_ui = rgb { 168 14 11 }
-	  }
+BEL = { 
+    color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
+}
 HOL = {	
 	#color = rgb { 216 115 21 }
 	#color_ui = rgb { 216 115 21 }
@@ -147,8 +148,8 @@ ARG = {
 	color_ui = rgb { 189 204 255 }
 }
 AST = {
-	color = rgb { 168 14 11 }
-	color_ui = rgb { 168 14 11 }
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
 }
 BHU = {
 	color = rgb { 172 122 88 }
@@ -231,8 +232,8 @@ NIC = {
 	color_ui = rgb { 245 123 38 }
 }
 NZL = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
 }
 PAN = {
 	color = rgb { 152 130 191 }
@@ -480,8 +481,8 @@ ZIM = {
 	color_ui = rgb { 204 155 59 }
 }
 BOT = {
-	color = rgb { 168 14 11 }
-	color_ui = rgb { 168 14 11 }
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
 }
 PAK = {
 	color = rgb { 21 38 66 }
@@ -1094,8 +1095,8 @@ FNA = {
 }
 
 CAS = {
-	color = rgb { 168 14 11 }
-	color_ui = rgb { 168 14 11 }
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
 }
 LAN = {
 	color = rgb { 204 155 59 }
@@ -1170,8 +1171,8 @@ TSW = {
 	color_ui = rgb { 76 122 17 }
 }
 NAM = {
-	color = rgb { 168 14 11 }
-	color_ui = rgb { 168 14 11 }
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
 }
 ONI = {
 	color = rgb { 0 102 0 }

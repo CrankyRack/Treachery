@@ -4,7 +4,7 @@ state={
 
 	history={
 		add_core_of = SOL
-		owner = FRA
+		owner = SOL
 		buildings = {
 			infrastructure = 1
 			4352 = {

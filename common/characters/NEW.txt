@@ -1,0 +1,15 @@
+characters={
+	NEW_henri_maurice_berteaux={
+		name="Henri Maurice Berteaux"
+		portraits={
+			civilian={
+				large="gfx/leaders/FRA/NEW_henri_maurice_berteaux.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

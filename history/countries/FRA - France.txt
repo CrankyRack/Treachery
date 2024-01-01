@@ -101,6 +101,10 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 	}
 set_autonomy = {
+		target = SOL
+		autonomous_state = autonomy_colony
+	}
+set_autonomy = {
 		target = GRC
 		autonomous_state = autonomy_dominion
 	}
