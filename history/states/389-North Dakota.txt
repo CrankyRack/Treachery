@@ -16,6 +16,7 @@ state={
 			industrial_complex = 1
 		}
 		add_core_of = IOW
+		add_core_of = WAA
 		add_claim_by = GRC
 		victory_points = {
 			1836 1 
@@ -24,7 +25,7 @@ state={
 	}
 
 	provinces={
-		1836 4772 4880 7862 10569 10595 10709 12620 12667 
+		1752 1836 3719 4772 4880 7862 10569 10595 10618 10685 10709 12620 12667 
 	}
 
 	local_supplies=9.0 

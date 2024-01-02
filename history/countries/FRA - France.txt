@@ -108,6 +108,10 @@ set_autonomy = {
 		target = GRC
 		autonomous_state = autonomy_dominion
 	}
+set_autonomy = {
+		target = NEW
+		autonomous_state = autonomy_dominion
+	}
 give_guarantee = TOS
 give_guarantee = HAN
 give_guarantee = LSS

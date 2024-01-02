@@ -398,4 +398,24 @@ ideas = {
 			    consumer_goods_factor = 0.2
 			}
 		}
+		PER_gendarmerie = {
+
+			picture = PER_gendarmerie
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				army_org_factor = 0.05
+				recruitable_population_factor = 0.1
+				consumer_goods_factor = 0.15
+			}
+		}
 }   }

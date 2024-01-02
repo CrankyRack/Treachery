@@ -2,13 +2,14 @@ state={
 	id=864
 	name="STATE_864"
 	provinces={
-		3606 7869 7891 
+		917 1411 3606 4678 7869 7891 
 	}
 	history = {
-		owner = CAS
+		owner = BEL
 		add_core_of = CAS
+		add_core_of = BEL
 	}
-	manpower=10
+	manpower=19894
 	state_category = wasteland
 	buildings_max_level_factor=1.000
 	local_supplies=0.000

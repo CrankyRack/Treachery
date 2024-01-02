@@ -1,0 +1,16 @@
+characters = {
+	PER_mozaffar_qajar = {
+		name="Mozaffar ad-Din Shah Qajar"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PER/PER_mozaffar_qajar.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

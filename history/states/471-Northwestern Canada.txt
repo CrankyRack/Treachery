@@ -17,10 +17,10 @@ state={
 	}
 
 	provinces={
-		917 1411 1799 1872 4678 5403 10548 12508 12571 
+		1799 1872 5403 10548 12508 12571 
 	}
-	manpower=27681
+	manpower=87681
 	buildings_max_level_factor=1.000
-	state_category=wasteland
+	state_category=rural
 	local_supplies=3.000
 }

@@ -12,7 +12,7 @@ state=
 	
 	
 	history={
-		owner = GRC
+		owner = MEX
 		victory_points = {
 			2102 1
 		}
@@ -23,12 +23,12 @@ state=
 
 		}
 		add_core_of = TEX
-		add_core_of = GRC
-		add_claim_by = MEX
+		add_core_of = MEX
+		add_claim_by = GRC
 	}
 
 	provinces={
-		1528 1643 4507 12313
+		1528 12313
 	}
 	local_supplies=0.0 
 }

@@ -1,7 +1,7 @@
 state={
 	id=1116
 	name="Bruneau River"
-	manpower = 94300
+	manpower = 124300
 	resources={
 		steel=6.000
 	}
@@ -22,7 +22,7 @@ state={
 		}
 	}
 	provinces={
-		7688 7888 9695 12535
+		1789 7688 7888 9695 10556 10672 12535 12607 12651
 	}
 
 	local_supplies=1.0 

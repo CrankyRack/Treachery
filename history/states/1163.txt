@@ -1,0 +1,28 @@
+state={
+	id=1163
+	name="Nuevo Santander"
+
+	history={
+		add_core_of = MEX
+		add_claim_by = TEX
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+			6785 = {
+				naval_base = 3
+
+			}			
+
+		}
+		
+	}
+
+	provinces={
+		2019 5061 6785 12369
+	}
+	manpower=245640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}
