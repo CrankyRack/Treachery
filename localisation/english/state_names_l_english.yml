@@ -373,7 +373,7 @@
  STATE_370:0 "Mississippi"
  STATE_371:0 "Louisiana"
  STATE_372:0 "Arkansas"
- STATE_373:0 "Missouri"
+ STATE_373:0 "Wimihsorita"
  STATE_374:0 "Oklahoma"
  STATE_375:0 "Tejas"
  STATE_376:0 "Nuevo México"
@@ -383,7 +383,7 @@
  STATE_380:0 "Yuta"
  STATE_381:0 "Mecheweami-Ing"
  STATE_382:0 "Colorado"
- STATE_383:0 "Kansas"
+ STATE_383:0 "Cavagnial"
  STATE_384:0 "Ní Btháska"
  STATE_385:0 "Oregon"
  STATE_386:0 "Washington"
@@ -909,3 +909,4 @@
  STATE_906:0 "Socotra"
  STATE_907:0 "Cairo"
  STATE_908:0 "Afar"
+

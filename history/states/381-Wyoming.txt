@@ -1,20 +1,20 @@
 
 state={
 	id=381
-	name="STATE_381"
-	manpower = 225564
+	name="Fontenelle"
+	manpower = 125564
 	state_category = rural
 	resources={
 		steel=15 # was: 42
 	}
 	
 	history={
-		owner = WAA
+		owner = GRC
 		buildings = {
 			infrastructure = 2
 		}
-		add_core_of = WAA
-		add_claim_by = GRC
+		add_core_of = GRC
+		add_claim_by = WAA
 	}
 
 	provinces={
