@@ -1,0 +1,15 @@
+characters={
+	SAF_sir_walter={
+		name="Sir Walter Francis Hely-Hutchinson"
+		portraits={
+			civilian={
+				large="gfx/leaders/SAF/SAF_sir_walter.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
