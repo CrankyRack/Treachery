@@ -2,7 +2,7 @@
 state={
 	id=1099
 	name="Bechuanaland"
-	manpower = 17296
+	manpower = 137296
 	resources={
 		steel=6 
 	}

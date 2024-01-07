@@ -1,0 +1,16 @@
+characters = {
+	BAM_khama_III = {
+		name="Khama III Boikanyo"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BAM/BAM_khama_III.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
