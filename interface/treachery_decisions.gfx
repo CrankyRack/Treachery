@@ -1,0 +1,6 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_decision_cat_CT_French_Army_Influence"
+		texturefile = "gfx/interface/decisions/categories/frenchpresence_category.dds"
+	}
+} 

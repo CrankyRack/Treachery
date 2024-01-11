@@ -1,0 +1,10 @@
+spriteTypes = {	
+	SpriteType = {
+		name = "GFX_report_event_jointexercise"
+		texturefile = "gfx/event_pictures/jointexercise_event.dds"  
+	}
+	SpriteType = {
+		name = "GFX_report_event_armoryfight"
+		texturefile = "gfx/event_pictures/armoryfight_event.dds"  
+	}
+}

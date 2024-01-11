@@ -10,7 +10,7 @@ country_event = {
 	id = frencharmyinfluence.1
 	title = frencharmyinfluence.1.t
 	desc = frencharmyinfluence.1.d
-	picture = GFX_report_event_elisabeth_and_erdmann
+	picture = GFX_report_event_armoryfight
 	
 	is_triggered_only = yes
 	
@@ -36,7 +36,7 @@ country_event = {
 	id = frencharmyinfluence.2
 	title = frencharmyinfluence.2.t
 	desc = frencharmyinfluence.2.d
-	picture = GFX_report_event_elisabeth_and_erdmann
+	picture = GFX_report_event_jointexercise
 	
 	is_triggered_only = yes
 	

@@ -3323,11 +3323,13 @@
  ng_ven_revolution.1.d:0 "As we during the constitutinal convention passed resolutions to limit the power of the criollo elite they have grown uneasy. The unrest has ran over in the eastern Province of Venezuella where the crillo have gone into a full scaled revolt. As symbols the Crillo elite have taken an old tune from the Repuclib of Columbia with new lyric, 'Hang King Carlos from a sour Cacoa Tree'"
  ng_ven_revolution.1.a:0 "Shut this infernal singing up!"
  ng_ven_revolution.1.b:0 "GLORY GLORY HALLELUJAH!"
+
+ #CT Events
  frencharmyinfluence.1.t:0 "Confontation at Armory"
- frencharmyinfluence.1.d:0 "A group of French officers along with enlisted men have recently tried to break into one of our armies while in a drunen stupor."
+ frencharmyinfluence.1.d:0 "A contingent of French military personnel, comprising both officers and enlisted soldiers, recently made an attempt to breach the security perimeter of one of our army units while under the influence of alcohol."
  frencharmyinfluence.1.a:0 "Just let them have it."
- frencharmyinfluence.1.b:0 "It's mine!"
+ frencharmyinfluence.1.b:0 "It's all mine!"
  frencharmyinfluence.2.t:0 "Accident during Joint Army Exercise!"
- frencharmyinfluence.2.d:0 "An accident during an exercise has resulted in the death of two [ROOT.GetAdjective] soldiers as well as the injury of one Frenchman! France has requested compensation for the Frenchman while our people blame the French for the death of the two soldiers. We must either accept the blame or blame the French!"
+ frencharmyinfluence.2.d:0 "A tragic incident during a military exercise has led to the loss of two [ROOT.GetAdjective] soldiers and left one French citizen injured. In response, France has formally requested compensation for the injured individual. However, within [ROOT.GetName], there is a growing sentiment of attributing blame to the French for the deaths of our soldiers. We are now faced with a pivotal decision: whether to acknowledge fault on our part or shift the blame onto the French authorities."
  frencharmyinfluence.2.a:0 "Accept the blame."
  frencharmyinfluence.2.b:0 "It's their fault!"
