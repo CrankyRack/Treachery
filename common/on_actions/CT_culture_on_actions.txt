@@ -1,11 +1,20 @@
 on_actions = {
     on_startup = {
         effect = {
-            1 = { #Corsica - Test
+            1 = { # Corsica - Test
                 set_state_flag = CT_Corsican_Culture_dominant
                 set_state_flag = CT_French_Culture_nondominant
                 set_state_flag = CT_Northern_Italian_Culture_nondominant
                 set_state_flag = CT_Sardinian_Culture_nondominant
+                set_variable = {
+                    var = number_of_state_cultures
+                    value = 4
+                }
+            }
+            114 = { # Sardinia
+                set_state_flag = CT_Sardinian_Culture_dominant
+                set_state_flag = CT_Corsican_Culture_nondominant
+                set_state_flag = CT_Northern_Italian_Culture_nondominant
                 set_variable = {
                     var = number_of_state_cultures
                     value = 3

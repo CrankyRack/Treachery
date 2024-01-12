@@ -9,6 +9,6 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_CT_Culture_Placeholder"
-		texturefile = "gfx/interface/culture/CT_placeholder_gui_element.dds"
+		texturefile = "gfx/interface/culture/CT_placeholder_gui_element.png"
 	}
 }
