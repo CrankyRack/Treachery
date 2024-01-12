@@ -2,30 +2,23 @@ guiTypes = {
     containerWindowType = {
 		name = "CT_State_Culture_Scripted_GUI_Window"
 		position = { x = 15 y = 400 }
-		
-		iconType = {
-			name = "CT_State_Culture_Icon"
-			position = { x = 0 y = 0 }
-		}
 
 		containerWindowType = {
 		name = "CT_State_Nondominant_Culture_Display_Container_Window"
-		position = { x = 75 y = 0 }
+		position = { x = 200 y = 0 }
 
 			iconType = {
 				name = "CT_State_Nondominant_Culture_Display"
 				spritetype = "GFX_CT_Culture_Placeholder"
-				position = { x = -25 y = 0 }
+				position = { x = 0 y = 0 }
 			}
 
 			instantTextBoxType = {
 				name ="CT_State_Culture_Nondominant_Culture_1_Text"
-				position = { x = 0 y = -20 }
+				position = { x = 0 y = 50 }
 				font = "garamond_14"
 				text = "[get_nondominant_culture_1_loc]"
 				format = center
-				maxHeight = 50
-				maxWidth = 150
 			}
 
 			instantTextBoxType = {
@@ -34,24 +27,25 @@ guiTypes = {
 				font = "garamond_14"
 				text = "[get_nondominant_culture_2_loc]"
 				format = center
-				maxHeight = 50
-				maxWidth = 150
 			}
 
 			instantTextBoxType = {
 				name ="CT_State_Culture_Nondominant_Culture_3_Text"
-				position = { x = 0 y = 20 }
+				position = { x = 0 y = -50 }
 				font = "garamond_14"
 				text = "[get_nondominant_culture_3_loc]"
 				format = center
-				maxHeight = 50
-				maxWidth = 150
 			}
 		}
 
 		containerWindowType = {
 		name = "CT_State_Culture_Display_Container_Window"
-		position = { x = 75 y = -40 }
+		position = { x = 50 y = 0 }
+
+			iconType = {
+				name = "CT_State_Culture_Icon"
+				position = { x = -50 y = 0 }
+			}
 
 			iconType = {
 				name = "CT_State_Culture_Display"
@@ -61,7 +55,7 @@ guiTypes = {
 
 			instantTextBoxType = {
 				name ="CT_State_Culture_Display_Text"
-				position = { x = 25 y = 0 }
+				position = { x = 10 y = 20 }
 				font = "garamond_14"
 				text = "[get_dominant_culture_loc]"
 				format = center

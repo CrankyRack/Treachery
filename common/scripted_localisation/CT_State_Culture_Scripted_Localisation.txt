@@ -7,6 +7,12 @@ defined_text = {
         }
         localization_key = "GFX_CT_Corsican_Culture_dominant"
     }
+    text = {
+        trigger = {
+            has_state_flag = CT_Sardinian_Culture_dominant
+        }
+        localization_key = "GFX_CT_Sardinian_Culture_dominant"
+    }
 }
 
 defined_text = {
@@ -17,6 +23,12 @@ defined_text = {
             has_state_flag = CT_Corsican_Culture_dominant
         }
         localization_key = "CT_Corsican_Culture_dominant_loc"
+    }
+    text = { 
+        trigger = {
+            has_state_flag = CT_Sardinian_Culture_dominant
+        }
+        localization_key = "CT_Sardinian_Culture_dominant_loc"
     }
 }
 

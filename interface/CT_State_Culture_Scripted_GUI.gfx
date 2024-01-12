@@ -4,6 +4,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/culture/corsica_culture_icon.dds"
 	}
 	SpriteType = {
+		name = "GFX_CT_Sardinian_Culture_dominant"
+		texturefile = "gfx/interface/culture/sardinia_culture_icon.dds"
+	}
+	SpriteType = {
 		name = "GFX_CT_Culture_Placeholder"
 		texturefile = "gfx/interface/culture/CT_placeholder_gui_element.dds"
 	}
