@@ -1,0 +1,29 @@
+state={
+	id=1164
+	name="Maine"
+	resources={
+
+	}
+	
+	state_category = rural
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = USA
+		victory_points = {
+			12459 1 
+		}
+	}
+
+	provinces={
+		3732 6719 7462 12202 12459 10318 12221 1282 1619 1338
+	}
+	manpower=721129
+	buildings_max_level_factor=1.000
+
+	local_supplies=11.0 
+}

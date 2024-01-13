@@ -9,7 +9,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = DAK
+		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 7
 			arms_factory = 1

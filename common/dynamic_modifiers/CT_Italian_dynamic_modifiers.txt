@@ -1,5 +1,5 @@
 French_Army_Italy_Dynamic_Modifier = {
-	icon = GFX_idea_westphalian_army
+	icon = GFX_modifiers_french_army_influence
 	
 	enable = { always = yes }
 	

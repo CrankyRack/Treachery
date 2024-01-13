@@ -1,0 +1,30 @@
+state={
+	id=1166
+	name="Chicago"
+	resources={
+
+	}
+	
+	state_category = metropolis
+
+	history={
+		owner = CAN
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = USA
+		victory_points = {
+			9450 30
+		}
+	}
+
+	provinces={
+		9450
+	}
+
+	manpower=546782
+	buildings_max_level_factor=1.000
+
+	local_supplies=11.0 
+}
