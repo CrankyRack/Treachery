@@ -87,6 +87,10 @@ spriteTypes = {
 		name = "GFX_idea_PER_gendarmerie"
 		texturefile = "gfx/interface/ideas/PER_gendarmerie.dds"  
 	}
+		SpriteType = {
+		name = "GFX_idea_MAD_french_expansion"
+		texturefile = "gfx/interface/ideas/MAD_french_expansion.dds"  
+	}
 	SpriteType = {
 		name = "GFX_modifiers_french_army_influence"
 		texturefile = "gfx/interface/ideas/french_army_influence.dds"  

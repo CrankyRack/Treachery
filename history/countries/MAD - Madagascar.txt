@@ -5,6 +5,7 @@
 recruit_character = MAD_queen_ranavalona
 
 add_ideas = {
+        MAD_french_expansion
 		MAD_british_support
 }
 

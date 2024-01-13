@@ -2732,3 +2732,6 @@
 
  PER_gendarmerie:0 "Persian Gendarmerie"
  PER_gendarmerie_desc:0 "The birth of the Persian Gendarmerie was a visionary endeavor by the Qajar rulers, driven by a relentless pursuit to fashion a military force in the European mold, fortifying the nation against external threats. Drawing inspiration from Swedish formations, a military mission led by the Captain Harald Hjalmarson arrived in persia in 1904, becoming the guiding force in shaping the Gendarmerie's structure. \n\nThis stalwart force was conceived with a dual purpose: to safeguard the nation's borders and maintain internal security, while also serving as an elite reserve for the imperial army. The project, in its essence, has been a triumph, standing as a testament to the Qajar dynasty's commitment to modernization and defense. \n\nYet, as more and more resources are poured into the Gendarmerie's coffers, a looming shadow has emerged. Whispers of corruption within the officer corps, once distant murmurs, have grown louder, threatening to tarnish the very integrity of this noble institution."
+ 
+ MAD_french_expansion:0 "French Colonial Expansion"
+ MAD_french_expansion_desc:0 "."
