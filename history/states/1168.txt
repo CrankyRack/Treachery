@@ -1,0 +1,24 @@
+state={
+	id=1168
+	name="Turkana"
+
+	history={
+		add_core_of = TRK
+		add_claim_by = ETH
+		owner = TRK
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		8223 11145
+	}
+	manpower=395640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

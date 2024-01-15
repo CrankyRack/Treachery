@@ -4,6 +4,7 @@
   autonomy_german_prince_2:0 "§Wmember of the§  German Confederation.§W It is considered a close ally"
  autonomy_supervised_state:0 "Supervised State"
  autonomy_colony:0 "Colony"
+ autonomy_protectorate:0 "Protectorate"
  autonomy_puppet:0 "Puppet"
  autonomy_integrated_puppet:0 "Integrated Puppet"
  autonomy_annex:0 "Annexed"

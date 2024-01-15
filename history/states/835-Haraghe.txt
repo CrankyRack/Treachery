@@ -18,9 +18,6 @@ state = {
 		victory_points = { 
 			13249 3
 		}
-		victory_points = { 
-			10775 1
-		}
 		
 		owner = ETH
 		add_core_of = ETH
@@ -29,7 +26,7 @@ state = {
 	}
 
 	provinces = {
- 		7980 10775 12714 13248 13249 13253
+ 		7980 13249
  	}
 
 	local_supplies=0.0 

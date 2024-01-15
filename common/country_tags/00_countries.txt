@@ -320,6 +320,7 @@ MAS = "countries/masalit.txt"
 SNU = "countries/senussi.txt"
 DAR = "countries/darfur.txt"
 FNA = "countries/french_north_africa.txt"
+TRK = "countries/turkana.txt"
 
 DPA = "countries/danish_papua.txt"
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")

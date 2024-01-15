@@ -1,0 +1,28 @@
+state={
+	id=1167
+	name="Marsabit Strip"
+
+	history={
+		add_core_of = KEN
+		add_claim_by = ETH
+		owner = DAH
+		buildings = {
+			infrastructure = 2
+			6785 = {
+				naval_base = 3
+
+			}			
+
+		}
+		
+	}
+
+	provinces={
+		2066 8133
+	}
+	manpower=95640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

@@ -192,8 +192,8 @@ ELS = {
 	color_ui = rgb { 142 43 43 }
 }
 ETH = {
-	color = rgb { 216 189 125 }
-	color_ui = rgb { 216 189 125 }
+	color = rgb { 181 174 137 }
+	color_ui = rgb { 181 174 137 }
 }
 GUA = {
 	color = rgb { 72 49 112 }
@@ -1249,4 +1249,8 @@ TRI = {
 DPA = {
 	color = rgb { 154 69 116 }
 	color_ui = rgb { 154 69 116 }
+}
+TRK = {
+	color = rgb { 62 103 150 }
+	color_ui = rgb { 62 103 150 }
 }

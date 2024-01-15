@@ -4720,4 +4720,10 @@
  DPA_subject:0 "King Frederiksland"
  DPA_subject_DEF:0 "$OVERLORDADJ$ Colony of King Frederiksland"
  DPA_subject_ADJ:0 "King Frederikslander"
+ 
+ TRK:0 "Turkana"
+ TRK_DEF:0 "Turkana"
+ TRK_ADJ:0 "Turkanan"
+ TRK_subject:0 "$OVERLORDADJ$ Protectorate of Turkana"
+ TRK_subject_DEF:0 "the $OVERLORDADJ$ Protectorate of Turkana"
 }
