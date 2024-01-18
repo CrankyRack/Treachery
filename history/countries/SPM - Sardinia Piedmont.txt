@@ -1,5 +1,6 @@
 ﻿capital = 158
 
+recruit_character = SPM_umberto_I
 
 
 set_research_slots = 3

@@ -9,8 +9,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/autonomy/autonomy_german_prince_2.dds"
 	}
 	SpriteType = {
-		name = "GFX_autonomy_protectorate"
-		texturefile = "gfx/interface/autonomy/autonomy_protectorate.dds"
+		name = "GFX_autonomy_protectorate_2"
+		texturefile = "gfx/interface/autonomy/autonomy_protectorate_2.dds"
 	}
 	
 }

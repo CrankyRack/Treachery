@@ -1,0 +1,16 @@
+characters = {
+	ETH_menelik_II = {
+		name="Negusa Nagast Menelik II"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/ETH/ETH_menelik_II.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

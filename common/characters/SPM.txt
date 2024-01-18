@@ -1,0 +1,16 @@
+characters = {
+	SPM_umberto_I = {
+		name="Umberto I Savoy"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SPM/SPM_umberto_I.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

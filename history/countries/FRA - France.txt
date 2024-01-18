@@ -78,11 +78,11 @@ set_autonomy = {
 	}
 set_autonomy = {
 		target = ETH
-		autonomous_state = autonomy_protectorate
+		autonomous_state = autonomy_protectorate_2
 	}
 set_autonomy = {
 		target = TRK
-		autonomous_state = autonomy_protectorate
+		autonomous_state = autonomy_protectorate_2
 	}
 set_autonomy = {
 		target = WES

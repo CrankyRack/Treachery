@@ -1,5 +1,5 @@
 autonomy_state = {
-	id = autonomy_protectorate
+	id = autonomy_protectorate_2
 	
 	is_puppet = yes
 	
