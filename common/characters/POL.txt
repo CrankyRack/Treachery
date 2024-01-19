@@ -165,7 +165,7 @@ characters = {
 	}
 
 	POL_ignacy_moscicki = {
-		name="Polacken polackson"
+		name="Sigismund IV Poniatowski"
 		portraits = {
 			army={
 				small=GFX_portrait_POL_ignacy_moscicki_small
