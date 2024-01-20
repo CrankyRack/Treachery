@@ -1,0 +1,16 @@
+characters = {
+	BUL_maximilian_II = {
+		name="Maximilian II Habsburg-Lorraine"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BUL/BUL_maximilian_II.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
