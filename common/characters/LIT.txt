@@ -1,0 +1,16 @@
+characters = {
+	LIT_adam_ludwik_czartoryski = {
+		name="Adam Ludwik Czartoryski"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/LIT/LIT_adam_ludwik_czartoryski.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
