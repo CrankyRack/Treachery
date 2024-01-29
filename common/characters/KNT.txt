@@ -1,0 +1,16 @@
+characters = {
+	KNT_abbas_II = {
+		name="Abbas Helmy Pasha"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/KNT/KNT_abbas_II.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

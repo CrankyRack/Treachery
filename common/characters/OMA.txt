@@ -1,0 +1,16 @@
+characters = {
+	OMA_sultan_turki = {
+		name="Faisal bin Turki"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/OMA/OMA_sultan_turki.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
