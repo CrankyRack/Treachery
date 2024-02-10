@@ -374,8 +374,6 @@ country_event = {
 	
 	option = { #YESSS
 		name = ferstinneaple.8.a
-		TTS = {
-			transfer_state = 1033
-		}
+		transfer_state = 1033
 	}	
 }
