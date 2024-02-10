@@ -31,7 +31,7 @@ country_event = {
 		hidden_effect = {
 			country_event = {
 				id = ferstinneaple.2
-				days = 7
+				days = 2
 			}
 		}
 		
@@ -67,10 +67,20 @@ country_event = {
 	
 	option = { #open the national treasury
 		name = ferstinneaple.2.a
-			country_event = {
-				id = ferstinneaple.3
-				days = 7
+		random_list = {
+			50 = {
+				country_event = {
+					id = ferstinneaple.3
+					days = 2
+				}
 			}
+			50 = {
+				country_event = {
+					id = ferstinneaple.4
+					days = 2
+				}
+			}
+		}
 	}
 	
 	option = { #go home
@@ -104,10 +114,21 @@ country_event = {
 	option = { #the colonies
 		name = ferstinneaple.3.a
 		hidden_effect = {
-			set_country_flag = bet_colonies
-			country_event = {
-				id = ferstinneaple.4
-				days = 7
+			random_list = {
+				50 = {
+					set_country_flag = bet_colonies
+					country_event = {
+						id = ferstinneaple.5
+						days = 2
+					}
+				}
+				50 = {
+					set_country_flag = bet_colonies
+					country_event = {
+						id = ferstinneaple.6
+						days = 2
+					}
+				}
 			}
 		}
 	}
@@ -152,10 +173,21 @@ country_event = {
 	option = { #accept the bet
 		name = ferstinneaple.4.a
 		hidden_effect = {
-			set_country_flag = bet_colonies
-			country_event = {
-				id = ferstinneaple.4
-				days = 7
+			random_list = {
+				50 = {
+					set_country_flag = bet_colonies
+					country_event = {
+						id = ferstinneaple.5
+						days = 2
+					}
+				}
+				50 = {
+					set_country_flag = bet_colonies
+					country_event = {
+						id = ferstinneaple.6
+						days = 2
+					}
+				}
 			}
 		}
 	}
@@ -174,4 +206,176 @@ country_event = {
 		}
 	}
 		
+}
+
+
+country_event = {
+	id = ferstinneaple.5 #Lost the Colonies.
+	title = ferstinneaple.5.t
+	desc = ferstinneaple.5.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #one final bet crete
+		name = ferstinneaple.5.a
+		hidden_effect = {
+			random_list = {
+				50 = {
+					country_event = {
+						id = ferstinneaple.7
+						days = 2
+					}
+				}
+				50 = {
+					country_event = {
+						id = ferstinneaple.8
+						days = 2
+					}
+				}
+			}
+		}
+	}
+	
+	
+	option = { #go home
+		name = ferstinneaple.5.b
+		TTS = {
+			set_autonomy = {
+				target = MLO
+				autonomous_state = autonomy_colony
+			}
+		}
+	}
+		
+}
+
+country_event = {
+	id = ferstinneaple.6 #Won Napoli Colonies.
+	title = ferstinneaple.6.t
+	desc = ferstinneaple.6.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #accept final bet, bet crete
+		name = ferstinneaple.6.a
+		hidden_effect = {
+			random_list = {
+				50 = {
+					country_event = {
+						id = ferstinneaple.7
+						days = 2
+					}
+				}
+				50 = {
+					country_event = {
+						id = ferstinneaple.8
+						days = 2
+					}
+				}
+			}
+		}
+	}
+	
+	
+	option = { #go home
+		name = ferstinneaple.6.b
+		set_autonomy = {
+			target = HOB
+			autonomous_state = autonomy_colony
+		}
+		set_autonomy = {
+			target = GEL
+			autonomous_state = autonomy_colony
+		}
+		MLO = {
+			transfer_state = 559
+		}
+	}
+		
+}
+
+country_event = {
+	id = ferstinneaple.7 #we lost
+	title = ferstinneaple.7.t
+	desc = ferstinneaple.7.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #GOD FUCK DAMNIT
+		name = ferstinneaple.7.a
+		TTS = {
+			transfer_state = 182
+		}
+	}	
+}
+
+country_event = {
+	id = ferstinneaple.8 #we won
+	title = ferstinneaple.8.t
+	desc = ferstinneaple.8.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = { #YESSS
+		name = ferstinneaple.8.a
+		TTS = {
+			transfer_state = 1033
+		}
+	}	
 }
