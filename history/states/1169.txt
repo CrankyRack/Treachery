@@ -1,0 +1,23 @@
+state={
+	id=1169
+	name="Jaisalmer"
+
+	history={
+		add_core_of = JAI
+		owner = JAI
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		10847 10866 12718
+	}
+	manpower=1395640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

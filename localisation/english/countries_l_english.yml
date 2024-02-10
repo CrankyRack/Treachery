@@ -4726,4 +4726,44 @@
  TRK_ADJ:0 "Turkanan"
  TRK_subject:0 "$OVERLORDADJ$ Protectorate of Turkana"
  TRK_subject_DEF:0 "the $OVERLORDADJ$ Protectorate of Turkana"
-}
+ 
+ JOD:0 "Kingdom of Jodphur"
+ JOD_DEF:0 "the Kingdom of Jodphur"
+ JOD_ADJ:0 "Jodphuran"
+ 
+ GWA:0 "Kingdom of Gwalior"
+ GWA_DEF:0 "the Kingdom of Gwalior"
+ GWA_ADJ:0 "Gwalioran"
+ 
+ BHO:0 "Kingdom of Bhopal"
+ BHO_DEF:0 "the Kingdom of Bhopal"
+ BHO_ADJ:0 "Bhopalan"
+ 
+ MEW:0 "Kingdom of Mewar"
+ MEW_DEF:0 "the Kingdom of Mewar"
+ MEW_ADJ:0 "Mewaran"
+ 
+ AMB:0 "Kingdom of Amber"
+ AMB_DEF:0 "the Kingdom of Amber"
+ AMB_ADJ:0 "Amber"
+ 
+ SKH:0 "Sikh Empire"
+ SKH_DEF:0 "the Sikh Empire"
+ SKH_ADJ:0 "Sikh"
+ 
+ AJM:0 "Kingdom of Ajmer"
+ AJM_DEF:0 "the Kingdom of Ajmer"
+ AJM_ADJ:0 "Ajmer"
+ 
+ BIK:0 "Kingdom of Bikaner"
+ BIK_DEF:0 "the Kingdom of Bikaner"
+ BIK_ADJ:0 "Bikaner"
+ 
+ KOT:0 "Kingdom of Kota"
+ KOT_DEF:0 "the Kingdom of Kota"
+ KOT_ADJ:0 "Kotaran"
+ 
+ JAI:0 "Kingdom of Jaisalmer"
+ JAI_DEF:0 "the Kingdom of Jaisalmer"
+ JAI_ADJ:0 "Jaisalmer"
+ }

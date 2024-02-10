@@ -1,0 +1,28 @@
+state={
+	id=1182
+	name="Diu"
+
+	history={
+		add_core_of = KOS
+		victory_points = {
+			12037 10
+		}
+		owner = POR
+		buildings = {
+			infrastructure = 2		
+            12037 = {
+				naval_base = 3
+			}	
+		}
+		
+	}
+
+	provinces={
+		12037
+	}
+	manpower=723319
+	buildings_max_level_factor=1
+	state_category="enclave"
+
+	local_supplies=0.0 
+}

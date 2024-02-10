@@ -13,8 +13,8 @@ SOV = {
 	color_ui = rgb { 24 130 80 }
 }
 SWE = {
-	color = rgb { 0 102 204 }
-	color_ui = rgb { 0 102 204 }
+	color = rgb { 18 103 188 }
+	color_ui = rgb { 18 103 188 }
 }
 FRA = {
 	color = rgb { 53 73 140 }

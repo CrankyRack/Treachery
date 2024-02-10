@@ -1,0 +1,23 @@
+state={
+	id=1171
+	name="Udaipur"
+
+	history={
+		add_core_of = MEW
+		owner = MEW
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		1199 12743 12829
+	}
+	manpower=3095640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

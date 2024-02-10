@@ -1,0 +1,26 @@
+state={
+	id=1179
+	name="Ajmer"
+
+	history={
+		add_core_of = AJM
+		victory_points = {
+			4149 5
+		}
+		owner = AJM
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		4149
+	}
+	manpower=223319
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

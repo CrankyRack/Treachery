@@ -1,0 +1,23 @@
+state={
+	id=1180
+	name="Bikaner"
+
+	history={
+		add_core_of = BIK
+		owner = BIK
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		12041 12844 12876
+	}
+	manpower=723319
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

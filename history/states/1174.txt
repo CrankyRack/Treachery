@@ -1,0 +1,23 @@
+state={
+	id=1174
+	name="Indian State 2"
+
+	history={
+		add_core_of = BHO
+		owner = BHO
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		11995
+	}
+	manpower=895640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,29 @@
+state={
+	id=1181
+	name="Damao"
+
+	history={
+		add_core_of = RAJ
+		victory_points = {
+			7013 10
+		}
+		owner = POR
+		buildings = {
+			infrastructure = 2	
+            7013 = {
+				naval_base = 5
+			}			
+
+		}
+		
+	}
+
+	provinces={
+		7013
+	}
+	manpower=93319
+	buildings_max_level_factor=1
+	state_category="enclave"
+
+	local_supplies=0.0 
+}

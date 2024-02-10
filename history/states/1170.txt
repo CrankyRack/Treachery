@@ -1,0 +1,23 @@
+state={
+	id=1170
+	name="Jaisalmer"
+
+	history={
+		add_core_of = JOD
+		owner = JOD
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		1103 1908 4984 12886
+	}
+	manpower=3095640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

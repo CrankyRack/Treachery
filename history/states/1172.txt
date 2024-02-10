@@ -1,0 +1,23 @@
+state={
+	id=1172
+	name="Jambughoda"
+
+	history={
+		add_core_of = KOS
+		owner = KOS
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		8076 11993 12080
+	}
+	manpower=2095640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

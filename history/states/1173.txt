@@ -1,0 +1,23 @@
+state={
+	id=1173
+	name="Indian State 1"
+
+	history={
+		add_core_of = RAJ
+		owner = RAJ
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		4106
+	}
+	manpower=895640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

@@ -322,5 +322,20 @@ DAR = "countries/darfur.txt"
 FNA = "countries/french_north_africa.txt"
 TRK = "countries/turkana.txt"
 
+JOD = "countries/jodhpur.txt"
+GWA = "countries/gwalior.txt"
+BHO = "countries/bhopal.txt"
+MEW = "countries/mewar.txt"
+AMB = "countries/amber.txt"
+SKH = "countries/sikh.txt"
+AJM = "countries/ajmer.txt"
+BIK = "countries/bikaner.txt"
+KOT = "countries/kota.txt"
+JAI = "countries/jaisalmer.txt"
+
+
+
+
+
 DPA = "countries/danish_papua.txt"
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")
