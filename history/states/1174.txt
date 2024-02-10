@@ -1,6 +1,6 @@
 state={
 	id=1174
-	name="Indian State 2"
+	name="Bhopal"
 
 	history={
 		add_core_of = BHO

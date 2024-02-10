@@ -3,8 +3,9 @@ state={
 	name="Jirapur"
 
 	history={
-		add_core_of = RAJ
-		owner = RAJ
+		add_core_of = GWA
+		add_core_of = BHO
+		owner = GWA
 		buildings = {
 			infrastructure = 2		
 

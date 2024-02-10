@@ -1,10 +1,10 @@
 state={
 	id=1176
-	name="Indian State 4"
+	name="Kota"
 
 	history={
-		add_core_of = RAJ
-		owner = RAJ
+		add_core_of = KOT
+		owner = KOT
 		buildings = {
 			infrastructure = 2		
 
