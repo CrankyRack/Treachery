@@ -1,10 +1,11 @@
 state={
 	id=1173
-	name="Indian State 1"
+	name="Shajapur"
 
 	history={
-		add_core_of = RAJ
-		owner = RAJ
+		add_core_of = GWA
+		add_core_of = BHO
+		owner = GWA
 		buildings = {
 			infrastructure = 2		
 

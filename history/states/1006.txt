@@ -17,16 +17,22 @@ state=
 		victory_points = {
 			1409 5 
 		}
+		victory_points = {
+			10190 3 
+		}
 		add_core_of = RAJ
 		buildings = {
 			infrastructure = 2 #was: 6
 			7265 = {
 				naval_base = 4
 			}
+			10190 = {
+				naval_base = 2
+			}
 		}
 	}
 	provinces={
-		1238 1321 1409 4327 4416 7265 7288 7363 7402 7447 10130 10274 12247 12275
+		1409 4315 4327 4416 7265 7288 7363 10130 10190 10274 12275
     }
 	local_supplies=0.0 
 }

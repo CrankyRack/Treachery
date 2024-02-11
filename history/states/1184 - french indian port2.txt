@@ -1,0 +1,28 @@
+state={
+	id=1184
+	name="Mahé"
+
+	history={
+		add_core_of = KOS
+		victory_points = {
+			7391 5
+		}
+		owner = KOS
+		buildings = {
+			infrastructure = 2		
+            7391 = {
+				naval_base = 3
+			}	
+		}
+		
+	}
+
+	provinces={
+		7391
+	}
+	manpower=68319
+	buildings_max_level_factor=1
+	state_category="enclave"
+
+	local_supplies=0.0 
+}

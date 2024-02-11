@@ -1,0 +1,23 @@
+state={
+	id=1185
+	name="Cochin"
+
+	history={
+		add_core_of = CCH
+		owner = CCH
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		7447
+	}
+	manpower=223319
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

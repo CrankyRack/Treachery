@@ -1,0 +1,23 @@
+state={
+	id=1190
+	name="Kanker"
+
+	history={
+		add_core_of = KNK
+		owner = KNK
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		12490
+	}
+	manpower=195640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

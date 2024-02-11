@@ -4770,4 +4770,64 @@
  TNK:0 "Kingdom of Tonk"
  TNK_DEF:0 "the Kingdom of Tonk"
  TNK_ADJ:0 "Tonk"
+ 
+ HYD:0 "Kingdom of Hyderabad"
+ HYD_DEF:0 "the Kingdom of Hyderabad"
+ HYD_ADJ:0 "Hyderabad"
+ 
+ MYS:0 "Kingdom of Mysore"
+ MYS_DEF:0 "the Kingdom of Mysore"
+ MYS_ADJ:0 "Mysorean"
+ 
+ CCH:0 "Kingdom of Cochin"
+ CCH_DEF:0 "the Kingdom of Cochin"
+ CCH_ADJ:0 "Cochin"
+ 
+ TRC:0 "Kingdom of Travancore"
+ TRC_DEF:0 "the Kingdom of Travancore"
+ TRC_ADJ:0 "Travancorean"
+ 
+ POD:0 "Kingdom of Pudukkottai"
+ POD_DEF:0 "the Kingdom of Pudukkottai"
+ POD_ADJ:0 "Pudukkottai"
+ 
+ BER:0 "Kingdom of Berar"
+ BER_DEF:0 "the Kingdom of Berar"
+ BER_ADJ:0 "Beraran"
+ 
+ BST:0 "Kingdom of Bastar"
+ BST_DEF:0 "the Kingdom of Bastar"
+ BST_ADJ:0 "Bastar"
+ 
+ KNK:0 "Kingdom of Kanker"
+ KNK_DEF:0 "the Kingdom of Kanker"
+ KNK_ADJ:0 "Kanker"
+ 
+ NAN:0 "Kingdom of Nandgaon"
+ NAN_DEF:0 "the Kingdom of Nandgaon"
+ NAN_ADJ:0 "Nandgaon"
+ 
+ REW:0 "Kingdom of Rewa"
+ REW_DEF:0 "the Kingdom of Rewa"
+ REW_ADJ:0 "Rewan"
+ 
+ BEN:0 "Kingdom of Benares"
+ BEN_DEF:0 "the Kingdom of Benares"
+ BEN_ADJ:0 "Benares"
+ 
+ RJG:0 "Kingdom of Rajgarh"
+ RJG_DEF:0 "the Kingdom of Rajgarh"
+ RJG_ADJ:0 "Rajgarher"
+ 
+ SRG:0 "Kingdom of Surguja"
+ SRG_DEF:0 "the Kingdom of Surguja"
+ SRG_ADJ:0 "Surgujan"
+ 
+ ORC:0 "Kingdom of Orchha"
+ ORC_DEF:0 "the Kingdom of Orchha"
+ ORC_ADJ:0 "Orchhan"
+ 
+ ORI:0 "Confederation of Orissa"
+ ORI_DEF:0 "the Confederation of Orissa"
+ ORI_ADJ:0 "Orissan"
  }

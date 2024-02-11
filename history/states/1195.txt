@@ -1,0 +1,23 @@
+state={
+	id=1195
+	name="Orchha"
+
+	history={
+		add_core_of = ORC
+		owner = ORC
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		5040
+	}
+	manpower=1515640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

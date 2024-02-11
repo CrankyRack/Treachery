@@ -2,7 +2,7 @@
 state={
 	id=426
 	name="STATE_426" # Orissa
-	manpower = 14520100
+	manpower = 8520100
 	
 	state_category = rural
 	
@@ -13,7 +13,8 @@ state={
 	}
 
 	history={
-		owner = RAJ
+		owner = ORI
+		add_core_of = ORI
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -22,7 +23,7 @@ state={
 	}
 
 	provinces={
-		1059 1101 1538 1579 1622 4104 4237 4513 7090 7372 7428 7465 9946 10001 10060 10088 10116 10171 10255 10428 10469 11924 11978 12063 12241 12462 12490 
+		1101 1538 4104 4513 7090 9946 10001 10060 10428 
 	}
 
 	local_supplies=0.0 

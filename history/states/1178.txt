@@ -1,10 +1,10 @@
 state={
 	id=1178
-	name="Indian State 5"
+	name="Rajgarh"
 
 	history={
-		add_core_of = RAJ
-		owner = RAJ
+		add_core_of = RJG
+		owner = RJG
 		buildings = {
 			infrastructure = 2		
 

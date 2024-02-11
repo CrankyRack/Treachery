@@ -1,0 +1,23 @@
+state={
+	id=1192
+	name="Benares"
+
+	history={
+		add_core_of = BEN
+		owner = BEN
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		2005 12786
+	}
+	manpower=215640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

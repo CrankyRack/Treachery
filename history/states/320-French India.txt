@@ -11,11 +11,11 @@ state={
 	}
 	
 	history={
-		owner = SWE
+		owner = KOS
 		victory_points = {
 			10149 5 
 		}
-		add_core_of = RAJ
+		add_core_of = KOS
 		buildings = {
 			infrastructure = 3 #was: 5
 			10149 = {

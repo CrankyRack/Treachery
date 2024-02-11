@@ -1,0 +1,28 @@
+state={
+	id=1196
+	name="Yanaon"
+
+	history={
+		add_core_of = KOS
+		victory_points = {
+			7297 8
+		}
+		owner = KOS
+		buildings = {
+			infrastructure = 2		
+            7297 = {
+				naval_base = 5
+			}	
+		}
+		
+	}
+
+	provinces={
+		7297
+	}
+	manpower=98319
+	buildings_max_level_factor=1
+	state_category="enclave"
+
+	local_supplies=0.0 
+}

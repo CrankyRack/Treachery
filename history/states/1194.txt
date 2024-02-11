@@ -1,0 +1,23 @@
+state={
+	id=1194
+	name="Surguja"
+
+	history={
+		add_core_of = SRG
+		owner = SRG
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		7497 12480
+	}
+	manpower=1515640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

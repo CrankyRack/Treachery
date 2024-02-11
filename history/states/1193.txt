@@ -1,0 +1,23 @@
+state={
+	id=1193
+	name="Rewa"
+
+	history={
+		add_core_of = REW
+		owner = REW
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		4410 5086 10332
+	}
+	manpower=1215640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

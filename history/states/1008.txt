@@ -14,12 +14,9 @@ state=
 	
 	history=
 	{
-		owner = POR
-		victory_points = {
-			10190 3 
-		}
+		owner = RAJ
 		add_core_of = RAJ
-		add_claim_by = KOS
+		add_claim_by = POR
 		buildings = {
 			infrastructure = 2 #was: 6
 			10190 ={
@@ -28,7 +25,7 @@ state=
 		}
 	}
 	provinces={
-		4278 4291 4395 7244 7391 7395 10190 12105 12208
+		4291 4395 12208
     }
 	local_supplies=0.0 
 }

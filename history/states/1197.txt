@@ -1,0 +1,25 @@
+state={
+	id=1197
+	name="Ganjam"
+
+	history={
+		add_core_of = RAJ
+		victory_points = {
+			7297 8
+		}
+		owner = RAJ
+		buildings = {
+			infrastructure = 2		
+		}
+		
+	}
+
+	provinces={
+		1059 1579 4237 7372 7428 10088 10116 10255 11924 11978 12063 12462
+	}
+	manpower=6130509
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

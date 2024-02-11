@@ -1,0 +1,28 @@
+state={
+	id=1183
+	name="Cannanore Islands"
+
+	history={
+		add_core_of = MAL
+		victory_points = {
+			7244 1
+		}
+		owner = MAL
+		buildings = {
+			infrastructure = 2		
+            7244 = {
+				naval_base = 3
+			}	
+		}
+		
+	}
+
+	provinces={
+		7244
+	}
+	manpower=33319
+	buildings_max_level_factor=1
+	state_category="small_island"
+
+	local_supplies=0.0 
+}

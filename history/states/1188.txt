@@ -1,0 +1,23 @@
+state={
+	id=1188
+	name="Berar"
+
+	history={
+		add_core_of = BER
+		owner = BER
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		7430 10030 10872 12781
+	}
+	manpower=2895640
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

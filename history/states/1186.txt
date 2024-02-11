@@ -1,0 +1,23 @@
+state={
+	id=1186
+	name="Travancore"
+
+	history={
+		add_core_of = TRC
+		owner = TRC
+		buildings = {
+			infrastructure = 2		
+
+		}
+		
+	}
+
+	provinces={
+		1238 1321 7402
+	}
+	manpower=674311
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}
