@@ -14,8 +14,7 @@ state=
 	
 	history=
 	{
-		owner = RAJ
-		add_core_of = RAJ
+		owner = BOM
 		add_claim_by = POR
 		buildings = {
 			infrastructure = 2 #was: 6

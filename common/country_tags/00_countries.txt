@@ -348,6 +348,9 @@ RJG = "countries/rajgarh.txt"
 SRG = "countries/surguja.txt"
 ORC = "countries/orchha.txt"
 ORI = "countries/orissa.txt"
+SKK = "countries/sikkim.txt"
+
+BOM = "countries/bombay.txt"
 
 
 

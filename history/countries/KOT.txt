@@ -1,5 +1,12 @@
 ﻿capital = 908
 
+KOS = {
+set_autonomy = {
+		target = KOT
+		autonomous_state = autonomy_german_prince_1
+	}
+}
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

@@ -23,6 +23,10 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 	}
 set_autonomy = {
+		target = BOM
+		autonomous_state = autonomy_colony
+	}
+set_autonomy = {
 		target = DAH
 		autonomous_state = autonomy_colony
 	}

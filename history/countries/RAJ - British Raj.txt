@@ -1,4 +1,9 @@
-﻿capital = 439
+﻿capital = 431
+
+set_autonomy = {
+		target = ORI
+		autonomous_state = autonomy_german_prince_1
+	}
 
 oob = "RAJ_1936"
 if = {

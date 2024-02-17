@@ -78,11 +78,11 @@ set_autonomy = {
 	}
 set_autonomy = {
 		target = ETH
-		autonomous_state = autonomy_protectorate_2
+		autonomous_state = autonomy_german_prince_1
 	}
 set_autonomy = {
 		target = TRK
-		autonomous_state = autonomy_protectorate_2
+		autonomous_state = autonomy_german_prince_1
 	}
 set_autonomy = {
 		target = WES
@@ -234,7 +234,7 @@ set_convoys = 300
 
 set_politics = {
 	ruling_party = democratic
-	last_election = "1932.5.1"
+	last_election = "1902.5.1"
 	election_frequency = 48
 	elections_allowed = yes
 }

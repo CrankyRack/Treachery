@@ -1,7 +1,7 @@
 ﻿l_english:
  autonomy_dominion:0 "Dominion"
- autonomy_german_prince_1:0 "§Wmember of the§  Holy Roman Empire.§W It is considered a close ally"
-  autonomy_german_prince_2:0 "§Wmember of the§  German Confederation.§W It is considered a close ally"
+ autonomy_german_prince_1:0 "Protectorate"
+ autonomy_german_prince_2:0 "§Wmember of the§  German Confederation.§W It is considered a close ally"
  autonomy_supervised_state:0 "Supervised State"
  autonomy_colony:0 "Colony"
  autonomy_protectorate_2:0 "Protectorate"

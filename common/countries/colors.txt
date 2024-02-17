@@ -224,8 +224,8 @@ MEX = {
 	color_ui = rgb { 74 186 82 }
 }
 NEP = {
-	color = rgb { 152 130 191 }
-	color_ui = rgb { 198 169 248 }
+	color = rgb { 115 79 145 }
+	color_ui = rgb { 115 79 145 }
 }
 NIC = {
 	color = rgb { 210 110 41 }
@@ -1249,4 +1249,108 @@ DPA = {
 TRK = {
 	color = rgb { 62 103 150 }
 	color_ui = rgb { 62 103 150 }
+}
+ORI = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+NAN = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+BEN = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+REW = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+SRG = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+KNK = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+BST = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+BER = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+BHO = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+ORC = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+GWA = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+RJG = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+AMB = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 } 
+}
+SKH = {
+	color = rgb { 224 132 11 }
+	color_ui = rgb { 224 132 11 }
+}
+JAI = {
+	color = rgb { 224 132 11 }
+	color_ui = rgb { 224 132 11 }
+}
+BIK = {
+	color = rgb { 224 132 11 }
+	color_ui = rgb { 224 132 11 }
+}
+JOD = {
+	color = rgb { 93 113 180 }
+	color_ui = rgb { 93 113 180 }
+}
+MEW = {
+	color = rgb { 93 113 180 }
+	color_ui = rgb { 93 113 180 }
+}
+AJM = {
+	color = rgb { 93 113 180 }
+	color_ui = rgb { 93 113 180 }
+}
+KOT = {
+	color = rgb { 93 113 180 }
+	color_ui = rgb { 93 113 180 }
+}
+SKK = {
+	color = rgb { 81 92 173 }
+	color_ui = rgb { 81 92 173 }
+}
+HYD = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+POD = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+MYS = {
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
+}
+CCH = {
+	color = rgb { 92 87 43 }
+	color_ui = rgb { 92 87 43 }
+}
+TRC = {
+	color = rgb { 119 72 98 }
+	color_ui = rgb { 119 72 98 }
 }

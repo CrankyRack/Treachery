@@ -3,11 +3,11 @@ state={
 	name="Ganjam"
 
 	history={
-		add_core_of = RAJ
+		add_core_of = ORI
 		victory_points = {
 			7297 8
 		}
-		owner = RAJ
+		owner = MAL
 		buildings = {
 			infrastructure = 2		
 		}
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		1059 1579 4237 7372 7428 10088 10116 10255 11924 11978 12063 12462
+		1059 1579 4237 7372 7428 10001 10088 10116 10255 11924 11978 12063 12462
 	}
 	manpower=6130509
 	buildings_max_level_factor=1

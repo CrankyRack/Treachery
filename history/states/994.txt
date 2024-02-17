@@ -13,12 +13,12 @@ state=
 	
 	history=
 	{
-		owner = RAJ
+		owner = SKK
 		victory_points = {
 			12798 10 
 		}
 		add_core_of = BAN
-		add_core_of = RAJ
+		add_core_of = SKK
 		buildings = {
 			infrastructure = 2 #was: 6
 		}
