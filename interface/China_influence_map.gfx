@@ -4,4 +4,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/china_influence/china_influence_bg.dds"
 		legacy_lazy_load = no
 	}
+	
+	spriteType = {
+		name = "GFX_scripted_gui_manchuria_button"
+		texturefile = "gfx/interface/china_influence/manchuria_button.dds"
+		legacy_lazy_load = no
+	}
 }

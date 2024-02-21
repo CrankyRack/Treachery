@@ -31,14 +31,14 @@ guiTypes = {
 		
 		buttonType ={
 			name = "manchuria_button"
-			spriteType = "GFX_scripted_gui_close"
-			position = { x= 130 y = 19 }
+			spriteType = "GFX_scripted_gui_manchuria_button"
+			position = { x= 270 y = 20 }
 			Orientation = "UPPER_LEFT"
 		}
 		buttonType ={
 			name = "peking_button"
 			spriteType = "GFX_scripted_gui_close"
-			position = { x= 100 y = 50 }
+			position = { x= 240 y = 40 }
 			Orientation = "UPPER_LEFT"
 		}
 			

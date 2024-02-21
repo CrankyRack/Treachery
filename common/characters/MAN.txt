@@ -1,5 +1,5 @@
 characters={
-	MAN_aisin_gioro_puyi={
+	MAN_guangxu_emperor={
 		name="Guangxu Emperor"
 		portraits={
 			civilian={
