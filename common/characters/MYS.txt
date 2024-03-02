@@ -1,0 +1,16 @@
+characters = {
+	MYS_krishna = {
+		name="Krishna Raja Wadiyar IV"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/INDIA/MYS_krishna.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

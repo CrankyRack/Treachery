@@ -1,0 +1,16 @@
+characters = {
+	BHU_yeshe_ngodub = {
+		name="Yeshe Ngodub"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BHU/BHU_yeshe_ngodub.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
