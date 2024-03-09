@@ -1,0 +1,29 @@
+state={
+	id=1200
+	name="Biloxi Coast"
+
+	history={
+		add_core_of = STR
+		add_core_of = USA
+		owner = STR
+		victory_points = {
+			4464 3 
+		}
+		buildings = {
+			infrastructure = 3
+            7524 = {
+				naval_base = 4
+			}			
+		}
+		
+	}
+
+	provinces={
+		4464 7524 7668
+	}
+	manpower=430509
+	buildings_max_level_factor=1
+	state_category="town"
+
+	local_supplies=0.0 
+}

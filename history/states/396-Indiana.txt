@@ -2,14 +2,14 @@
 state={
 	id=396
 	name="STATE_396"
-	manpower = 3238501
-	state_category = large_city
+	manpower = 1238501
+	state_category = town
 
 	history={
 		owner = DAK
 		buildings = {
 			infrastructure = 3 #was: 6
-			industrial_complex = 5
+			industrial_complex = 1
 		}
 		add_core_of = DAK
 		add_claim_by = USA
@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-		689 831 870 1595 1881 3685 3872 4437 4527 4531 6713 7551 9653 9654 9796 9810 10448 11621 11635 11637 11791 12437 
+		689 831 870 1595 1881 3685 3872 4527 4531 7551 9796 9810 10448 11621 11635 11637 11791 12437 
 	}
 
 	local_supplies=0.0 

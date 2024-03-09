@@ -1,0 +1,33 @@
+state={
+	id=1198
+	name="Montgomery"
+
+	history={
+		add_core_of = STR
+		add_core_of = USA
+			victory_points = {
+			492 10 
+		}
+			set_province_name = {
+			id = 492
+			name = "Montgomery"
+		}
+		victory_points = {
+			7297 8
+		}
+		owner = STR
+		buildings = {
+			infrastructure = 2		
+		}
+		
+	}
+
+	provinces={
+		492 860 7640 11942
+	}
+	manpower=230509
+	buildings_max_level_factor=1
+	state_category="rural"
+
+	local_supplies=0.0 
+}

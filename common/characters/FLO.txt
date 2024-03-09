@@ -1,0 +1,16 @@
+characters = {
+	FLO_camilo_Polavieja = {
+		name="Camilo García de Polavieja"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/FLO/FLO_camilo_Polavieja.dds"
+			}
+		}
+		country_leader = {
+			ideology=military_dictatorship
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

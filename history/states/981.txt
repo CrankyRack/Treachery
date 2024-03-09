@@ -8,10 +8,9 @@ state=
 	state_category = town
 	
 	history={
-		owner = STR
+		owner = USA
 		victory_points = { 8014 5 }
 		add_core_of = USA
-		add_core_of = STR
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1

@@ -1,0 +1,40 @@
+state={
+	id=1199
+	name="Pearl River"
+
+	history={
+		add_core_of = STR
+		add_core_of = USA
+		victory_points = {
+			10410 1 
+		}
+		victory_points = {
+			1615 10 
+		}
+			set_province_name = {
+			id = 1615
+			name = "Hattiesburg"
+		}
+			victory_points = {
+			10449 20 
+		}
+			set_province_name = {
+			id = 10449
+			name = "St. Francisville"
+		}
+		owner = STR
+		buildings = {
+			infrastructure = 3		
+		}
+		
+	}
+
+	provinces={
+		1615 4650 4756 10410 10449
+	}
+	manpower=830509
+	buildings_max_level_factor=1
+	state_category="city"
+
+	local_supplies=0.0 
+}

@@ -9,7 +9,7 @@ state=
 	
 	
 	history={
-		owner = LIB
+		owner = USA
 		victory_points = {
 			797 4
 		}
@@ -18,9 +18,7 @@ state=
 			arms_factory = 1
 
 		}
-		add_core_of = LIB
 		add_core_of = USA
-		add_core_of = STR
 	}
 	provinces={
 		4594 9996 11509

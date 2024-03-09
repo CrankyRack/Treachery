@@ -2,25 +2,17 @@
 state={
 	id=367
 	name="STATE_367"
-	manpower = 4646247
+	manpower = 4146247
 	
 	state_category = city
 
 	history={
-		owner = STR
+		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 3
 		}
-		add_core_of = STR
 		add_core_of = USA
-		victory_points = {
-			492 10 
-		}
-			set_province_name = {
-			id = 492
-			name = "Montgomery"
-		}
 		victory_points = {
 			12735 20 
 		}
@@ -35,7 +27,7 @@ state={
 	}
 
 	provinces={
-		492 860 968 1587 4622 4756 7422 7640 10192 10909 11942 12735 12803 
+		968 1587 4622 7422 10192 10909 12735 12803 
 	}
 
 	local_supplies=0.0 

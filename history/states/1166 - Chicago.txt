@@ -1,26 +1,27 @@
 state={
 	id=1166
-	name="Chicago"
+	name="Potawatomi"
 	resources={
 
 	}
 	
-	state_category = metropolis
+	state_category = city
 
 	history={
-		owner = CAN
+		owner = DAK
 		buildings = {
-			infrastructure = 2
+			infrastructure = 4
 			industrial_complex = 1
 		}
-		add_core_of = USA
+		add_core_of = DAK
+		add_claim_by = USA
 		victory_points = {
 			9450 30
 		}
 	}
 
 	provinces={
-		9450
+		4437 6713 9450 9653 9654 9682 
 	}
 
 	manpower=546782

@@ -14,7 +14,7 @@ state=
 	
 	history=
 	{
-		owner = CSA
+		owner = USA
 		victory_points = { 12384 20 }
 		victory_points = {
 			11975 5 
@@ -24,8 +24,6 @@ state=
 			name = "Savannah"
 		}
 		add_core_of = USA
-		add_core_of = CSA
-		add_claim_by = STR
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1

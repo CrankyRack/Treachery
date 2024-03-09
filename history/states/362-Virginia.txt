@@ -4,12 +4,11 @@ state={
 	name="STATE_362"
 
 	history={
-		owner = STR
+		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 2
 			dockyard = 4
-			air_base = 6
 			fuel_silo = 1
 			788 = {
 				naval_base = 10
@@ -18,20 +17,11 @@ state={
 
 		}
 		add_core_of = USA
-		add_core_of = STR
 		victory_points = {
 			788 10 
 		}
 		victory_points = {
 			10412 15 
-		}
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 2
-				dockyard = 5
-
-			}
-
 		}
 
 	}
