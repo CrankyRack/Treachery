@@ -1,6 +1,11 @@
 state={
 	id=1199
 	name="Pearl River"
+	
+	resources={
+		steel=6 # was: 80
+		Oil=15 # was: 80
+	}
 
 	history={
 		add_core_of = STR

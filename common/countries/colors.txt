@@ -280,8 +280,8 @@ YUN = {
 	color_ui = rgb { 222 247 198 }
 }
 USA = {
-	color = rgb { 43 124 196 }
-	color_ui = rgb { 43 124 196 }
+	color = rgb { 69 141 204 }
+	color_ui = rgb { 69 141 204 }
 }
 MON = {
 	#color = HSV { 0.1 0.15 0.4 }
@@ -949,8 +949,8 @@ HKS = {
 	color_ui = rgb { 168 50 59 }
 }
 STR = {
-	color = rgb { 125 109 102 }
-	color_ui = rgb { 125 109 102 }
+	color = rgb { 19 131 196 }
+	color_ui = rgb { 19 131 196 }
 }
 TEX = {
 	color = rgb { 168 50 59 }
@@ -973,8 +973,8 @@ GRC = {
 	color_ui = rgb { 58 100 153 }
 }
 FLO = {
-	color = rgb { 155 160 125 }
-	color_ui = rgb { 155 160 125 }
+	color = rgb { 140 85 102  }
+	color_ui = rgb { 140 85 102  }
 }
 LSS = {
 	color = rgb { 131 166 173 }

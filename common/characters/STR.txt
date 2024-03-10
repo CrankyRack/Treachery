@@ -1,6 +1,6 @@
 characters = {
 	STR_Garlington = {
-		name="Ernest Albert Garlington"
+		name="John Prentiss Carter"
 		portraits = {
 			civilian = {
 				large="gfx/leaders/STR/STR_Garlington.dds"
@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology=conservatism
-			traits={ dictator }
+			traits={ # }
 			expire="1965.1.1.1"
 			id=-1
 		}

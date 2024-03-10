@@ -1,17 +1,22 @@
 state={
 	id=1200
 	name="Biloxi Coast"
+	
+	resources={
+		Oil=2 # was: 80
+	}
 
 	history={
 		add_core_of = STR
 		add_core_of = USA
+		add_claim_by = FLO
 		owner = STR
 		victory_points = {
 			4464 3 
 		}
 		buildings = {
 			infrastructure = 3
-            7524 = {
+            4464 = {
 				naval_base = 4
 			}			
 		}

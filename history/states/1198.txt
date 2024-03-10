@@ -1,6 +1,10 @@
 state={
 	id=1198
 	name="Montgomery"
+	
+	resources={
+		Oil=1 # was: 80
+	}
 
 	history={
 		add_core_of = STR

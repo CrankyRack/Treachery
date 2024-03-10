@@ -1,6 +1,6 @@
 characters={
 	USA_alton_b_parker ={
-		name= "Alton B. Parker"
+		name= "William Collins Whitney"
 		portraits={
 			civilian={
 				large=GFX_portrait_USA_alton_b_parker
