@@ -1,0 +1,16 @@
+characters = {
+	ARG_Philippe_III = {
+		name="Philippe III Orléans"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/ARG/ARG_Philippe_III.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -13,7 +13,7 @@ state={
 		add_core_of = BOL
 		add_core_of = ARG
 		add_core_of = LAP
-		owner = LAP
+		owner = ARG
 		victory_points = {
 			4982 1
 		}
@@ -23,7 +23,7 @@ state={
 	}
 	
 	provinces={
-		2224 11001 
+		2174 2224 5229 11001 
 	}
 
 	local_supplies=5.0 

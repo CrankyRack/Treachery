@@ -11,13 +11,12 @@ state={
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-			air_base = 1
 		}
 		add_core_of = COL
 	}
 
 	provinces={
-		12825
+		12825 12869
 	}
 
 	local_supplies=6.0 

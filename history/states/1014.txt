@@ -13,11 +13,12 @@ state=
 	
 	history=
 	{
-		owner = NIR
+		owner = BRP
 		victory_points = {
 			11360 10 
 		}
 		add_core_of = NIC
+		add_core_of = BRP
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1

@@ -144,8 +144,8 @@ AFG = {
 	color_ui = rgb { 83 208 217 }
 }
 ARG = {
-	color = rgb { 145 157 236 }
-	color_ui = rgb { 189 204 255 }
+	color = rgb { 151 191 196 }
+	color_ui = rgb { 151 191 196 }
 }
 AST = {
 	color = rgb { 174 23 47 }
@@ -156,8 +156,8 @@ BHU = {
 	color_ui = rgb { 172 122 88 }
 }
 BOL = {
-	color = rgb { 242 205 94 }
-	color_ui = rgb { 255 255 122 }
+	color = rgb { 216 138 93 }
+	color_ui = rgb { 216 138 93 }
 }
 BRA = {
 	color = rgb { 76 145 63 }
@@ -248,8 +248,8 @@ PHI = {
 	color_ui = rgb { 198 169 248 }
 }
 PRU = {
-	color = rgb { 168 50 59 }
-	color_ui = rgb { 168 50 59 }
+	color = rgb { 204 124 124 }
+	color_ui = rgb { 204 124 124 }
 }
 SAF = {
 	color = rgb { 195 107 160 }

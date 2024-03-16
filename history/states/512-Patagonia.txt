@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = BRP
+		owner = ARG
 		buildings = {
 			infrastructure = 2
 			10953 = {
@@ -21,8 +21,7 @@ state={
 				naval_base = 1
 			}
 		}
-		add_core_of = BRP
-		add_claim_by = ARG
+		add_core_of = ARG
 	}
 
 	provinces={
