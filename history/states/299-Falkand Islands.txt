@@ -6,7 +6,7 @@ state= {
 	state_category = enclave
 	
 	history= 	{
-		owner = BRP
+		owner = NIR
 		buildings = {
 			infrastructure = 1
 			12960 = {
@@ -14,7 +14,7 @@ state= {
 			}
 		}
 		add_claim_by = ARG
-		add_core_of = BRP
+		add_core_of = NIR
 	}
 	provinces= { 12960 }
 

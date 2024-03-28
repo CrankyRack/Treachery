@@ -1,0 +1,28 @@
+state={
+	id=1201
+	name="Guadeloupe"
+
+	history={
+		#add_core_of = SWE
+		victory_points = {
+			9377 1
+		}
+		owner = SWE
+		buildings = {
+			infrastructure = 2		
+            9377 = {
+				naval_base = 3
+			}	
+		}
+		
+	}
+
+	provinces={
+		9377
+	}
+	manpower=174231
+	buildings_max_level_factor=1
+	state_category="small_island"
+
+	local_supplies=0.0 
+}
