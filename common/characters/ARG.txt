@@ -1,6 +1,6 @@
 characters = {
 	ARG_Philippe_III = {
-		name="Philippe III Orléans"
+		name="Filipe II de Orléans"
 		portraits = {
 			civilian = {
 				large="gfx/leaders/ARG/ARG_Philippe_III.dds"
