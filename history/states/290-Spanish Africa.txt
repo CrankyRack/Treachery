@@ -12,9 +12,9 @@ state={
 	}
 
 	history={
-		owner = RIF
+		owner = SPR
 		add_core_of = MOR
-		add_core_of = RIF
+		add_core_of = BOU
 		victory_points = {
 			9945 3
 		}
@@ -26,7 +26,6 @@ state={
 		}
 		buildings = {
 			infrastructure = 2
-			air_base = 3
 			12100 = {
 				naval_base = 3
 			}
@@ -37,7 +36,7 @@ state={
 	}
 
 	provinces = {
-		4199 7215 9945 10113 12087 12100 
+		7215 9945 12087 12100 
 	}
 
 	local_supplies = 0.0 

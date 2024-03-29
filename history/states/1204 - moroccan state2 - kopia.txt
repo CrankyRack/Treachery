@@ -1,0 +1,23 @@
+state={
+	id=1204
+	name="Oudja"
+
+	history={
+		add_core_of = MOR
+		add_core_of = BOU
+		owner = BOU
+		buildings = {
+			infrastructure = 3		
+		}
+		
+	}
+
+	provinces={
+		989 1111 4097
+	}
+	manpower=1040509
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

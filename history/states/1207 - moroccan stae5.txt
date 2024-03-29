@@ -1,0 +1,23 @@
+state={
+	id=1207
+	name="Taounate"
+
+	history={
+		add_core_of = MOR
+		add_core_of = BOU
+		owner = BOU
+		buildings = {
+			infrastructure = 1		
+		}
+		
+	}
+
+	provinces={
+		4199 10013
+	}
+	manpower=118509
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

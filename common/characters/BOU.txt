@@ -1,0 +1,16 @@
+characters = {
+	BOU_bou = {
+		name="Bou Hmara"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BOU/BOU_bou.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

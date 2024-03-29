@@ -1354,3 +1354,7 @@ TRC = {
 	color = rgb { 119 72 98 }
 	color_ui = rgb { 119 72 98 }
 }
+ZAI = {
+	color = rgb { 119 108 83 }
+	color_ui = rgb { 119 108 83 }
+}

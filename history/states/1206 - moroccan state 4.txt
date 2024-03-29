@@ -1,0 +1,23 @@
+state={
+	id=1206
+	name="Draa Tafilalet"
+
+	history={
+		add_core_of = MOR
+		add_core_of = ZAI
+		owner = ZAI
+		buildings = {
+			infrastructure = 3		
+		}
+		
+	}
+
+	provinces={
+		1152 1207 4933 7908 8046 10107
+	}
+	manpower=418509
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

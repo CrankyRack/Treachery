@@ -116,6 +116,10 @@ set_autonomy = {
 		target = NEW
 		autonomous_state = autonomy_dominion
 	}
+set_autonomy = {
+		target = MOR
+		autonomous_state = autonomy_colony
+	}
 give_guarantee = TOS
 give_guarantee = HAN
 give_guarantee = LSS

@@ -2212,6 +2212,8 @@
  MOR:0 "Morocco"
  MOR_DEF:0 "Morocco"
  MOR_ADJ:0 "Moroccan"
+ MOR_subject:0 "Franco-Spanish Condominium of Morocco"
+ MOR_subject_DEF:0 "the Franco-Spanish Condominium of Morocco"
  TUN_fascism:1 "Barbary Tunis"
  TUN_fascism_DEF:1 "Barbary Tunis"
  TUN_democratic:1 "Republic of Tunisia"
@@ -3785,8 +3787,8 @@
  SIK_SOV_communism_subject:0 "Soviet Socialist Republic of Xinjiang"
  SIK_communism_subject_DEF:0 "the Soviet Socialist Republic of Xinjiang"
  SIK_communism_subject_ADJ:0 "Xinjiang"
- RIF_SPR_subject:0 "$OVERLORDADJ$ North Africa"
- RIF_SPR_subject_DEF:0 "the $OVERLORDADJ$ Colony of North Africa"
+ RIF_SPR_subject:0 "$OVERLORDADJ$ Rio de Oro"
+ RIF_SPR_subject_DEF:0 "the $OVERLORDADJ$ Colony of Rio de Oro"
  RIF_SPR_subject_ADJ:0 "$OVERLORDADJ$"
  RIF_fascism:0 "Empire of the Rif"
  RIF_fascism_DEF:0 "the Empire of the Rif"
@@ -4836,4 +4838,12 @@
  BOM_ADJ:0 "Bombayan"
  BOM_subject:0 "$OVERLORDADJ$ Bombay"
  BOM_subject_DEF:0 "the $OVERLORDADJ$ Bombay"
- }
+ 
+ ZAI:0 "Zaian Confederation"
+ ZAI_DEF:0 "the Zaian Confederation"
+ ZAI_ADJ:0 "Zaian"
+ 
+ BOU:0 "Bou Hmara Sultanate"
+ BOU_DEF:0 "the Bou Hmara Sultanate"
+ BOU_ADJ:0 "Bou Hmaran"
+}

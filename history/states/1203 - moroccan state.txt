@@ -1,0 +1,27 @@
+state={
+	id=1203
+	name="Béni Mellal-Khénifra"
+	
+	resources={
+		steel=2 # was: 80
+	}
+
+	history={
+		add_core_of = MOR
+		add_core_of = BOU
+		owner = BOU
+		buildings = {
+			infrastructure = 3		
+		}
+		
+	}
+
+	provinces={
+		1079 4084 7173 12042
+	}
+	manpower=490509
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

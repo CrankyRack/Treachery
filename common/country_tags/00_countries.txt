@@ -352,6 +352,9 @@ SKK = "countries/sikkim.txt"
 
 BOM = "countries/bombay.txt"
 
+ZAI = "countries/Zaian.txt"
+BOU = "countries/bou.txt"
+
 
 
 
