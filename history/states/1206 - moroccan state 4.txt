@@ -4,6 +4,7 @@ state={
 
 	history={
 		add_core_of = MOR
+		add_core_of = BOU
 		add_core_of = ZAI
 		owner = ZAI
 		buildings = {

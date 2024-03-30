@@ -4846,4 +4846,8 @@
  BOU:0 "Bou Hmara Sultanate"
  BOU_DEF:0 "the Bou Hmara Sultanate"
  BOU_ADJ:0 "Bou Hmaran"
+ 
+ TBS:0 "Tibesti Confederation"
+ TBS_DEF:0 "the Tibesti Confederation"
+ TBS_ADJ:0 "Tibesti"
 }

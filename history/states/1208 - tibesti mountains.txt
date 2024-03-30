@@ -1,0 +1,24 @@
+state={
+	id=1208
+	name="Tibesti"
+
+	history={
+		add_core_of = TBS
+		add_core_of = SNU
+		add_claim_by = FRA
+		owner = TBS
+		buildings = {
+			infrastructure = 1		
+		}
+		
+	}
+
+	provinces={
+		10893
+	}
+	manpower=58509
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

@@ -354,6 +354,7 @@ BOM = "countries/bombay.txt"
 
 ZAI = "countries/Zaian.txt"
 BOU = "countries/bou.txt"
+TBS = "countries/Tibesti.txt"
 
 
 
