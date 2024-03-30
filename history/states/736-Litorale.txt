@@ -12,6 +12,7 @@ state = {
 		add_core_of = ITA
 		add_core_of = SLV
 		add_core_of = CRO
+		add_claim_by = ITC
 		buildings = {
 			infrastructure = 1
 			dockyard = 1

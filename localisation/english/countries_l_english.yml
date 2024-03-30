@@ -4042,15 +4042,15 @@
  SPM_neutrality_ADJ:0 "Piedmontese"
  SPM_subject_ADJ:0 "Piedmontese"
 
- TTS:0 "Kingdom of Naples"
- TTS_fascism:0 "Kingdom of Naples"
- TTS_fascism_DEF:0 "the Kingdom of Naples"
- TTS_democratic:0 "Italian Confederation"
- TTS_democratic_DEF:0 "the Italian Confederation"
+ TTS:0 "Kingdom of Two Sicilies"
+ TTS_fascism:0 "Kingdom of Two Sicilies"
+ TTS_fascism_DEF:0 "the Kingdom of Two Sicilies"
+ TTS_democratic:0 "Kingdom of Two Sicilies"
+ TTS_democratic_DEF:0 "the Kingdom of Two Sicilies"
  TTS_communism:0 "People's Republic of Mezzogiorno"
  TTS_communism_DEF:0 "the People's Republic of Mezzogiorno"
- TTS_neutrality:0 "Italian Confederation"
- TTS_neutrality_DEF:0 "the Italian Confederation"
+ TTS_neutrality:0 "Kingdom of Two Sicilies"
+ TTS_neutrality_DEF:0 "the Kingdom of Two Sicilies"
  TTS_fascism_ADJ:0 "Parthenopean"
  TTS_democratic_ADJ:0 "Italian"
  TTS_communism_ADJ:0 "Mezzogiornian"
@@ -4592,9 +4592,9 @@
  BRP_DEF:0 "the Kingdom of Mosquitia"
  BRP_ADJ:0 "Mosquitian"
  
- SIC:0 "Kingdom of Sicily"
- SIC_DEF:0 "the Republic of Sicily"
- SIC_ADJ:0 "Neapolitanian"
+ SIC:0 "Sicily"
+ SIC_DEF:0 "the Sicilian Autonomous Region"
+ SIC_ADJ:0 "Sicilian"
  
  ORA:0 "Oranje-Vrystaat"
  ORA_DEF:0 "the Oranje-Vrystaat"
@@ -4846,8 +4846,11 @@
  BOU:0 "Bou Hmara Sultanate"
  BOU_DEF:0 "the Bou Hmara Sultanate"
  BOU_ADJ:0 "Bou Hmaran"
- 
+
  TBS:0 "Tibesti Confederation"
  TBS_DEF:0 "the Tibesti Confederation"
  TBS_ADJ:0 "Tibesti"
-}
+ 
+ ITC:0 "Italian Confederation"
+ ITC_DEF:0 "the Italian Confederation"
+ ITC_ADJ:0 "Italian"

@@ -1528,3 +1528,7 @@
  MZB_LBV:0 "$OVERLORDADJ$ Mozambique"
  
  QEM_SWE:0 "$OVERLORDADJ$ Gold Coast"
+
+ ITC_tirreno_republic:0 "Italian Republic of Tirreno"
+ ITC_tirreno_republic_DEF:0 "the Italian Republic of Tirreno"
+ ITC_tirreno_republic_ADJ:0 "Italian"

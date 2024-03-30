@@ -21,6 +21,7 @@ state = {
 			}
 		}
 		add_core_of = ITA
+		add_claim_by = ITC
 		add_core_of = PAP
 		add_core_of = TOS
 	}

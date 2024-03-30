@@ -6,12 +6,12 @@ state=
 	
 	state_category = town
 	
-	history=
-	{
-		owner = TTS
+	history={
+		owner = ITC
 		victory_points = {
 			6831 3
 		}
+		add_core_of = ITC
 		add_core_of = TTS
 		buildings = {
 			infrastructure = 3 #was: 6

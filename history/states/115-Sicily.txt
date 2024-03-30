@@ -40,8 +40,8 @@ state = {
 
 		}
 		add_core_of = SIC
+		add_core_of = ITC
 		add_claim_by = TTS
-
 	}
 
 	provinces = {

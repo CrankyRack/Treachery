@@ -1358,3 +1358,7 @@ ZAI = {
 	color = rgb { 119 108 83 }
 	color_ui = rgb { 119 108 83 }
 }
+ITC = {
+	color = rgb { 115 79 145 }
+	color_ui = rgb { 89 68 107 }
+}

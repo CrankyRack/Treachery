@@ -3333,3 +3333,6 @@
  frencharmyinfluence.2.d:0 "A tragic incident during a military exercise has led to the loss of two [ROOT.GetAdjective] soldiers and left one French citizen injured. In response, France has formally requested compensation for the injured individual. However, within [ROOT.GetName], there is a growing sentiment of attributing blame to the French for the deaths of our soldiers. We are now faced with a pivotal decision: whether to acknowledge fault on our part or shift the blame onto the French authorities."
  frencharmyinfluence.2.a:0 "Accept the blame."
  frencharmyinfluence.2.b:0 "It's their fault!"
+ italianconfederation.1.t:0 "D'Annunzio Launches A Coup!"
+ italianconfederation.1.d:0 "Insert desc here later"
+ italianconfederation.1.a:0 "For Unification, For Italy!"
