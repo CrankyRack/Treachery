@@ -21,8 +21,6 @@ add_dynamic_modifier = {
 	modifier = French_Army_Italy_Dynamic_Modifier
 }
 
-set_country_flag = CT_French_Army_Presence_flag
-
 set_variable = {
 	var = SIC.CT_French_Army_variable
 	value = 0.1

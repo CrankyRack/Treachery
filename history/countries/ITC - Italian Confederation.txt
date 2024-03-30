@@ -1,0 +1,62 @@
+﻿capital = 117
+
+#oob = ""
+
+add_ideas = {
+	CT_ITC_New_Medici
+	CT_ITC_Legacy_Thousand
+	CT_ITC_British_Influence
+	CT_ITC_Unindustrialized_Economy
+}
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+944 = {
+	add_dynamic_modifier = {
+		modifier = CT_Garibaldi_Partisans_Dynamic_Modifier
+	}
+	set_demilitarized_zone = yes
+}
+
+157 = {
+	add_dynamic_modifier = {
+		modifier = CT_Garibaldi_Partisans_Dynamic_Modifier
+	}
+	set_demilitarized_zone = yes
+}
+
+946 = {
+	add_dynamic_modifier = {
+		modifier = CT_Garibaldi_Partisans_Dynamic_Modifier
+	}
+	set_demilitarized_zone = yes
+}
+
+1084 = {
+	add_dynamic_modifier = {
+		modifier = CT_Garibaldi_Partisans_Dynamic_Modifier
+	}
+	set_demilitarized_zone = yes
+}
+
+set_convoys = 5
+
+set_politics = {
+	ruling_party = liberalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	Patrimonialism = 0
+	socialism = 22
+	liberalism = 39
+	democratic = 31
+	fascism = 8
+	communism = 0
+	neutrality = 0
+}

@@ -349,7 +349,7 @@ SRG = "countries/surguja.txt"
 ORC = "countries/orchha.txt"
 ORI = "countries/orissa.txt"
 SKK = "countries/sikkim.txt"
-
+ITC = "countries/Italian Confederation.txt"
 BOM = "countries/bombay.txt"
 
 ZAI = "countries/Zaian.txt"

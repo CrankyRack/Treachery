@@ -1,0 +1,121 @@
+﻿####################################
+### French Army Influence Events ###
+####################################
+
+add_namespace = frencharmyinfluence
+add_namespace = italianconfederation
+
+
+# Fight At Armory
+country_event = {
+	id = frencharmyinfluence.1
+	title = frencharmyinfluence.1.t
+	desc = frencharmyinfluence.1.d
+	picture = GFX_report_event_armoryfight
+	
+	trigger = {
+		has_country_flag = CT_French_Army_Presence_flag
+		date > 1908.01.01
+	}
+
+	fire_only_once = yes
+	
+	option = {
+		name = frencharmyinfluence.1.a
+		ai_chance = { factor = 100 }
+		ROOT = {
+			add_to_variable = {
+				var = CT_French_Army_variable
+				value = 0.025
+				tooltip = raise_FA_Influence_tt
+			}
+			send_equipment = {
+				equipment = infantry_equipment
+				amount = 100
+				target = FRA
+			}
+			add_war_support = -0.05
+		}
+	}
+
+	option = {
+		name = frencharmyinfluence.1.b
+		ai_chance = { factor = 100 }
+		ROOT = {
+			add_to_variable = {
+				var = CT_French_Army_variable
+				value = -0.025
+				tooltip = lower_FA_Influence_tt
+			}
+		}
+	}
+}
+
+# Joint Exercise Gone Wrong, See What Happens Next! Not Clickbait!
+country_event = {
+	id = frencharmyinfluence.2
+	title = frencharmyinfluence.2.t
+	desc = frencharmyinfluence.2.d
+	picture = GFX_report_event_jointexercise
+	
+	is_triggered_only = yes
+	
+	trigger = {
+		has_country_flag = CT_French_Army_Presence_flag
+		date > 1910.01.01
+	}
+	
+	option = {
+		name = frencharmyinfluence.2.a
+		ai_chance = { factor = 100 }
+		ROOT = {
+			add_to_variable = {
+				var = CT_French_Army_variable
+				value = 0.025
+				tooltip = raise_FA_Influence_tt
+			}
+			add_war_support = -0.025
+		}
+	}
+
+	option = {
+		name = frencharmyinfluence.2.b
+		ai_chance = { factor = 100 }
+		ROOT = {
+			add_to_variable = {
+				var = ROOT.CT_French_Army_variable
+				value = -0.025
+				tooltip = lower_FA_Influence_tt
+			}
+		}
+	}
+}
+
+#
+country_event = {
+	id = italianconfederation.1
+	title = italianconfederation.1.t
+	desc = italianconfederation.1.d
+	picture = GFX_report_event_armoryfight
+	
+	is_triggered_only = yes
+
+	option = {
+		name = italianconfederation.1.a
+		ai_chance = { factor = 100 }
+		ITC = {
+			set_cosmetic_tag = ITC_tirreno_republic
+		}
+		ITC_gabriele_d_annunzio = {
+			add_country_leader_role = {
+				character = ITC_gabriele_d_annunzio
+				promote_leader = yes
+				country_leader = {
+					ideology = fascism_ideology
+					expire = "1965.1.1.1"
+					traits = {  }
+				}
+			}
+		}
+	}
+}

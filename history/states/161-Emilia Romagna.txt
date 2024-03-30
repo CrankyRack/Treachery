@@ -32,6 +32,7 @@ state = {
 		add_core_of = LBV
 		add_core_of = PAP
 		add_core_of = ITA
+		add_claim_by = ITC
 	}
 
 	provinces = {

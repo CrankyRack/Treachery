@@ -10,6 +10,7 @@ state = {
 		add_core_of = FRA
 		add_core_of = ITA
 		add_claim_by = SPM
+		add_claim_by = ITC
 		victory_points = {
 			778 1 
 		}

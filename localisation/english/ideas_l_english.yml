@@ -2735,3 +2735,14 @@
  
  MAD_french_expansion:0 "French Colonial Expansion"
  MAD_french_expansion_desc:0 "."
+
+ CT_ITC_New_Medici:0 "The New Medici"
+ CT_ITC_New_Medici_desc:0 ""
+ CT_ITC_Legacy_Thousand:0 "Legacy of the Thousand"
+ CT_ITC_Legacy_Thousand_desc:0 ""
+ CT_Garibaldi_Partisans_Dynamic_Modifier:0 "Italian Partisan Stronghold"
+ CT_ITC_British_Influence:0 "The Lion and the Eagle"
+ CT_ITC_British_Influence_desc:0 ""
+ CT_British_Influence_tt:0 "§OWe will be pulled into Britain's continental wars due to our close relations!§!"
+ CT_ITC_Unindustrialized_Economy:0 "Unindustrialized Economy"
+ CT_ITC_Unindustrialized_Economy_desc:0 ""
