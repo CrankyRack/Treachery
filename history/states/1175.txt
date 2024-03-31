@@ -1,10 +1,12 @@
 state={
 	id=1175
-	name="Indian State 3"
+	name="Dehradun"
 
 	history={
-		add_core_of = RAJ
-		owner = RAJ
+		add_core_of = SKH
+		add_core_of = NEP
+		add_claim_by = RAJ
+		owner = SKH
 		buildings = {
 			infrastructure = 2		
 
@@ -13,9 +15,9 @@ state={
 	}
 
 	provinces={
-		10816
+		1129 2076 7106 12708
 	}
-	manpower=512311
+	manpower=9512311
 	buildings_max_level_factor=1
 	state_category="pastoral"
 

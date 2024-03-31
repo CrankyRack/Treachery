@@ -1,0 +1,27 @@
+state={
+	id=1210
+	name="Fernando de Noronha"
+
+	history={
+		add_core_of = POR
+		add_core_of = BRA
+
+		owner = POR
+		buildings = {
+			infrastructure = 2		
+            13263 = {
+				naval_base = 3
+			}	
+		}
+		
+	}
+
+	provinces={
+		13263
+	}
+	manpower=1359
+	buildings_max_level_factor=1
+	state_category="small_island"
+
+	local_supplies=0.0 
+}

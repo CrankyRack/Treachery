@@ -1,0 +1,26 @@
+state={
+	id=1211
+	name="Tristan da Cunha"
+
+	history={
+		add_core_of = NIR
+
+		owner = NIR
+		buildings = {
+			infrastructure = 2		
+            13264 = {
+				naval_base = 3
+			}	
+		}
+		
+	}
+
+	provinces={
+		13264
+	}
+	manpower=95
+	buildings_max_level_factor=1
+	state_category="small_island"
+
+	local_supplies=0.0 
+}
