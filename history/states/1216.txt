@@ -1,0 +1,24 @@
+state={
+	id=1216
+	name="Saudi 2"
+
+	history={
+		add_core_of = SAD
+		add_core_of = JAB
+
+		owner = SAD
+		buildings = {
+			infrastructure = 1		
+		}
+		
+	}
+
+	provinces={
+		2090 5093 8060
+	}
+	manpower=101295
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

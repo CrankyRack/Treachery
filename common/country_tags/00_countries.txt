@@ -356,6 +356,13 @@ ZAI = "countries/Zaian.txt"
 BOU = "countries/bou.txt"
 TBS = "countries/Tibesti.txt"
 
+ASI = "countries/asir.txt"
+SAD = "countries/saudi2.txt"
+IHS = "countries/Ihsaa.txt"
+OMN = "countries/oman2.txt"
+MUH = "countries/muhammrah.txt"
+LUR = "countries/lurstan.txt"
+BOH = "countries/bohtan.txt"
 
 
 

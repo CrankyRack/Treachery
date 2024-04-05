@@ -1,6 +1,6 @@
 ﻿capital = 301
 
-oob = "PAR_1936"
+#oob = "PAR_1936"
 if = {
 	limit = { has_dlc = "By Blood Alone" }
 		set_air_oob = "PAR_1936_air_bba"

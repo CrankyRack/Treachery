@@ -7,7 +7,7 @@ state={
 	state_category = rural
 
 	history={
-		owner = SYR
+		owner = GDL
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		4017 4115 7151 7170 10089 
+		4017 4115 7151 10089 
 	}
 
 	local_supplies=0.0 

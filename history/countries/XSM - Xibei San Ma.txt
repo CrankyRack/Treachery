@@ -1,6 +1,6 @@
 ﻿capital = 604
 
-oob = "XSM_1936"
+#oob = "XSM_1936"
 
 # Starting tech
 set_technology = {

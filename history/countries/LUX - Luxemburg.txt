@@ -1,6 +1,6 @@
 ﻿capital = 8
 
-oob = "LUX_1936"
+#oob = "LUX_1936"
 
 # Starting tech
 set_technology = {

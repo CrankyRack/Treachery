@@ -13,24 +13,24 @@ state=
 	
 	history=
 	{
-		owner = PER
+		owner = LUR
 		victory_points = {
 			5098 3 
 		}
 		victory_points = {
-			6826 2
+			4943 5
 		}
 		victory_points = {
 			7953 2
 		}
-		add_core_of = IRQ
+		add_core_of = LUR
 		add_core_of = PER
 		buildings = {
 			infrastructure = 2 #was: 6
 		}
 	}
 	provinces={
-		829 5098 7953 10774
+		829 4943 5098 12773
     }
 	local_supplies=0.0 
 }

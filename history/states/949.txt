@@ -5,7 +5,7 @@ state={
 	manpower = 61003
 
 	history={
-		owner = GDL
+		owner = EGY
 		add_core_of = SUD
 		buildings = {
 			infrastructure = 1

@@ -1,0 +1,23 @@
+state={
+	id=1215
+	name="Oman"
+
+	history={
+		add_core_of = OMN
+
+		owner = OMN
+		buildings = {
+			infrastructure = 1		
+		}
+		
+	}
+
+	provinces={
+		2018 2059
+	}
+	manpower=91295
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

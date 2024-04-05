@@ -1,6 +1,6 @@
 ﻿capital = 37
 
-oob = "DEN_1936"
+#oob = "DEN_1936"
 
 add_ideas = {
 		DEN_the_controversal_king
@@ -22,25 +22,6 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 }
 
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "DEN_1936_naval_mtg"
-	else = {
-		set_naval_oob = "DEN_1936_naval_legacy"
-	}
-}
-if = {
-	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "DEN_1936_air_bba"
-	else = {
-		set_air_oob = "DEN_1936_air_legacy"
-		set_technology = {
-			early_fighter = 1
-			cv_early_fighter = 1
-
-		}
-	}
-}
 
 recruit_character = DEN_thorvald_stauning
 recruit_character = DEN_frits_clausen

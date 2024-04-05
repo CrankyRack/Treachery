@@ -1,6 +1,6 @@
 ﻿capital = 306
 
-oob = "COL_1936"
+#oob = "COL_1936"
 
 set_research_slots = 3
 
@@ -13,24 +13,6 @@ set_autonomy = {
 	autonomous_state = autonomy_integrated_puppet
 }
 
-if = {
-	limit = { has_dlc = "Man the Guns" }
-		set_naval_oob = "COL_1936_naval_mtg"
-	else = {
-		set_naval_oob = "COL_1936_naval_legacy"
-	}
-}
-if = {
-	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "COL_1936_air_bba"
-	else = {
-		set_air_oob = "COL_1936_air_legacy"
-		set_technology = {
-			early_fighter = 1
-			cv_early_fighter = 1
-		}
-	}
-}
 
 # Starting tech
 set_technology = {
@@ -88,10 +70,6 @@ recruit_character = COL_jose_ellis_quinsado
 recruit_character = COL_m_e_rojas_de_moreno
 recruit_character = COL_raphael_hollmann
 
-
-
-
-
 set_convoys = 95
 
 set_politics = {
@@ -119,32 +97,5 @@ FLO = {
 		fascism = 16.34
 		neutrality = 13.6
 		Patrimonialism = 34.2
-	}
-}
-
-
-### VARIANTS ###
-# 1936 Start #
-if = {
-	limit = { not = { has_dlc = "Man the Guns" } }
-	### Ship Variants ###
-}
-if = {
-	limit = { has_dlc = "Man the Guns" }
-	create_equipment_variant = {
-		name = "Antioquia Class"				
-		type = ship_hull_light_1
-		name_group = COL_DD_HISTORICAL
-		parent_version = 0
-		modules = {
-			fixed_ship_battery_slot = ship_light_battery_2
-			fixed_ship_anti_air_slot = ship_anti_air_1
-			fixed_ship_fire_control_system_slot = ship_fire_control_system_0
-			fixed_ship_radar_slot = empty
-			fixed_ship_engine_slot = light_ship_engine_2
-			fixed_ship_torpedo_slot = ship_torpedo_1
-			mid_1_custom_slot = ship_mine_layer_1
-			rear_1_custom_slot = ship_depth_charge_1
-		}
 	}
 }

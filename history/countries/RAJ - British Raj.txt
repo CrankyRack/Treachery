@@ -1,29 +1,5 @@
 ﻿capital = 431
 
-set_autonomy = {
-		target = ORI
-		autonomous_state = autonomy_german_prince_1
-	}
-
-oob = "RAJ_1936"
-if = {
-	limit = { has_dlc = "By Blood Alone" }
-		set_air_oob = "RAJ_1936_air_bba"
-		set_technology = {
-			aa_lmg = 1
-			engines_1 = 1
-			aircraft_construction = 1
-			iw_small_airframe = 1
-		}
-	else = {
-		set_air_oob = "RAJ_1936_air_legacy"
-		set_technology = {
-			CAS1 = 1
-			early_fighter = 1
-		}
-	}
-}
-
 set_stability = 0.6
 set_war_support = 0.1
 # Starting tech

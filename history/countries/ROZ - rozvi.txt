@@ -1,20 +1,5 @@
 ﻿capital = 1095
 
-if = {
-	limit = {
-		NOT = {
-			has_dlc = "No Step Back"
-		}
-	}
-	set_oob = "AFG_1936"
-}
-if = {
-	limit = {
-		has_dlc = "No Step Back"
-	}
-	#set_oob = "AFG_1936_nsb"
-}
-
 set_technology = {
 	infantry_weapons = 1
 }

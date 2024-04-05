@@ -1362,3 +1362,23 @@ ITC = {
 	color = rgb { 115 79 145 }
 	color_ui = rgb { 89 68 107 }
 }
+TUN = {
+	color = rgb { 53 73 140 }
+	color_ui = rgb { 53 73 140 }
+}
+GDL = {
+	color = rgb { 53 73 140 }
+	color_ui = rgb { 53 73 140 }
+}
+BOH = {
+	color = rgb { 53 73 140 }
+	color_ui = rgb { 53 73 140 }
+}
+LUR = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 92 147 126 }
+}
+MUH = {
+	color = rgb { 71 113 97 }
+	color_ui = rgb { 92 147 126 }
+}

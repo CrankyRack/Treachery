@@ -1,0 +1,24 @@
+state={
+	id=1214
+	name="saudi 1"
+
+	history={
+		add_core_of = SAU
+		add_core_of = JAB
+
+		owner = SAU
+		buildings = {
+			infrastructure = 1		
+		}
+		
+	}
+
+	provinces={
+		5081 12768
+	}
+	manpower=211221
+	buildings_max_level_factor=1
+	state_category="pastoral"
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,23 @@
+state={
+	id=1212
+	name="Qamishli"
+
+	history={
+		add_core_of = IRQ
+
+		owner = IRQ
+		buildings = {
+			infrastructure = 1		
+		}
+		
+	}
+
+	provinces={
+		901 1549 1578 10882
+	}
+	manpower=134295
+	buildings_max_level_factor=1
+	state_category="wasteland"
+
+	local_supplies=0.0 
+}

@@ -17,9 +17,7 @@ state=
 		victory_points = {
 			3916 3 
 		}
-		victory_points = {
-			6826 1
-		}
+
 		add_core_of = KUR
 		add_core_of = IRQ
 		buildings = {
@@ -27,7 +25,7 @@ state=
 		}
 	}
 	provinces={
-		3916 5014 6826 8123 10793 10811
+		3916 8123 10793
 	}
 
 	local_supplies=0.0 
