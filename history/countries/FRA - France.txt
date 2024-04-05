@@ -109,6 +109,10 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 	}
 set_autonomy = {
+		target = LBA
+		autonomous_state = autonomy_colony
+	}
+set_autonomy = {
 		target = GRC
 		autonomous_state = autonomy_dominion
 	}
@@ -120,6 +124,11 @@ set_autonomy = {
 		target = MOR
 		autonomous_state = autonomy_colony
 	}
+set_autonomy = {
+		target = TUN
+		autonomous_state = autonomy_german_prince_1
+	}
+
 give_guarantee = TOS
 give_guarantee = HAN
 give_guarantee = LSS

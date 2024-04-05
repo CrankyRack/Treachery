@@ -1,7 +1,7 @@
 
 state={
 	id=924
-	name="STATE_273" # Libyan Desert
+	name="Algerian Desert" # Libyan Desert
 	manpower = 42633
 	
 	state_category = wasteland
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		1043 1095 1901 2049 4903 5004 5035 8061 8077 10749 12022 12711 12842 
+		1043 1095 1901 2049 4903 5035 8061 8077 10749 12711 12842 
 	}
 
 	local_supplies=0.0 
