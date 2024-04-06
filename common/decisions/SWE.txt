@@ -1,41 +1,41 @@
 
-SWE_hungershield_cat = {
+#SWE_hungershield_cat = {
 
-	SWE_hungershield_dummy = { #To warn
-		icon = generic_civil_support
+	#SWE_hungershield_dummy = { #To warn
+		#icon = generic_civil_support
 
-		available = {
-			has_idea = SWE_hungershield
-			has_stability < 0.68 #For Balance: Change 1
-			has_stability > 0.35
-			hidden_trigger = { always = no } 
+		#available = {
+			#has_idea = SWE_hungershield
+			#has_stability < 0.68 #For Balance: Change 1
+			#has_stability > 0.35
+			#hidden_trigger = { always = no } 
 		}
 
-		days_remove = 150
+		#days_remove = 150
 
-		allowed = {
-			original_tag = SWE
+		#allowed = {
+			#original_tag = SWE
 		}
 
-		visible = {
-			has_idea = SWE_hungershield
+		#visible = {
+		#	has_idea = SWE_hungershield
 
-			#has_stability < 0.63
+			##has_stability < 0.63
 		}
 
-		fire_only_once = no
+		#fire_only_once = no
 
-		is_good = no
+		#is_good = no
 
-		remove_effect = {
-			add_timed_idea = {
+		#remove_effect = {
+			#add_timed_idea = {
 				idea = SWE_minor_hungershield_strike
 				days = 180
 			}
 		}
 	}
 
-	SWE_hungershield_worse_dummy = { #To warn
+	#SWE_hungershield_worse_dummy = { #To warn
 		icon = generic_civil_support
 
 		available = {
@@ -67,53 +67,53 @@ SWE_hungershield_cat = {
 		}
 	}
 
-	SWE_hungershield_mission = {
+	#SWE_hungershield_mission = {
 
-		icon = generic_civil_support
+		#icon = generic_civil_support
 
-		allowed = {
-			original_tag = SWE
+		#allowed = {
+			#original_tag = SWE
 		}
 		
-		available = {
-			hidden_trigger = {
-				always = no
+		#available = {
+			#hidden_trigger = {
+				#always = no
 			}	
 		}
 
-		days_mission_timeout = 150
+		#days_mission_timeout = 150
 		#days_remove = 1
 
-		activation = {
-			has_idea = SWE_hungershield
-			has_stability < 0.68 #For Balance: Change 1
+		#activation = {
+			#has_idea = SWE_hungershield
+			#has_stability < 0.68 #For Balance: Change 1
 		}
 
-		cancel_trigger = {
-			OR = {
-				has_stability > 0.68 #For Balance: Change 1
-				NOT = { has_idea = SWE_hungershield }
+		#cancel_trigger = {
+			#OR = {
+				#has_stability > 0.68 #For Balance: Change 1
+				#NOT = { has_idea = SWE_hungershield }
 			}
 		}
 
-		fire_only_once = no
+		#fire_only_once = no
 
-		is_good = no
+		#is_good = no
 
-		timeout_effect = {
-			if = {
-				limit = {
-					has_stability < 0.35
+		#timeout_effect = {
+			#if = {
+				#limit = {
+					#has_stability < 0.35
 				}
-				add_timed_idea = {
-					idea = SWE_major_hungershield_strike
-					days = 180
+				#add_timed_idea = {
+					#idea = SWE_major_hungershield_strike
+					#days = 180
 				}
 			}
-			else = {
-				add_timed_idea = {
-					idea = SWE_minor_hungershield_strike
-					days = 180
+			#else = {
+				#add_timed_idea = {
+					#idea = SWE_minor_hungershield_strike
+					#days = 180
 				}
 			}
 		}
@@ -1690,17 +1690,6 @@ SWE_ebba_palmstierna_cat = {
 
 		complete_effect = {
 			SWE_ebba_palmstierna = {
-				hidden_effect = {
-					if = {
-						limit = {
-							has_trait = SWE_suffragette
-						}
-						remove_trait = {
-							trait = SWE_suffragette
-							slot = political_advisor 
-						}
-					}
-				}
 				add_trait = {
 					slot = political_advisor
 					trait = SWE_suffragette_research
@@ -2487,6 +2476,85 @@ SWE_military_matters = {
 	}
 }
 
+#SWE_ball_bearings_cat = {
+	#SWE_trade_ball_bearings = {
+
+		#on_map_mode = map_and_decisions_view
+		#targets_dynamic = yes
+		#visible = {
+			original_tag = SWE
+			has_capitulated = no
+		}
+		#cost = 30 #REMEMBER TO UPDATE AAT_Sweden_ball_bearing.1 to match!!!
+		#available = {
+			NOT = { has_country_flag = SWE_waiting_for_ball_bearing_response }
+		}
+		#days_re_enable = 50
+	    #target_trigger = {
+	    	FROM = {
+	    		is_major = yes
+	    		NOT = { 
+	    			has_war_with = ROOT 
+	    			OR = {
+	    				has_idea = SWE_ball_bearing_idea
+	    				has_idea = SWE_ball_bearing_idea_food_partner
+	    				has_idea = SWE_ball_bearing_idea_research_partner
+    					has_country_flag = SWE_rejected_ball_bearing
+	    			}
+	    		}
+        	}
+	    }
+
+	    ai_will_do = {
+	    	base = 10
+
+	    	modifier = {
+	    		FROM = {
+	    			is_ai = no
+	    			NOT = { has_war_with = NOR }
+	    			NOT = { has_war_with = FIN }
+	    			NOT = { has_war_with = ICE }
+	    			NOT = { has_war_with = DEN }
+	    		}
+
+	    		factor = 10
+	    	}
+	    }
+	    complete_effect = {
+	    	set_country_flag = {
+    			flag = SWE_waiting_for_ball_bearing_response
+    			days = 60 #just set to expire in 60 days in case something goes bad
+    			value = 1
+			}
+	    	FROM = {
+	    		set_variable = { PREV.ball_bearing_country_target = THIS }
+	    	}
+	    	country_event = { id = AAT_Sweden_ball_bearing.1 }
+	    } 
+	}
+
+	#SWE_revoke_food_trade = {
+		visible = {
+			has_idea = SWE_ball_bearing_idea_food_partner
+		}
+		cost = 35
+	    complete_effect = {
+	    	remove_ideas = SWE_ball_bearing_idea_food_partner
+
+			SWE_reduce_or_remove_ball_bearing_food_trade_modifier = yes
+	    } 
+	}
+
+	#SWE_revoke_research_exchange = {
+		visible = {
+			has_idea = SWE_ball_bearing_idea_research_partner
+		}
+		cost = 0
+	    complete_effect = {
+	    	remove_ideas = SWE_ball_bearing_idea_research_partner
+	    } 
+	}
+}
 
 #SWE_fascism_buildup = {
 #SWE_stormtrupper_recruitment = {
@@ -2618,7 +2686,7 @@ SWE_military_matters = {
 #	}
 #}
 
-SWE_appeal_for_support_cat = {
+#SWE_appeal_for_support_cat = {
 	SWE_appeal_to_aristocracy = {
 		visible = {
 			has_completed_focus = SWE_appeal_for_support
@@ -3135,6 +3203,9 @@ SWE_communist_foreign_influence = {
 			}
 
 			complete_effect = {
+				set_rule = { 
+					can_send_volunteers = yes # rule to use, e.g.  can_not_declare_war = yes
+				}
 				hidden_effect = {
 					set_country_flag = SWE_has_triggered_nor_com_uprising
 				}
@@ -3263,6 +3334,32 @@ SWE_communist_foreign_influence = {
 						}
 					}
 				}
+
+				hidden_effect = {
+					every_country = {
+						limit = {
+							original_tag = NOR
+							has_government = communism
+						}
+						every_other_country = {
+							limit = {
+								NOT = {
+									original_tag = SWE
+								}
+							}
+							PREV = {
+								log = "[THIS.GetName]"
+								log = "[PREV.GetName]"
+								add_ai_strategy = { 
+									type = alliance
+									id = PREV
+									value = -250
+								}
+							}
+						}
+					}
+				}
+
 				custom_effect_tooltip = SWE_pull_the_trigger_tt
 			}
 		}
@@ -3284,7 +3381,7 @@ SWE_communist_foreign_influence = {
 
 				DEN = {
 					NOT = { has_government = communism }
-					communism > 0.3
+					communism > 0.25
 				}
 			}
 
@@ -3299,6 +3396,9 @@ SWE_communist_foreign_influence = {
 			}
 
 			complete_effect = {
+				set_rule = { 
+					can_send_volunteers = yes # rule to use, e.g.  can_not_declare_war = yes
+				}
 				hidden_effect = {
 					set_country_flag = SWE_has_triggered_den_com_uprising
 				}
@@ -3338,6 +3438,31 @@ SWE_communist_foreign_influence = {
 							ideology = communism
 							ruling_party = neutrality
 							size = var:SWE_DEN_communist_support
+						}
+					}
+
+					hidden_effect = {
+						every_country = {
+							limit = {
+								original_tag = DEN
+								has_government = communism
+							}
+							every_country = {
+								limit = {
+									NOT = {
+										original_tag = SWE
+										original_tag = DEN
+										has_government = communism
+									}
+								}
+								PREV = {
+									add_ai_strategy = { 
+										type = alliance
+										id = PREV
+										value = -250
+									}
+								}
+							}
 						}
 					}
 				}
