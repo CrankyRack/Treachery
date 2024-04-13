@@ -6,7 +6,7 @@ state={
 		add_core_of = HJZ
 	}
 	provinces={
-		1033 2033 2027 2095 8092 12101 
+		1033 2033 2027 2095 5006 8092 12101 
 	}
 	manpower=500000
 	state_category = pastoral

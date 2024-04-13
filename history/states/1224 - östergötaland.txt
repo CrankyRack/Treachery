@@ -1,0 +1,36 @@
+state=
+{
+	id=1224
+	name="Östergötaland"
+	manpower = 234288
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			11380 10 
+		}
+		victory_points = {
+			9393 5 
+		}
+			set_province_name = {
+			id = 9393
+			name = "Linköping"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3 #was: 6
+			11380 = {
+				naval_base = 2
+				coastal_bunker = 1
+			}
+		}
+	}
+	provinces={
+		6311 6397 9308 9393 11289 11380
+	}
+
+	local_supplies=0.0 
+}

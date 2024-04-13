@@ -2,28 +2,58 @@
 state={
 	id=141
 	name="STATE_141" # Svealand
-	manpower = 1488181
+	manpower = 688181
 	state_category = city
 	
 	resources={
-		steel=24 # was: 40
-		aluminium=2 # was: 4
+		steel=14 # was: 40
 	}
 
 	history={
 		owner = SWE
 		victory_points = {
-			6050 30 
+			6050 40 
+		}
+		victory_points = {
+			13265 20 
+		}
+			set_province_name = {
+			id = 13265
+			name = "Upsala"
+		}
+		victory_points = {
+			13268 5 
+		}
+			set_province_name = {
+			id = 13268
+			name = "Enköping"
+		}
+		victory_points = {
+			6209 2 
+		}
+			set_province_name = {
+			id = 6209
+			name = "Kapellskär"
+		}
+		victory_points = {
+			11163 1 
+		}
+			set_province_name = {
+			id = 11163
+			name = "Stockholms-Näs"
 		}
 		buildings = {
 			infrastructure = 4 #was: 7
 			arms_factory = 2
 			industrial_complex = 3
 			dockyard = 1
-			air_base = 6
 			6050 = {
-				naval_base = 5
+				naval_base = 8
 				coastal_bunker = 3
+			}
+			6209 = {
+				naval_base = 3
+				coastal_bunker = 1
 			}
 
 		}
@@ -31,7 +61,7 @@ state={
 	}
 
 	provinces={
-		35 161 3106 3182 6050 6084 6127 6164 6188 6209 9109 9149 9185 9209 11044 11082 11163 11188 11278 
+		3182 6050 6127 6209 9149 11163 11278 13265 13266 13267 13268
 	}
 
 	local_supplies=0.0 

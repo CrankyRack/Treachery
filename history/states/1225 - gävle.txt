@@ -1,0 +1,32 @@
+state=
+{
+	id=1225
+	name="Gästrikland"
+	manpower = 71288
+	
+	state_category = pastoral
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			11091 2 
+		}
+			set_province_name = {
+			id = 11091
+			name = "Gävle"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2 #was: 6
+			11091 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		3045 11091
+	}
+
+	local_supplies=0.0 
+}

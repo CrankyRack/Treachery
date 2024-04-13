@@ -2,9 +2,9 @@
 state={
 	id=139
 	name="STATE_139"
-	manpower = 918593
+	manpower = 318593
 	
-	state_category = town
+	state_category = rural
 	
 	resources={
 		steel=7 # was: 10
@@ -14,13 +14,40 @@ state={
 	history={
 		owner = SWE
 		victory_points = {
-			11380 1 
+			299 5 
+		}
+			set_province_name = {
+			id = 299
+			name = "Kalmar"
+		}
+		victory_points = {
+			242 2 
+		}
+			set_province_name = {
+			id = 242
+			name = "Växjö"
+		}
+		victory_points = {
+			11390 2 
+		}
+			set_province_name = {
+			id = 11390
+			name = "Västervik"
+		}
+		victory_points = {
+			9329 3 
+		}
+			set_province_name = {
+			id = 9329
+			name = "Jönköping"
 		}
 		buildings = {
 			infrastructure = 3 #was: 5
-			industrial_complex = 2
-			air_base = 2
-			11380 = {
+			industrial_complex = 1
+			299 = {
+				naval_base = 3
+			}
+			11390 = {
 				naval_base = 1
 			}
 		}
@@ -28,7 +55,7 @@ state={
 	}
 
 	provinces={
-		242 299 329 363 3229 6148 6311 6397 9251 9308 9329 9393 9406 9410 11231 11280 11289 11311 11380 11390  
+		242 299 329 363 3229 6148 9251 9329 9406 9410 11231 11280 11311 11390  
 	}
 
 	local_supplies=11.0 

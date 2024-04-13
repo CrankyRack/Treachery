@@ -1,0 +1,36 @@
+state=
+{
+	id=1227
+	name="Hälsingland"
+	manpower = 114288
+	
+	state_category = rural
+	
+	resources={
+		steel=16 # was: 40
+	}
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			11040 3 
+		}
+			set_province_name = {
+			id = 11040
+			name = "Hudiksvall"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2 #was: 6
+			11040 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		49 125 9051 11040 11147 11209
+	}
+
+	local_supplies=0.0 
+}

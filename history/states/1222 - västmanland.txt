@@ -1,0 +1,34 @@
+state=
+{
+	id=1222
+	name="Västmanland"
+	manpower = 234288
+	
+	state_category = town
+	
+	resources={
+		steel=14 # was: 40
+		aluminium=2 # was: 4
+	}
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			9185 10 
+		}
+			set_province_name = {
+			id = 9185
+			name = "Västerås"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+	}
+	provinces={
+		35 3106 9185 11044 13269
+	}
+
+	local_supplies=0.0 
+}

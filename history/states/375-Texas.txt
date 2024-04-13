@@ -2,14 +2,14 @@
 state={
 	id=375
 	name="STATE_375"
-	manpower = 4824712
+	manpower = 2824712
 	
 	
-	state_category = city
+	state_category = rural
 	
 	resources={
-		oil=90 # was: 580
-		aluminium=20 # was: 96
+		oil=35 # was: 580
+		aluminium=4 # was: 96
 	}
 
 
@@ -17,7 +17,7 @@ state={
 		owner = MEX
 		buildings = {
 			infrastructure = 3 #was: 6
-			industrial_complex = 9
+			industrial_complex = 1
 			10337 = {
 				naval_base = 3
 			}

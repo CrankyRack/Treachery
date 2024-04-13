@@ -1,0 +1,36 @@
+state=
+{
+	id=1220
+	name="Värmland"
+	manpower = 191288
+	
+	state_category = rural
+	
+	resources={
+		steel=9 # was: 10
+	}	
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			11114 5 
+		}
+		victory_points = {
+			6028 2 
+		}
+			set_province_name = {
+			id = 6028
+			name = "Grums"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+	}
+	provinces={
+		77 147 3070 3128 3141 6028 6164 6195 9054 9138 9218 11114
+	}
+
+	local_supplies=0.0 
+}

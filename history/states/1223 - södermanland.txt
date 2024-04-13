@@ -1,0 +1,40 @@
+state=
+{
+	id=1223
+	name="Södermanland"
+	manpower = 534288
+	
+	state_category = town
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			161 15 
+		}
+			set_province_name = {
+			id = 161
+			name = "Nynäshamn"
+		}
+		victory_points = {
+			11188 5 
+		}
+			set_province_name = {
+			id = 11188
+			name = "Eskilstuna"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3 #was: 6
+			161 = {
+				naval_base = 2
+				coastal_bunker = 2
+			}
+		}
+	}
+	provinces={
+		161 9109 11082 11188
+	}
+
+	local_supplies=0.0 
+}

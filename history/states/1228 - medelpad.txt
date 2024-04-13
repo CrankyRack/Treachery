@@ -1,0 +1,33 @@
+state=
+{
+	id=1228
+	name="Medelpad"
+	manpower = 64288
+	
+	state_category = rural
+	
+	resources={
+		#steel=16 # was: 40
+	}
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			9151 2 
+		}
+			set_province_name = {
+			id = 9151
+			name = "Sundsvall"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		205 3108 9035 9151 11123
+	}
+
+	local_supplies=0.0 
+}

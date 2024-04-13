@@ -1,8 +1,8 @@
 state=
 {
 	id=911
-	name="Karlskrona"
-	manpower = 96988
+	name="Blekinge"
+	manpower = 126988
 	
 	state_category = town
 	
@@ -12,7 +12,7 @@ state=
 		victory_points = {
 			11215 5 
 		}
-		add_core_of = DEN
+		add_claim_by = DEN
 		add_core_of = SWE
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -23,7 +23,7 @@ state=
 		}
 	}
 	provinces={
-		11215
+		11215 11327
 	}
 
 	local_supplies=0.0 

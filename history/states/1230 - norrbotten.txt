@@ -1,0 +1,49 @@
+state=
+{
+	id=1230
+	name="Norrbotten"
+	manpower = 164288
+	
+	state_category = rural
+	
+	resources={
+		#steel=16 # was: 40
+	}
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			9108 5 
+		}
+		victory_points = {
+			6132 3 
+		}
+			set_province_name = {
+			id = 6132
+			name = "Umeå"
+		}
+		victory_points = {
+			9143 2 
+		}
+			set_province_name = {
+			id = 9143
+			name = "Skellefteå"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2 #was: 6
+			9108 = {
+				naval_base = 3
+			}
+			6132 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		118 201 3100 3104 3113 6024 6083 6125 6132 6161 6165 6168 9093 9108 9143 9147 9186 9220 9226 11067 11073 11201
+	}
+
+	local_supplies=0.0 
+}

@@ -2,19 +2,16 @@
 state={
 	id=140
 	name="STATE_140"
-	manpower = 1282827
+	manpower = 482827
 	state_category = city
 	
 	resources={
-		steel=6 # was: 10
+		steel=2 # was: 10
 	}
 
 
 	history={
 		owner = SWE
-		victory_points = {
-			11114 1 
-		}
 		victory_points = {
 			383 25 
 		}
@@ -23,7 +20,6 @@ state={
 			arms_factory = 1
 			industrial_complex = 1
 			dockyard = 1
-			air_base = 1
 			383 = {
 				naval_base = 5
 				coastal_bunker = 5
@@ -34,7 +30,7 @@ state={
 	
 	
 	provinces={
-		69 147 171 295 383 3063 3128 3141 3286 3375 3386 6028 6195 6310 6331 6406 9054 9138 9218 11070 11114 
+		295 383 3063 3286 3375 3386 6331 6406 
 	}
 
 	local_supplies=0.0 

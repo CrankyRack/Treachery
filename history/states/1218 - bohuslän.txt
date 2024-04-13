@@ -1,0 +1,31 @@
+state=
+{
+	id=1218
+	name="Bohuslän"
+	manpower = 91288
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			6310 2 
+		}
+			set_province_name = {
+			id = 6310
+			name = "Lysekil"
+		}
+		add_claim_by = DEN
+		add_claim_by = NOR
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		171 6310
+	}
+
+	local_supplies=0.0 
+}

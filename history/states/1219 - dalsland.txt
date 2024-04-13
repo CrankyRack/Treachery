@@ -1,0 +1,33 @@
+state=
+{
+	id=1219
+	name="Dalsland"
+	manpower = 31288
+	
+	state_category = rural
+	
+	resources={
+		steel=3 # was: 10
+	}
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			69 1 
+		}
+			set_province_name = {
+			id = 69
+			name = "Ed"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		69 11070
+	}
+
+	local_supplies=0.0 
+}

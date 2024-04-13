@@ -1,0 +1,33 @@
+state=
+{
+	id=1217
+	name="Halland"
+	manpower = 116988
+	
+	state_category = rural
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			6412 5 
+		}
+			set_province_name = {
+			id = 6412
+			name = "Halmstad"
+		}
+		add_claim_by = DEN
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3 #was: 6
+			6412 = {
+				naval_base = 2
+			}
+		}
+	}
+	provinces={
+		3307 6412
+	}
+
+	local_supplies=0.0 
+}

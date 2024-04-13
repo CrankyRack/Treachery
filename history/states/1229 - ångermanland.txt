@@ -1,0 +1,43 @@
+state=
+{
+	id=1229
+	name="Ångermanland"
+	manpower = 84288
+	
+	state_category = rural
+	
+	resources={
+		#steel=16 # was: 40
+	}
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			130 2 
+		}
+			set_province_name = {
+			id = 130
+			name = "Härnösand"
+		}
+		victory_points = {
+			182 1 
+		}
+			set_province_name = {
+			id = 182
+			name = "Örnsköldsvik"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2 #was: 6
+			130 = {
+				naval_base = 1
+			}
+		}
+	}
+	provinces={
+		130 182 6063 9088 9141 11129 11185
+	}
+
+	local_supplies=0.0 
+}

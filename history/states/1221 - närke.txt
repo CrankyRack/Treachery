@@ -1,0 +1,29 @@
+state=
+{
+	id=1221
+	name="Närke"
+	manpower = 131288
+	
+	state_category = town
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			6084 5 
+		}
+			set_province_name = {
+			id = 6084
+			name = "Örebro"
+		}
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3 #was: 6
+		}
+	}
+	provinces={
+		6084 6188 9209
+	}
+
+	local_supplies=0.0 
+}
