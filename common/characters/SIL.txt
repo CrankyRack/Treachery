@@ -1,0 +1,16 @@
+characters = {
+	SIL_vilhelm_I = {
+		name="Wilhelm I Hohenzollern"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SIL/SIL_vilhelm_I.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

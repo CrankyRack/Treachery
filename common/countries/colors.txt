@@ -1,8 +1,8 @@
 #reload countrycolors
 
 GER = {
-	color = rgb { 106 100 95 }
-	color_ui = rgb { 106 100 95 }
+	color = rgb { 92 114 130 }
+	color_ui = rgb { 92 114 130 }
 }
 ENG = {
 	color = rgb { 168 14 11 }
@@ -13,8 +13,8 @@ SOV = {
 	color_ui = rgb { 24 130 80 }
 }
 SWE = {
-	color = rgb { 4 102 194 }
-	color_ui = rgb { 4 102 194 }
+	color = rgb { 4 92 184 }
+	color_ui = rgb { 4 92 184 }
 }
 FRA = {
 	color = rgb { 53 73 140 }
@@ -59,8 +59,8 @@ LIT = {
 	color_ui = rgb { 208 12 39 }
 }
 EST = {
-	color = rgb { 42 129 211 }
-	color_ui = rgb { 42 129 211 }
+	color = rgb { 4 92 184 }
+	color_ui = rgb { 4 92 184 }
 }
 #LAT = {
 	#color = rgb { 75 77 186 }
@@ -1211,8 +1211,8 @@ SOF = {
 	color_ui = rgb { 82 83 136 }
 }
 SIL = {
-	color = rgb { 216 180 62 }
-	color_ui = rgb { 216 180 62 }
+	color = rgb { 93 93 61 }
+	color_ui = rgb { 93 93 61 }
 }
 VIT = {
 	color = rgb { 54 167 156 }
