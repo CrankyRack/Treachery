@@ -1,0 +1,41 @@
+state=
+{
+	id=1234
+	name="Nordkarelen"
+	manpower = 131281
+	
+	state_category = rural
+	
+	resources={
+		steel=18 # was: 40
+	}
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			3030 2 
+		}
+			set_province_name = {
+			id = 3030
+			name = "Wärtsilä"
+		}
+		victory_points = {
+			7 1 
+		}
+			set_province_name = {
+			id = 7
+			name = "Brahea"
+		}
+		add_core_of = SWE
+		add_core_of = FIN
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		7 193 3030 3068 3185 6146 6210 9061 9169 11024 11079
+	}
+
+	local_supplies=0.0 
+}

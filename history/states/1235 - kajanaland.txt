@@ -1,0 +1,34 @@
+state=
+{
+	id=1235
+	name="Kajanaland"
+	manpower = 51281
+	
+	state_category = rural
+	
+	resources={
+		steel=2 # was: 40
+	}
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			3073 1 
+		}
+			set_province_name = {
+			id = 3073
+			name = "Ämmänsaari"
+		}
+		add_core_of = SWE
+		add_core_of = FIN
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		3073 3115 3149 6134 9233
+	}
+
+	local_supplies=0.0 
+}

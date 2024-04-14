@@ -1,0 +1,40 @@
+state=
+{
+	id=1231
+	name="Egentliga Finland"
+	manpower = 264288
+	
+	state_category = town
+	
+	resources={
+		#steel=8 # was: 40
+	}
+	
+	history=
+	{
+		owner = SWE
+		victory_points = {
+			3083 20 
+		}
+		victory_points = {
+			11172 5 
+		}
+			set_province_name = {
+			id = 11172
+			name = "Salo"
+		}
+		add_core_of = SWE
+		add_core_of = FIN
+		buildings = {
+			infrastructure = 2 #was: 6
+			3083 = {
+				naval_base = 3
+			}
+		}
+	}
+	provinces={
+		3083 6066 9194 11172
+	}
+
+	local_supplies=0.0 
+}
