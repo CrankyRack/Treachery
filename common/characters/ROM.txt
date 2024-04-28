@@ -1,6 +1,6 @@
 characters={
 	ROM_armand_calinescu={
-		name="Alexandru Ioan II"
+		name="Grigore V Ghica"
 		portraits={
 			civilian={
 				large="GFX_Portrait_romania_armand_calinescu"

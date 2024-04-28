@@ -1,6 +1,6 @@
 characters={
 	BOL_josé_luis_tejada_sorzano={
-		name="Antay Inti"
+		name="Augusto Leguía"
 		portraits={
 			civilian={
 				large=GFX_portrait_Jose_Luis_Tejada_Sorzano
