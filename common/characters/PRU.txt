@@ -1,0 +1,16 @@
+characters = {
+	PRU_augusto_leguia = {
+		name="Augusto Leguía"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PRU/PRU_augusto_leguia.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

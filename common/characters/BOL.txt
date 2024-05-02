@@ -1,6 +1,6 @@
 characters={
 	BOL_josé_luis_tejada_sorzano={
-		name="Augusto Leguía"
+		name="José Manuel Pando"
 		portraits={
 			civilian={
 				large=GFX_portrait_Jose_Luis_Tejada_Sorzano
