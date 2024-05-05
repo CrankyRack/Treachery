@@ -1,0 +1,16 @@
+characters = {
+	BOM_sir_thomas_scott = {
+		name="Sir Thomas Edwin Scott"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BOM/BOM_sir_thomas_scott.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

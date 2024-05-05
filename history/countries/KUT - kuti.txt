@@ -1,4 +1,4 @@
-﻿capital = 267
+﻿capital = 1059
 
 
 #recruit_character = AFG_mohammed_zahir_shah

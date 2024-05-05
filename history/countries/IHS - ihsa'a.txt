@@ -1,4 +1,4 @@
-﻿capital = 908
+﻿capital = 859
 
 #OOB = "AFA_1936"
 

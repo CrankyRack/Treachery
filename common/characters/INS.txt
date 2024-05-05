@@ -1,0 +1,16 @@
+characters = {
+	INS_van_heutsz = {
+		name="Joannes Benedictus van Heutsz"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/INS/INS_van_heutsz.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

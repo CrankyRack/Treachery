@@ -1,4 +1,4 @@
-﻿capital = 267
+﻿capital = 1206
 
 #recruit_character = ADR_maal_Aynayn
 

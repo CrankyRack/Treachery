@@ -11,7 +11,7 @@ set_technology = {
 	tech_engineers = 1
 }
 
-recruit_character = RAJ_lord_linlithgow
+recruit_character = BOM_sir_thomas_scott
 
 set_politics = {
 	ruling_party = neutrality

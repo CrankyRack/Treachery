@@ -1,7 +1,7 @@
 characters = {
 
 	POR_king_carlos_I = {
-		name = "Carlos I Braganza"
+		name = "Isabel I Braganza"
 		portraits = {
 			civilian = {
 				large = "gfx/leaders/POR/POR_king_carlos_I.dds"

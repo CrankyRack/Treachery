@@ -1,4 +1,4 @@
-﻿capital = 50
+﻿capital = 953
 
 recruit_character = MOG_andrzej_berbecki
 

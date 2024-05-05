@@ -1,4 +1,4 @@
-﻿capital = 908
+﻿capital = 440
 
 set_autonomy = {
 		target = BIK

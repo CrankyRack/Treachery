@@ -1,4 +1,4 @@
-﻿capital = 908
+﻿capital = 1195
 
 RAJ = {
 set_autonomy = {
