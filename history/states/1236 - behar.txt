@@ -1,0 +1,31 @@
+state=
+{
+	id=1236
+	name="Cooch Behar"
+	
+	manpower = 1294788
+	resources={
+		oil=2.000
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = BEH
+		victory_points = {
+			12338 3 
+		}
+		add_core_of = BEH
+		add_core_of = SKK
+		add_claim_by = BHU
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		12338
+    }
+	local_supplies=0.0 
+}

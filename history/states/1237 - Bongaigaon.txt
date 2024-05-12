@@ -1,0 +1,31 @@
+state=
+{
+	id=1237
+	name="Bongaigaon"
+	manpower = 3051281
+
+	resources={
+		steel=6.000
+	}
+	
+	state_category = rural
+	
+	
+	history=
+	{
+		owner = BHU
+		victory_points = {
+			10349 2 
+		}
+		add_core_of = BHU
+		add_core_of = BAN
+		add_claim_by = RAJ
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+	}
+	provinces={
+		1497 10349
+    }
+	local_supplies=0.0 
+}

@@ -1,17 +1,19 @@
 
 state={
 	id=434
-	name="STATE_434"
+	name="Ahom"
 	manpower = 200000
 	
 	state_category = wasteland
 	resources={
-		# tungsten=49 # was: 54
+		tungsten=29 # was: 54
 	}
 
 	history={
-		owner = RAJ
+		owner = BAN
 		add_core_of = BAN
+		add_claim_by = RAJ
+		add_claim_by = TIB
 		buildings = {
 			infrastructure = 1
 		}
@@ -19,7 +21,7 @@ state={
 	}
 
 	provinces={
-		1116 1996 10810 12322 12730 
+		1116 1525 1996 7455 10810 12322 12730 
 	}
 
 	local_supplies=3.0 

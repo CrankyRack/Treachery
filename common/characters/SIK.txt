@@ -1,0 +1,16 @@
+characters={
+	SIK_yang_zengxin={
+		name="Yang Zengxin"
+		portraits={
+			civilian={
+				large="gfx/leaders/SIK/SIK_yang_zengxin.dds"
+			}
+		}
+		country_leader={
+			ideology=rexism
+			traits={ warrior_code }
+			expire="1960.1.1.1"
+			id=-1
+		}
+	}
+}

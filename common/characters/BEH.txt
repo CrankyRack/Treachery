@@ -1,0 +1,16 @@
+characters = {
+	BEH_Narayan = {
+		name="Nripendra Narayan"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BEH/BEH_Narayan.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

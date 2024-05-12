@@ -1,0 +1,16 @@
+characters = {
+	HYD_asaf_jah_vi = {
+		name="Asaf Jah VI"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/HYD/HYD_asaf_jah_vi.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

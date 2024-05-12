@@ -1382,3 +1382,12 @@ MUH = {
 	color = rgb { 71 113 97 }
 	color_ui = rgb { 92 147 126 }
 }
+BEH = {
+	color = rgb { 168 50 59 }
+	color_ui = rgb { 168 50 59 }
+}
+BAN = {
+	color = rgb { 145 85 58 }
+	color_ui = rgb { 145 85 58 }
+}
+

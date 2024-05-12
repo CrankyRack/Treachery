@@ -1,0 +1,16 @@
+characters = {
+	MON_Namnansuren = {
+		name="Tögs-Ochiryn Namnansüren"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/MON/MON_Namnansuren.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

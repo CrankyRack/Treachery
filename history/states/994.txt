@@ -15,16 +15,15 @@ state=
 	{
 		owner = SKK
 		victory_points = {
-			12798 10 
+			4435 10 
 		}
-		add_core_of = BAN
 		add_core_of = SKK
 		buildings = {
 			infrastructure = 2 #was: 6
 		}
 	}
 	provinces={
-		4435 12338
+		4435
     }
 	local_supplies=0.0 
 }
