@@ -91,7 +91,7 @@ country_event = {
 	}
 }
 
-#
+# D'Annunzio coups the government
 country_event = {
 	id = italianconfederation.1
 	title = italianconfederation.1.t
@@ -105,6 +105,10 @@ country_event = {
 		ai_chance = { factor = 100 }
 		ITC = {
 			set_cosmetic_tag = ITC_tirreno_republic
+			set_politics = {
+				ruling_party = fascism
+				elections_allowed = no
+			}
 		}
 		ITC_gabriele_d_annunzio = {
 			add_country_leader_role = {
@@ -115,6 +119,67 @@ country_event = {
 					expire = "1965.1.1.1"
 					traits = {  }
 				}
+			}
+		}
+	}
+}
+
+# Confederation Elections
+country_event = {
+	id = italianconfederation.2
+	title = italianconfederation.2.t
+	desc = italianconfederation.2.d
+	picture = GFX_report_event_armoryfight
+	
+	is_triggered_only = yes
+
+	option = {	# Garibaldi Family Stays in Power
+		name = italianconfederation.2.a
+		ai_chance = { factor = 100 }
+		SIC = {
+			country_event = {
+				id = italianconfederation.3
+				days = 3
+			}
+		}
+	}
+	option = {	# Bernardino Verro Leads the Fasci to Victory
+		name = italianconfederation.2.b
+		ai_chance = { factor = 100 }
+		ITC = {
+			set_cosmetic_tag = ITC_fasci_sicilani
+			set_politics = {
+				ruling_party = socialism
+				elections_allowed = yes
+			}
+		}
+	}
+}
+
+# Sicily Chooses Between Seceding and Staying
+country_event = {
+	id = italianconfederation.3
+	title = italianconfederation.3.t
+	desc = italianconfederation.3.d
+	picture = GFX_report_event_armoryfight
+	
+	is_triggered_only = yes
+
+	option = {	# Sicily Stays in the Confederation
+		name = italianconfederation.3.a
+		ai_chance = { factor = 100 }
+	}
+	option = {	# Sicily Leaves the Confederation
+		name = italianconfederation.3.b
+		ai_chance = { factor = 100 }
+		ITC = {
+			set_autonomy = {
+				target = SIC
+				autonomous_state = autonomy_free
+			}
+			declare_war_on = {
+				target = SIC
+				type = annex_everything
 			}
 		}
 	}

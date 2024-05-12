@@ -1,0 +1,74 @@
+infantry_generic = {
+
+    roles = {
+        infantry
+    }
+
+    upgrade_prio = {
+        factor = 2.17
+
+        modifier = {
+            factor = 7
+            OR = {
+                has_tech = basic_medium_tank
+                has_tech = basic_medium_tank_chassis
+            }
+        }
+
+        modifier = {
+            factor = 2
+            OR = {
+                has_tech = main_battle_tank
+                has_tech = main_battle_tank_chassis
+            }
+        }
+    }
+
+    match_to_count = 0.5
+
+    basic_infantry_generic = {
+
+        upgrade_prio = {
+            factor = 2
+        }
+
+        target_width = 20
+        width_weight = 20
+        column_swap_factor = 1
+
+
+        target_template = {
+            weight = 1
+            match_value = 1000
+
+            support = {
+                engineer = 1
+                maintenance_company = 1
+                logistics_company = 1
+                artillery = 1
+            }
+
+            regiments = {
+                infantry = 9
+            }
+        }
+
+        allowed_types = {
+            infantry
+
+            engineer
+            mot_recon
+            armored_car_recon
+            light_tank_recon
+            signal_company
+            maintenance_company
+            logistics_company
+
+            anti_tank
+            military_police
+            artillery
+            anti_air
+            rocket_artillery
+        }
+    }
+}

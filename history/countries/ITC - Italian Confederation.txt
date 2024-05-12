@@ -42,6 +42,11 @@ set_technology = {
 	set_demilitarized_zone = yes
 }
 
+set_autonomy = {
+	target = SIC
+	autonomous_state = autonomy_integrated_puppet
+}
+
 set_convoys = 5
 
 set_politics = {
