@@ -1,0 +1,28 @@
+
+state={
+	id=1238
+	name="Manza"
+	manpower = 336921
+	
+	state_category = pastoral
+	resources={
+		rubber=5 # was: 4
+	}
+	history={
+		owner = KUT
+		add_core_of = KUT
+		victory_points = {
+			12830 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		1974
+	}
+
+	local_supplies=2.0 
+}

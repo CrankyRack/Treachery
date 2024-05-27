@@ -3,9 +3,9 @@ state={
 	name="Marsabit Strip"
 
 	history={
-		add_core_of = KEN
+		add_core_of = TRK
 		add_claim_by = ETH
-		owner = DAH
+		owner = TRK
 		buildings = {
 			infrastructure = 2
 			6785 = {

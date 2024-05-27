@@ -364,7 +364,11 @@ MUH = "countries/muhammrah.txt"
 LUR = "countries/lurstan.txt"
 BOH = "countries/bohtan.txt"
 BEH = "countries/behar.txt"
+LAA = "countries/lanna.txt"
 
+BNG = "countries/Bangassou.txt"
+GBY = "countries/Gbaya.txt"
+UBA = "countries/british_ubangi.txt"
 
 
 DPA = "countries/danish_papua.txt"

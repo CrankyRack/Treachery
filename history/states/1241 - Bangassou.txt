@@ -1,0 +1,25 @@
+state = {
+	id = 1241
+	name = "Bangassou"
+	manpower = 128895
+	
+	state_category = pastoral
+	
+	history = {
+		owner = BNG
+		add_core_of = BNG
+		add_claim_by = DAH
+		victory_points = {
+		 	3165 1 
+		}
+		buildings = {
+			infrastructure = 1
+			
+		}
+	}
+	provinces = { 
+		3165 11934 12741
+	}
+
+	local_supplies = 0.0 
+}

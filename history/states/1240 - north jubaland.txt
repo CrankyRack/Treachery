@@ -1,0 +1,23 @@
+state = {
+	id = 1240
+	name = "STATE_844"
+	manpower = 328895
+	
+	state_category = pastoral
+	
+	history = {
+		owner = TRK
+		add_core_of = SOM
+		add_core_of = TRK
+		add_claim_by = ETH
+		buildings = {
+			infrastructure = 2
+			
+		}
+	}
+	provinces = { 
+		11014
+	}
+
+	local_supplies = 0.0 
+}

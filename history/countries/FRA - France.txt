@@ -27,10 +27,6 @@ set_autonomy = {
 		autonomous_state = autonomy_german_prince_1
 	}
 set_autonomy = {
-		target = TRK
-		autonomous_state = autonomy_german_prince_1
-	}
-set_autonomy = {
 		target = WES
 		autonomous_state = autonomy_colony
 	}

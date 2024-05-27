@@ -12,7 +12,7 @@ state=
 	
 	
 	history={
-		owner = SIA
+		owner = LAA
 		victory_points = {
 			4626 2
 		}
@@ -23,6 +23,7 @@ state=
 		}
 		add_core_of = LAO
 		add_core_of = SIA
+		add_core_of = LAA
 	}
 
 	provinces={

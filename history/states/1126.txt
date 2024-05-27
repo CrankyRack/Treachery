@@ -10,7 +10,7 @@ state=
 	
 	
 	history={
-		owner = DAH
+		owner = GBY
 		victory_points = {
 			2080 1
 		}
@@ -19,6 +19,7 @@ state=
 
 		}
         add_core_of = COG
+		add_core_of = GBY
 	}
 
 	provinces={

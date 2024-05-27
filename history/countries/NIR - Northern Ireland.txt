@@ -54,7 +54,14 @@ set_autonomy = {
 		target = PNG
 		autonomous_state = autonomy_colony
 	}
-
+set_autonomy = {
+		target = TRK
+		autonomous_state = autonomy_german_prince_1
+	}
+set_autonomy = {
+		target = UBA
+		autonomous_state = autonomy_german_prince_1
+	}
 give_guarantee = ELS
 
 set_technology = {

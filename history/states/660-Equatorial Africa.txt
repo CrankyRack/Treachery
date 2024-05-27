@@ -1,7 +1,7 @@
 
 state={
 	id=660
-	name="STATE_660"
+	name="Ubangia"
 	manpower = 1136921
 	
 	state_category = pastoral
@@ -9,8 +9,8 @@ state={
 		rubber=3 # was: 4
 	}
 	history={
-		owner = DAH
-		add_core_of = DAH
+		owner = UBA
+		add_core_of = UBA
 		add_core_of = CAR
 		victory_points = {
 			12830 1
@@ -22,7 +22,7 @@ state={
 	}
 
 	provinces={
-		1974 3165 11108 12719 12830 11012 13211
+		11108 12719 11012
 	}
 
 	local_supplies=2.0 

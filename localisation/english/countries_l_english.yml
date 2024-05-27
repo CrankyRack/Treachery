@@ -4568,9 +4568,9 @@
  DAR_DEF:0 "the Sultanate of Darfur"
  DAR_ADJ:0 "Darfur"
  
- FNA:0 "Armée d’Afrique"
- FNA_DEF:0 "the Armée d’Afrique"
- FNA_ADJ:0 "French"
+ FNA:0 "Company of the Upper Ubangi"
+ FNA_DEF:0 "the Company of the Upper Ubangi"
+ FNA_ADJ:0 "Upper Ubangi Company"
  
  LAN:0 "Lanfang Republic"
  LAN_DEF:0 "the Lanfang Republic"
@@ -4890,3 +4890,24 @@
  BEH:0 "Kingdom of Cooch Behar"
  BEH_DEF:0 "the Kingdom of Cooch Behar"
  BEH_ADJ:0 "Cooch Behar"
+ 
+ LAA:0 "Kingdom of Lan Na"
+ LAA_DEF:0 "the Kingdom of Lan Na"
+ LAA_ADJ:0 "Lan Na"
+ 
+ BNG:0 "Sultanate of Bangassou"
+ BNG_DEF:0 "the Sultanate of Bangassou"
+ BNG_ADJ:0 "Bangassou"
+ 
+ GBY:0 "Kingdom of Gbaya"
+ GBY_DEF:0 "the Kingdom of Gbaya"
+ GBY_ADJ:0 "Gbayan"
+ 
+ UBA:0 "Sultanate of Ngbandi"
+ UBA_DEF:0 "the Sultanate of Ngbandi"
+ UBA_ADJ:0 "Ngbandi"
+ UBA_subject:0 "$OVERLORDADJ$ Protectorate of Ubangia"
+ UBA_subject_DEF:0 "the $OVERLORDADJ$ Protectorate of Ubangia"
+
+
+

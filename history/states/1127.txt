@@ -10,7 +10,7 @@ state=
 	
 	
 	history={
-		owner = WES
+		owner = CHA
 		victory_points = {
 			8078 1
 		}
@@ -19,6 +19,7 @@ state=
 
 		}
         add_core_of = NGA
+		add_core_of = CHA
 	}
 
 	provinces={
