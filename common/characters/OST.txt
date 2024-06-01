@@ -1,0 +1,16 @@
+characters = {
+	OST_carl_peters = {
+		name="Carl Peters"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/OST/OST_carl_peters.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

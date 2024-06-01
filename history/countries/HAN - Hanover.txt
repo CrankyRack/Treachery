@@ -2,6 +2,15 @@
 
 recruit_character = HAN_king_jerome
 
+set_autonomy = {
+		target = OST
+		autonomous_state = autonomy_colony
+	}
+set_autonomy = {
+		target = GEL
+		autonomous_state = autonomy_german_prince_1
+	}
+
 add_ideas = {
     confederation_of_rhine
 	westphalian_army
@@ -12,52 +21,9 @@ set_technology = {
 	infantry_weapons = 1
 	tech_support = 1		
 	tech_engineers = 1
-	motorised_infantry = 1
 	gw_artillery = 1
 }
 
-if = {
-	limit = {
-		NOT = { has_dlc = "By Blood Alone" }
-	}
-	set_technology = {
-		early_fighter = 1
-		fighter1 = 1
-		early_bomber = 1
-		tactical_bomber1 = 1
-		strategic_bomber1 = 1
-		CAS1 = 1
-		naval_bomber1 = 1
-		
-	}
-}
-
-if = {
-	limit = {
-		NOT = {
-			has_dlc = "No Step Back"
-		}
-	}
-	set_technology = {
-		gwtank = 1
-		basic_light_tank = 1
-		improved_light_tank = 1
-		basic_heavy_tank = 1
-	}
-}
-if = {
-	limit = {
-		
-		has_dlc = "No Step Back"
-		
-	}
-	set_technology = {
-		gwtank_chassis = 1
-		basic_light_tank_chassis = 1
-		improved_light_tank_chassis = 1
-		basic_heavy_tank_chassis = 1
-	}
-}
 if = {
 	limit = {
 		not = { has_dlc = "Man the Guns" }

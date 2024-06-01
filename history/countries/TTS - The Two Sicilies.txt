@@ -4,14 +4,7 @@ set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
 
-set_autonomy = {
-		target = HOB
-		autonomous_state = autonomy_colony
-	}
-set_autonomy = {
-		target = GEL
-		autonomous_state = autonomy_colony
-	}
+
 
 recruit_character = TTS_Joachim_III
 

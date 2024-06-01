@@ -312,6 +312,7 @@ WAA = "countries/Waakhispiistak.txt"
 SOF = "countries/sofia.txt"
 VIT = "countries/vitebsk.txt"
 MOG = "countries/mogilev.txt"
+RHE = "countries/rheinland.txt"
 
 ADR = "countries/adrar.txt"
 KUT = "countries/kuti.txt"
@@ -369,6 +370,7 @@ LAA = "countries/lanna.txt"
 BNG = "countries/Bangassou.txt"
 GBY = "countries/Gbaya.txt"
 UBA = "countries/british_ubangi.txt"
+OST = "countries/ostafrika.txt"
 
 
 DPA = "countries/danish_papua.txt"
