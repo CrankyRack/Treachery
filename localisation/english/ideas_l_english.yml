@@ -2746,3 +2746,15 @@
  CT_British_Influence_tt:0 "§OWe will be pulled into Britain's continental wars due to our close relations!§!"
  CT_ITC_Unindustrialized_Economy:0 "Unindustrialized Economy"
  CT_ITC_Unindustrialized_Economy_desc:0 ""
+ 
+ SSV_askari_corps:0 "The Swedish Askari Corps"
+ SSV_askari_corps_desc:0 "The Swedish Askari Corps is a light infantry force uniquely composed of recruits from the local population led by Swedish officers. The first efforts to set up these units were pioneered by the Swedish African Company starting in 1896. \n\nFrom the sun-baked savannas to the dense, unforgiving jungles, the Swedish Askari Corps has displayed an extraordinary effectiveness in combat, far surpassing initial expectations. Their tactical brilliance and unyielding spirit have turned the tide in countless skirmishes and major engagements alike. They are the lifeblood of our colonial defense, embodying the core of our local forces in the colony."
+ 
+ BAT_illegal_ivory_trade:0 "Illegal Ivory Trade"
+ BAT_illegal_ivory_trade_desc:0 "Across the vast, sun-drenched savannahs of Bantwana, majestic elephants roam freely in great numbers. However, the ivory riches of the region has attracted the rampant scourge of poaching. The protectorate's limited capacity to enforce laws has given rise to a booming poaching industry, a dark enterprise dominated by opportunistic Boers and locals driven by profit, selling their illicit ivory to eager buyers in the Boer republics. \n\nThis nefarious trade has wrought havoc not only on the elephant populations, which now face a precipitous decline but also on the very economic fabric of our protectorate. The Swedish African Company, once a pillar of prosperity and stewardship, now grapples with significant economic setbacks as monopoly of ivory trade in the protectorate is threatened. "
+ 
+ BAT_southern_frontier:0 "The Southern Frontier"
+ BAT_southern_frontier_desc:0 "Bantwana is a land brimming with boundless opportunity, a place where dreams take flight and ambitions are realized. Often hailed as "the Wild South," it beckons with the promise of untamed adventure and limitless potential. This vibrant frontier has become a magnet for settlers from far and wide, each drawn by the allure of forging a new destiny in its vast, untapped expanses."
+ 
+ SSV_increased_mining_profits:0 "Increasing Mining Profits"
+ SSV_increased_mining_profits_desc:0 "Lately, investments have flooded into the mining industry, and now our economy is reaping the rewards! We must relentlessly continue investing in the mining sector to cement Sweden's prominent place in Africa."

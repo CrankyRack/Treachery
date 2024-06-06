@@ -438,4 +438,81 @@ ideas = {
 				political_power_factor = -0.3
 			}
 		}
+		SSV_askari_corps = {
+
+			picture = SSV_askari_corps
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = 0.1
+				recruitable_population_factor = 0.2
+			}
+		}
+		BAT_illegal_ivory_trade = {
+
+			picture = BAT_illegal_ivory_trade
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = -0.1
+				consumer_goods_factor = 0.2
+			}
+		}
+		BAT_southern_frontier = {
+
+			picture = BAT_southern_frontier
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				political_power_factor = 0.05
+				monthly_population = 0.05
+			}
+		}
+		SSV_increased_mining_profits = {
+
+			picture = SSV_increased_mining_profits
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				local_resources_factor = 0.05
+			    consumer_goods_factor = 0.05
+			    political_power_factor = 0.1
+			}
+		}
 }   }

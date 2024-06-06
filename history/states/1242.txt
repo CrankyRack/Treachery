@@ -1,0 +1,30 @@
+state={
+	id=1242
+	name="Södertörstland"
+	manpower = 5300
+	state_category = wasteland
+
+	history={
+		owner = SSV
+		victory_points = {
+			4879 1 
+		}
+		set_province_name = {
+			id = 4879
+			name = "Nöthandlarens Stad"
+		}
+		buildings = {
+			infrastructure = 1
+
+		}
+		
+		add_core_of = NMB
+
+	}
+	provinces={
+		4879
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

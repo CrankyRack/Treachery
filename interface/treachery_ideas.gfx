@@ -95,6 +95,22 @@ spriteTypes = {
 		name = "GFX_modifiers_french_army_influence"
 		texturefile = "gfx/interface/ideas/french_army_influence.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_SSV_askari_corps"
+		texturefile = "gfx/interface/ideas/SSV_askari_corps.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_BAT_illegal_ivory_trade"
+		texturefile = "gfx/interface/ideas/BAT_illegal_ivory_trade.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_BAT_southern_frontier"
+		texturefile = "gfx/interface/ideas/BAT_southern_frontier.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_SSV_increased_mining_profits"
+		texturefile = "gfx/interface/ideas/SSV_increased_mining_profits.dds"  
+	}
 	### new tfv nat spirit icons
 	
 }

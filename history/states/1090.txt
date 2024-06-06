@@ -1,8 +1,8 @@
 
 state={
 	id=1090
-	name="UNNAMED"
-	manpower = 437296
+	name="Owamboland"
+	manpower = 137296
 	resources={
 		steel=8 
 	}
@@ -10,6 +10,10 @@ state={
 	history={
 		owner = SSV
 		victory_points = { 8202 1 }
+			set_province_name = {
+			id = 8202
+			name = "Nya Åbo"
+		}
 		buildings = {
 			infrastructure = 2
 			8202 = {
@@ -20,7 +24,7 @@ state={
 		add_core_of = NMB
 	}
 	provinces={
-		8202
+		8202 10957
 	}
 	local_supplies=0.0 
 }

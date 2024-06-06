@@ -1,5 +1,10 @@
 ﻿capital = 541
 
+add_ideas = {
+	SSV_askari_corps
+	SSV_increased_mining_profits
+}
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

@@ -1,5 +1,10 @@
 ﻿capital = 542
 
+add_ideas = {
+	BAT_illegal_ivory_trade
+	BAT_southern_frontier
+}
+
 
 # Starting tech
 set_technology = {
@@ -9,7 +14,7 @@ set_technology = {
 
 
 
-recruit_character = ANG_acgs
+recruit_character = BAT_axel_wilhelm_eriksson
 
 
 

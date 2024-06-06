@@ -1,0 +1,16 @@
+characters = {
+	BAT_axel_wilhelm_eriksson = {
+		name="Axel Wilhelm Eriksson"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BAT/BAT_axel_wilhelm_eriksson.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
