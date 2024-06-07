@@ -9,7 +9,7 @@ state={
 	state_category = town
 
 	history={
-		owner = NIC
+		owner = COL
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -21,7 +21,8 @@ state={
 			}
 
 		}
-		add_core_of = NIC
+		add_core_of = COL
+		add_core_of = COS
 		add_core_of = ELS
 		victory_points = {
 			12738 3

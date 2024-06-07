@@ -22,7 +22,6 @@ state={
 			}
 		}
 		add_core_of = COS
-		add_core_of = PAN
 		add_core_of = COL
 		victory_points = {
 			13087 3

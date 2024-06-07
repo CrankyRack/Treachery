@@ -17,8 +17,9 @@ state=
 		victory_points = {
 			11360 10 
 		}
-		add_core_of = NIC
 		add_core_of = BRP
+		add_claim_by = COS
+		add_claim_by = COL
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
