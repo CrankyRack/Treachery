@@ -111,6 +111,22 @@ spriteTypes = {
 		name = "GFX_idea_SSV_increased_mining_profits"
 		texturefile = "gfx/interface/ideas/SSV_increased_mining_profits.dds"  
 	}
+	SpriteType = {
+		name = "GFX_FRA_heritage_of_napoleon"
+		texturefile = "gfx/interface/ideas/FRA_heritage_of_napoleon.tga"  
+	}
+	SpriteType = {
+		name = "GFX_FRA_oversized_empire"
+		texturefile = "gfx/interface/ideas/FRA_oversized_empire.tga"  
+	}
+	SpriteType = {
+		name = "GFX_FRA_colonial_army"
+		texturefile = "gfx/interface/ideas/FRA_colonial_armye.tga"  
+	}
+	SpriteType = {
+		name = "GFX_FRA_the_boulanger_policy"
+		texturefile = "gfx/interface/ideas/FRA_the_boulanger_policy.tga"  
+	}
 	### new tfv nat spirit icons
 	
 }
