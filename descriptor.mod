@@ -3,15 +3,5 @@ tags={
 	"Alternative History"
 }
 name="Treachery"
-replace_path="history/states"
-replace_path="history/countries"
-replace_path="history/units"
-replace_path="map/strategicregions"
-replace_path="map"
-#replace_path="common/national_focus"
-#replace_path="common/units"
-#replace_path="common/on_actions"
-#replace_path="common/ideas"
-#replace_path="common/decisions"
-#replace_path="common/dynamic_modifiers"
+
 supported_version="1.14.*"
