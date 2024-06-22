@@ -1,0 +1,16 @@
+characters = {
+	ELS_manuel_araujo = {
+		name="Manuel Enrique Araujo"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/ELS/ELS_manuel_araujo.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,17 @@
+characters={
+	UZB_xiliang={
+		name="Xiliang"
+		portraits={
+			civilian={
+				large="gfx/leaders/UZB/UZB_xiliang.dds"
+			}
+		}
+		country_leader={
+			ideology=rexism
+			traits={ # }
+			expire="1960.1.1.1"
+			id=-1
+		}
+	}
+
+}

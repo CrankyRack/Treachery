@@ -9,7 +9,7 @@ set_technology = {
 
 set_convoys = 5
 
-
+recruit_character = UZB_xiliang
 
 set_politics = {
 	ruling_party = fascism
@@ -23,14 +23,3 @@ set_popularities = {
 	communism = 40
 	neutrality = 9
 }
-
-#create_country_leader = {
-#	
-#	name = "Jonas Lote"
-#	picture = "gfx//leaders//Africa//Portrait_Africa_Generic_2.dds"
-#	expire = "1965.1.1"
-#	ideology = centrism
-#	traits = {
-#		#
-#	}
-#}

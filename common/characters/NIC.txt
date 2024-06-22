@@ -1,0 +1,16 @@
+characters = {
+	NIC_adolfo_castellanos = {
+		name="Adolfo Jiménez Castellanos"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/NIC/NIC_adolfo_castellanos.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
