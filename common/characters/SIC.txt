@@ -1,4 +1,19 @@
 characters = {
+    SIC_nicola_barbato = {
+		name="Nicola Barbato"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SIC/SIC_nicola_barbato.dds"
+			}
+		}
+		country_leader = {
+			ideology=social_liberalism
+			traits={ # }
+			expire="1938.3.1.1"
+			id=-1
+		}
+	}
+	
 	SIC_king_ferdinand = {
 		name="Ferdinand III"
 		portraits = {

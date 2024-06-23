@@ -9,6 +9,10 @@ add_ideas = {
 	CT_ITC_Unindustrialized_Economy
 }
 
+
+recruit_character = ITC_ricciotti_garibaldi
+
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -40,11 +44,6 @@ set_technology = {
 		modifier = CT_Garibaldi_Partisans_Dynamic_Modifier
 	}
 	set_demilitarized_zone = yes
-}
-
-set_autonomy = {
-	target = SIC
-	autonomous_state = autonomy_integrated_puppet
 }
 
 set_convoys = 5

@@ -12,7 +12,7 @@ characters = {
 		name="Ricciotti Garibaldi"
 		portraits = {
 			civilian = {
-				large="gfx/leaders/BAS/BAS_ernst_II.dds"	# Placeholder
+				large="gfx/leaders/ITC/ITC_ricciotti_garibaldi.dds"
 			}
 		}
 		country_leader = {
