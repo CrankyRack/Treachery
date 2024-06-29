@@ -1,0 +1,16 @@
+characters = {
+	SOF_ivan_I = {
+		name="Ivan I Nikolajević"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SOF/SOF_ivan_I.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

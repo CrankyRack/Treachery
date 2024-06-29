@@ -10,6 +10,7 @@ set_technology = {
 	gw_artillery = 1
 }
 
+recruit_character = SOF_ivan_I
 
 set_research_slots = 3
 #set_convoys = 50
@@ -17,17 +18,21 @@ set_stability = 0.75
 
 
 
+
 set_politics = {
 	ruling_party = authoritarian
-	last_election = "1936.1.1"
-	election_frequency = 48
+	last_election = "1900.11.27"
+	election_frequency = 36
 	elections_allowed = yes
-
 }
 set_popularities = {
-	democratic = 30
-	monarchist = 10
-	vanguardism = 60
+	democratic = 14
+	liberalism = 16
+	authoritarian = 35
+	vanguardism = 1
+	democratic_socialism = 9
+	monarchist = 15
+	patrimonialism = 10
 }
 
 
