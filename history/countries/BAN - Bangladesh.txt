@@ -12,15 +12,15 @@ recruit_character = BAN_Kumudeswar
 set_convoys = 0
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	neutrality = 75
-	fascism = 1
-	communism = 1
+	authoritarian = 75
+	monarchist = 1
+	vanguardism = 1
 	democratic = 23
 }
 

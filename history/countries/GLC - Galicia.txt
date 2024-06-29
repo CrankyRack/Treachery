@@ -69,8 +69,8 @@ set_politics = {
 }
 set_popularities = {
 	democratic = 93
-	fascism = 3
-	communism = 4
+	monarchist = 3
+	vanguardism = 4
 }
 
 create_country_leader = {

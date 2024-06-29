@@ -69,13 +69,13 @@ recruit_character = BOT_democratic_guy
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	authoritarian = 100
 }
 
 create_country_leader = {
@@ -83,7 +83,7 @@ create_country_leader = {
 	name = "Tshekedi Khama"
 	picture = GFX_portrait_Tshekedi_Khama
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = democratic_socialism
 	traits = {
 		#
 	}

@@ -131,9 +131,9 @@ set_politics = {
 
 set_popularities = {
 	democratic = 40
-	communism = 25
-	fascism = 30
-	neutrality = 5
+	vanguardism = 25
+	monarchist = 30
+	authoritarian = 5
 }
 
 # Qazi Muhammad was leader of the short-lived Marxist uprising in Iranian Kurdistan

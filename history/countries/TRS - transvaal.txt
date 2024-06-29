@@ -20,15 +20,15 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 60
 	elections_allowed = yes
 }
 
 set_popularities = {
-	fascism = 15
-	communism = 10
-	neutrality = 75
+	monarchist = 15
+	vanguardism = 10
+	authoritarian = 75
 }
 

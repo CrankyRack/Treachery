@@ -81,8 +81,8 @@ set_politics = {
 
 set_popularities = {
 	democratic = 33
-	neutrality = 33
-	communism = 34
+	authoritarian = 33
+	vanguardism = 34
 }
 
 recruit_character = MNT_kristo_popovic

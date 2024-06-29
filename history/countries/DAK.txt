@@ -68,9 +68,9 @@ set_politics = {
 set_popularities = {
 	democratic = 31
 	liberalism = 30
-	neutrality = 2
-	communism = 9
-	socialism = 19
+	authoritarian = 2
+	vanguardism = 9
+	democratic_socialism = 19
 	patrimonialism = 9
 }
 

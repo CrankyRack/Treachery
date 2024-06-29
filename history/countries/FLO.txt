@@ -27,10 +27,10 @@ set_politics = {
 set_popularities = {
 	democratic = 13.33
 	liberalism = 11.33
-	socialism = 8.1
-	communism = 3.1
-	fascism = 16.34
-	neutrality = 13.6
+	democratic_socialism = 8.1
+	vanguardism = 3.1
+	monarchist = 16.34
+	authoritarian = 13.6
 	Patrimonialism = 34.2
 }
 

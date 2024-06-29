@@ -14,14 +14,14 @@ recruit_character = PNG_stc
 set_cosmetic_tag = PNG_NIR
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
 	democratic = 75
-	fascism = 1
-	communism = 1
-	neutrality = 23
+	monarchist = 1
+	vanguardism = 1
+	authoritarian = 23
 }

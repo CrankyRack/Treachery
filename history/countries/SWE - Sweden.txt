@@ -69,7 +69,7 @@ if = {
 
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = monarchist
 	last_election = "1932.9.18"
 	election_frequency = 48
 	elections_allowed = yes
@@ -77,10 +77,10 @@ set_politics = {
 set_popularities = {
 	democratic = 18
 	liberalism = 22
-	neutrality = 13
-	communism = 1
-	socialism = 6
-	fascism = 25
+	authoritarian = 13
+	vanguardism = 1
+	democratic_socialism = 6
+	monarchist = 25
 	patrimonialism = 15
 }
 

@@ -108,8 +108,8 @@ set_politics = {
 }
 set_popularities = {
 	democratic = 92
-	fascism = 3
-	communism = 5
+	monarchist = 3
+	vanguardism = 5
 }
 
 1939.1.1 = {

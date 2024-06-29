@@ -57,10 +57,10 @@ set_politics = {
 
 set_popularities = {
 	Patrimonialism = 0
-	socialism = 22
+	democratic_socialism = 22
 	liberalism = 39
 	democratic = 31
-	fascism = 8
-	communism = 0
-	neutrality = 0
+	monarchist = 8
+	vanguardism = 0
+	authoritarian = 0
 }

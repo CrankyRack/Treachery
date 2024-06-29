@@ -1,0 +1,101 @@
+guiTypes = {
+    containerWindowType = {
+		name = "conservativeColVis"
+		position = { x = 341 y = 306 }
+		iconType ={
+			name = "coalitions_frame_icon"
+			spriteType = "GFX_coalitions_frame"
+			position = { x= -3 y = 0 }
+			Orientation = "UPPER_LEFT"
+            alwaystransparent = yes
+		}
+	}
+	containerWindowType = {
+		name = "liberalColVis"
+		position = { x = 341 y = 322 }
+		iconType ={
+			name = "coalitions_frame_icon"
+			spriteType = "GFX_coalitions_frame"
+			position = { x= -3 y = 0 }
+			Orientation = "UPPER_LEFT"
+            alwaystransparent = yes
+		}
+	}
+	containerWindowType = {
+		name = "progressiveColVis"
+		position = { x = 341 y = 338 }
+		iconType ={
+			name = "coalitions_frame_icon"
+			spriteType = "GFX_coalitions_frame"
+			position = { x= -3 y = 0 }
+			Orientation = "UPPER_LEFT"
+            alwaystransparent = yes
+		}
+	}
+	containerWindowType = {
+		name = "demsocColVis"
+		position = { x = 341 y = 354 }
+		iconType ={
+			name = "coalitions_frame_icon"
+			spriteType = "GFX_coalitions_frame"
+			position = { x= -3 y = 0 }
+			Orientation = "UPPER_LEFT"
+            alwaystransparent = yes
+		}
+	}
+	containerWindowType = {
+		name = "vanguardColVis"
+		position = { x = 341 y = 370 }
+		iconType ={
+			name = "coalitions_frame_icon"
+			spriteType = "GFX_coalitions_frame"
+			position = { x= -3 y = 0 }
+			Orientation = "UPPER_LEFT"
+            alwaystransparent = yes
+		}
+	}
+	containerWindowType = {
+		name = "revsocColVis"
+		position = { x = 341 y = 386 }
+		iconType ={
+			name = "coalitions_frame_icon"
+			spriteType = "GFX_coalitions_frame"
+			position = { x= -3 y = 0 }
+			Orientation = "UPPER_LEFT"
+            alwaystransparent = yes
+		}
+	}
+	containerWindowType = {
+		name = "monarchColVis"
+		position = { x = 341 y = 402 }
+		iconType ={
+			name = "coalitions_frame_icon"
+			spriteType = "GFX_coalitions_frame"
+			position = { x= -3 y = 0 }
+			Orientation = "UPPER_LEFT"
+            alwaystransparent = yes
+		}
+	}
+	containerWindowType = {
+		name = "authColVis"
+		position = { x = 341 y = 418 }
+		iconType ={
+			name = "coalitions_frame_icon"
+			spriteType = "GFX_coalitions_frame"
+			position = { x= -3 y = 0 }
+			Orientation = "UPPER_LEFT"
+            alwaystransparent = yes
+		}
+	}
+	containerWindowType = {
+		name = "patrimonialColVis"
+		position = { x = 341 y = 434 }
+		iconType ={
+			name = "coalitions_frame_icon"
+			spriteType = "GFX_coalitions_frame"
+			position = { x= -3 y = 0 }
+			Orientation = "UPPER_LEFT"
+            alwaystransparent = yes
+		}
+	}
+}

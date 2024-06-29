@@ -89,7 +89,7 @@ set_politics = {
 
 set_popularities = {
 	democratic = 98
-	fascism = 2
+	monarchist = 2
 }
 
 1939.1.1 = {
@@ -102,7 +102,7 @@ set_popularities = {
 
 	set_popularities = {
 		democratic = 95
-		communism = 5
+		vanguardism = 5
 	}
 
 	recruit_character = COS_leon_cortes_castro

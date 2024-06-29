@@ -94,7 +94,7 @@ set_convoys = 50
 set_stability = 0.65
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -103,10 +103,10 @@ set_politics = {
 set_popularities = {
 	democratic = 6
 	liberalism = 5
-	neutrality = 49
-	communism = 1
-	socialism = 1
-	fascism = 13
+	authoritarian = 49
+	vanguardism = 1
+	democratic_socialism = 1
+	monarchist = 13
 	patrimonialism = 25
 }
 

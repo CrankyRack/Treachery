@@ -26,8 +26,8 @@ set_politics = {
 
 set_popularities = {
 	democratic = 98
-	fascism = 1
-	communism = 1
+	monarchist = 1
+	vanguardism = 1
 }
 
 set_convoys = 100

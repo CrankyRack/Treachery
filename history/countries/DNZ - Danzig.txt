@@ -87,7 +87,7 @@ if = {
 }
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = monarchist
 	last_election = "1935.4.7"
 	election_frequency = 36
 	elections_allowed = yes
@@ -95,9 +95,9 @@ set_politics = {
 
 set_popularities = { #popularities based on 1933 election statistics.
 	democratic = 22
-	fascism = 62
-	communism = 6
-	neutrality = 10
+	monarchist = 62
+	vanguardism = 6
+	authoritarian = 10
 }
 
 create_country_leader = {
@@ -116,7 +116,7 @@ create_country_leader = {
 	desc = ""
 	picture = GFX_portrait_Arthur_Brill #TODO
 	expire = "1953.3.1"
-	ideology = socialism
+	ideology = democratic_socialism
 	traits = {
 		
 	}

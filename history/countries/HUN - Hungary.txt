@@ -82,15 +82,15 @@ if = {
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "300.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	democratic = 25
-	fascism = 31
-	neutrality = 44
+	monarchist = 31
+	authoritarian = 44
 }
 
 #Start Horty as neutral if DOD
@@ -130,14 +130,14 @@ recruit_character = HUN_franz_friedrich
 
 1939.1.1 = {
 	set_politics = {
-		ruling_party = fascism
+		ruling_party = monarchist
 		last_election = "1939.5.29"
 		election_frequency = 48
 		elections_allowed = yes
 	}
 	set_popularities = {
 		democratic = 27
-		fascism = 70
-		communism = 3
+		monarchist = 70
+		vanguardism = 3
 	}
 }

@@ -24,7 +24,7 @@ recruit_character = GRC_edouard_blanchet
 set_convoys = 15
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1902.11.8"
 	election_frequency = 60
 	elections_allowed = yes
@@ -32,10 +32,10 @@ set_politics = {
 set_popularities = {
 	democratic = 15
 	liberalism = 11
-	neutrality = 50
-	communism = 4
-	socialism = 5
-	fascism = 1
+	authoritarian = 50
+	vanguardism = 4
+	democratic_socialism = 5
+	monarchist = 1
 	patrimonialism = 14
 }
 

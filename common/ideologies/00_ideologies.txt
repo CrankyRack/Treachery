@@ -1,3 +1,16 @@
+#shorthand for all ideology groups
+#democratic
+#liberalism
+#progressivism
+#democratic_socialism
+#vanguardism
+#revolutionary_socialism
+#monarchist
+#authoritarian
+#Patrimonialism
+#
+
+
 ideologies = {
 
 	democratic = {
@@ -23,7 +36,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 
-		color = { 62 98 196 }
+		color = { 53 81 217 }
 
 		rules = {
 			can_create_collaboration_government = no
@@ -62,6 +75,7 @@ ideologies = {
 		ai_democratic = yes # uses the democratic AI behaviour
 		ai_ideology_wanted_units_factor = 1.0 # multiplies threat impact on number of desired units by this value, defaults to 1.0. If at war, the larger of this value and NDefines::NAI::WANTED_UNITS_WAR_THREAT_FACTOR will be used instead
 	}
+
 
     liberalism = {
 
@@ -83,7 +97,7 @@ ideologies = {
 			"FACTION_NAME_DEMOCRATIC_6"
 		}
 
-		color = { 255 190 73 }
+		color = { 254 218 0 }
 
 		rules = {
 			can_create_collaboration_government = no
@@ -122,13 +136,16 @@ ideologies = {
 		ai_democratic = yes # uses the democratic AI behaviour
 		ai_ideology_wanted_units_factor = 1.0 # multiplies threat impact on number of desired units by this value, defaults to 1.0. If at war, the larger of this value and NDefines::NAI::WANTED_UNITS_WAR_THREAT_FACTOR will be used instead
 	}
-	socialism = {
+	
+	progressivism = {
 
 		types = {
 
-			marxism = {
+			bull_moose = {
+				can_be_randomly_selected = no
 			}
-			social_democracy = {
+			
+			progressivism_sub = {
 			}
 		}
 
@@ -140,7 +157,7 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 
-		color = { 216 61 47 }
+		color = { 231 86 119 }
 
 		war_impact_on_world_tension = 0.35		#Commie less threatening
 		faction_impact_on_world_tension = 0.2
@@ -171,23 +188,13 @@ ideologies = {
 		}
 
 	}
-	communism = {
+	
+	democratic_socialism = {
 
 		types = {
 
-			leninism = {
-			}
-
-			stalinism = {
-			}
-
-			anti_revisionism = {
-			}
-
-			anarchist_communism = {
-			}
 			
-			vanguardism = {
+			social_democracy = {
 			}
 		}
 
@@ -199,7 +206,116 @@ ideologies = {
 			"FACTION_NAME_COMMUNIST_5"
 		}
 
-		color = { 165 38 38 }
+		color = { 248 62 63 }
+
+		war_impact_on_world_tension = 0.35		#Commie less threatening
+		faction_impact_on_world_tension = 0.2
+
+		ai_communist = yes # uses the commie AI behaviour
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			# puppet_cost_factor = -0.3 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 7.5
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_threshold_factor = 0.5
+		}
+
+		faction_modifiers = {
+
+		}
+
+	}
+	vanguardism = {
+
+		types = { 
+			leninism = {
+			}
+
+			stalinism = {
+			}
+
+
+			anarchist_communism = {
+			}
+			
+			vanguardism_sub = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_COMMUNIST_1"
+			"FACTION_NAME_COMMUNIST_2"
+			"FACTION_NAME_COMMUNIST_3"
+			"FACTION_NAME_COMMUNIST_4"
+			"FACTION_NAME_COMMUNIST_5"
+		}
+
+		color = { 124 0 0 }
+
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes # uses the commie AI behaviour
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			# puppet_cost_factor = -0.3 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 7.5
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_threshold_factor = 0.5
+		}
+
+		faction_modifiers = {
+
+		}
+	}
+
+	
+	revolutionary_socialism = {
+
+		types = { 
+			revolutionary_socialism_sub = {
+			}
+			
+			marxism = {
+			}
+			
+			anti_revisionism = {
+			}
+		}
+
+		dynamic_faction_names = {
+			"FACTION_NAME_COMMUNIST_1"
+			"FACTION_NAME_COMMUNIST_2"
+			"FACTION_NAME_COMMUNIST_3"
+			"FACTION_NAME_COMMUNIST_4"
+			"FACTION_NAME_COMMUNIST_5"
+		}
+
+		color = { 187 19 19 }
 
 		war_impact_on_world_tension = 0.75		#Commie less threatening
 		faction_impact_on_world_tension = 0.5
@@ -230,25 +346,27 @@ ideologies = {
 		}
 
 	}
-
-	fascism = {
+	
+	monarchist = {
 
 		types = {
 
-			nazism = {
+			royalism = {
 			}
 
-			gen_nazism = {
+			monarchism_sub = {
 			}
 
-			fascism_ideology = {
+			enlightened_monarch = {
+			}
+			
+			heavenly_mandate = {
+				can_be_randomly_selected = no
+			}
+			shogunate = {
+				can_be_randomly_selected = no
 			}
 
-			falangism = {
-			}
-
-			rexism = {
-			}
 		}
 
 		dynamic_faction_names = {
@@ -286,7 +404,7 @@ ideologies = {
 		ai_ideology_wanted_units_factor = 1.65
 	}
 
-	neutrality = {
+	authoritarian  = {
 
 		types = {
 
@@ -318,7 +436,7 @@ ideologies = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 
-		color = { 84 84 84 }
+		color = { 156 156 156 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger
@@ -369,7 +487,7 @@ ideologies = {
 			"FACTION_NAME_NONALIGNED_5"
 		}
 
-		color = { 55 63 55 }
+		color = { 58 58 58 }
 
 
 		war_impact_on_world_tension = 0.25		#no major danger

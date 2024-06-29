@@ -19,7 +19,7 @@ recruit_character = PHI_pascual_cervera
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1935.9.15"
 	election_frequency = 72
 	elections_allowed = no
@@ -27,7 +27,7 @@ set_politics = {
 set_popularities = {
 	democratic = 20
 	liberalism = 5
-	neutrality = 51
-	socialism = 5
+	authoritarian = 51
+	democratic_socialism = 5
 	patrimonialism = 19
 }

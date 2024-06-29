@@ -15,7 +15,7 @@ set_technology = {
 set_convoys = 0
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -24,10 +24,10 @@ set_politics = {
 set_popularities = {
 	democratic = 5
 	liberalism = 4
-	neutrality = 40
-	socialism = 10
+	authoritarian = 40
+	democratic_socialism = 10
 	patrimonialism = 20
-	fascism = 21
+	monarchist = 21
 }
 
 create_country_leader = {

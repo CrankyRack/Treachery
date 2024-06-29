@@ -142,7 +142,7 @@ set_stability = 0.75
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -150,8 +150,8 @@ set_politics = {
 }
 set_popularities = {
 	democratic = 30
-	fascism = 10
-	communism = 60
+	monarchist = 10
+	vanguardism = 60
 }
 
 add_ideas = {
@@ -175,7 +175,7 @@ add_ideas = {
 #	desc = "POLITICS_OTTO_WELS_DESC"
 #	picture = "Portrait_Germany_Adolf_Hitler.dds"
 #	expire = "1939.1.16"
-#	ideology = socialism
+#	ideology = democratic_socialism
 #	traits = {
 #		exiled
 #		union_man

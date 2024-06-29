@@ -89,9 +89,9 @@ if = {
 
 set_popularities = {
 	democratic = 15
-	neutrality = 20
-	communism = 60
-	fascism = 5
+	authoritarian = 20
+	vanguardism = 60
+	monarchist = 5
 }
 
 create_country_leader = {
@@ -132,7 +132,7 @@ create_country_leader = {
     desc = ""
 	picture = GFX_portrait_Adam_Stankievic
     expire = "1965.1.1"
-    ideology = socialism
+    ideology = democratic_socialism
     traits = {
         #
     }

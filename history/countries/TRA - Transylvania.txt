@@ -81,8 +81,8 @@ create_country_leader = {
 
 set_popularities = {
 	democratic = 33
-	neutrality = 33
-	communism = 34
+	authoritarian = 33
+	vanguardism = 34
 }
 
 recruit_character = TRA_pot

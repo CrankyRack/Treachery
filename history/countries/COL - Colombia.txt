@@ -77,7 +77,7 @@ recruit_character = COL_raphael_hollmann
 set_convoys = 95
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = monarchist
 	last_election = "1934.2.11"
 	election_frequency = 48
 	elections_allowed = no
@@ -85,10 +85,10 @@ set_politics = {
 set_popularities = {
 	democratic = 2.3
 	liberalism = 2.3
-	socialism = 9.2
-	communism = 2.3
-	fascism = 47.5
-	neutrality = 24.2
+	democratic_socialism = 9.2
+	vanguardism = 2.3
+	monarchist = 47.5
+	authoritarian = 24.2
 	Patrimonialism = 12.2
 }
 
@@ -96,10 +96,10 @@ FLO = {
 	set_popularities = {
 		democratic = 13.33
 		liberalism = 11.33
-		socialism = 8.1
-		communism = 3.1
-		fascism = 16.34
-		neutrality = 13.6
+		democratic_socialism = 8.1
+		vanguardism = 3.1
+		monarchist = 16.34
+		authoritarian = 13.6
 		Patrimonialism = 34.2
 	}
 }

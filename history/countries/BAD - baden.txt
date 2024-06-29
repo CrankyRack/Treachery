@@ -17,7 +17,7 @@ set_stability = 0.75
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -26,10 +26,10 @@ set_politics = {
 set_popularities = {
 	democratic = 5
 	liberalism = 4
-	neutrality = 40
-	socialism = 5
+	authoritarian = 40
+	democratic_socialism = 5
 	patrimonialism = 15
-	fascism = 31
+	monarchist = 31
 }
 
 

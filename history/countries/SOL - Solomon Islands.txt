@@ -14,14 +14,14 @@ recruit_character = SOL_eugene_jonquieres
 set_cosmetic_tag = FRA_SOL
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	democratic = 50
-	fascism = 6
-	communism = 6
-	neutrality = 38
+	monarchist = 6
+	vanguardism = 6
+	authoritarian = 38
 }

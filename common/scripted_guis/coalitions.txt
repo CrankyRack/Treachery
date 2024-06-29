@@ -1,0 +1,104 @@
+scripted_gui = {
+	## Based on KaiserreduX
+	### Coalition ###
+
+	coalition_conservative_icon = {
+		window_name = "conservativeColVis"
+		context_type = player_context
+		parent_window_token = politics_tab
+		visible = {
+			OR = {
+			is_in_array = { ROOT.coalition_partners = token:democratic }
+			has_government = democratic
+			}
+		}
+	}
+	coalition_liberalism_icon = {
+		window_name = "liberalColVis"
+		context_type = player_context
+		parent_window_token = politics_tab
+		visible = {
+			OR = {
+			is_in_array = { ROOT.coalition_partners = token:liberalism }
+			has_government = liberalism
+			}
+		}
+	}
+	coalition_progressivism_icon = {
+		window_name = "progressiveColVis"
+		context_type = player_context
+		parent_window_token = politics_tab
+		visible = {
+			OR = {
+			is_in_array = { ROOT.coalition_partners = token:progressivism }
+			has_government = progressivism
+		    }
+		}
+	}
+	coalition_democratic_socialism_icon = {
+		window_name = "demsocColVis"
+		context_type = player_context
+		parent_window_token = politics_tab
+		visible = {
+			OR = {
+			is_in_array = { ROOT.coalition_partners = token:democratic_socialism }
+			has_government = democratic_socialism
+		    }
+		}
+	}
+	coalition_vanguardism_icon = {
+		window_name = "vanguardColVis"
+		context_type = player_context
+		parent_window_token = politics_tab
+		visible = {
+			OR = {
+			is_in_array = { ROOT.coalition_partners = token:vanguardism }
+			has_government = vanguardism
+		    }
+		}
+	}
+	coalition_revolutionary_socialism_icon = {
+		window_name = "revsocColVis"
+		context_type = player_context
+		parent_window_token = politics_tab
+		visible = {
+			OR = {
+			is_in_array = { ROOT.coalition_partners = token:revolutionary_socialism }
+			has_government = revolutionary_socialism
+		    } 
+		}
+	}
+	coalition_monarchist_icon = {
+		window_name = "monarchColVis"
+		context_type = player_context
+		parent_window_token = politics_tab
+		visible = {
+			OR = {
+			is_in_array = { ROOT.coalition_partners = token:monarchist }
+			has_government = monarchist
+		    }
+		}
+	}
+	coalition_authoritarian_icon = {
+		window_name = "authColVis"
+		context_type = player_context
+		parent_window_token = politics_tab
+		visible = {
+			OR = {
+			is_in_array = { ROOT.coalition_partners = token:authoritarian }
+			has_government = authoritarian
+		    }
+		}
+	}
+	coalition_patrimonialism_icon = {
+		window_name = "patrimonialColVis"
+		context_type = player_context
+		parent_window_token = politics_tab
+		visible = {
+			OR = {
+			is_in_array = { ROOT.coalition_partners = token:Patrimonialism }
+			has_government = Patrimonialism
+		    }
+		}
+	}
+}

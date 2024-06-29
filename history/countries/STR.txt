@@ -90,10 +90,10 @@ set_politics = {
 set_popularities = {
 	democratic = 29.3
 	liberalism = 16.1
-	socialism = 3.2
-	communism = 1.5
-	fascism = 3.5
-	neutrality = 26.7
+	democratic_socialism = 3.2
+	vanguardism = 1.5
+	monarchist = 3.5
+	authoritarian = 26.7
 	Patrimonialism = 19.7
 }
 
@@ -112,7 +112,7 @@ add_ideas = {
 	}
 	set_popularities = {
 		democratic = 99
-		communism = 1
+		vanguardism = 1
 	}
 }
 

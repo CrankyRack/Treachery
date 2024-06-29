@@ -7,7 +7,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=rexism
+			ideology=royalism
 			traits={ # }
 			expire="1960.1.1.1"
 			id=-1

@@ -12,13 +12,13 @@ set_convoys = 20
 recruit_character = HAW_queen_of_hawaii
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	elections_allowed = no
 }
 set_popularities = {
 	democratic = 38
-	fascism = 6
-	communism = 6
-	neutrality = 50
+	monarchist = 6
+	vanguardism = 6
+	authoritarian = 50
 }

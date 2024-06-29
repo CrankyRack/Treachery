@@ -92,9 +92,9 @@ set_politics = {
 
 set_popularities = {
 	democratic = 50
-	fascism = 0
-	communism = 0
-	neutrality = 50
+	monarchist = 0
+	vanguardism = 0
+	authoritarian = 50
 }
 
 recruit_character = BYA_seymon_ignatyev

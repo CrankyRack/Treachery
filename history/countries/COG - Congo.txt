@@ -50,12 +50,12 @@ set_convoys = 5
 
 # A colony of Italy in 1939.  However, if independent it would have the same as its 1936 politics
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	neutrality = 100
+	authoritarian = 100
 }
 

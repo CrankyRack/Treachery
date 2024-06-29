@@ -19,14 +19,14 @@ recruit_character = ALB_gennaro
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	neutrality = 100
+	authoritarian = 100
 }
 
 set_convoys = 9

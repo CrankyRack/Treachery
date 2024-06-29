@@ -76,7 +76,7 @@ set_politics = {
 }
 set_popularities = {
 	democratic = 80
-	communism = 20
+	vanguardism = 20
 }
 
 create_country_leader = {

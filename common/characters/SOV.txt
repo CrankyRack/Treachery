@@ -3767,7 +3767,7 @@ characters = {
  #    #  #    #  #    #  #   ##    #    #   #     #        #       #       #    #  #    #  #       #   #   #    # 
   ####    ####    ####   #    #    #    #    #    #        ######  ######  #    #  #####   ######  #    #   ####  
 
-	SOV_konstantin_rodzayevsky = {
+	SOV_peter_IV = {
 		instance = {
 			allowed = {
 				has_dlc = "No Step Back"
@@ -3784,7 +3784,7 @@ characters = {
 			}
 
 			country_leader = {
-				ideology = fascism_ideology
+				ideology = monarchism_sub
 				traits = { fascist_orchestrator }
 				expire = "1953.3.1.1"
 				id = -1

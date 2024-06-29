@@ -45,13 +45,15 @@ set_politics = {
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 30.14
-	liberalism = 14.54
-	socialism = 20.3
-	communism = 13.1
-	fascism = 1.12
-	neutrality = 5.5
-	Patrimonialism = 15.3
+	democratic = 18.1
+	liberalism = 20.6
+	progressivism = 24.8
+	democratic_socialism = 10.4
+	vanguardism = 5.2
+	revolutionary_socialism = 7.2
+	monarchist = 0.4
+	authoritarian = 8.2
+	Patrimonialism = 5.1
 }
 
 add_ideas = {

@@ -21,7 +21,7 @@ set_technology = {
 }
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -30,10 +30,10 @@ set_politics = {
 set_popularities = {
 	democratic = 20
 	liberalism = 18
-	neutrality = 32
-	communism = 3
-	socialism = 5
-	fascism = 12
+	authoritarian = 32
+	vanguardism = 3
+	democratic_socialism = 5
+	monarchist = 12
 	patrimonialism = 10
 }
 

@@ -20,7 +20,7 @@ set_research_slots = 2
 set_stability = 0.55
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
@@ -29,10 +29,10 @@ set_politics = {
 set_popularities = {
 	democratic = 15
 	liberalism = 9
-	neutrality = 41
-	communism = 1
-	socialism = 5
-	fascism = 14
+	authoritarian = 41
+	vanguardism = 1
+	democratic_socialism = 5
+	monarchist = 14
 	patrimonialism = 15
 }
 

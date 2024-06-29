@@ -239,16 +239,16 @@ recruit_character = BRI_awt
 	}
 }
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
 	democratic = 20
-	fascism = 40
-	communism = 10
-	neutrality = 30
+	monarchist = 40
+	vanguardism = 10
+	authoritarian = 30
 }
 
 create_country_leader = {
@@ -262,7 +262,7 @@ create_country_leader = {
 	name = "Morvan Marchal"
 	picture = GFX_portrait_Morvan_Marchal
 	expire = "1965.1.1"
-	ideology = socialism
+	ideology = democratic_socialism
 }
 
 create_country_leader = {

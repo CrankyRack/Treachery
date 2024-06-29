@@ -98,16 +98,16 @@ if = {
 set_convoys = 30
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = monarchist
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no
 }
 set_popularities = {
 	democratic = 15
-	fascism = 60
-	communism = 15
-	neutrality = 10
+	monarchist = 60
+	vanguardism = 15
+	authoritarian = 10
 }
 
 recruit_character = AOI_prince_amedeo 

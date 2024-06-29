@@ -105,8 +105,8 @@ set_politics = {
 
 set_popularities = {
 	democratic = 40
-	communism = 25
-	neutrality = 35
+	vanguardism = 25
+	authoritarian = 35
 }
 
 create_country_leader = {
@@ -143,5 +143,5 @@ create_country_leader = {
 	}
 }
 
-#couldnt find anything historical on fascism
+#couldnt find anything historical on monarchist
 

@@ -35,16 +35,16 @@ set_technology = {
 set_convoys = 43
 
 set_politics = {
-	ruling_party = fascism
+	ruling_party = monarchist
 	last_election = "1934.3.26"
 	election_frequency = 60
 	elections_allowed = no
 }
 set_popularities = {
 	democratic = 20
-	fascism = 73
-	communism = 2
-	neutrality = 5
+	monarchist = 73
+	vanguardism = 2
+	authoritarian = 5
 }
 
 recruit_character = ITA_benito_mussolini

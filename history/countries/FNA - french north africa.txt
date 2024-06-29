@@ -10,14 +10,14 @@ recruit_character = FNA_general_bescond
 
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = authoritarian
 	last_election = "1936.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	democratic = 25
-	fascism = 20
-	communism = 5
-	neutrality = 50
+	monarchist = 20
+	vanguardism = 5
+	authoritarian = 50
 }
