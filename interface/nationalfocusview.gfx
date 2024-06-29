@@ -477,4 +477,8 @@ spriteTypes = {
 		name = "GFX_FOCUS_FILTER_FRENCH_INFLUENCE"
 		texturefile = "gfx/interface/focusview/filter/french_influence_focus_filter_icon.dds"
 	}
+	spriteType = {
+		name = "GFX_FOCUS_FILTER_GERMAN_INFLUENCE"
+		texturefile = "gfx/interface/focusview/filter/german_influence_focus_filter_icon.dds"
+	}
 }
