@@ -1,0 +1,12 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_bop_SAX_pro_conf"
+		texturefile = "gfx/interface/bop/bop_SAX_pro_conf.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_bop_SAX_anti_conf"
+		texturefile = "gfx/interface/bop/bop_SAX_anti_conf.dds"
+	}
+}

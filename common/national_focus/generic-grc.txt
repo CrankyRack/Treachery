@@ -1,0 +1,1061 @@
+focus_tree = {
+	id = generic-grc
+	continuous_focus_position = { x = 530 y = 1700 } 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = SAX
+		}
+	}
+	#Finalize debt repayment
+	focus = {
+		id = SAX_finalize_debt_repayment
+		icon = GFX_goal_unknown
+		x = 5
+		y = 0
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+	}
+
+	#Contact the Prussian federation
+	focus = {
+		id = SAX_contact_the_prussian_federation
+		icon = GFX_goal_unknown
+		x = 9
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_kleindeutschland  }
+	}
+
+	#Alignement with the Wurtemberg Policy
+	focus = {
+		id = SAX_alignement_with_the_wurtemberg_policy
+		icon = GFX_goal_unknown
+		x = 11
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_the_38th_paris_conference  }
+		mutually_exclusive = { focus = SAX_the_westphalian_statuquo  }
+	}
+
+	#The 38th Paris Conference
+	focus = {
+		id = SAX_the_38th_paris_conference
+		icon = GFX_goal_unknown
+		x = 12
+		y = 0
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		completion_reward = {
+			set_power_balance = {
+				id = SAX_power_balance
+				left_side = default_left_side 
+				right_side = default_right_side 
+				set_value = 0
+			}
+		}	
+	}
+
+	#The Westphalian statu-quo
+	focus = {
+		id = SAX_the_westphalian_statuquo
+		icon = GFX_goal_unknown
+		x = 14
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_the_38th_paris_conference  }
+		mutually_exclusive = { focus = SAX_alignement_with_the_wurtemberg_policy  }
+	}
+
+	#The 1810 senatus consultum
+	focus = {
+		id = SAX_the_1810_senatus_consultum
+		icon = GFX_goal_unknown
+		x = 12
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_the_westphalian_statuquo  focus = SAX_alignement_with_the_wurtemberg_policy  }
+	}
+
+	#Memories of the Pressburg Humiliation
+	focus = {
+		id = SAX_memories_of_the_pressburg_humiliation
+		icon = GFX_goal_unknown
+		x = 10
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_alignement_with_the_wurtemberg_policy  }
+	}
+
+	#Nationalistic education
+	focus = {
+		id = SAX_nationalistic_education
+		icon = GFX_goal_unknown
+		x = 11
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = SAX_the_1810_senatus_consultum  } prerequisite = { focus = SAX_memories_of_the_pressburg_humiliation  }
+	}
+
+	#Recognize french superiority
+	focus = {
+		id = SAX_recognize_french_superiority
+		icon = GFX_goal_unknown
+		x = 14
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_the_westphalian_statuquo  }
+	}
+
+	#Bolster german nationalism
+	focus = {
+		id = SAX_bolster_german_nationalism
+		icon = GFX_goal_unknown
+		x = 13
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_the_1810_senatus_consultum  }
+	}
+
+	#Purge the socialist resistance
+	focus = {
+		id = SAX_purge_the_socialist_resistance
+		icon = GFX_goal_unknown
+		x = 14
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = SAX_recognize_french_superiority  focus = SAX_nationalistic_education  }
+	}
+
+	#Allegiance to Napoléon
+	focus = {
+		id = SAX_allegiancetonapoleon
+		icon = GFX_goal_unknown
+		x = 21
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_the_38th_paris_conference  }
+	}
+
+	#Reform a sovereign militia
+	focus = {
+		id = SAX_reform_a_sovereign_militia
+		icon = GFX_goal_unknown
+		x = 12
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+		prerequisite = { focus = SAX_nationalistic_education  }
+	}
+
+	#Expand the military budget
+	focus = {
+		id = SAX_expand_the_military_budget
+		icon = GFX_goal_unknown
+		x = 10
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_memories_of_the_pressburg_humiliation  }
+	}
+
+	#Großdeutschland
+	focus = {
+		id = SAX_grossdeutschland
+		icon = GFX_goal_unknown
+		x = 11
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_expand_the_military_budget  }
+		mutually_exclusive = { focus = SAX_kleindeutschland  }
+	}
+
+	#klein-deutschland
+	focus = {
+		id = SAX_kleindeutschland
+		icon = GFX_goal_unknown
+		x = 9
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_expand_the_military_budget  }
+		mutually_exclusive = { focus = SAX_grossdeutschland  }
+	}
+
+	#Muzzle the Petite Bourgeoisie
+	focus = {
+		id = SAX_muzzle_the_petite_bourgeoisie
+		icon = GFX_goal_unknown
+		x = 13
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = SAX_reform_a_sovereign_militia  focus = SAX_purge_the_socialist_resistance  }
+	}
+
+	#Call the Austrian general staff
+	focus = {
+		id = SAX_call_the_austrian_general_staff
+		icon = GFX_goal_unknown
+		x = 11
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_WAR_SUPPORT
+		}
+		prerequisite = { focus = SAX_grossdeutschland  }
+	}
+
+	#The  Zollverein
+	focus = {
+		id = SAX_thezollverein
+		icon = GFX_goal_unknown
+		x = 20
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_supportthecodenapoleonextension  focus = SAX_strengthen_the_francowip_trade  }
+	}
+
+	#Arm the monarchist militants
+	focus = {
+		id = SAX_arm_the_monarchist_militants
+		icon = GFX_goal_unknown
+		x = 13
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+		prerequisite = { focus = SAX_grossdeutschland  focus = SAX_kleindeutschland  }
+	}
+
+	#German liberalism
+	focus = {
+		id = SAX_german_liberalism
+		icon = GFX_goal_unknown
+		x = 9
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_contact_the_prussian_federation  }
+		mutually_exclusive = { focus = SAX_french_revolutionary_republicanism  } mutually_exclusive = { focus = SAX_austrian_oligarchism  }
+	}
+
+	#French revolutionary republicanism
+	focus = {
+		id = SAX_french_revolutionary_republicanism
+		icon = GFX_goal_unknown
+		x = 11
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_contact_the_prussian_federation  }
+		mutually_exclusive = { focus = SAX_german_liberalism  } mutually_exclusive = { focus = SAX_austrian_oligarchism  }
+	}
+
+	#Austrian oligarchism
+	focus = {
+		id = SAX_austrian_oligarchism
+		icon = GFX_goal_unknown
+		x = 7
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_contact_the_prussian_federation  }
+		mutually_exclusive = { focus = SAX_german_liberalism  } mutually_exclusive = { focus = SAX_french_revolutionary_republicanism  }
+	}
+
+	#A new Crondstat Treachery
+	focus = {
+		id = SAX_a_new_crondstat_treachery
+		icon = GFX_goal_unknown
+		x = 9
+		y = 8
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = SAX_austrian_oligarchism  focus = SAX_german_liberalism  focus = SAX_french_revolutionary_republicanism  }
+	}
+
+	#The new german leadership
+	focus = {
+		id = SAX_the_new_german_leadership
+		icon = GFX_goal_unknown
+		x = 6
+		y = 9
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_german_but_not_germany  } prerequisite = { focus = SAX_a_new_crondstat_treachery  }
+	}
+
+	#German but not germany
+	focus = {
+		id = SAX_german_but_not_germany
+		icon = GFX_goal_unknown
+		x = 6
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_grossdeutschland  focus = SAX_kleindeutschland  }
+	}
+
+	#WIP hegemony
+	focus = {
+		id = SAX_wip_hegemony
+		icon = GFX_goal_unknown
+		x = 17
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_allegiancetonapoleon  } prerequisite = { focus = SAX_the_westphalian_statuquo  }
+		mutually_exclusive = { focus = SAX_a_prime_minister_leadership  } mutually_exclusive = { focus = SAX_form_a_civil_government  }
+	}
+
+	#Form a civil government
+	focus = {
+		id = SAX_form_a_civil_government
+		icon = GFX_goal_unknown
+		x = 22
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_allegiancetonapoleon  }
+		mutually_exclusive = { focus = SAX_wip_hegemony  } mutually_exclusive = { focus = SAX_a_prime_minister_leadership  }
+	}
+
+	#The 3rd rheibundakte
+	focus = {
+		id = SAX_the_3rd_rheibundakte
+		icon = GFX_goal_unknown
+		x = 20
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_wip_hegemony  focus = SAX_a_prime_minister_leadership  focus = SAX_form_a_civil_government  }
+	}
+
+	#A prime minister leadership
+	focus = {
+		id = SAX_a_prime_minister_leadership
+		icon = GFX_goal_unknown
+		x = 24
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_allegiancetonapoleon  }
+		mutually_exclusive = { focus = SAX_form_a_civil_government  } mutually_exclusive = { focus = SAX_wip_hegemony  }
+	}
+
+	#Support the code Napoléon extension
+	focus = {
+		id = SAX_supportthecodenapoleonextension
+		icon = GFX_goal_unknown
+		x = 21
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_the_3rd_rheibundakte  }
+	}
+
+	#The Prince-Primate election
+	focus = {
+		id = SAX_the_princeprimate_election
+		icon = GFX_goal_unknown
+		x = 26
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_the_38th_paris_conference  }
+	}
+
+	#Strengthen the Franco-WIP trade
+	focus = {
+		id = SAX_strengthen_the_francowip_trade
+		icon = GFX_goal_unknown
+		x = 19
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_the_3rd_rheibundakte  }
+	}
+
+	#Establish the WIP parliament
+	focus = {
+		id = SAX_establish_the_wip_parliament
+		icon = GFX_goal_unknown
+		x = 23
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_form_a_civil_government  focus = SAX_a_prime_minister_leadership  }
+	}
+
+	#Brig the Bundesprotektor title
+	focus = {
+		id = SAX_brig_the_bundesprotektor_title
+		icon = GFX_goal_unknown
+		x = 26
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_relocate_the_state_board_in_the_confederation  } prerequisite = { focus = SAX_the_model_state  }
+		mutually_exclusive = { focus = SAX_francowip_alliance  }
+	}
+
+	#Broadcast french radio
+	focus = {
+		id = SAX_broadcast_french_radio
+		icon = GFX_goal_unknown
+		x = 19
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_strengthen_the_francowip_trade  }
+	}
+
+	#Implement Boulanger policy
+	focus = {
+		id = SAX_implement_boulanger_policy
+		icon = GFX_goal_unknown
+		x = 22
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_form_a_civil_government  } prerequisite = { focus = SAX_establish_the_wip_parliament  }
+	}
+
+	#Relocate the state board in the confederation
+	focus = {
+		id = SAX_relocate_the_state_board_in_the_confederation
+		icon = GFX_goal_unknown
+		x = 24
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_a_prime_minister_leadership  }
+	}
+
+	#Reform the military
+	focus = {
+		id = SAX_reform_the_military
+		icon = GFX_goal_unknown
+		x = 28
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = SAX_the_38th_paris_conference  }
+	}
+
+	#State centralisation
+	focus = {
+		id = SAX_state_centralisation
+		icon = GFX_goal_unknown
+		x = 23
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_implement_boulanger_policy  } prerequisite = { focus = SAX_thezollverein  }
+	}
+
+	#Reforme the debt administration
+	focus = {
+		id = SAX_reforme_the_debt_administration
+		icon = GFX_goal_unknown
+		x = 21
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_implement_boulanger_policy  } prerequisite = { focus = SAX_thezollverein  }
+	}
+
+	#Abolish the privilegies
+	focus = {
+		id = SAX_abolish_the_privilegies
+		icon = GFX_goal_unknown
+		x = 26
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = SAX_the_princeprimate_election  }
+	}
+
+	#Finalize the agricultural reform
+	focus = {
+		id = SAX_finalize_the_agricultural_reform
+		icon = GFX_goal_unknown
+		x = 26
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_abolish_the_privilegies  }
+	}
+
+	#Conserve feodality
+	focus = {
+		id = SAX_conserve_feodality
+		icon = GFX_goal_unknown
+		x = 16
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_wip_hegemony  }
+		mutually_exclusive = { focus = SAX_erase_the_remains_of_fedoality  }
+	}
+
+	#Erase the remains of fedoality
+	focus = {
+		id = SAX_erase_the_remains_of_fedoality
+		icon = GFX_goal_unknown
+		x = 18
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = SAX_wip_hegemony  }
+		mutually_exclusive = { focus = SAX_conserve_feodality  }
+	}
+
+	#A german nation in an european empire
+	focus = {
+		id = SAX_a_german_nation_in_an_european_empire
+		icon = GFX_goal_unknown
+		x = 17
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_conserve_feodality  focus = SAX_erase_the_remains_of_fedoality  }
+	}
+
+	#Invest in state arsenals
+	focus = {
+		id = SAX_invest_in_state_arsenals
+		icon = GFX_goal_unknown
+		x = 28
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_reform_the_military  }
+	}
+
+	#Invest in a national savoir-faire
+	focus = {
+		id = SAX_invest_in_a_national_savoirfaire
+		icon = GFX_goal_unknown
+		x = 31
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = SAX_reform_the_military  }
+	}
+
+	#Tender to Krupp
+	focus = {
+		id = SAX_tender_to_krupp
+		icon = GFX_goal_unknown
+		x = 32
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_invest_in_a_national_savoirfaire  }
+		mutually_exclusive = { focus = SAX_tender_to_schneider  }
+	}
+
+	#Tender to schneider
+	focus = {
+		id = SAX_tender_to_schneider
+		icon = GFX_goal_unknown
+		x = 30
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_invest_in_a_national_savoirfaire  }
+		mutually_exclusive = { focus = SAX_tender_to_krupp  }
+	}
+
+	#Motorisation effort
+	focus = {
+		id = SAX_motorisation_effort
+		icon = GFX_goal_unknown
+		x = 31
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = SAX_tender_to_krupp  focus = SAX_tender_to_schneider  }
+	}
+
+	#The model state
+	focus = {
+		id = SAX_the_model_state
+		icon = GFX_goal_unknown
+		x = 26
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_finalize_the_agricultural_reform  }
+	}
+
+	#Enact state conscription
+	focus = {
+		id = SAX_enact_state_conscription
+		icon = GFX_goal_unknown
+		x = 28
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+		prerequisite = { focus = SAX_invest_in_state_arsenals  } prerequisite = { focus = SAX_finalize_the_agricultural_reform  }
+	}
+
+	#Franco-WIP alliance
+	focus = {
+		id = SAX_francowip_alliance
+		icon = GFX_goal_unknown
+		x = 31
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_motorisation_effort  } prerequisite = { focus = SAX_enact_state_conscription  } prerequisite = { focus = SAX_the_model_state  }
+		mutually_exclusive = { focus = SAX_brig_the_bundesprotektor_title  }
+	}
+
+	#Expand the royal guard
+	focus = {
+		id = SAX_expand_the_royal_guard
+		icon = GFX_goal_unknown
+		x = 17
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+		prerequisite = { focus = SAX_a_german_nation_in_an_european_empire  }
+	}
+
+	#Royal officer corps
+	focus = {
+		id = SAX_royal_officer_corps
+		icon = GFX_goal_unknown
+		x = 16
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+		prerequisite = { focus = SAX_expand_the_royal_guard  }
+	}
+
+	#Implement the french code civile
+	focus = {
+		id = SAX_implement_the_french_code_civile
+		icon = GFX_goal_unknown
+		x = 17
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_expand_the_royal_guard  }
+	}
+
+	#Establish family links with the Bonaparts
+	focus = {
+		id = SAX_establish_family_links_with_the_bonaparts
+		icon = GFX_goal_unknown
+		x = 18
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_broadcast_french_radio  } prerequisite = { focus = SAX_implement_the_french_code_civile  }
+	}
+
+	#End customs controls
+	focus = {
+		id = SAX_end_customs_controls
+		icon = GFX_goal_unknown
+		x = 21
+		y = 9
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_invest_in_train_transportation  }
+	}
+
+	#Implement excise duty
+	focus = {
+		id = SAX_implement_excise_duty
+		icon = GFX_goal_unknown
+		x = 20
+		y = 8
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_invest_in_train_transportation  }
+	}
+
+	#Host the Central Invoice Office
+	focus = {
+		id = SAX_host_the_central_invoice_office
+		icon = GFX_goal_unknown
+		x = 19
+		y = 9
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_implement_excise_duty  }
+	}
+
+	#Invest in train transportation
+	focus = {
+		id = SAX_invest_in_train_transportation
+		icon = GFX_goal_unknown
+		x = 20
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_thezollverein  }
+	}
+
+	#Enforce free trade
+	focus = {
+		id = SAX_enforce_free_trade
+		icon = GFX_goal_unknown
+		x = 21
+		y = 10
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_end_customs_controls  }
+	}
+
+	#Prepare for the inevitable
+	focus = {
+		id = SAX_prepare_for_the_inevitable
+		icon = GFX_goal_unknown
+		x = 28
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_WAR_SUPPORT
+		}
+		prerequisite = { focus = SAX_francowip_alliance  focus = SAX_brig_the_bundesprotektor_title  }
+	}
+
+	#Reform the Freikorps
+	focus = {
+		id = SAX_reform_the_freikorps
+		icon = GFX_goal_unknown
+		x = 25
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_WAR_SUPPORT
+		}
+		prerequisite = { focus = SAX_brig_the_bundesprotektor_title  }
+	}
+
+	#Napoleon I tenacity
+	focus = {
+		id = SAX_napoleon_i_tenacity
+		icon = GFX_goal_unknown
+		x = 29
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_prepare_for_the_inevitable  }
+		mutually_exclusive = { focus = SAX_frederic_ii_military_genius  }
+	}
+
+	#Frederic II military genius
+	focus = {
+		id = SAX_frederic_ii_military_genius
+		icon = GFX_goal_unknown
+		x = 27
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+			FOCUS_FILTER_GERMAN_INFLUENCE
+		}
+		prerequisite = { focus = SAX_prepare_for_the_inevitable  }
+		mutually_exclusive = { focus = SAX_napoleon_i_tenacity  }
+	}
+
+	#Franco-WIP wargames
+	focus = {
+		id = SAX_francowip_wargames
+		icon = GFX_goal_unknown
+		x = 31
+		y = 8
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = SAX_import_the_french_75_mm_field_gun  } prerequisite = { focus = SAX_french_military_mission_in_wip  }
+	}
+
+	#The french TRAIN
+	focus = {
+		id = SAX_the_french_train
+		icon = GFX_goal_unknown
+		x = 30
+		y = 9
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = SAX_napoleon_i_tenacity  } prerequisite = { focus = SAX_francowip_wargames  }
+	}
+
+	#French military mission in WIP
+	focus = {
+		id = SAX_french_military_mission_in_wip
+		icon = GFX_goal_unknown
+		x = 30
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_francowip_alliance  }
+	}
+
+	#Import the French 75 mm field gun
+	focus = {
+		id = SAX_import_the_french_75_mm_field_gun
+		icon = GFX_goal_unknown
+		x = 32
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_FRENCH_INFLUENCE
+		}
+		prerequisite = { focus = SAX_francowip_alliance  }
+	}
+
+	#Unite the confederation
+	focus = {
+		id = SAX_unite_the_confederation
+		icon = GFX_goal_unknown
+		x = 25
+		y = 9
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_merge_the_federation_general_staffs  } prerequisite = { focus = SAX_full_power_to_the_bundesprotektor  }
+	}
+
+	#Merge the federation general staffs
+	focus = {
+		id = SAX_merge_the_federation_general_staffs
+		icon = GFX_goal_unknown
+		x = 26
+		y = 8
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_brig_the_bundesprotektor_title  }
+	}
+
+	#Full power to the Bundesprotektor
+	focus = {
+		id = SAX_full_power_to_the_bundesprotektor
+		icon = GFX_goal_unknown
+		x = 24
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_RHINE_CONFEDERATION
+		}
+		prerequisite = { focus = SAX_reform_the_freikorps  }
+	}
+
+	#Reform the schatzung
+	focus = {
+		id = SAX_reform_the_schatzung
+		icon = GFX_goal_unknown
+		x = 5
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_finalize_debt_repayment  }
+	}
+
+	#Study guerilla warfare
+	focus = {
+		id = SAX_study_guerilla_warfare
+		icon = GFX_goal_unknown
+		x = 30
+		y = 75
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { }
+	}
+
+	#Modernisation of the industry
+	focus = {
+		id = SAX_modernisation_of_the_industry
+		icon = GFX_goal_unknown
+		x = 4
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_industrial_planification  }
+	}
+
+	#Develop state arsenals
+	focus = {
+		id = SAX_develop_state_arsenals
+		icon = GFX_goal_unknown
+		x = 0
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_industrial_planification  }
+	}
+
+	#Industrial planification
+	focus = {
+		id = SAX_industrial_planification
+		icon = GFX_goal_unknown
+		x = 3
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_finalize_debt_repayment  }
+	}
+
+	#Electrification of the countryside
+	focus = {
+		id = SAX_electrification_of_the_countryside
+		icon = GFX_goal_unknown
+		x = 2
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_industrial_planification  }
+	}
+
+	#Invest in public transportation
+	focus = {
+		id = SAX_invest_in_public_transportation
+		icon = GFX_goal_unknown
+		x = 3
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_electrification_of_the_countryside  } prerequisite = { focus = SAX_modernisation_of_the_industry  }
+	}
+
+	#Invest in movie industry
+	focus = {
+		id = SAX_invest_in_movie_industry
+		icon = GFX_goal_unknown
+		x = 6
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_finalize_debt_repayment  }
+	}
+
+	#Car industry development
+	focus = {
+		id = SAX_car_industry_development
+		icon = GFX_goal_unknown
+		x = 7
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = SAX_invest_in_movie_industry  focus = SAX_invest_in_aircraft_manufacturing  }
+	}
+
+	#Invest in aircraft manufacturing
+	focus = {
+		id = SAX_invest_in_aircraft_manufacturing
+		icon = GFX_goal_unknown
+		x = 8
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = SAX_finalize_debt_repayment  }
+	}
+
+	#Developp air infastructure
+	focus = {
+		id = SAX_developp_air_infastructure
+		icon = GFX_goal_unknown
+		x = 8
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = SAX_invest_in_aircraft_manufacturing  }
+	}
+
+}

@@ -1,0 +1,10 @@
+SAX_balance_of_power_category = {
+	icon = GFX_decision_category_power_struggle
+	
+	allowed = {
+		original_tag = SAX
+	}
+	visible = {
+		has_completed_focus = SAX_the_38th_paris_conference
+	}
+}

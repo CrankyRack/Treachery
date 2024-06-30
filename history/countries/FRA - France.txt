@@ -74,15 +74,35 @@ set_autonomy = {
 		target = BOH
 		autonomous_state = autonomy_german_prince_1
 	}
+
 give_guarantee = TOS
 give_guarantee = HAN
 give_guarantee = LSS
 give_guarantee = MAC
 give_guarantee = NSV
 
+create_faction = "League of the Rhine"
+Add_to_faction = BAD
+Add_to_faction = WUR
+Add_to_faction = ANS
+Add_to_faction = VGE
+Add_to_faction = BRU
+Add_to_faction = LEI
+Add_to_faction = GBA
+Add_to_faction = CHU
+Add_to_faction = DAG
+Add_to_faction = BSK
+Add_to_faction = BAS
+Add_to_faction = OVO
+Add_to_faction = SAX
+Add_to_faction = CRC
+Add_to_faction = KSH
+Add_to_faction = BAY
+Add_to_faction = HAN
+Add_to_faction = ANH
+
 set_stability = 0.5
 add_command_power = 20
-
 
 # Starting tech
 set_technology = {
