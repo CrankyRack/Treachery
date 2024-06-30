@@ -101,6 +101,7 @@ Add_to_faction = BAY
 Add_to_faction = HAN
 Add_to_faction = ANH
 Add_to_faction = PAP
+Add_to_faction = HOL
 
 set_stability = 0.5
 add_command_power = 20
