@@ -1,0 +1,31 @@
+
+state={
+	id=1244
+	name="Budva"
+
+	history={
+		victory_points = {
+			13270 5 
+		}
+		owner = AUS
+		add_core_of = MNT
+		buildings = {
+			infrastructure = 2
+			13270 = {
+				naval_base = 7
+			}
+		}
+		add_core_of = HRZ
+		add_core_of = CRO
+
+	}
+
+	provinces={
+		13270
+	}
+	manpower=65306
+	buildings_max_level_factor=1.000
+	state_category=enclave
+
+	local_supplies=3.0 
+}

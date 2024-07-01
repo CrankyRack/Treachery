@@ -5,13 +5,6 @@
 #### 3D MODELS ####
 ###################
 
-#Cosmetic tags used (3D models will look for these cosmetic tags when hooking themselves):
-#TUR_communism
-#TUR_democratic
-#TUR_fascism
-#TUR_neutrality
-set_cosmetic_tag = TUR_neutrality
-
 set_research_slots = 3
 set_autonomy = {
 		target = KNT

@@ -9,12 +9,12 @@ ENG = {
 	color_ui = rgb { 168 14 11 }
 }
 SOV = {
-	color = rgb { 80 115 45 }
-	color_ui = rgb { 24 130 80 }
+	color = rgb { 24 130 80 }
+	color_ui = rgb { 80 115 45 }
 }
 SWE = {
-	color = rgb { 72  73  126 }
-	color_ui = rgb { 4 92 184 }
+	color = rgb { 71 87 145 }
+	color_ui = rgb { 71 87 145 }
 }
 FRA = {
 	color = rgb { 53 73 140 }
@@ -47,20 +47,20 @@ CZE = {
 	color_ui = rgb { 70 217 203 }
 }
 POL = {
-	color = rgb { 177 92 106 }
-	color_ui = rgb { 208 12 39 }
+	color = rgb { 183 42 70 }
+	color_ui = rgb { 183 42 70 }
 }
 AUS = {
-	color = rgb { 220 220 220 }
+	color = rgb { 220 210 220 }
 	color_ui = rgb { 220 220 220 }
 }
 LIT = {
-	color = rgb { 177 92 106 }
-	color_ui = rgb { 208 12 39 }
+	color = rgb { 183 42 70 }
+	color_ui = rgb { 183 42 70 }
 }
 EST = {
-	color = rgb { 72  73  126 }
-	color_ui = rgb { 4 92 184 }
+	color = rgb { 60 69 196 }
+	color_ui = rgb { 60 69 196 }
 }
 #LAT = {
 	#color = rgb { 75 77 186 }
@@ -96,15 +96,15 @@ YUG = {
 	color_ui = rgb { 94 95 164 }
 }
 SWI = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 193 81 81 }
+	color = rgb { 190 15 15 }
+	color_ui = rgb { 190 15 15 }
 }
 TUR = {
 	color = rgb { 164 0 0 }
 	color_ui = rgb { 164 0 0 }
 }
 GRE = {
-	color = rgb { 50 135 175 }
+	color = rgb { 107 147 206 }
 	color_ui = rgb { 107 147 206 }
 }
 ALB = {
@@ -236,8 +236,8 @@ PAN = {
 	color_ui = rgb { 198 169 248 }
 }
 PER = {
-	color = rgb { 80 159 90 }
-	color_ui = rgb { 92 147 126 }
+	color = rgb { 114 148 80 }
+	color_ui = rgb { 114 148 80 }
 }
 PHI = {
 	color = rgb { 152 130 191 }
@@ -805,7 +805,7 @@ KOM = {
 	color_ui = rgb { 0 128 102 }
 }
 ABK = {
-	color = rgb { 114 148 80 }
+	color = rgb { 80 159 90 }
 	color_ui = rgb { 36 143 36 }
 }
 KBK = {
@@ -925,8 +925,8 @@ ALC = {
 	color_ui = rgb { 105 105 105 }
 }
 SCH = {
-	color = rgb { 153 0 0 }
-	color_ui = rgb { 193 81 81 }
+	color = rgb { 190 15 15 }
+	color_ui = rgb { 190 15 15 }
 }
 BRU = {
 	color = rgb { 170  10  10 }

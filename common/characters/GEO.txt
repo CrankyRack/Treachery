@@ -1,0 +1,15 @@
+characters={
+	GEO_david_III={
+		name="Davit III Bagrationi"
+		portraits={
+			civilian={
+				large="gfx/leaders/GEO/GEO_david_III.dds"
+			}
+		}
+		country_leader={
+			ideology=monarchism_sub
+			expire="1922.1.1.1"
+			id=-1
+		}
+	}
+}
