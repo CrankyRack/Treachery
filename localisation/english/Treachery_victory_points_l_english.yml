@@ -792,7 +792,7 @@
  VICTORY_POINTS_11965:0 "Kalamáta"
  VICTORY_POINTS_12058:0 "Chania"
  VICTORY_POINTS_7193:0 "Limassol"
- VICTORY_POINTS_11767:0 "Vlorë"
+ VICTORY_POINTS_11767:0 "Valona"
  VICTORY_POINTS_12049:0 "Port Said"
  VICTORY_POINTS_4073:0 "Suez"
  VICTORY_POINTS_3996:0 "Giza"
@@ -973,7 +973,7 @@
  VICTORY_POINTS_9710:0 "Bayonne"
  VICTORY_POINTS_11857:1 "Leskovac"
  VICTORY_POINTS_3614:0 "Pancevo"
- VICTORY_POINTS_914:0 "Gjirokastër"
+ VICTORY_POINTS_914:0 "Argyrókastron"
  VICTORY_POINTS_1068:0 "Beni Suef"
  VICTORY_POINTS_4161:0 "El-Arīsh"
  VICTORY_POINTS_10099:0 "Sharm el-Sheikh"
@@ -1101,7 +1101,7 @@
  VICTORY_POINTS_138:0 "Kargopol"
  VICTORY_POINTS_11061:0 "Kotlas"
  VICTORY_POINTS_7708:0 "Pavlodar"
- VICTORY_POINTS_13255:0 "Durrës"
+ VICTORY_POINTS_13255:0 "Durazzo"
  VICTORY_POINTS_13256:0 "Siracusa"
  VICTORY_POINTS_13240:0 "Aussa"
  VICTORY_POINTS_12100:0 "Melilla"
@@ -1110,11 +1110,20 @@
  VICTORY_POINTS_6946:0 "Leghorn"
  VICTORY_POINTS_9772:0 "Sassari"
  VICTORY_POINTS_9780:0 "Shkodër"
- VICTORY_POINTS_6900:0 "Korçë"
+ VICTORY_POINTS_6900:0 "Curceaua"
  VICTORY_POINTS_3917:0 "Eleonora"
  VICTORY_POINTS_6680:0 "Liechtenstein"
  VICTORY_POINTS_11822:0 "East Beijing"
  VICTORY_POINTS_9263:0 "Großendorf"
  VICTORY_POINTS_4574:0 "Azraq ash Shīshān"
  VICTORY_POINTS_3474:0 "Rudolstadt"
+<<<<<<< Updated upstream:localisation/english/Treachery_victory_points_l_english.yml
  VICTORY_POINTS_10410:0 "Vicksburg"
+=======
+ VICTORY_POINTS_10410:0 "Vicksburg"
+ VICTORY_POINTS_9837:0 "Florina"
+ VICTORY_POINTS_974:0 "Pãrleap"
+ VICTORY_POINTS_833:0 "Kicavis"
+
+ 
+>>>>>>> Stashed changes:localisation/english/victory_points_l_english.yml

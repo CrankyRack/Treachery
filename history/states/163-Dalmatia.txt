@@ -17,7 +17,6 @@ state = {
 			}
 		}
 		add_core_of = CRO
-		add_core_of = HRZ
 	}
 	provinces = {	
 		3943 

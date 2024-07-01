@@ -2,10 +2,9 @@
 state={
 	id=47
 	name="STATE_47" # Thessaly
-	manpower=2312500
+	manpower=2116533
 	resources={
 		steel=3 # was: 4
-		chromium=12 # was: 22
 		aluminium=30 # was: 58
 	}
 	
@@ -50,7 +49,7 @@ state={
 	}
 
 	provinces={
-		976 1109 1205 3988 4109 7127 11895
+		976 1109 3988 4109 7127
 	}
 
 	local_supplies=0.0 
