@@ -1,0 +1,185 @@
+ideas = {
+	country = {
+		criollo_influence_loyal = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				
+			}
+
+			removal_cost = -1
+
+			picture = generic_spy_intel
+			
+			modifier = {
+				stability_factor = 0.2
+				army_org = 0.1
+			}
+		}
+		
+		criollo_influence_neutral = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				
+			}
+
+			removal_cost = -1
+
+			picture = generic_spy_intel
+			
+			modifier = {
+				
+			}
+		}
+		
+		criollo_influence_disloyal = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				
+			}
+
+			removal_cost = -1
+
+			picture = generic_spy_intel
+			
+			modifier = {
+				army_org = -0.1
+				stability_factor = -0.2
+			}
+		}
+		
+		
+		indios_influence_loyal = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				
+			}
+
+			removal_cost = -1
+
+			picture = generic_spy_intel
+			
+			modifier = {
+				consumer_goods_factor = -0.15
+				global_building_slots_factor = 0.1
+			}
+		}
+		
+		indios_influence_neutral = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				
+			}
+
+			removal_cost = -1
+
+			picture = generic_spy_intel
+			
+			modifier = {
+				consumer_goods_factor = -0.05
+			}
+		}
+		
+		indios_influence_disloyal = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				
+			}
+
+			removal_cost = -1
+
+			picture = generic_spy_intel
+			
+			modifier = {
+				consumer_goods_factor = 0.15
+				global_building_slots_factor = -0.2
+			}
+		}
+		
+		llanero_influence_loyal = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				
+			}
+
+			removal_cost = -1
+
+			picture = generic_spy_intel
+			
+			modifier = {
+				cavalry_defence_factor = 0.1
+				cavalry_attack_factor = 0.1
+				war_support_factor = 0.1
+			}
+		}
+		
+		llanero_influence_neutral = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				
+			}
+
+			removal_cost = -1
+
+			picture = generic_spy_intel
+			
+			modifier = {
+				cavalry_defence_factor = 0.05
+				cavalry_attack_factor = 0.05
+				war_support_factor = -0.1
+			}
+		}
+		
+		llanero_influence_disloyal = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				
+			}
+
+			removal_cost = -1
+
+			picture = generic_spy_intel
+			
+			modifier = {
+				cavalry_defence_factor = -0.1
+				cavalry_attack_factor = -0.1
+				war_support_factor = -0.2
+			}
+		}
+	}
+}
