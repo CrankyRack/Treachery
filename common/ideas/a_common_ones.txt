@@ -1,0 +1,603 @@
+ideas = {
+	country = {
+		PRE_military_traditions = {
+			
+			picture = PRE_military_traditions
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				army_org_Factor = 0.05
+				planning_speed = 0.25
+			}
+		}
+		IRE_king_louis = {
+			
+			picture = IRE_king_louis
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = 0.15
+			}
+		}
+		IRE_northern_protestants = {
+			
+			picture = IRE_northern_protestants
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.1
+				consumer_goods_factor = 0.05
+			}
+		}
+		DEN_the_controversal_king = {
+			
+			picture = DEN_the_controversal_king
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.1
+			}
+		}
+		DEN_norwegian_unrest = {
+			
+			picture = DEN_norwegian_unrest
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    war_support_factor = -0.05
+				stability_factor = -0.2
+			    recruitable_population_factor = -0.1
+			    consumer_goods_factor = 0.05
+			}
+		}
+		DEN_danish_fleet = {
+			
+			picture = DEN_danish_fleet
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = 0.1
+			naval_coordination = 0.15
+			experience_gain_navy_factor = 0.1
+			}
+		}
+		DEN_outdated_land_forces = {
+			
+			picture = DEN_outdated_land_forces
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			war_support_factor = -0.05
+			land_doctrine_cost_factor = 0.2
+			training_time_factor = -0.05
+			army_org_Factor = -0.1
+			}
+		}
+		DEN_souring_relations_with_sweden = {
+			
+			picture = DEN_souring_relations_with_sweden.dds
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			war_support_factor = 0.1
+			}
+			targeted_modifier = { tag = SWE trade_cost_for_target_factor = 0.25 }
+			targeted_modifier = { tag = SWE improve_relations_maintain_cost_factor = 1 }
+		}
+		DEN_union_with_brandenburg = {
+			
+			picture = DEN_union_with_brandenburg
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = 0.2
+			}
+		}
+		MAD_british_support = {
+			
+			picture = MAD_british_support
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    war_support_factor = 0.05
+			    consumer_goods_factor = -0.05
+			}
+		}
+		SWE_adelsparre = {
+			
+			picture = SWE_adelsparre
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = 0.05
+			}
+		}
+		SWE_swedish_lion_roars = {
+			
+			picture = SWE_swedish_lion_roars
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    war_support_factor = 0.05
+			    recruitable_population_factor = 0.1
+			    consumer_goods_factor = -0.025
+			}
+		}
+		SWE_krigsmakten = {
+			
+			picture = SWE_krigsmakten
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			land_doctrine_cost_factor = 0.1
+			consumer_goods_factor = 0.1
+			army_org_Factor = -0.1
+			}
+		}
+		SWE_american_emigration = {
+			
+			picture = SWE_american_emigration
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    stability_factor = -0.05
+				consumer_goods_factor = -0.02
+			    monthly_population = -0.2
+			}
+		}
+		gen_french_army = {
+
+			# picture = #
+
+			allowed = {
+				always = yes
+			}
+
+			cancel = {
+				ROOT = { has_war_with = FRA }
+			}
+
+			#rule = {
+				
+			#}
+
+			on_remove = {
+				if = {
+					limit = { ROOT = { has_country_flag = nationalized_army } }
+					add_political_power = 100
+					country_lock_all_division_template = no
+				}
+				else = {
+					add_ideas = {
+						gen_traitors_in_the_army
+					}
+				}
+			}
+
+			modifier = {
+				stability_factor = -0.20
+				political_power_cost = 0.2
+				war_support_factor = -0.15
+				army_defence_factor = 0.25
+				army_attack_factor = 0.25
+				custom_modifier_tooltip = GEN_french_army_tooltip_loc
+			}
+		}
+		gen_traitors_in_the_army = {
+
+			# picture = #
+
+			allowed = {
+				always = yes
+			}
+
+			cancel = {
+				ROOT = { has_war = no }
+			}
+
+			rule = {
+
+			}
+
+			modifier = {
+				stability_factor = -0.20
+				war_support_factor = -0.20
+				army_attack_factor = -0.15
+				army_defence_factor = -0.15
+				army_org_factor = -0.20
+			}
+		}
+		GEN_confederation_of_rhine = {
+			
+			picture = confederation_of_rhine
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    stability_factor = 0.05
+				political_power_factor = -0.25
+				war_support_factor = -0.20
+
+			}
+		}
+		HAN_westphalian_army = {
+
+			picture = westphalian_army
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				war_support_factor = 0.03
+				army_attack_factor = 0.05
+				army_org_factor = 0.10
+				consumer_goods_factor = 0.1
+				political_power_factor = -0.1
+			}
+		}
+		PRE_landwehr = {
+			
+			picture = SWE_swedish_lion_roars
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    war_support_factor = 0.1
+			    recruitable_population_factor = 0.25
+				army_org_factor = -0.10
+			    consumer_goods_factor = 0.2
+			}
+		}
+		PER_gendarmerie = {
+
+			picture = PER_gendarmerie
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				army_org_factor = 0.05
+				recruitable_population_factor = 0.1
+				consumer_goods_factor = 0.15
+			}
+		}
+		MAD_french_expansion = {
+
+			picture = MAD_french_expansion
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				war_support_factor = 0.1
+				stability_factor = -0.3
+				political_power_factor = -0.3
+			}
+		}
+		FRA_heritage_of_napoleon = {
+			
+			picture = FRA_heritage_of_napoleon
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				war_support_factor = 0.05
+				stability_factor = 0.05
+				political_power_factor = 0.1
+			}
+		}
+		FRA_oversized_empire = {
+
+			picture = FRA_oversized_empire
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.1
+				recruitable_population_factor = -0.1
+				mobilization_speed = -0.25
+			}
+		}
+		FRA_colonial_army = {
+
+			picture = FRA_colonial_army
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				army_attack_factor = -0.1
+				acclimatization_hot_climate_gain_factor = 0.05
+				resistance_damage_to_garrison_on_our_occupied_states = -0.25
+
+			}
+		}
+		FRA_the_boulanger_policy = {
+			
+			picture = FRA_the_boulanger_policy
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+		CT_ITC_New_Medici = {
+
+			picture = SWE_imperial_army
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				stability_factor = -0.05
+				political_power_factor = 0.1
+			}
+		}
+
+		CT_ITC_Legacy_Thousand = {
+
+			picture = SWE_imperial_army
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				resistance_growth_on_our_occupied_states = 0.15
+				resistance_damage_to_garrison_on_our_occupied_states = 0.15
+				resistance_target_on_our_occupied_states = 0.15
+				conscription_factor = 0.1
+				army_core_defence_factor = 0.1
+			}
+		}
+
+		CT_ITC_British_Influence = {
+
+			picture = SWE_imperial_army
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				custom_modifier_tooltip = CT_British_Influence_tt
+			}
+
+			targeted_modifier = {
+				tag = NIR
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+				extra_trade_to_target_factor = 0.1
+			}
+		}
+
+		CT_ITC_Unindustrialized_Economy = {
+
+			picture = SWE_imperial_army
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				production_speed_buildings_factor = -0.25
+				production_factory_max_efficiency_factor = -0.1
+				production_factory_efficiency_gain_factor = -0.1
+			}
+		}
+
+		VIN_the_pearl_of_the_empire = {
+
+		}
+
+		VIN_the_200_millions_debt = {
+		}
+
+		VIN_the_banque_de_l_indochine = {
+		}
+	}   
+}
+
