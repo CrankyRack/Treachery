@@ -1,0 +1,42 @@
+﻿capital = 1155 #detmold
+
+#oob = "BSK_1936"
+
+set_research_slots = 2
+
+
+recruit_character = BSK_leopold_iv
+
+add_ideas = {
+    GEN_confederation_of_rhine
+}
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1		
+	tech_engineers = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+}
+
+set_politics = {
+	ruling_party = authoritarian
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+
+set_popularities = {
+	democratic = 20
+	liberalism = 18
+	authoritarian = 32
+	vanguardism = 3
+	democratic_socialism = 5
+	monarchist = 12
+	patrimonialism = 10
+}
+
+
+
+

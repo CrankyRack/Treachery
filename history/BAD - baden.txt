@@ -1,0 +1,37 @@
+﻿capital = 939
+
+add_ideas = {
+    GEN_confederation_of_rhine
+}
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+recruit_character = BAD_frederick_ii
+
+set_research_slots = 3
+set_convoys = 0
+set_stability = 0.75
+
+
+set_politics = {
+	ruling_party = authoritarian
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+
+}
+set_popularities = {
+	democratic = 5
+	liberalism = 4
+	authoritarian = 40
+	democratic_socialism = 5
+	patrimonialism = 15
+	monarchist = 31
+}
+
+
+
+
