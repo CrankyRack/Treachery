@@ -593,7 +593,7 @@ ideas = {
 
 		}
 
-		VIN_the_200_millions_debt = {
+		VIN_the_factory_of_asia = {
 		}
 
 		VIN_the_banque_de_l_indochine = {
