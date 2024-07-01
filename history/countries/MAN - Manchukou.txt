@@ -8,11 +8,6 @@ set_technology = {
 	
 }
 
-if = {
-	limit = { has_dlc = "Waking the Tiger" }
-	add_ideas = MAN_low_legitimacy_5
-	recruit_character = MAN_songgotu_zhanshan
-}
 
 recruit_character = MAN_guangxu_emperor
 recruit_character = MAN_zhang_haipeng
@@ -31,33 +26,15 @@ recruit_character = MAN_hesehn_tiemei
 recruit_character = MAN_xian_yuan
 recruit_character = MAN_guan_xingde
 recruit_character = MAN_megata_toshiro
-#if = {
-#	limit = { has_dlc = "No Step Back" }
-#	recruit_character = SOV_grigory_semyonov
-#	SOV_grigory_semyonov = { 
-#		set_character_flag = SOV_exiled_army_leader
-#	}
-#}
 
 
 set_convoys = 500
 
 set_autonomy = {
-	target = MON
-	autonomous_state = autonomy_puppet
-}
-set_autonomy = {
 	target = UZB
 	autonomous_state = autonomy_puppet
 }
-set_autonomy = {
-	target = TIB
-	autonomous_state = autonomy_puppet
-}
-set_autonomy = {
-	target = SIK
-	autonomous_state = autonomy_puppet
-}
+
 create_faction = "Tianxia"
 Add_to_faction = MON
 Add_to_faction = UZB

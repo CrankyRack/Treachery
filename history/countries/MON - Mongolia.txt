@@ -2,6 +2,13 @@
 
 #oob = "MON_1936"
 
+MAN = {
+set_autonomy = {
+		target = MON
+		autonomous_state = autonomy_integrated_puppet
+	}
+}
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
@@ -12,8 +19,6 @@ add_ideas = {
 }
 
 recruit_character = MON_Namnansuren
-
-
 
 
 set_politics = {
