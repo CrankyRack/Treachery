@@ -90,6 +90,12 @@ if = {
 	}
 }
 
+add_ideas = {
+	VIN_the_pearl_of_the_empire
+	VIN_the_factory_of_asia
+	VIN_the_banque_de_l_indochine
+}
+
 set_politics = {
 	ruling_party = democratic
 	last_election = "1933.2.16"
