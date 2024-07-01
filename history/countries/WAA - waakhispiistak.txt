@@ -1,6 +1,6 @@
 ﻿capital = 388
 
-#recruit_character = ADR_maal_Aynayn
+recruit_character = WAA_alaxchiia
 
 set_technology = {
 	infantry_weapons = 1

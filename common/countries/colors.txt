@@ -1430,3 +1430,7 @@ KSH = {
 	color = rgb { 255 163 0 }
 	color_ui = rgb { 229 59 68 }
 }
+CHE = {
+	color = rgb { 203 25 25 }
+	color_ui = rgb { 203 25 25 }
+}

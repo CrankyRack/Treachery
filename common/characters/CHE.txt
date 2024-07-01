@@ -1,0 +1,16 @@
+characters = {
+	CHE_white_buffalo = {
+		name="White Buffalo"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/CHE/CHE_white_buffalo.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
