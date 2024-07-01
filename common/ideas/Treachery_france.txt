@@ -1,0 +1,82 @@
+ideas = {
+	country = {
+		FRA_heritage_of_napoleon = {
+			
+			picture = FRA_heritage_of_napoleon
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				war_support_factor = 0.05
+				stability_factor = 0.05
+				political_power_factor = 0.1
+			}
+		}
+		FRA_oversized_empire = {
+
+			picture = FRA_oversized_empire
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				consumer_goods_factor = 0.1
+				recruitable_population_factor = -0.1
+				mobilization_speed = -0.25
+			}
+		}
+		FRA_colonial_army = {
+
+			picture = FRA_colonial_army
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				army_attack_factor = -0.1
+				acclimatization_hot_climate_gain_factor = 0.05
+				resistance_damage_to_garrison_on_our_occupied_states = -0.25
+
+			}
+		}
+		FRA_the_boulanger_policy = {
+			
+			picture = FRA_the_boulanger_policy
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+	}   
+}
