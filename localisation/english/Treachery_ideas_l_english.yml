@@ -1,0 +1,83 @@
+﻿l_english:
+ SWE_imperial_army:0 "The Imperial Army"
+ SWE_imperial_army_desc:0 "The Swedish Imperial Army"
+
+ SWE_memories_of_the_scanian_war:0 "Memories of the Scanian War"
+ SWE_memories_of_the_scanian_war_desc:0 "As another layer of bodies decomposes in Scanian mud, Emperor Karl IV might just find his Empire fracturing in unexpected places..."
+ 
+ IRE_king_louis:0 "King Louis I"
+ IRE_king_louis_desc:0 "."
+ 
+ IRE_northern_protestants:0 "Ulster Protestants"
+ IRE_northern_protestants_desc:0 "."
+ 
+ DEN_the_controversal_king:0 "The Controversial King"
+ DEN_the_controversal_king_desc:0 "Frederick of Denmark has a controversial reputation, that infamy originates from many reasons. He is married to a swedish princess which is heavily judged by the Danish people. He is far more liberal than his predecessor, his father. He would slowly let go of danish holdings in  Europe which is looked down heavily, since those holdings reprepenst Danish pride. Most Danish conservatives oppose his rather radical ideas, thus making his rule unpopular."
+
+ MAD_british_support:0 "British Support"
+ MAD_british_support_desc:0 "The British central african government has pledged their support in our conflict with the french."
+ 
+ SWE_adelsparre:0 "Adelsparre Royal Dynasty"
+ SWE_adelsparre_desc:0 "."
+ 
+ SWE_swedish_lion_roars:0 "The Swedish Lion roars again!"
+ SWE_swedish_lion_roars_desc:0 "."
+ 
+ SWE_krigsmakten:0 "Status of Krigsmakten"
+ SWE_krigsmakten_desc:0 "."
+ 
+ SWE_american_emigration:0 "Large Emigration to America"
+ SWE_american_emigration_desc:0 "."
+
+ GEN_french_army_tooltip_loc:0 "§RThis spirit will be removed and replaced with "Traitors In The Army" if we were to go to war with France!"
+ 
+ GEN_confederation_of_rhine:0 "Confederation of the Rhine"
+ GEN_confederation_of_rhine_desc:0 "In the grand tapestry of European history, the Confederated States of the Rhine emerge as a fiery testament to the transformative touch of §YNapoleon I§! in 1805. Picture the fervor that swept across the German states as they willingly embraced change, bidding farewell to the age-old dominion of the Holy Roman Empire. It was a seismic shift, a resounding declaration of a new era. \n\nBut the story doesn't end there; it evolves in the subsequent years of 1812 and 1830, marked by a phoenix-like rebirth of the confederation. Witness the exhilarating dance of unity, as smaller principalities enthusiastically melded into larger duchies and kingdoms. It was a symphony of consolidation, a harmonious crescendo resonating across the Germanic landscape.  \n\nAmidst this dynamic metamorphosis, the leading voices echoed from the bastions of power—the three Bonaparte realms: the §3Kingdom of Westphalia§!@HAN, the §1Grand Duchy of Berg§!@LEI, and the §tGrand Duchy of Frankfurt§!@BRU. Their influence, akin to a tempest, guided the confederation through the winds of change. \n\nBehold the confederation, an intricate mosaic woven from the threads of the federal assembly. Two pillars of governance stand tall—the §CCollege of Kings§! and the §CCollege of Princes§!. Both integral to the Confederated States of the Rhine, embody a dual source of authority, where monarchs and princes converge in a symphony of governance, shaping the destiny of a vibrant political entity. \n\nYet, not everyone sees the Confederated States of the Rhine with the same fervor. Some skeptics label it as an inefficient political body, a mere pawn in the chessboard of §2French§!@FRA dominance over Central Europe. But to those enraptured by its spirit, it's a testament to the audacity of change, a beacon illuminating the path to a new dawn. \n\nThe Confederated States of the Rhine, born in the crucible of history, pulsates with passion—a living testament to the indomitable spirit of a people forging their destiny against the backdrop of a changing world."
+ 
+ westphalian_army:0 "Royal Westphalian Army"
+ westphalian_army_desc:0 "§3The Royal Westphalian Army§!@HAN stands as the largest army in the German sphere. Uniforms clad in resplendent blue and gold, our soldiers embody a legacy of conquest that refuses to wane.  \n\nYet, our glory is not without challenges. The sheer might of our forces comes at a price, a cost that strains the very fabric of our nation's prosperity. In the relentless pursuit of military excellence, our coffers strain against the weight of our ambition.  \n\nThe shadow of obsolescence looms large as the specter of outdated equipment threatens to eclipse our prowess, a dire consequence of the economic hardships that grip our beloved §3Westphalia§!@HAN. Yet, in the face of adversity, our soldiers stand resolute, determined to overcome the shackles of poverty and emerge victorious against the currents of time. The Westphalian Army, a living testament to indomitable spirit, where fervor fuels the flame of perseverance."
+
+ French_Army_Italy_Dynamic_Modifier:0 "Influence of French Army"
+ French_Army_Italy_Dynamic_Modifier_desc:0 "France has a significant amount of influence in [ROOT.GetName]. This is especially felt through their army as French commanders are everywhere and French influence so palpable that you can cut it with a knife. [ROOT.GetName] is at a crossroads and will have to choose between §Gcloser relations with France§! or the tantalizing, twin temptations of §3liberty and independence§!."
+
+ PER_gendarmerie:0 "Persian Gendarmerie"
+ PER_gendarmerie_desc:0 "The birth of the Persian Gendarmerie was a visionary endeavor by the Qajar rulers, driven by a relentless pursuit to fashion a military force in the European mold, fortifying the nation against external threats. Drawing inspiration from Swedish formations, a military mission led by the Captain Harald Hjalmarson arrived in persia in 1904, becoming the guiding force in shaping the Gendarmerie's structure. \n\nThis stalwart force was conceived with a dual purpose: to safeguard the nation's borders and maintain internal security, while also serving as an elite reserve for the imperial army. The project, in its essence, has been a triumph, standing as a testament to the Qajar dynasty's commitment to modernization and defense. \n\nYet, as more and more resources are poured into the Gendarmerie's coffers, a looming shadow has emerged. Whispers of corruption within the officer corps, once distant murmurs, have grown louder, threatening to tarnish the very integrity of this noble institution."
+ 
+ MAD_french_expansion:0 "French Colonial Expansion"
+ MAD_french_expansion_desc:0 "."
+
+ CT_ITC_New_Medici:0 "The New Medici"
+ CT_ITC_New_Medici_desc:0 ""
+ CT_ITC_Legacy_Thousand:0 "Legacy of the Thousand"
+ CT_ITC_Legacy_Thousand_desc:0 ""
+ CT_Garibaldi_Partisans_Dynamic_Modifier:0 "Italian Partisan Stronghold"
+ CT_ITC_British_Influence:0 "The Lion and the Eagle"
+ CT_ITC_British_Influence_desc:0 ""
+ CT_British_Influence_tt:0 "§OWe will be pulled into Britain's continental wars due to our close relations!§!"
+ CT_ITC_Unindustrialized_Economy:0 "Unindustrialized Economy"
+ CT_ITC_Unindustrialized_Economy_desc:0 ""
+ 
+ SSV_askari_corps:0 "The Swedish Askari Corps"
+ SSV_askari_corps_desc:0 "The Swedish Askari Corps is a light infantry force uniquely composed of recruits from the local population led by Swedish officers. The first efforts to set up these units were pioneered by the Swedish African Company starting in 1896. \n\nFrom the sun-baked savannas to the dense, unforgiving jungles, the Swedish Askari Corps has displayed an extraordinary effectiveness in combat, far surpassing initial expectations. Their tactical brilliance and unyielding spirit have turned the tide in countless skirmishes and major engagements alike. They are the lifeblood of our colonial defense, embodying the core of our local forces in the colony."
+ 
+ BAT_illegal_ivory_trade:0 "Illegal Ivory Trade"
+ BAT_illegal_ivory_trade_desc:0 "Across the vast, sun-drenched savannahs of Bantwana, majestic elephants roam freely in great numbers. However, the ivory riches of the region has attracted the rampant scourge of poaching. The protectorate's limited capacity to enforce laws has given rise to a booming poaching industry, a dark enterprise dominated by opportunistic Boers and locals driven by profit, selling their illicit ivory to eager buyers in the Boer republics. \n\nThis nefarious trade has wrought havoc not only on the elephant populations, which now face a precipitous decline but also on the very economic fabric of our protectorate. The Swedish African Company, once a pillar of prosperity and stewardship, now grapples with significant economic setbacks as monopoly of ivory trade in the protectorate is threatened. "
+ 
+ BAT_southern_frontier:0 "The Southern Frontier"
+ BAT_southern_frontier_desc:0 "Bantwana is a land brimming with boundless opportunity, a place where dreams take flight and ambitions are realized. Often hailed as "the Wild South," it beckons with the promise of untamed adventure and limitless potential. This vibrant frontier has become a magnet for settlers from far and wide, each drawn by the allure of forging a new destiny in its vast, untapped expanses."
+ 
+ SSV_increased_mining_profits:0 "Increasing Mining Profits"
+ SSV_increased_mining_profits_desc:0 "Lately, investments have flooded into the mining industry, and now our economy is reaping the rewards! We must relentlessly continue investing in the mining sector to cement Sweden's prominent place in Africa."
+
+ FRA_heritage_of_napoleon:0 "Napoleonic heritage"
+ FRA_heritage_of_napoleon_desc:0 "Napoleon the 1st is the founder of our Empire and our Dynasty, his legacy is a source of pride for all French citizens and their allies."
+
+ FRA_oversized_empire:0 "Oversized empire"
+ FRA_oversized_empire_desc:0 "The sun never sets on the French colonial empire, but its colossal size makes it a colossus with feet of clay. The French army and navy are scattered across the empire, the administration is outdated and the new colonies are struggling to attract settlers."
+
+ FRA_colonial_army:0 "Colonial army"
+ FRA_colonial_army_desc:0 "The French army is well-versed in the tactics of colonial warfare, but faced with modern, better-equipped armies, our equipment will be unable to withstand the shock."
+
+ FRA_the_boulanger_policy:0 "The Boulanger Policy"
+ FRA_the_boulanger_policy_desc:0 "."
+
