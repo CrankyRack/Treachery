@@ -13,12 +13,12 @@ state={
 
 		}
 		add_core_of = YUG
-		add_core_of = ALB
+		add_claim_by = ALB
 
 	}
 
 	provinces={
-		6940 9849 9874 9890 
+		6940 9874 9890 
 	}
 	manpower=616000
 	buildings_max_level_factor=1.000

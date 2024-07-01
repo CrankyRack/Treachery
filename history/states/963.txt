@@ -25,7 +25,7 @@ state=
 		}
 	}
 	provinces={
-		863 3864 3973 11786
+		863 3864 3973
 	}
 
 	local_supplies=0.0 

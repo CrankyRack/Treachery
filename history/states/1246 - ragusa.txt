@@ -1,0 +1,31 @@
+
+state={
+	id=1246
+	name="Ragusa"
+
+	history={
+		victory_points = {
+			6889 9 
+		}
+		owner = FRA
+		buildings = {
+			infrastructure = 2
+			6889 = {
+				naval_base = 8
+			}
+		}
+		add_core_of = HRZ
+		add_core_of = CRO
+		add_core_of = RAG
+
+	}
+
+	provinces={
+		6889
+	}
+	manpower=114386
+	buildings_max_level_factor=1.000
+	state_category=city
+
+	local_supplies=3.0 
+}

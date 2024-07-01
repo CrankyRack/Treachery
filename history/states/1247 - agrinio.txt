@@ -1,0 +1,37 @@
+
+state={
+	id=1247
+	name="Agrinio" # Thessaly
+	manpower=112500
+	resources={
+		chromium=12 # was: 22
+	}
+	
+	state_category = pastoral
+
+	history={
+		owner = EPI
+		victory_points = {
+			1205 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			1205 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = GRE
+		add_core_of = EPI
+		add_claim_by = TUR
+
+	}
+
+	provinces={
+		1205 11895 12001
+	}
+
+	local_supplies=0.0 
+}

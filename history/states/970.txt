@@ -10,9 +10,8 @@ state=
 	history=
 	{
 		owner = MAC
-		victory_points = { 6814 2 }
+		victory_points = { 9837 2 } #Florina
 		add_claim_by = TUR
-		add_core_of = ALB
 		add_core_of = GRE
 		add_core_of = MAC
 		buildings = {

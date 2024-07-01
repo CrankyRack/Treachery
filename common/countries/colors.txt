@@ -1355,8 +1355,8 @@ ZAI = {
 	color_ui = rgb { 119 108 83 }
 }
 ITC = {
-	color = rgb { 115 79 145 }
-	color_ui = rgb { 89 68 107 }
+	color = rgb { 188 137 35 }
+	color_ui = rgb { 188 137 35 }
 }
 TUN = {
 	color = rgb { 53 73 140 }
@@ -1433,4 +1433,12 @@ KSH = {
 CHE = {
 	color = rgb { 203 25 25 }
 	color_ui = rgb { 203 25 25 }
+}
+RAG = {
+	color = rgb { 87 150 137  }
+	color_ui = rgb { 87 150 137  }
+}
+EPI = {
+	color = rgb { 154 69 116 }
+	color_ui = rgb { 154 69 116 }
 }

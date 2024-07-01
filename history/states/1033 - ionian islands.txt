@@ -3,7 +3,7 @@ state=
 	id=1033
 	name="Ionian Islands"
 
-	manpower = 1191788
+	manpower = 125788
 
 	
 	state_category = small_island
@@ -24,6 +24,7 @@ state=
 			}
 		}
 		add_core_of = GRE
+		add_core_of = TTS
 		add_claim_by = ALB
 	}
 
