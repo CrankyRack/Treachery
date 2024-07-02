@@ -1,6 +1,6 @@
 ﻿capital = 1206
 
-#recruit_character = ADR_maal_Aynayn
+recruit_character = ZAI_fayaaz_al_jirari
 
 set_technology = {
 	infantry_weapons = 1

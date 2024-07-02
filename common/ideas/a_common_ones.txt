@@ -494,7 +494,7 @@ ideas = {
 
 		CT_ITC_British_Influence = {
 
-			picture = SWE_imperial_army
+			picture = CT_ITC_British_Influence
 
 			allowed_civil_war = {
 				always = yes

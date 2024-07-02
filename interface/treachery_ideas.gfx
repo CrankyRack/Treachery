@@ -127,6 +127,18 @@ spriteTypes = {
 		name = "GFX_idea_FRA_the_boulanger_policy"
 		texturefile = "gfx/interface/ideas/FRA_the_boulanger_policy.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_CT_ITC_British_Influence"
+		texturefile = "gfx/interface/ideas/CT_ITC_British_Influence.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_CT_ITC_New_Medici"
+		texturefile = "gfx/interface/ideas/CT_ITC_New_Medici.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_CT_ITC_Legacy_Thousand"
+		texturefile = "gfx/interface/ideas/CT_ITC_Legacy_Thousand.dds"  
+	}
 	### new tfv nat spirit icons
 	
 }
