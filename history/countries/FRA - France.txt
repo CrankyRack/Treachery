@@ -229,8 +229,8 @@ set_popularities = {
 
 add_ideas = {
 	FRA_Heritage_of_Napoleon
-	FRA_oversized_empire
 	FRA_colonial_army
+	FRA_oversized_empire
 	FRA_the_boulanger_policy
 }
 
