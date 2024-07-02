@@ -3,7 +3,7 @@
 #oob = ""
 
 add_ideas = {
-    confederation_of_rhine
+    GEN_confederation_of_rhine
 }
 
 recruit_character = BAS_ernst_II

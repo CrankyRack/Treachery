@@ -12,8 +12,8 @@ set_autonomy = {
 	}
 
 add_ideas = {
-    confederation_of_rhine
-	westphalian_army
+	GEN_confederation_of_rhine
+	HAN_westphalian_army
 }
 
 # Starting tech

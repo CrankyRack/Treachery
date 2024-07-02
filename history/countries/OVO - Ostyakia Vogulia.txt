@@ -92,6 +92,11 @@ set_politics = {
 	elections_allowed = yes
 }
 
+add_ideas = {
+	GEN_confederation_of_rhine
+}
+
+
 set_popularities = {
 	democratic = 60
 	monarchist = 10
