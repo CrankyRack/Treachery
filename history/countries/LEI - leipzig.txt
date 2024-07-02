@@ -45,6 +45,6 @@ set_popularities = {
 }
 
 add_ideas = {
-    confederation_of_rhine
+    GEN_confederation_of_rhine
 }
 

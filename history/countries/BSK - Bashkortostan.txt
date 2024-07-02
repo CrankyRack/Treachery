@@ -8,7 +8,7 @@ set_research_slots = 2
 recruit_character = BSK_leopold_iv
 
 add_ideas = {
-    confederation_of_rhine
+    GEN_confederation_of_rhine
 }
 
 # Starting tech

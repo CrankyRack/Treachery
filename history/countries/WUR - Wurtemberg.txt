@@ -27,6 +27,10 @@ set_research_slots = 3
 set_convoys = 0
 set_stability = 0.75
 
+add_ideas = {
+	GEN_confederation_of_rhine
+}
+
 
 set_politics = {
 	ruling_party = authoritarian

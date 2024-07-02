@@ -1,7 +1,7 @@
 ﻿capital = 1143
 
 add_ideas = {
-    confederation_of_rhine
+	GEN_confederation_of_rhine
 }
 
 recruit_character = ANH_frederick_II
