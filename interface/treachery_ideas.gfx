@@ -139,6 +139,18 @@ spriteTypes = {
 		name = "GFX_idea_CT_ITC_Legacy_Thousand"
 		texturefile = "gfx/interface/ideas/CT_ITC_Legacy_Thousand.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_CT_ITC_Unindustrialized_Economy"
+		texturefile = "gfx/interface/ideas/CT_ITC_Unindustrialized_Economy.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_SIC_tutto_finisce_a_tarallucci_e_vino"
+		texturefile = "gfx/interface/ideas/SIC_tutto_finisce_a_tarallucci_e_vino.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_SIC_the_fascis_care"
+		texturefile = "gfx/interface/ideas/SIC_the_fascis_care.dds"  
+	}
 	### new tfv nat spirit icons
 	
 }

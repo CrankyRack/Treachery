@@ -24,11 +24,10 @@ state={
 		}
 		add_core_of = MEK
 		add_core_of = PRE
-		add_core_of = GER
 	}
 
 	provinces={
-		268 293 321 
+		268 293 321 9294 13271 13272 13273 13274 
 	}
 
 	local_supplies=3.0 

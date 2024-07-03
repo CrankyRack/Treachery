@@ -475,7 +475,7 @@ ideas = {
 
 		CT_ITC_Legacy_Thousand = {
 
-			picture = SWE_imperial_army
+			picture = CT_ITC_Legacy_Thousand
 
 			allowed_civil_war = {
 				always = yes
@@ -516,7 +516,7 @@ ideas = {
 
 		CT_ITC_Unindustrialized_Economy = {
 
-			picture = SWE_imperial_army
+			picture = CT_ITC_Unindustrialized_Economy
 
 			allowed_civil_war = {
 				always = yes
@@ -539,6 +539,39 @@ ideas = {
 		}
 
 		VIN_the_banque_de_l_indochine = {
+		}
+		SIC_tutto_finisce_a_tarallucci_e_vino = {
+
+			picture = SIC_tutto_finisce_a_tarallucci_e_vino
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    stability_factor = 0.1
+				production_speed_infrastructure_factor = 0.1
+				trade_opinion_factor = 0.05
+				production_speed_buildings_factor = -0.2
+			}
+		}
+		SIC_the_fascis_care = {
+
+			picture = SIC_the_fascis_care
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    stability_factor = 0.15
+				democratic_socialism_drift = 0.01
+				war_support_factor = -0.08
+			}
 		}
 	}   
 }

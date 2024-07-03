@@ -9,9 +9,12 @@ state=
 	history=
 	{
 		owner = SWE
+		victory_points = {
+			13282 2 
+		}
 		buildings = {
 			infrastructure = 3 #was: 5
-			9228 = {
+			13282 = {
 				naval_base = 3
 			}
 		}
@@ -19,7 +22,7 @@ state=
 	}
 	
 	provinces=	{
-		9228
+		9228 13282 13283 13284
 	}
 
 	local_supplies=0.0 

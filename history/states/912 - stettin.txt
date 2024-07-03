@@ -2,7 +2,7 @@ state=
 {
 	id=912
 	name="Stettin"
-	manpower = 296988
+	manpower = 156988
 	
 	state_category = town
 	
@@ -13,7 +13,7 @@ state=
 			6282 5 
 		}
 		add_core_of = SWE
-		add_core_of = GER
+		add_core_of = PRE
 		add_core_of = DNZ
 		buildings = {
 			infrastructure = 3 #was: 6

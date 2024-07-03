@@ -3,6 +3,14 @@
 recruit_character = SIC_nicola_barbato
 recruit_character = SIC_king_ferdinand
 
+
+
+add_ideas = {
+	SIC_tutto_finisce_a_tarallucci_e_vino
+	SIC_the_fascis_care
+}
+
+
 ITC = {
 set_autonomy = {
 		target = SIC

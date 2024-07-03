@@ -2,9 +2,13 @@ state=
 {
 	id=79
 	name="STATE_79"
-	manpower = 2806400
+	manpower = 3106400
+	resources = {
+		aluminium=2 # was: 16
+		steel=8 # was: 16
+	}
 	
-	state_category = rural
+	state_category = town
 	
 	history=
 	{
@@ -12,6 +16,7 @@ state=
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
+			arms_factory = 1
 		}
 		victory_points = {
 			9716 10 
@@ -23,7 +28,7 @@ state=
 	}
 	provinces=
 	{
-577 723 744 3728 3741 6584 6706 6729 6747 9701 9716 11534 11652 11655 11672 	}
+577 723 744 3728 3741 6584 6706 6729 6747 9716 11534 11652 11655 11672 	}
 
 	local_supplies=7.0 
 }
