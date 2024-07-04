@@ -1,0 +1,763 @@
+focus_tree = {
+	id = generic-fc
+	continuous_focus_position = { x = 340 y = 1310 } 
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = WES
+		}
+	}
+	#Renew the Code de l'indigénat
+	focus = {
+		id = WES_renewthecodedelindigenat
+		icon = GFX_goal_unknown
+		x = 3
+		y = 0
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		completion_reward = {
+			set_power_balance = {
+				id = WES_power_balance
+				left_side = default_left_side 
+				right_side = default_right_side 
+				set_value = 0
+			}
+		}	
+	}
+
+	#The 1906 Paris colonial exposition
+	focus = {
+		id = WES_the_1906_paris_colonial_exposition
+		icon = GFX_goal_unknown
+		x = 13
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_renewthecodedelindigenat  }
+	}
+
+	#The Gouverneur Général hegemony
+	focus = {
+		id = WES_thegouverneurgeneralhegemony
+		icon = GFX_goal_unknown
+		x = 8
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_the_1906_paris_colonial_exposition  }
+		mutually_exclusive = { focus = WES_decentralised_governancy  }
+	}
+
+	#The population Census
+	focus = {
+		id = WES_the_population_census
+		icon = GFX_goal_unknown
+		x = 16
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_coloniser_dominance  focus = WES_open_upper_echelons_to_the_locals  }
+	}
+
+	#Open upper echelons to the locals
+	focus = {
+		id = WES_open_upper_echelons_to_the_locals
+		icon = GFX_goal_unknown
+		x = 18
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_decentralised_governancy  }
+		mutually_exclusive = { focus = WES_coloniser_dominance  }
+	}
+
+	#Coloniser dominance
+	focus = {
+		id = WES_coloniser_dominance
+		icon = GFX_goal_unknown
+		x = 15
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_coloniser_dominance  focus = WES_decentralised_governancy  }
+	}
+
+	#Re-organise the administration
+	focus = {
+		id = WES_reorganise_the_administration
+		icon = GFX_goal_unknown
+		x = 15
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_the_population_census  }
+	}
+
+	#Decentralised governancy
+	focus = {
+		id = WES_decentralised_governancy
+		icon = GFX_goal_unknown
+		x = 16
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_the_1906_paris_colonial_exposition  }
+		mutually_exclusive = { focus = WES_thegouverneurgeneralhegemony  }
+	}
+
+	#Promote indigenous officers
+	focus = {
+		id = WES_promote_indigenous_officers
+		icon = GFX_goal_unknown
+		x = 18
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_income_guarantee_for_the_indigenous_workers  }
+	}
+
+	#Extend forced labour
+	focus = {
+		id = WES_extend_forced_labour
+		icon = GFX_goal_unknown
+		x = 17
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_the_population_census  } prerequisite = { focus = WES_pursue_land_expropriation  }
+	}
+
+	#Pursue land expropriation
+	focus = {
+		id = WES_pursue_land_expropriation
+		icon = GFX_goal_unknown
+		x = 14
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = WES_coloniser_dominance  }
+	}
+
+	#A call to the Banque de France
+	focus = {
+		id = WES_a_call_to_the_banque_de_france
+		icon = GFX_goal_unknown
+		x = 16
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_extend_forced_labour  focus = WES_reorganise_the_administration  }
+		mutually_exclusive = { focus = WES_extend_head_tax  }
+	}
+
+	#Income guarantee for the indigenous workers
+	focus = {
+		id = WES_income_guarantee_for_the_indigenous_workers
+		icon = GFX_goal_unknown
+		x = 18
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_STABILITY
+		}
+		prerequisite = { focus = WES_open_upper_echelons_to_the_locals  }
+	}
+
+	#Focus on local developpent
+	focus = {
+		id = WES_focus_on_local_developpent
+		icon = GFX_goal_unknown
+		x = 4
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_renewthecodedelindigenat  }
+	}
+
+	#The French market
+	focus = {
+		id = WES_the_french_market
+		icon = GFX_goal_unknown
+		x = 1
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_renewthecodedelindigenat  }
+	}
+
+	#Extend head tax
+	focus = {
+		id = WES_extend_head_tax
+		icon = GFX_goal_unknown
+		x = 14
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_pursue_land_expropriation  }
+		mutually_exclusive = { focus = WES_a_call_to_the_banque_de_france  }
+	}
+
+	#Expend SOGUINEX
+	focus = {
+		id = WES_expend_soguinex
+		icon = GFX_goal_unknown
+		x = 0
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_the_french_market  }
+	}
+
+	#Invest in the jewelry industry
+	focus = {
+		id = WES_invest_in_the_jewelry_industry
+		icon = GFX_goal_unknown
+		x = 2
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_the_french_market  }
+		mutually_exclusive = { focus = WES_invest_in_primary_agriculture  }
+	}
+
+	#Invest in primary agriculture
+	focus = {
+		id = WES_invest_in_primary_agriculture
+		icon = GFX_goal_unknown
+		x = 4
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_focus_on_local_developpent  }
+	}
+
+	#Full rights to the CBM
+	focus = {
+		id = WES_full_rights_to_the_cbm
+		icon = GFX_goal_unknown
+		x = 1
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_invest_in_the_jewelry_industry  } prerequisite = { focus = WES_expend_soguinex  }
+	}
+
+	#Found local factories
+	focus = {
+		id = WES_found_local_factories
+		icon = GFX_goal_unknown
+		x = 5
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_invest_in_primary_agriculture  }
+	}
+
+	#Full exportation to the metropolis
+	focus = {
+		id = WES_full_exportation_to_the_metropolis
+		icon = GFX_goal_unknown
+		x = 3
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_invest_in_the_jewelry_industry  focus = WES_invest_in_primary_agriculture  }
+	}
+
+	#Our own economy
+	focus = {
+		id = WES_our_own_economy
+		icon = GFX_goal_unknown
+		x = 5
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_found_local_factories  }
+	}
+
+	#French elite tourism
+	focus = {
+		id = WES_french_elite_tourism
+		icon = GFX_goal_unknown
+		x = 3
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_full_exportation_to_the_metropolis  }
+	}
+
+	#The colonial El Dorardo
+	focus = {
+		id = WES_the_colonial_el_dorardo
+		icon = GFX_goal_unknown
+		x = 4
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_french_elite_tourism  }
+	}
+
+	#Import French products
+	focus = {
+		id = WES_import_french_products
+		icon = GFX_goal_unknown
+		x = 2
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_full_exportation_to_the_metropolis  }
+	}
+
+	#The new pearl of the empire
+	focus = {
+		id = WES_the_new_pearl_of_the_empire
+		icon = GFX_goal_unknown
+		x = 2
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_import_french_products  }
+	}
+
+	#Request naturalisation of the indigenous
+	focus = {
+		id = WES_request_naturalisation_of_the_indigenous
+		icon = GFX_goal_unknown
+		x = 19
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_income_guarantee_for_the_indigenous_workers  }
+	}
+
+	#Ban segregation in the army
+	focus = {
+		id = WES_ban_segregation_in_the_army
+		icon = GFX_goal_unknown
+		x = 17
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_WAR_SUPPORT
+		}
+		prerequisite = { focus = WES_promote_indigenous_officers  } prerequisite = { focus = WES_reorganise_the_administration  }
+	}
+
+	#Invite foreign investors
+	focus = {
+		id = WES_invite_foreign_investors
+		icon = GFX_goal_unknown
+		x = 15
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_extend_head_tax  focus = WES_a_call_to_the_banque_de_france  }
+	}
+
+	#Urbanise the countryside
+	focus = {
+		id = WES_urbanise_the_countryside
+		icon = GFX_goal_unknown
+		x = 11
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_rebalanced_budget  } prerequisite = { focus = WES_develop_post_offices  }
+	}
+
+	#Infrastructure development
+	focus = {
+		id = WES_infrastructure_development
+		icon = GFX_goal_unknown
+		x = 11
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_thegouverneurgeneralhegemony  focus = WES_decentralised_governancy  }
+	}
+
+	#Re-balanced budget
+	focus = {
+		id = WES_rebalanced_budget
+		icon = GFX_goal_unknown
+		x = 13
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_decentralised_governancy  focus = WES_thegouverneurgeneralhegemony  }
+	}
+
+	#The WIP university
+	focus = {
+		id = WES_the_wip_university
+		icon = GFX_goal_unknown
+		x = 8
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = WES_state_media  }
+	}
+
+	#Local traditional courts
+	focus = {
+		id = WES_local_traditional_courts
+		icon = GFX_goal_unknown
+		x = 12
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_infrastructure_development  }
+		mutually_exclusive = { focus = WES_inaugurate_the_superior_court  }
+	}
+
+	#Develop post offices
+	focus = {
+		id = WES_develop_post_offices
+		icon = GFX_goal_unknown
+		x = 11
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_local_traditional_courts  focus = WES_inaugurate_the_superior_court  }
+	}
+
+	#Inaugurate the superior court
+	focus = {
+		id = WES_inaugurate_the_superior_court
+		icon = GFX_goal_unknown
+		x = 10
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_infrastructure_development  }
+		mutually_exclusive = { focus = WES_local_traditional_courts  }
+	}
+
+	#Ministry of the Navy supervision
+	focus = {
+		id = WES_ministry_of_the_navy_supervision
+		icon = GFX_goal_unknown
+		x = 9
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_thegouverneurgeneralhegemony  focus = WES_decentralised_governancy  }
+		mutually_exclusive = { focus = WES_new_supervision_of_the_ministry_of_war  }
+	}
+
+	#New supervision of the Ministry of War
+	focus = {
+		id = WES_new_supervision_of_the_ministry_of_war
+		icon = GFX_goal_unknown
+		x = 7
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_thegouverneurgeneralhegemony  }
+		mutually_exclusive = { focus = WES_ministry_of_the_navy_supervision  }
+	}
+
+	#State media
+	focus = {
+		id = WES_state_media
+		icon = GFX_goal_unknown
+		x = 8
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_new_supervision_of_the_ministry_of_war  focus = WES_ministry_of_the_navy_supervision  }
+	}
+
+	#Invite the CFP investors
+	focus = {
+		id = WES_invite_the_cfp_investors
+		icon = GFX_goal_unknown
+		x = 1
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_full_rights_to_the_cbm  }
+	}
+
+	#Invest in train transportation
+	focus = {
+		id = WES_invest_in_train_transportation
+		icon = GFX_goal_unknown
+		x = 10
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_the_wip_university  } prerequisite = { focus = WES_develop_post_offices  }
+	}
+
+	#Eliminates independentists pockets
+	focus = {
+		id = WES_eliminates_independentists_pockets
+		icon = GFX_goal_unknown
+		x = 7
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = WES_state_media  }
+	}
+
+	#Colonial police
+	focus = {
+		id = WES_colonial_police
+		icon = GFX_goal_unknown
+		x = 8
+		y = 7
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_the_wip_university  }
+	}
+
+	#The Tirailleurs Sénégalais
+	focus = {
+		id = WES_thetirailleurssenegalais
+		icon = GFX_goal_unknown
+		x = 8
+		y = 8
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+		prerequisite = { focus = WES_colonial_police  }
+	}
+
+	#A colonial general staff
+	focus = {
+		id = WES_a_colonial_general_staff
+		icon = GFX_goal_unknown
+		x = 20
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_WAR_SUPPORT
+		}
+		prerequisite = { focus = WES_renewthecodedelindigenat  }
+	}
+
+	#The WIP military academy
+	focus = {
+		id = WES_the_wip_military_academy
+		icon = GFX_goal_unknown
+		x = 20
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = WES_a_colonial_general_staff  }
+	}
+
+	#Invest in paludism research
+	focus = {
+		id = WES_invest_in_paludism_research
+		icon = GFX_goal_unknown
+		x = 20
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = WES_the_wip_military_academy  }
+		mutually_exclusive = { focus = WES_calls_french_design_bureaux  }
+	}
+
+	#All terrains transports
+	focus = {
+		id = WES_all_terrains_transports
+		icon = GFX_goal_unknown
+		x = 22
+		y = 1
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = WES_renewthecodedelindigenat  }
+	}
+
+	#Develop a local navy
+	focus = {
+		id = WES_develop_a_local_navy
+		icon = GFX_goal_unknown
+		x = 25
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_all_terrains_transports  }
+	}
+
+	#The WIP artillery foundry
+	focus = {
+		id = WES_the_wip_artillery_foundry
+		icon = GFX_goal_unknown
+		x = 22
+		y = 2
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_all_terrains_transports  }
+	}
+
+	#Calls french design bureaux
+	focus = {
+		id = WES_calls_french_design_bureaux
+		icon = GFX_goal_unknown
+		x = 22
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = WES_the_wip_artillery_foundry  }
+	}
+
+	#The Colonial army office
+	focus = {
+		id = WES_the_colonial_army_office
+		icon = GFX_goal_unknown
+		x = 12
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_POLITICAL
+		}
+		prerequisite = { focus = WES_rebalanced_budget  }
+	}
+
+	#Compete British naval dominance
+	focus = {
+		id = WES_compete_british_naval_dominance
+		icon = GFX_goal_unknown
+		x = 24
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = WES_develop_a_local_navy  }
+	}
+
+	#L'aviso colonial
+	focus = {
+		id = WES_lavisocolonial
+		icon = GFX_goal_unknown
+		x = 26
+		y = 3
+		search_filters = {
+			FOCUS_FILTER_INDUSTRY
+		}
+		prerequisite = { focus = WES_develop_a_local_navy  }
+	}
+
+	#Invite french sailors
+	focus = {
+		id = WES_invite_french_sailors
+		icon = GFX_goal_unknown
+		x = 25
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_MANPOWER
+		}
+		prerequisite = { focus = WES_compete_british_naval_dominance  } prerequisite = { focus = WES_lavisocolonial  }
+	}
+
+	#African wars
+	focus = {
+		id = WES_african_wars
+		icon = GFX_goal_unknown
+		x = 21
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_WAR_SUPPORT
+		}
+		prerequisite = { focus = WES_invite_french_sailors  }
+		mutually_exclusive = { focus = WES_european_wars  }
+	}
+
+	#European wars
+	focus = {
+		id = WES_european_wars
+		icon = GFX_goal_unknown
+		x = 25
+		y = 5
+		search_filters = {
+			FOCUS_FILTER_WAR_SUPPORT
+		}
+		prerequisite = { focus = WES_invite_french_sailors  }
+		mutually_exclusive = { focus = WES_african_wars  }
+	}
+
+	#Independant foreign policy
+	focus = {
+		id = WES_independant_foreign_policy
+		icon = GFX_goal_unknown
+		x = 20
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_FRA_POLITICAL_VIOLENCE
+		}
+		prerequisite = { focus = WES_request_naturalisation_of_the_indigenous  } prerequisite = { focus = WES_african_wars  }
+	}
+
+	#Aerial reconnaissance
+	focus = {
+		id = WES_aerial_reconnaissance
+		icon = GFX_goal_unknown
+		x = 21
+		y = 4
+		search_filters = {
+			FOCUS_FILTER_RESEARCH
+		}
+		prerequisite = { focus = WES_invest_in_paludism_research  focus = WES_calls_french_design_bureaux  }
+	}
+
+	#Study british war doctrine
+	focus = {
+		id = WES_study_british_war_doctrine
+		icon = GFX_goal_unknown
+		x = 25
+		y = 6
+		search_filters = {
+			FOCUS_FILTER_WAR_SUPPORT
+		}
+		prerequisite = { focus = WES_european_wars  }
+	}
+
+}
