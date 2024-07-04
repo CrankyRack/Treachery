@@ -9,4 +9,14 @@ spriteTypes = {
 		name = "GFX_bop_SAX_anti_conf"
 		texturefile = "gfx/interface/bop/bop_SAX_anti_conf.dds"
 	}
+
+	spriteType = {
+		name = "GFX_bop_WES_economical_autonomy"
+		texturefile = "gfx/interface/bop/bop_WES_economical_autonomy.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_bop_WES_economical_dependency"
+		texturefile = "gfx/interface/bop/bop_WES_economical_dependency.dds"
+	}
 }
