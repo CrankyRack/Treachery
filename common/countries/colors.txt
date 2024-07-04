@@ -13,8 +13,8 @@ SOV = {
 	color_ui = rgb { 80 115 45 }
 }
 SWE = {
-	color = rgb { 1 108 170 }
-	color_ui = rgb { 1 108 170 }
+	color = rgb { 8 121 173 }
+	color_ui = rgb { 8 121 173 }
 }
 FRA = {
 	color = rgb { 53 73 140 }
@@ -59,8 +59,8 @@ LIT = {
 	color_ui = rgb { 183 42 70 }
 }
 EST = {
-	color = rgb { 1 108 170 }
-	color_ui = rgb { 1 108 170 }
+	color = rgb { 8 121 173 }
+	color_ui = rgb { 8 121 173 }
 }
 #LAT = {
 	#color = rgb { 75 77 186 }
