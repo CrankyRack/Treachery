@@ -1,0 +1,11 @@
+﻿l_english:
+
+ WES_power_balance:0 "French economic dependency"
+ mid_range:0 "Balanced economy"
+ left_side_range:0 "Fragile economic dependency"
+ middle_left_side_range:0 "Major economic dependency"
+ far_left_side_range:0 "Total economic dependency"
+ right_side_range:0 "Fragile economic autonomy"
+ middle_right_side_range:0 "Major economic autonomy"
+ far_right_side_range:0 "Total economic autonomy"
+ 
