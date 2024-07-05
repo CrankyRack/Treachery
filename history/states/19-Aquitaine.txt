@@ -16,7 +16,6 @@ state={
 			infrastructure = 3
 			arms_factory = 1
 			dockyard = 1
-			air_base = 3
 			9737 = {
 				naval_base = 3
 				coastal_bunker = 1
@@ -30,7 +29,7 @@ state={
 	}
 
 	provinces={
-		595 6621 6762 6777 9737 11565 
+		6621 6762 6777 9737 11565 
 	}
 	manpower=1140400
 	buildings_max_level_factor=1.000

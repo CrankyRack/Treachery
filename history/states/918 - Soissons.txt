@@ -1,7 +1,7 @@
 state=
 {
 	id=918
-	name="Soissons"
+	name="Lorraine"
 	manpower = 296988
 	
 	state_category = town
@@ -14,18 +14,20 @@ state=
 	{
 		owner = FRA
 		victory_points = {
-			11549 2 
+			11516 5 
 		}
+		victory_points = {
+			3560 1
+		}		
 		add_core_of = FRA
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 2
 			arms_factory = 1
-			air_base = 5
 		}
 	}
 	provinces={
-		3402 3447 9561 11549
+		521 3560 3629 5291 11516
 	}
 
 	local_supplies=0.0 

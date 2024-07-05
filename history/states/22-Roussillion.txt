@@ -20,14 +20,13 @@ state={
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 2
-			air_base = 2
 		}
 		add_core_of = OCC
 		add_core_of = FRA
 	}
 
 	provinces={
-		752 760 3751 6960 6962 9723 9728 9898 11709 11711 11716 11877 
+		760 6786 9728 9732 9898 11711 11716 11877 
 	}
 
 	local_supplies=12.0 

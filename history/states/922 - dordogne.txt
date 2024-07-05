@@ -1,7 +1,7 @@
 state=
 {
 	id=922
-	name="Dordogne"
+	name="Limousin"
 	manpower = 146988
 	
 	state_category = town
@@ -24,7 +24,7 @@ state=
 		}
 	}
 	provinces={
-		755 3598 3771 6773 6775 6792 9717 9734 9751 11718 11720
+		755 3771 6773 6775 6792 9734 9751 11718 11720
 	}
 
 	local_supplies=0.0 

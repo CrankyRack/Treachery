@@ -1,17 +1,16 @@
 state={
 	id=785
 	name="STATE_785"
-	manpower = 1580000
+	manpower = 380000
 	
-	state_category = town
+	state_category = rural
 	resources={
-		steel=20 # was: 112
-		aluminium=4 # was: 22
+		steel=4 # was: 112
 	}
 	
 	history={
 		victory_points = {
-			11420 5
+			6766 5
 		}
 		owner = FRA
 		add_core_of = FRA
@@ -22,7 +21,7 @@ state={
 	}
 
 	provinces={
-		454 6585 11420
+		943 3946 3948 6766 6915 6917 6931 6960 9723 11702
 	}
 
 	local_supplies=0.0 

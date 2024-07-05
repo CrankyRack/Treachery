@@ -1,7 +1,7 @@
 state=
 {
 	id=921
-	name="Nantes"
+	name="Poitou"
 	manpower = 146988
 	
 	state_category = town
@@ -16,7 +16,6 @@ state=
 		victory_points = {
 			11465 5 
 		}
-		add_core_of = BRI
 		add_core_of = FRA
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -24,7 +23,7 @@ state=
 		}
 	}
 	provinces={
-		11465 11616
+		655 629 3659 9631 11596 11600 11869
 	}
 
 	local_supplies=0.0 

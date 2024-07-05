@@ -1,0 +1,27 @@
+
+state={
+	id=1250
+	name="Sambre-Ourthe"
+	manpower = 681300
+	
+	state_category = rural
+
+	history={
+		owner = FRA
+		victory_points = {
+			11562 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+
+		}
+		add_core_of = FRA
+	}
+
+	provinces={
+		6537 9444 11407 11562
+	}
+
+	local_supplies=14.0 
+}
