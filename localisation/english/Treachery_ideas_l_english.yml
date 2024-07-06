@@ -12,10 +12,19 @@
  IRE_northern_protestants_desc:0 "."
  
  DEN_the_controversal_king:0 "The Controversial King"
- DEN_the_controversal_king_desc:0 "Frederick of Denmark has a controversial reputation, that infamy originates from many reasons. He is married to a swedish princess which is heavily judged by the Danish people. He is far more liberal than his predecessor, his father. He would slowly let go of danish holdings in  Europe which is looked down heavily, since those holdings reprepenst Danish pride. Most Danish conservatives oppose his rather radical ideas, thus making his rule unpopular."
+ DEN_the_controversal_king_desc:0 "Frederick of Denmark stands as a polarizing figure, shrouded in controversy for numerous reasons. His marriage to a Swedish princess has drawn the scorn of the Danish populace, who view the union with deep suspicion. In stark contrast to his conservative father, Frederick's liberal leanings are a stark departure from tradition. His gradual relinquishment of Danish territories in Europe is seen as a grievous affront to national pride, igniting widespread disapproval. Danish conservatives vehemently oppose his radical reforms, rendering his rule profoundly unpopular and fraught with discord."
+ 
+ DEN_union_with_brandenburg:0 "The Union With Mecklenburg"
+ DEN_union_with_brandenburg_desc:0 "" 
 
+ DEN_outdated_land_forces:0 "Outdated Land Forces"
+ DEN_outdated_land_forces_desc:0 "Severe budget cuts, shortened training periods for officers, and reliance on outdated equipment have severely weakened the Danish army. Once a bastion of strength, our military now finds itself ill-prepared and under-equipped. Stuck in outdated doctrines and old strategies, our forces are not ready for the complexities of modern warfare. If we face conflict in the near future, our army will struggle immensely, jeopardizing our national security and our ability to defend Denmark. The urgency of this situation cannot be overstated—we must take swift and decisive action to modernize and strengthen our military before it's too late." 
+ 
  MAD_british_support:0 "British Support"
  MAD_british_support_desc:0 "The British central african government has pledged their support in our conflict with the french."
+ 
+ DEN_souring_relations_with_sweden:0 "Souring Relations with Sweden"
+ DEN_souring_relations_with_sweden_desc:0 "Relations with Sweden have always been fraught with tension, marked by numerous wars since at least the 1200s. Recent colonial disputes, surging nationalism, and the disastrous marriage between our king and Louise of Sweden have only deepened the divide. The failure of this royal union has fueled mistrust and resentment on both sides. Compounding the issue, Sweden's recent diplomatic hostility towards France has further strained our fragile relations, dragging our nations back into an era of animosity reminiscent of the 1700s. The once hopeful prospects for peaceful coexistence have crumbled, leaving Denmark and Sweden locked in a tense and precarious standoff. The shadows of our turbulent past loom large, threatening to engulf any remaining hopes for reconciliation."
  
  SWE_adelsparre:0 "Adelsparre Royal Dynasty"
  SWE_adelsparre_desc:0 "."

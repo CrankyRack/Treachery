@@ -20,6 +20,7 @@ state=
 			3560 1
 		}		
 		add_core_of = FRA
+		add_core_of = ALC
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 2
