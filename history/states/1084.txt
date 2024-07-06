@@ -16,18 +16,24 @@ state={
 		add_claim_by = ITC
 		owner = LSS
 		victory_points = {
-			11833 1
+			11833 5
+		}
+		victory_points = {
+			9851 2
 		}
 		buildings = {
 			infrastructure = 1
 			11833 = {
 				naval_base = 3
 			}
+			9851 = {
+				naval_base = 3
+			}
 		}
 	}
 	
 	provinces={
-		11833
+		9851 11833
 	}
 
 	local_supplies=5.0 

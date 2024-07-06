@@ -1,0 +1,16 @@
+characters = {
+	BST_raja_rudra_pratap_deo = {
+		name="Raja Rudra Pratap Deo"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BST/BST_raja_rudra_pratap_deo.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

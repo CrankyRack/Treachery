@@ -1,27 +1,28 @@
 state=
 {
 	id=1083
-	name="Elba"
-	manpower = 46988
+	name="Novara"
+	manpower = 146988
+	resources = {
+		aluminium = 16 # was: 28
+	}
 	
-	state_category = small_island
+	state_category = rural
 	
 	history=
 	{
-		owner = LSS
-		add_core_of = LSS
+		owner = ITA
+		add_claim_by = ITC
 		add_core_of = ITA
-		add_core_of = TOS
-		add_core_of = COR
 		buildings = {
 			infrastructure = 3 #was: 6
 			9851 = {
-				naval_base = 3
+				naval_base = 2
 			}
 		}
 	}
 	provinces={
-		9851
+		776 6635 11570
 	}
 
 	local_supplies=0.0 

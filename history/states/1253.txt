@@ -1,0 +1,33 @@
+
+state={
+	id=1253
+	name="Taro"
+	resources = {
+		steel = 7 # was: 40
+	}
+
+	history={
+		victory_points = {
+			6788 5 
+		}
+		owner = FRA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = ITA
+		add_core_of = SPM
+		add_core_of = FRA
+		add_claim_by = ITC
+
+	}
+
+	provinces={
+		771 9741 11726
+	}
+	manpower=292512
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=3.0 
+}
