@@ -10,7 +10,7 @@ add_ideas = {
 	#
 }
 
-#recruit_character = AFA_sultan_mohamed_yayyo_of_aussa
+recruit_character = TRK_Percy_Girouard
 
 set_politics = {
 	ruling_party = authoritarian

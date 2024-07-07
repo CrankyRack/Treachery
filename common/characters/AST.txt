@@ -1,9 +1,9 @@
 characters={
-	DAH_henry_bell={
-		name="Sir Henry Hesketh Bell"
+	AST_henry_northcote={
+		name="Henry Northcote"
 		portraits={
 			civilian={
-				large="gfx/leaders/NIR/DAH_henry_bell.dds"
+				large="gfx/leaders/NIR/AST_henry_northcote.dds"
 			}
 		}
 		country_leader={

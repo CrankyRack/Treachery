@@ -9,7 +9,7 @@ set_technology = {
 
 set_convoys = 100
 
-recruit_character = DAH_Percy_Girouard
+recruit_character = DAH_henry_bell
 
 
 
