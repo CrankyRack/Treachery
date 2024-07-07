@@ -1,0 +1,16 @@
+characters = {
+	CCH_martanda_bhairava_tondaiman = {
+		name="Martanda Bhairava Tondaiman"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/CCH/CCH_martanda_bhairava_tondaiman.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
