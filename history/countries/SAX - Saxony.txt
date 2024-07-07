@@ -86,6 +86,7 @@ set_stability = 0.75
 
 add_ideas = {
 	GEN_confederation_of_rhine
+	SAX_the_1901_leipsig_bank_collapse
 }
 
 set_politics = {
@@ -99,9 +100,6 @@ set_popularities = {
 	democratic = 30
 	monarchist = 10
 	vanguardism = 60
-}
-
-add_ideas = {
 }
 
 

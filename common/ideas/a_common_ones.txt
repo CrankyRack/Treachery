@@ -333,27 +333,6 @@ ideas = {
 				army_org_factor = -0.20
 			}
 		}
-		GEN_confederation_of_rhine = {
-			
-			picture = confederation_of_rhine
-			
-			allowed = {
-			    always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			removal_cost = -1
-			
-			modifier = {
-			    stability_factor = 0.05
-				political_power_factor = -0.25
-				war_support_factor = -0.20
-
-			}
-		}
 		HAN_westphalian_army = {
 
 			picture = westphalian_army
@@ -437,26 +416,6 @@ ideas = {
 				political_power_factor = -0.3
 			}
 		}
-		FRA_heritage_of_napoleon = {
-			
-			picture = FRA_heritage_of_napoleon
-
-			allowed = {
-			    always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-			
-			removal_cost = -1
-			
-			modifier = {
-				war_support_factor = 0.05
-				stability_factor = 0.05
-				political_power_factor = 0.1
-			}
-		}
 		CT_ITC_New_Medici = {
 
 			picture = SWE_imperial_army
@@ -531,12 +490,15 @@ ideas = {
 			}
 		}
 
+		VIN_the_pearl_of_the_empire = {
+
+		}
+
 		VIN_the_factory_of_asia = {
 		}
 
 		VIN_the_banque_de_l_indochine = {
 		}
-		
 		SIC_tutto_finisce_a_tarallucci_e_vino = {
 
 			picture = SIC_tutto_finisce_a_tarallucci_e_vino

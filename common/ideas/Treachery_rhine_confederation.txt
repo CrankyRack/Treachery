@@ -1,0 +1,60 @@
+ideas = {
+	country = {
+		GEN_confederation_of_rhine = {
+			
+			picture = confederation_of_rhine
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    stability_factor = 0.05
+				political_power_factor = -0.25
+				war_support_factor = -0.20
+
+			}
+		}
+		CHU_decadent_way_of_life = {
+			
+			picture = decadent_way_of_life
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+		SAX_the_1901_leipsig_bank_collapse = {
+			
+			picture = the_1901_leipsig_bank_collapse
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+	}   
+}
+

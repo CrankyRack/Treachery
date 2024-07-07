@@ -151,6 +151,12 @@ spriteTypes = {
 		name = "GFX_idea_SIC_the_fascis_care"
 		texturefile = "gfx/interface/ideas/SIC_the_fascis_care.dds"  
 	}
-	### new tfv nat spirit icons
-	
+	SpriteType = {
+		name = "GFX_idea_decadent_way_of_life"
+		texturefile = "gfx/interface/ideas/CHU_decadent_way_of_life.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_the_1901_leipsig_bank_collapse"
+		texturefile = "gfx/interface/ideas/SAX_the_1901_leipsig_bank_collapse.dds"  
+	}
 }
