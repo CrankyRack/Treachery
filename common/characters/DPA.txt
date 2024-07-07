@@ -1,9 +1,9 @@
 characters={
-	DPA_georg_zachariae={
-		name="Georg Hugh Robert Zachariae"
+	DPA_alexander_bulatovich={
+		name="Alexander Bulatovich"
 		portraits={
 			civilian={
-				large="gfx/leaders/DEN/DPA_georg_zachariae.dds"
+				large="gfx/leaders/SOV/DPA_alexander_bulatovich.dds"
 			}
 		}
 		country_leader={

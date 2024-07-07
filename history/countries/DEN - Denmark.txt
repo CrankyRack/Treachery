@@ -17,10 +17,7 @@ set_autonomy = {
 		target = GHA
 		autonomous_state = autonomy_colony
 }
-set_autonomy = {
-		target = DPA
-		autonomous_state = autonomy_colony
-}
+
 
 
 recruit_character = DEN_thorvald_stauning

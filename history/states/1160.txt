@@ -1,6 +1,10 @@
 state={
 	id=1160
-	name="Fredriksland"
+	name="Petrovazemlya"
+	
+	resources={
+		#rubber=2.000
+	}
 
 	history={
 		add_core_of = DPA
@@ -20,16 +24,26 @@ state={
 				naval_base = 4
 
 			}
+			12371 = {
+				naval_base = 5
+
+			}
 
 		}
 		victory_points = {
-			12237 1 
+			12237 3 
+		}
+		victory_points = {
+			12371 5 
+		}
+		victory_points = {
+			1389 2 
 		}
 
 	}
 
 	provinces={
-		1389 4393 4418 5135 7365 7614 10251 10423 10974 11004 11018 12154 12193 12237 12240 12400 12428 12931
+		1389 4393 4418 5135 7365 7614 10251 10423 10974 10990 11004 11018 12154 12193 12237 12240 12371 12400 12428 12931
 	}
 	manpower=323061
 	buildings_max_level_factor=1

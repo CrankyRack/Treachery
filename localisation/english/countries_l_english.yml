@@ -4754,8 +4754,8 @@
  DPA:0 "Sepik"
  DPA_DEF:0 "Sepik"
  DPA_ADJ:0 "Sepikian"
- DPA_subject:0 "King Frederiksland"
- DPA_subject_DEF:0 "$OVERLORDADJ$ Colony of King Frederiksland"
+ DPA_subject:0 "$OVERLORDADJ$ Papua"
+ DPA_subject_DEF:0 "$OVERLORDADJ$ Colony of Papua"
  DPA_subject_ADJ:0 "King Frederikslander"
  
  TRK:0 "Turkana"

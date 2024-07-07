@@ -9,7 +9,7 @@ set_technology = {
 
 set_convoys = 5
 
-recruit_character = DPA_georg_zachariae
+recruit_character = DPA_alexander_bulatovich
 
 set_cosmetic_tag = DPA_DEN
 

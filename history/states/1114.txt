@@ -11,15 +11,12 @@ state={
 	history= {
 		owner = INS
 		#add_core_of = TID
-		victory_points = {
-			12371 3 
-		}
 		buildings = {
 			infrastructure = 1
 		}
 	}
 	provinces={
-		4552 7570 10436 10396 10990 12371
+		4552 7570 10436 10396
 	}
 
 	local_supplies=1.0 
