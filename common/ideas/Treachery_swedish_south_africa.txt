@@ -1,0 +1,39 @@
+ideas = {
+	country = {
+		SSV_askari_corps = {
+			
+			picture = askari_corps
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+		SSV_increased_mining_profits = {
+			
+			picture = increased_mining_profits
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+	}   	
+}
+

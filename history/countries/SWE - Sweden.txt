@@ -7,12 +7,16 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 	}
 set_autonomy = {
+		target = BAT
+		autonomous_state = autonomy_colony
+	}
+set_autonomy = {
 		target = EST
 		autonomous_state = autonomy_personal_union
 	}
 
 
-set_research_slots = 4
+set_research_slots = 3
 
 give_guarantee = NSV
 

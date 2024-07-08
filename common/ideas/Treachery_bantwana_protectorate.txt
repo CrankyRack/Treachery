@@ -1,0 +1,39 @@
+ideas = {
+	country = {
+		BAT_illegal_ivory_trade = {
+			
+			picture = illegal_ivory_trade
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+		BAT_southern_frontier = {
+			
+			picture = southern_frontier
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+	}   	
+}
+
