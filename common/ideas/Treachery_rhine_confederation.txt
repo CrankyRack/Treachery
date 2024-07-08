@@ -21,40 +21,6 @@ ideas = {
 
 			}
 		}
-		CHU_decadent_way_of_life = {
-			
-			picture = decadent_way_of_life
-			
-			allowed = {
-			    always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			removal_cost = -1
-			
-			modifier = {
-			}
-		}
-		SAX_the_1901_leipsig_bank_collapse = {
-			
-			picture = the_1901_leipsig_bank_collapse
-			
-			allowed = {
-			    always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			removal_cost = -1
-			
-			modifier = {
-			}
-		}
 	}   
 }
 
