@@ -22,10 +22,6 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 	}
 set_autonomy = {
-		target = ETH
-		autonomous_state = autonomy_german_prince_1
-	}
-set_autonomy = {
 		target = WES
 		autonomous_state = autonomy_colony
 	}
@@ -39,7 +35,7 @@ set_autonomy = {
 	}
 set_autonomy = {
 		target = GDL
-		autonomous_state = autonomy_colony
+		autonomous_state = autonomy_german_prince_1
 	}
 set_autonomy = {
 		target = RCG
@@ -233,3 +229,4 @@ add_ideas = {
 	FRA_the_boulanger_policy
 }
 
+recruit_character = FRA_napoleon_four

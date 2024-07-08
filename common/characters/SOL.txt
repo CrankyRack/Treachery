@@ -8,6 +8,7 @@ characters={
 		}
 		country_leader={
 			ideology=colonial_government
+			traits = { governor_admiral }
 			expire="1965.1.1.1"
 			id=-1
 		}
