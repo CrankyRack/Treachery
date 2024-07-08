@@ -39,7 +39,7 @@ leader_traits = {
 	}
 	colonial_governor = {
 		resistance_activity = -0.2
-		resistance_growth_on_our_occupied_states = -0.1
+		required_garrison_factor = -0.1
 		random = no
 		ai_will_do = {
 			factor = 1
