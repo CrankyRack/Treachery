@@ -10,7 +10,7 @@ state=
 	{
 		owner = UKR
 		victory_points = { 9752 5 }
-		add_core_of = POL
+		add_claim_by = POL
 		add_core_of = UKR
 		add_core_of = LIT
 		buildings = {
