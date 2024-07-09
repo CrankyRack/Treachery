@@ -532,6 +532,48 @@ ideas = {
 				war_support_factor = -0.08
 			}
 		}
+		TTS_a_legacy_of_defeat = {
+
+			picture = TTS_a_legacy_of_defeat
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    stability_factor = -0.4
+			}
+		}
+		TTS_the_bloat_of_the_old_kingdom = {
+
+			picture = TTS_the_bloat_of_the_old_kingdom
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    army_org_factor = -0.10
+			}
+		}
+		TTS_the_parisian_lifeline = {
+
+			picture = TTS_the_parisian_lifeline
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    army_org_factor = -0.10
+			}
+		}
 	}   
 }
 

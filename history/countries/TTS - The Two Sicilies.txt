@@ -4,7 +4,11 @@ set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
 
-
+add_ideas = {
+	TTS_a_legacy_of_defeat
+	TTS_the_parisian_lifeline
+	TTS_the_bloat_of_the_old_kingdom
+}
 
 recruit_character = TTS_Joachim_III
 

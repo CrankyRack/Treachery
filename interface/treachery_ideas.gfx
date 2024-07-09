@@ -159,4 +159,16 @@ spriteTypes = {
 		name = "GFX_idea_the_1901_leipsig_bank_collapse"
 		texturefile = "gfx/interface/ideas/SAX_the_1901_leipsig_bank_collapse.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_TTS_a_legacy_of_defeat"
+		texturefile = "gfx/interface/ideas/TTS_a_legacy_of_defeat.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_TTS_the_bloat_of_the_old_kingdom"
+		texturefile = "gfx/interface/ideas/TTS_the_bloat_of_the_old_kingdom.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_TTS_the_parisian_lifeline"
+		texturefile = "gfx/interface/ideas/TTS_the_parisian_lifeline.dds"  
+	}
 }
