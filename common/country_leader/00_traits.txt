@@ -13,6 +13,14 @@
 ###Todo remove commented advisor experience gains
 
 leader_traits = {
+	controversial_king = {
+		stability_factor = -0.1
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 	emperor_of_the_french = {
 		political_power_factor = 0.1
 		stability_factor = 0.1

@@ -3,14 +3,13 @@
 #oob = "DEN_1936"
 
 add_ideas = {
-		DEN_the_controversal_king
-		DEN_norwegian_unrest
-		DEN_danish_fleet
-		DEN_outdated_land_forces
-		DEN_souring_relations_with_sweden
-		DEN_union_with_brandenburg
-		#laws
-		partial_economic_mobilisation
+	DEN_norwegian_unrest
+	DEN_danish_fleet
+	DEN_outdated_land_forces
+	DEN_souring_relations_with_sweden
+	DEN_union_with_brandenburg
+	#laws
+	partial_economic_mobilisation
 }
 
 set_autonomy = {

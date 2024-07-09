@@ -56,24 +56,6 @@ ideas = {
 				consumer_goods_factor = 0.05
 			}
 		}
-		DEN_the_controversal_king = {
-			
-			picture = DEN_the_controversal_king
-			
-			allowed = {
-			    always = no
-			}
-
-			allowed_civil_war = {
-				always = yes
-			}
-
-			removal_cost = -1
-			
-			modifier = {
-				stability_factor = -0.1
-			}
-		}
 		DEN_norwegian_unrest = {
 			
 			picture = DEN_norwegian_unrest
