@@ -21,6 +21,43 @@ ideas = {
 
 			}
 		}
+		GEN_social_turmoil = {
+			picture = confederation_of_rhine
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			}
+		}
+		GEN_outdated_army = {
+			
+			picture = confederation_of_rhine
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			    stability_factor = 0.05
+				political_power_factor = -0.25
+				war_support_factor = -0.20
+
+			}
+		}
 	}   
 }
 
