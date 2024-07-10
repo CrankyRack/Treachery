@@ -1,0 +1,15 @@
+characters={
+	PNG_francis_rickman_barton={
+		name="Francis Rickman Barton"
+		portraits={
+			civilian={
+				large="gfx/leaders/NIR/PNG_francis_rickman_barton.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

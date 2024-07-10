@@ -9,7 +9,7 @@ set_technology = {
 
 set_convoys = 5
 
-recruit_character = PNG_stc
+recruit_character = PNG_francis_rickman_barton
 
 set_cosmetic_tag = PNG_NIR
 
