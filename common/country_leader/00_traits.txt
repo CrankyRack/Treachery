@@ -13,6 +13,42 @@
 ###Todo remove commented advisor experience gains
 
 leader_traits = {
+	austrian_general = {
+		army_org_factor = 0.1
+		power_balance_weekly = -0.05
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	the_mad_king = {
+		stability_factor = -0.50
+		political_power_gain = -1
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	stroke_victim = {
+		stability_factor = -0.50
+		political_power_gain = -1
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
+	patron_of_the_arts = {
+		stability_factor = 0.05
+		political_power_gain = 0.1
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	
 	controversial_king = {
 		stability_factor = -0.1
 		random = no

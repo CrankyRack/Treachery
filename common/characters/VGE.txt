@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology=conservatism
-			traits={ # }
+			traits={ patron_of_the_arts }
 			expire="1965.1.1.1"
 			id=-1
 		}
