@@ -1,6 +1,6 @@
 characters={
 	FRA_napoleon_four={
-		name="Napoléon IV"
+		name="Napoléon IV Bonaparte"
 		portraits={
 			civilian={
 				large="GFX_portrait_fra_pierre_laval"

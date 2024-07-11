@@ -1,6 +1,6 @@
 characters = {
 	HAN_king_jerome = {
-		name="Jérôme II"
+		name="Jérôme II Bonaparte"
 		portraits = {
 			civilian = {
 				large="gfx/leaders/HAN/HAN_king_jerome.dds"
