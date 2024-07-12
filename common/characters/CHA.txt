@@ -1,0 +1,16 @@
+characters = {
+	CHA_gaourang_ii = {
+		name="Gaourang II"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/AFRICA/CHA_gaourang_ii.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

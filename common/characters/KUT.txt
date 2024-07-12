@@ -1,0 +1,16 @@
+characters = {
+	KUT_muhammad_al_sanussi = {
+		name="Muhammad al-Sanussi"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/AFRICA/KUT_muhammad_al_sanussi.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
