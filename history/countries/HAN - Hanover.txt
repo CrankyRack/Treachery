@@ -16,6 +16,26 @@ add_ideas = {
 	HAN_westphalian_army
 }
 
+Create_faction = "League of the Rhine"
+Add_to_faction = BAD
+Add_to_faction = WUR
+Add_to_faction = ANS
+Add_to_faction = VGE
+Add_to_faction = BRU
+Add_to_faction = LEI
+Add_to_faction = GBA
+Add_to_faction = CHU
+Add_to_faction = DAG
+Add_to_faction = BSK
+Add_to_faction = BAS
+Add_to_faction = OVO
+Add_to_faction = SAX
+Add_to_faction = CRC
+Add_to_faction = KSH
+Add_to_faction = BAY
+Add_to_faction = HAN
+Add_to_faction = ANH
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1

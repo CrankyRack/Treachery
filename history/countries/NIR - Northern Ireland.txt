@@ -62,7 +62,10 @@ set_autonomy = {
 		target = UBA
 		autonomous_state = autonomy_german_prince_1
 	}
+
 give_guarantee = ELS
+
+create_faction = "British Empire"
 
 set_technology = {
 	infantry_weapons = 1

@@ -13,6 +13,7 @@ set_technology = {
 	
 }
 
+Create_faction = "French India"
 
 set_politics = {
 	ruling_party = authoritarian
