@@ -19,4 +19,15 @@ spriteTypes = {
 		name = "GFX_bop_WES_economical_dependency"
 		texturefile = "gfx/interface/bop/bop_WES_economical_dependency.dds"
 	}
+	
+	spriteType = {
+		name = "GFX_bop_FRA_Napoleon_IV"
+		texturefile = "gfx/interface/bop/bop_FRA_Napoleon_IV.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_bop_FRA_Boulanger"
+		texturefile = "gfx/interface/bop/bop_FRA_Boulanger.dds"
+	}
+
 }
