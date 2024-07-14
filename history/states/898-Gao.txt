@@ -6,9 +6,6 @@ state={
 
 	history={
 		owner = WES
-		add_core_of = MLI
-		add_core_of = WES
-		
 		buildings = {
 			infrastructure = 2
 
