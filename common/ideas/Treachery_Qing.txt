@@ -1,0 +1,104 @@
+ideas = {
+	country = {
+		QNG_empress_dowager_cixi = {
+			
+			picture = QNG_empress_dowager_cixi
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.2
+				political_power_gain = -0.5
+				political_advisor_cost_factor = -0.3
+			}
+		}
+		
+		QNG_foreign_influence = {
+			
+			picture = QNG_foreign_influence
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				stability_factor = -0.25
+				political_power_gain = -0.5
+			}
+			targeted_modifier = {
+				tag = NIR
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+			}
+			targeted_modifier = {
+				tag = FRA
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+			}
+			targeted_modifier = {
+				tag = AUS
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+			}
+			targeted_modifier = {
+				tag = SOV
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+			}
+			targeted_modifier = {
+				tag = SWE
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+			}
+			targeted_modifier = {
+				tag = SPR
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+			}
+			targeted_modifier = {
+				tag = POR
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+			}
+		}
+		
+		
+		QNG_Unrecognized_nation = { #WIP name
+			
+			picture = QNG_Unrecognized_nation
+
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+			
+			removal_cost = -1
+			
+			modifier = {
+				guarantee_tension = 1
+				join_faction_tension = 1
+				lend_lease_tension = 1
+				request_lease_tension = 1
+				send_volunteers_tension = 1
+				opinion_gain_monthly_factor = -0.33
+			}
+		}
+	}   Unrecognized nation
+}

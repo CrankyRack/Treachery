@@ -35,6 +35,17 @@ set_autonomy = {
 	autonomous_state = autonomy_puppet
 }
 
+add_ideas = {
+	QNG_empress_dowager_cixi
+	QNG_foreign_influence
+	QNG_Unrecognized_nation
+	traditionalism
+}
+set_variable = { QIN_industrialzing_nation_production_speed_buildings_factor = 0.1 }
+set_variable = { QIN_industrialzing_nation_consumer_goods_factor = -0.1 }
+set_variable = { QIN_industrialzing_nation_research_speed_factor = 0.1 }
+
+add_dynamic_modifier = { modifier = QIN_industrialzing_nation }
 create_faction = "Tianxia"
 Add_to_faction = MON
 Add_to_faction = UZB

@@ -171,4 +171,24 @@ spriteTypes = {
 		name = "GFX_idea_TTS_the_parisian_lifeline"
 		texturefile = "gfx/interface/ideas/TTS_the_parisian_lifeline.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_QNG_empress_dowager_cixi"
+		texturefile = "gfx/interface/ideas/QNG_empress_dowager_cixi.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_QNG_foreign_influence"
+		texturefile = "gfx/interface/ideas/QNG_foreign_influence.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_QNG_Unrecognized_nation"
+		texturefile = "gfx/interface/ideas/QNG_Unrecognized_nation.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_QIN_industrialzing_nation"
+		texturefile = "gfx/interface/ideas/QIN_industrialzing_nation.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_traditionalism"
+		texturefile = "gfx/interface/ideas/traditionalism.dds"  
+	}
 }
