@@ -5,10 +5,8 @@ state={
 	history={
 		owner = CHA
 		add_core_of = CHA
+		add_core_of = BOR
 		add_claim_by = FNA
-		victory_points = {
-			2081 1
-		}
 		buildings = {
 			infrastructure = 1
 
@@ -17,7 +15,7 @@ state={
 	}
 
 	provinces={
-		1883 2081 4897 9152 
+		4897 
 	}
 	manpower=442456
 	buildings_max_level_factor=1.000

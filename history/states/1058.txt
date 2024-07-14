@@ -19,7 +19,7 @@ state=
 		add_claim_by = CHA
 	}
 	provinces={
-		3181 4978
+		1883 4978
 	}
 	local_supplies=0.0 
 }

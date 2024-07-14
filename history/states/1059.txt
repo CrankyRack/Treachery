@@ -19,7 +19,7 @@ state=
 		add_claim_by = DAH
 	}
 	provinces={
-		5084
+		3181 5084
 	}
 	local_supplies=0.0 
 }

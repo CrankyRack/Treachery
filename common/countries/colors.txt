@@ -1442,3 +1442,7 @@ EPI = {
 	color = rgb { 154 69 116 }
 	color_ui = rgb { 154 69 116 }
 }
+BOR = {
+	color = rgb { 194 9 9 }
+	color_ui = rgb { 193 81 81 }
+}

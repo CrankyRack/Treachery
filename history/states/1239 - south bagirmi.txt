@@ -9,8 +9,10 @@ state={
 		rubber=5 # was: 4
 	}
 	history={
-		owner = CHA
+		owner = BOR
 		add_core_of = CHA
+		add_core_of = BOR
+		add_claim_by = FNA
 		victory_points = {
 			12830 1
 		}
@@ -21,7 +23,7 @@ state={
 	}
 
 	provinces={
-		12830 13211
+		1993 12830
 	}
 
 	local_supplies=2.0 

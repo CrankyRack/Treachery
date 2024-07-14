@@ -5,15 +5,21 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = WES
+		owner = BOR
 		add_core_of = NGA
+		add_core_of = CHA
+		add_core_of = BOR
+		add_claim_by = FNA
+	    victory_points = {
+			2081 1
+		}
 		buildings = {
 			infrastructure = 1
 		}
 	}  
 
 	provinces={
-		4997 5028 8109 10820 
+		2081 9152 13211
 	}
 
 	buildings_max_level_factor=1.000
