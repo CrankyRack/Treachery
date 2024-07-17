@@ -4,7 +4,8 @@ state={
 
 	history={
 		add_core_of = BOU
-		owner = FRA
+		add_core_of = MOR
+		owner = SAH
 		buildings = {
 			infrastructure = 3		
 		}

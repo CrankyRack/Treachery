@@ -8,7 +8,7 @@ state={
 	impassable = yes
 
 	history={
-		owner =
+		owner = SAH
 		buildings = {
 			infrastructure = 0
 		}
@@ -16,7 +16,7 @@ state={
 	}
 
 	provinces={
-		1115 2068 5095 7041 10725 10838 10868 12849
+		1115 2068 5095 7943 8035 10779 10838 10868 12849
 	}
 
 	local_supplies=0.0 

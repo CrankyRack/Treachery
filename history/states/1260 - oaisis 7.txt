@@ -1,0 +1,27 @@
+
+state={
+	id=1260
+	name="Djado"
+
+	history={
+		victory_points = {
+			10780 1 
+		}
+		owner = SAH
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SNU
+
+
+	}
+
+	provinces={
+		10780
+	}
+	manpower=11369
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=3.0 
+}

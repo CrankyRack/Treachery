@@ -1,0 +1,27 @@
+
+state={
+	id=1255
+	name="Kufra"
+
+	history={
+		victory_points = {
+			10291 1 
+		}
+		owner = SNU
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SNU
+
+
+	}
+
+	provinces={
+		10291
+	}
+	manpower=13960
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=3.0 
+}

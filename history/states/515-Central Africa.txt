@@ -6,9 +6,8 @@ state={
 	impassable = yes
 
 	history={
-		owner =
-		add_core_of = NGR
-		add_claim_by = DAH
+		owner = SAH
+		add_core_of = SNU
 		buildings = {
 			infrastructure = 1
 
@@ -17,7 +16,7 @@ state={
 	}
 
 	provinces={
-		1956 8128 10780 10805
+		1956 8128 10805
 	}
 	manpower=16356
 	buildings_max_level_factor=1.000

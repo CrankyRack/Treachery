@@ -1,0 +1,30 @@
+state=
+{
+	id=1261
+	name="Naâma"
+	resources={
+		steel=5 # was: 18
+	}
+
+	manpower =91288
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = SAH
+		victory_points = {
+			7132 2 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = ALG
+	}
+
+	provinces={
+		12018 13074
+	}
+	local_supplies=0.0 
+}

@@ -11,7 +11,7 @@ state=
 		add_core_of = SUD
 		owner = SNU
 		add_core_of = SNU
-		add_claim_by = GDL
+		add_claim_by = EGY
 		buildings = {
 			infrastructure = 0
 		}

@@ -51,12 +51,12 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 12632;1814;sea;5637;-1;-1;-1;-1;;North-South NZ Islands
 10231;10248;sea;430;-1;-1;-1;-1;;New Guinea-Fergusson
 12246;10288;sea;5513;-1;-1;-1;-1;;Cobourg-Australia
-1042;7437;sea;6819;-1;-1;-1;-1;;San Cristobal-Guadalcanal
-4292;10319;sea;5868;-1;-1;-1;-1;;Guadalcanal-Munda
+1042;1370;sea;6819;-1;-1;-1;-1;;San Cristobal-Guadalcanal
+1370;10319;sea;5868;-1;-1;-1;-1;;Guadalcanal-Munda
 10319;12265;sea;5868;-1;-1;-1;-1;;Munda-Choiseul
 12265;4252;sea;5868;-1;-1;-1;-1;;Choiseul-Santa Isabel
 4252;1085;sea;5868;-1;-1;-1;-1;;Santa Isabel-Malaita
-1085;10291;sea;5868;-1;-1;-1;-1;;Malaita-Guadalcanal
+1085;1370;sea;5868;-1;-1;-1;-1;;Malaita-Guadalcanal
 1742;7868;sea;2510;-1;-1;-1;-1;;Sakhalin-Siberia
 12661;7884;sea;8538;-1;-1;-1;-1;;Kodiak-Alaska
 11985;1025;sea;7932;-1;-1;-1;-1;;Japan-Kyushu
@@ -197,4 +197,17 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 6691;9650;impassable;-1;-1;-1;-1;-1;;austrian alps
 9650;3684;impassable;-1;-1;-1;-1;-1;;austrian alps
 3314;6336;sea;2752;2885;1578;2890;1581;;Afsluitdijk
+4292;10291;sea;8871;-1;-1;-1;-1;;oasis1
+10291;7437;sea;8871;-1;-1;-1;-1;;oasis2
+10291;10893;sea;8871;-1;-1;-1;-1;;oasis3
+10785;10291;sea;8871;-1;-1;-1;-1;;oasis4
+4970;5035;sea;8871;-1;-1;-1;-1;;oasis5
+5035;1901;sea;8871;-1;-1;-1;-1;;oasis6
+1901;10780;sea;8871;-1;-1;-1;-1;;oasis7
+10780;10893;sea;8871;-1;-1;-1;-1;;oasis9
+10780;3123;sea;8871;-1;-1;-1;-1;;oasis9
+10780;4913;sea;8871;-1;-1;-1;-1;;oasis10
+5035;7041;sea;8871;-1;-1;-1;-1;;oasis11
+1901;7041;sea;8871;-1;-1;-1;-1;;oasis12
+7041;8111;sea;8871;-1;-1;-1;-1;;oasis13
 -1;-1;;-1;-1;-1;-1;-1;-1

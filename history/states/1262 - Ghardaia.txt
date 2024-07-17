@@ -1,0 +1,27 @@
+state=
+{
+	id=1262
+	name="Ghardaia"
+
+	manpower =91288
+
+	
+	state_category = rural
+	
+	
+	history={
+		owner = SAH
+		victory_points = {
+			7132 2 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = ALG
+	}
+
+	provinces={
+		1126 1967 4970 5053 9943 9960 12888
+	}
+	local_supplies=0.0 
+}

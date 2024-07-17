@@ -1,7 +1,7 @@
 ﻿capital = 1059
 
 
-recruit_character = KUT_muhammad_al_sanussi
+recruit_character = BOR_rabih_zubayr
 
 set_politics = {
 	ruling_party = authoritarian

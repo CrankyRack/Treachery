@@ -1,0 +1,27 @@
+
+state={
+	id=1258
+	name="Tassili n'Ajjer"
+
+	history={
+		victory_points = {
+			1901 1 
+		}
+		owner = SAH
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = ALG
+
+
+	}
+
+	provinces={
+		1901
+	}
+	manpower=8960
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=3.0 
+}

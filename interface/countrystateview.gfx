@@ -248,6 +248,14 @@ spriteTypes = {
 		name = "GFX_terrain_desert"
 		textureFile = "gfx/interface/terrains/terrain_desert.dds"
 	}
+	spriteType = {
+		name = "GFX_terrain_oasis"
+		textureFile = "gfx/interface/terrains/terrain_oasis.dds"
+	}
+	spriteType = {
+		name = "GFX_terrain_savannah"
+		textureFile = "gfx/interface/terrains/terrain_savannah.dds"
+	}
 	
 	# TERRAIN WINTER
 	
@@ -289,6 +297,14 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_terrain_desert_winter"
 		textureFile = "gfx/interface/terrains/terrain_desert_winter.dds"
+	}
+	spriteType = {
+		name = "GFX_terrain_oasis_winter"
+		textureFile = "gfx/interface/terrains/terrain_oasis_winter.dds"
+	}
+	spriteType = {
+		name = "GFX_terrain_savannah_winter"
+		textureFile = "gfx/interface/terrains/terrain_savannah_winter.dds"
 	}
 	
 	spriteType = {

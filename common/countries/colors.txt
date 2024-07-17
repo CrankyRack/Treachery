@@ -1446,3 +1446,7 @@ BOR = {
 	color = rgb { 194 9 9 }
 	color_ui = rgb { 193 81 81 }
 }
+SAH = {
+	color = rgb { 140 28 46 }
+	color_ui = rgb { 140 28 46 }
+}

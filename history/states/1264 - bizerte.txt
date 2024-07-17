@@ -1,0 +1,30 @@
+
+state={
+	id=1264
+	name="Bizerte"
+
+	history={
+		victory_points = {
+			9994 5 
+		}
+		owner = SPM
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			9994 = {
+				naval_base = 9
+			}
+		}
+		add_core_of = TUN
+
+	}
+
+	provinces={
+		9994
+	}
+	manpower=113118
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=3.0 
+}

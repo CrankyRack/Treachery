@@ -1,0 +1,16 @@
+characters = {
+	BOR_rabih_zubayr = {
+		name="Rabih az-Zubayr"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BOR/BOR_rabih_zubayr.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

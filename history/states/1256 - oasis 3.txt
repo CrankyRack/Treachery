@@ -1,0 +1,28 @@
+
+state={
+	id=1256
+	name="Bardai"
+
+	history={
+		victory_points = {
+			7437 1 
+		}
+		owner = SNU
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SNU
+		add_core_of = TBS
+
+
+	}
+
+	provinces={
+		7437
+	}
+	manpower=28960
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=3.0 
+}

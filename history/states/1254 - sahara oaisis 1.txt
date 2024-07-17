@@ -1,0 +1,28 @@
+
+state={
+	id=1254
+	name="Jaghbub"
+
+	history={
+		victory_points = {
+			4292 5 
+		}
+		owner = SNU
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = SNU
+		add_claim_by = EGY
+
+
+	}
+
+	provinces={
+		4292
+	}
+	manpower=22960
+	buildings_max_level_factor=1.000
+	state_category=rural
+
+	local_supplies=3.0 
+}

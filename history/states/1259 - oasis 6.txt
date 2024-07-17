@@ -1,0 +1,27 @@
+
+state={
+	id=1259
+	name="Ouargia"
+
+	history={
+		victory_points = {
+			5035 1 
+		}
+		owner = SAH
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = ALG
+
+
+	}
+
+	provinces={
+		5035
+	}
+	manpower=21369
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+
+	local_supplies=3.0 
+}

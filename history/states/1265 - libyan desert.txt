@@ -1,0 +1,24 @@
+
+state={
+	id=1265
+	name="Cyrenaican Desert"
+	manpower = 8539
+	
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = SNU
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = SNU
+
+	}
+
+	provinces={
+		1057 1060 1140 1994 4191 10104 10754
+	}
+
+	local_supplies=0.0 
+}
