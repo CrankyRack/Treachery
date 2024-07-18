@@ -39,6 +39,7 @@ add_ideas = {
 	QNG_empress_dowager_cixi
 	QNG_foreign_influence
 	QNG_Unrecognized_nation
+	QNG_Backwards_army
 	traditionalism
 }
 set_variable = { QIN_industrialzing_nation_production_speed_buildings_factor = 0.1 }
