@@ -6,7 +6,6 @@ state={
 
 	history={
 		owner = BOR
-		add_core_of = NGA
 		add_core_of = CHA
 		add_core_of = BOR
 		add_claim_by = FNA

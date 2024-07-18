@@ -1,0 +1,35 @@
+
+state={
+	id=1269
+	name="Zhilensk"
+	resources={
+		steel=9.000
+		rubber=4 # was: 16
+	}
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 2
+			12499 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			12499 10 
+		}
+		add_core_of = SOV
+
+	}
+
+	provinces={
+		1217 1410 1422 4462 7457 7481 12290 12499
+	}
+	manpower=13000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=0.0 
+}

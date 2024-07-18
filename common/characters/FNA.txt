@@ -1,6 +1,6 @@
 characters = {
 	FNA_general_bescond = {
-		name="Emmanuel Bescond"
+		name="Jean-Baptiste Marchand"
 		portraits = {
 			civilian = {
 				large="gfx/leaders/FRA/FNA_general_bescond.dds"

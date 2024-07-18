@@ -7,7 +7,6 @@ state={
 	history={
 		owner = WES
 		add_core_of = NGR
-		add_claim_by = NGA
 		buildings = {
 			infrastructure = 1
 
