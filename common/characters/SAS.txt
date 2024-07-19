@@ -1,0 +1,16 @@
+characters = {
+	SAS_gustaf_w = {
+		name="Gustaf af Wetterstedt"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SWE/SAS_gustaf_w.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

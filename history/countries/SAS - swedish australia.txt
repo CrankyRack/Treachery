@@ -9,7 +9,7 @@ set_technology = {
 
 set_convoys = 5
 
-#recruit_character = DPA_alexander_bulatovich
+recruit_character = SAS_gustaf_w
 
 set_politics = {
 	ruling_party = authoritarian
