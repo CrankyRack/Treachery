@@ -1,0 +1,16 @@
+characters = {
+	DAR_ali_dinar = {
+		name="Ali Dinar"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/DAR/DAR_ali_dinar.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

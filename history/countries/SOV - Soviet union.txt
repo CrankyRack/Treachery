@@ -8,7 +8,10 @@ set_autonomy = {
 		target = DPA
 		autonomous_state = autonomy_colony
 }
-
+set_autonomy = {
+		target = RAS
+		autonomous_state = autonomy_colony
+}
 #POLITICAL ADVISORS
 recruit_character = SOV_mikhail_kalinin
 recruit_character = SOV_nikita_khrushchyov

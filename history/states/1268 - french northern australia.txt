@@ -1,0 +1,35 @@
+
+state={
+	id=1268
+	name="Territoires du Nord"
+	resources={
+		steel=3.000
+	}
+
+	history={
+		owner = NEW
+		buildings = {
+			infrastructure = 2
+			2139 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			2139 1 
+		}
+		add_core_of = NEW
+		add_claim_by = SOV
+
+	}
+
+	provinces={
+		1478 2139 4487 4441
+	}
+	manpower=13000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+
+	local_supplies=0.0 
+}

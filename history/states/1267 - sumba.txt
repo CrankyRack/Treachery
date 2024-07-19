@@ -1,0 +1,30 @@
+state={
+	id=1267
+	name="Sumba"
+	resources={
+		rubber=3 # was: 16
+	}
+
+	history={
+		owner = SWE
+		add_claim_by = INS
+		buildings = {
+			infrastructure = 2
+			12234 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		12219 12234
+	}
+	manpower=160200
+	buildings_max_level_factor=1
+	state_category="rural"
+
+	local_supplies=3.0 
+}

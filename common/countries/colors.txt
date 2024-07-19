@@ -1450,3 +1450,11 @@ SAH = {
 	color = rgb { 140 28 46 }
 	color_ui = rgb { 140 28 46 }
 }
+SAS = {
+	color = rgb { 8 121 173 }
+	color_ui = rgb { 8 121 173 }
+}
+RAS = {
+	color = rgb { 24 130 80 }
+	color_ui = rgb { 80 115 45 }
+}

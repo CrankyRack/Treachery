@@ -188,6 +188,10 @@ spriteTypes = {
 		texturefile = "gfx/interface/ideas/QIN_industrialzing_nation.dds"  
 	}
 	SpriteType = {
+		name = "GFX_idea_QNG_Backwards_army"
+		texturefile = "gfx/interface/ideas/QNG_Backwards_army.dds"  
+	}
+	SpriteType = {
 		name = "GFX_idea_traditionalism"
 		texturefile = "gfx/interface/ideas/traditionalism.dds"  
 	}
