@@ -133,7 +133,7 @@
  QNG_foreign_influence_desc:0 ""
  
  QNG_Unrecognized_nation:0 "Unrecognized Empire"
- QNG_Unrecognized_nation:0 "Even though China was for the longest the greatest empire in the world we have been eclipsed by the Westerners, the westerners do not recognize our position as an empire and an equal"
+ QNG_Unrecognized_nation_desc:0 "Even though China was for the longest the greatest empire in the world we have been eclipsed by the Westerners, the westerners do not recognize our position as an empire and an equal"
  
  QNG_Backwards_army:0 "Backwards Army"
  QNG_Backwards_army_desc:0 ""
