@@ -214,5 +214,9 @@ add_ideas = {
 	FRA_oversized_empire
 	FRA_the_boulanger_policy
 }
+add_opinion_modifier = {
+	target = ITA
+	modifier = strong_ties
+}
 
 recruit_character = FRA_napoleon_four
