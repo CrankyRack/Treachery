@@ -7,7 +7,13 @@ set_war_support = 0.2
 
 add_ideas = {
 	limited_exports
-	limited_conscription
+	volunteers_only
+	ITA_strong_french_influence
+}
+
+add_opinion_modifier = {
+	target = FRA
+	modifier = strong_ties
 }
 
 add_dynamic_modifier = {
@@ -40,6 +46,7 @@ set_politics = {
 	election_frequency = 60
 	elections_allowed = no
 }
+
 set_popularities = {
 	democratic = 20
 	monarchist = 73

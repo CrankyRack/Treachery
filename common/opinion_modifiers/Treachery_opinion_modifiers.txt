@@ -1,0 +1,8 @@
+opinion_modifiers = {
+
+	# France and Italy opinion modifier because they are buddies
+	strong_ties = {
+		value = 45
+	}
+
+}
