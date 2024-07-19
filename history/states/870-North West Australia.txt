@@ -2,16 +2,16 @@ state={
 	id=870
 	name="STATE_870"
 	provinces={
-		2201 5207 8152 8209 8247 10937 10958 11016 12993 
+		2201 5207 8152 8209 8247 10937 10958 11016 12311 12993 
 	}
 	history = {
 		buildings = {
-			infrastructure = 1
+			infrastructure = 2
 		}
-		owner = SWE
-		add_core_of = SWE
+		owner = SAS
+		add_core_of = SAS
 	}
-	state_category = wasteland
+	state_category = rural
 	manpower=1000
 
 	buildings_max_level_factor=1.000

@@ -4986,4 +4986,18 @@
  SAH_subject:0 "$OVERLORDADJ$ North Africa"
  SAH_subject_DEF:0 "the Colony of $OVERLORDADJ$ North Africa"
  SAH_subject_ADJ:0 "$OVERLORDADJ$ North African"
+ 
+ SAS:0 "Ulimaroa"
+ SAS_DEF:0 "Ulimaroa"
+ SAS_ADJ:0 "Ulimaroan"
+ SAS_subject:0 "$OVERLORDADJ$ Ulimaroa"
+ SAS_subject_DEF:0 "the Colony of $OVERLORDADJ$ Ulimaroa"
+ SAS_subject_ADJ:0 "$OVERLORDADJ$ Ulimaroan"
+ 
+ RAS:0 "Australia"
+ RAS_DEF:0 "the Australia"
+ RAS_ADJ:0 "Australian"
+ RAS_subject:0 "$OVERLORDADJ$ Australia"
+ RAS_subject_DEF:0 "the Colony of $OVERLORDADJ$ Australia"
+ RAS_subject_ADJ:0 "$OVERLORDADJ$ Australian"
 

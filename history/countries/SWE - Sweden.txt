@@ -11,6 +11,10 @@ set_autonomy = {
 		autonomous_state = autonomy_colony
 	}
 set_autonomy = {
+		target = SAS
+		autonomous_state = autonomy_colony
+	}
+set_autonomy = {
 		target = EST
 		autonomous_state = autonomy_personal_union
 	}
