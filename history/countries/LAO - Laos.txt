@@ -2,6 +2,13 @@
 
 #oob = "LAO_1936"
 
+VIN = {
+set_autonomy = {
+		target = LAO
+		autonomous_state = autonomy_german_prince_1
+	}
+}
+
 set_research_slots = 3
 
 # Starting tech

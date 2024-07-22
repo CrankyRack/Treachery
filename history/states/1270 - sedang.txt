@@ -1,0 +1,39 @@
+state={
+	id=1270
+	name="Sedang"
+	resources={
+		rubber=8.000
+	}
+
+	history={
+		owner = SED
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 5
+			4255 = {
+				naval_base = 3
+
+			}
+
+		}
+		victory_points = {
+			4255 2 
+		}
+		victory_points = {
+			1577 10
+		}
+		
+		
+		add_core_of = SED
+
+	}
+
+	provinces={
+		1248 1300 1328 1577 4255 4363 4554 4596 7229 10137 10180 12167
+	}
+	manpower=622400
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

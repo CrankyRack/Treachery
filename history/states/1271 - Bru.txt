@@ -1,0 +1,38 @@
+
+state={
+	id=1271
+	name="Bru"
+	manpower = 1528000
+	
+	state_category = rural
+	
+	resources={
+		rubber=6 # was: 8
+	}
+
+
+	history={
+		add_core_of = VIE
+		add_core_of = LAO
+		owner = VIE
+		victory_points = {
+			4075 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			1185 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1374 1520 1563 4539 10238 10453
+	}
+
+	local_supplies=0.0 
+}

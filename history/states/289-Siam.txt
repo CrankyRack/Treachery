@@ -11,7 +11,6 @@ state={
 			infrastructure = 2
 			arms_factory = 1
 			industrial_complex = 5
-			air_base = 3
 			7408 = {
 				naval_base = 3
 
@@ -28,7 +27,7 @@ state={
 	}
 
 	provinces={
-		1427 4319 4348 4566 7338 7353 7367 7544 7559 7572 7587 10193 10221 10398 10411 12173 12345 
+		1357 1427 4319 4348 4566 4582 7338 7353 7367 7544 7559 7572 7587 10193 10221 10398 10411 12173 12195 12345 12373 12388
 	}
 	manpower=6422400
 	buildings_max_level_factor=1.000

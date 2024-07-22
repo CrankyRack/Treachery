@@ -3,7 +3,7 @@ state=
 	id=1076
 	name="Xayabury"
 
-	manpower = 2171732
+	manpower = 371732
 	resources={
 		rubber=3 # was: 18
 	}
@@ -12,7 +12,7 @@ state=
 	
 	
 	history={
-		owner = LAA
+		owner = LAO
 		victory_points = {
 			4626 2
 		}
@@ -27,7 +27,7 @@ state=
 	}
 
 	provinces={
-		10330 10356 10456
+		1990 10330 10356 10456
 	}
 	local_supplies=0.0 
 }

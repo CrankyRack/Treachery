@@ -1,0 +1,16 @@
+characters = {
+	TON_paul_doumer = {
+		name="Paul Doumer"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/FRA/TON_paul_doumer.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

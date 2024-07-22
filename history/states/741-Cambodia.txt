@@ -3,20 +3,17 @@ state={
 	name="STATE_741"
 	history = {
 		add_core_of = CAM
-		owner = VIN
+		owner = CAM
 		victory_points = {
 			7376 1
 		}
 		buildings = {
 			infrastructure = 1
-			7432 = {
-				naval_base = 1
-			}
 
 		}
 	}
 	provinces={
-		1324 1620 4330 4596 4639 7319 7376 7432 7645 10204 10289 10317 12167 12260 12288 12447 12460 12475 
+		1324 1620 4302 4330 4639 7319 7376 7645 10204 10289 12150 12191 12260 12288 12447 12475 
 	}
 	manpower=4245000
 	buildings_max_level_factor=1.000

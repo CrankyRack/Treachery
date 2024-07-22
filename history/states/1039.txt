@@ -13,7 +13,7 @@ state=
 	
 	
 	history={
-		owner = SIA
+		owner = VIE
 		victory_points = {
 			10438 2 
 		}
@@ -21,10 +21,11 @@ state=
 			infrastructure = 1
 		}
 		add_core_of = SIA
+		add_core_of = VIE
 	}
 
 	provinces={
-		7601 10438 12195 12417 12264 12431
+		1592 7601 10438 12417 12460 12264 12431
 	}
 	local_supplies=0.0 
 }

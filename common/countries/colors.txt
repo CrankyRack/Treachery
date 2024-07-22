@@ -414,8 +414,8 @@ ARM = {
 }
 
 LAO = {
-	color = rgb { 176  102  136 }
-	color_ui = rgb { 176  102  136 }
+	color = rgb { 73 93 160 }
+	color_ui = rgb { 73 93 160 }
 }
 
 INS = {
@@ -429,8 +429,9 @@ VIN = {
 }
 
 CAM = {
-	color = rgb { 100  71  150 }
-	color_ui = rgb { 100  71  150 }
+	color = rgb { 73 93 160 }
+	#color = rgb { 100  71  150 }
+	color_ui = rgb { 73 93 160 }
 }
 
 MAL = {
@@ -1103,8 +1104,8 @@ PAH = {
 	color_ui = rgb { 168 14 11 }
 }
 SIA = {
-	color = rgb { 81 92 173 }
-	color_ui = rgb { 81 92 173 }
+	color = rgb { 73 93 160 }
+	color_ui = rgb { 73 93 160 }
 }
 BNJ = {
 	color = rgb { 76 145 63 }
@@ -1457,4 +1458,16 @@ SAS = {
 RAS = {
 	color = rgb { 24 130 80 }
 	color_ui = rgb { 80 115 45 }
+}
+SED = {
+	color = rgb { 73 93 160 }
+	color_ui = rgb { 73 93 160 }
+}
+VIE = {
+	color = rgb { 73 93 160 }
+	color_ui = rgb { 73 93 160 }
+}
+TON = {
+	color = rgb { 73 93 160 }
+	color_ui = rgb { 73 93 160 }
 }

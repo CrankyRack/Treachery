@@ -1,0 +1,15 @@
+characters={
+	RAJ_george_curzon={
+		name="Lord George Curzon"
+		portraits={
+			civilian={
+				large="gfx/leaders/NIR/RAJ_george_curzon.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

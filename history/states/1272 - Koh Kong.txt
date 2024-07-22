@@ -1,0 +1,38 @@
+
+state={
+	id=1272
+	name="Koh Kong"
+	manpower = 328000
+	
+	state_category = rural
+	
+	resources={
+		rubber=3 # was: 8
+	}
+
+
+	history={
+		add_core_of = VIN
+		add_core_of = SIA
+		add_core_of = CAM
+		owner = VIN
+		victory_points = {
+			4359 1 
+		}
+		buildings = {
+			infrastructure = 2
+			4359 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		1353 4359 7404
+	}
+
+	local_supplies=0.0 
+}

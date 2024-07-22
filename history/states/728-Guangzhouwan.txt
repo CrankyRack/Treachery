@@ -6,8 +6,9 @@ state={
 	state_category = enclave
 	
 	history={
-		owner = FRA
+		owner = VIN
 		add_core_of = MAN
+		add_core_of = VIN
 		victory_points = {
 			11981 3 
 		}
