@@ -1,0 +1,16 @@
+characters = {
+	KOS_gabriel_louis_angoulvant = {
+		name="Gabriel Louis Angoulvant"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/FRA/KOS_gabriel_louis_angoulvant.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

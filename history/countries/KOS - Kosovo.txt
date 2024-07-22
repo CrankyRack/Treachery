@@ -13,6 +13,8 @@ set_technology = {
 	
 }
 
+recruit_character = KOS_gabriel_louis_angoulvant
+
 Create_faction = "French India"
 
 set_politics = {
