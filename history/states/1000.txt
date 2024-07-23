@@ -13,7 +13,7 @@ state=
 	
 	history=
 	{
-		owner = SOV
+		owner = MER
 		victory_points = {
 			5098 3 
 		}
@@ -24,13 +24,13 @@ state=
 			7953 2
 		}
 		add_core_of = TMS
-		add_core_of = BUK
+		add_core_of = MER
 		buildings = {
 			infrastructure = 2 #was: 6
 		}
 	}
 	provinces={
-		4549 10742
+		4482 4549 4958 5003 7560 8053 10357 10414 10742
     }
 	local_supplies=0.0 
 }

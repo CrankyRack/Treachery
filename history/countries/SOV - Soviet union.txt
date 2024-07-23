@@ -12,6 +12,15 @@ set_autonomy = {
 		target = RAS
 		autonomous_state = autonomy_colony
 }
+set_autonomy = {
+		target = KHI
+		autonomous_state = autonomy_german_prince_1
+}
+set_autonomy = {
+		target = BUK
+		autonomous_state = autonomy_german_prince_1
+}
+
 #POLITICAL ADVISORS
 recruit_character = SOV_mikhail_kalinin
 recruit_character = SOV_nikita_khrushchyov

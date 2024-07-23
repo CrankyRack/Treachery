@@ -15,7 +15,7 @@ state=
 	{
 		owner = PER
 		victory_points = {
-			7917 5 
+			5043 5 
 		}
 		add_core_of = KKP
 		add_core_of = PAK
@@ -28,7 +28,7 @@ state=
 		}
 	}
 	provinces={
-		12774
+		5043 12774
     }
 	local_supplies=0.0 
 }

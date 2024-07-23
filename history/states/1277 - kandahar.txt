@@ -1,0 +1,26 @@
+
+state={
+	id=1277
+	name="Kandahar"
+	manpower = 893700
+	
+	state_category = rural
+
+	history={
+		owner = KAN
+		victory_points = {
+			10781 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = KAN
+		add_core_of = AFG
+	}
+
+	provinces={
+		4949 5020 5075
+	}
+
+	local_supplies=0.0 
+}

@@ -13,24 +13,19 @@ state = {
 		victory_points = {
 			10488 1 
 		}
+		victory_points = {
+			10671 1 
+		}
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 2
-			air_base = 1
 		}
 
-		add_core_of = KHI
-		
-		1939.1.1 = {
-			buildings = {
-				industrial_complex = 3
-
-			}
-		}
+		add_core_of = TAJ
 	}
 
 	provinces = {
-		1459 4629 7682 10488 11687 
+		1459 1919 4629 7682 10187 10488 10671 11687 12430 
 	}
 	
 	manpower = 4137910 #Was 6275820 but was divided by 2 due to Bukhara (830) and then got 1M back

@@ -13,22 +13,20 @@ state=
 	
 	
 	history={
-		owner = PER
+		owner = SKH
 		victory_points = {
-			5043 1 
+			12761 1 
 		}
 		buildings = {
 			infrastructure = 1
 		}
 		add_core_of = PAK
-		add_core_of = PER
-		add_core_of = KAL
-		add_claim_by = KKP
-		add_claim_by = AFG
+		add_core_of = AFG
+		add_core_of = SKH
 	}
 
 	provinces={
-		5043 12761
+		5082 8090 12831
 	}
 	local_supplies=0.0 
 }

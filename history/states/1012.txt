@@ -13,20 +13,18 @@ state=
 	
 	history=
 	{
-		owner = PER
+		owner = HER
 		victory_points = {
 			4893 10 
 		}
 		add_core_of = AFG
-		add_core_of = PER
-		add_core_of = TAJ
-		add_claim_by = PAK
+		add_core_of = HER
 		buildings = {
 			infrastructure = 2 #was: 6
 		}
 	}
 	provinces={
-		2062 2101 4893 5075 7448 10476
+		1948 2017 2062 2078 2101 4893 12739 12788
     }
 	local_supplies=0.0 
 }

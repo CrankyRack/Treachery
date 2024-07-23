@@ -1,8 +1,8 @@
 
 state={
 	id=415
-	name="Kandahar" # Herat
-	manpower = 1132860
+	name="Bamyan" # Herat
+	manpower = 832860
 	
 	state_category = rural
 
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		1948 1995 2017 2078 4949 5020 5064 8090 10789 12788
+		1995 5064
 	}
 
 	local_supplies=0.0 

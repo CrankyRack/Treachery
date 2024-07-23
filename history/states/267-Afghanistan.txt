@@ -2,7 +2,7 @@
 state={
 	id=267
 	name="STATE_267" # Kabul
-	manpower = 3637140
+	manpower = 637140
 	
 	state_category = town
 	
@@ -17,7 +17,7 @@ state={
 			industrial_complex = 2  
 		}
 		victory_points = {
-			10737 5 
+			12769 10 
 		}
 		victory_points = {
 			12248 1
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		5082 10737 12769 12831 
+		10789 12769 
 	}
 
 	local_supplies=0.0 
