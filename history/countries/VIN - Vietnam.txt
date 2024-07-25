@@ -2,6 +2,8 @@
 
 #oob = "VIN_1936"
 
+recruit_character = VIN_edouard_perrin
+
 set_research_slots = 3
 
 # Starting tech
@@ -17,7 +19,7 @@ add_ideas = {
 }
 
 set_politics = {
-	ruling_party = democratic
+	ruling_party = authoritarian
 	last_election = "1933.2.16"
 	election_frequency = 36
 	elections_allowed = yes

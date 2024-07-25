@@ -1,0 +1,16 @@
+characters = {
+	VIN_edouard_perrin = {
+		name="Edouard Perrin"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/FRA/VIN_edouard_perrin.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
