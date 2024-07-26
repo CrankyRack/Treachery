@@ -1,0 +1,16 @@
+characters = {
+	HER_massoud_mirza_zelle = {
+		name="Mass'oud Mirza"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PER/HER_massoud_mirza_zelle.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
