@@ -1,0 +1,16 @@
+characters = {
+	ORI_man_singh = {
+		name="Man Singh"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/ORI/ORI_man_singh.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

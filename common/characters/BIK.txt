@@ -1,0 +1,16 @@
+characters = {
+	BIK_ganga_singh = {
+		name="Ganga Singh"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BIK/BIK_ganga_singh.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
