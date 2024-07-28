@@ -5,7 +5,7 @@
 MAN = {
 set_autonomy = {
 		target = SIK
-		autonomous_state = autonomy_integrated_puppet
+		autonomous_state = autonomy_chinese_province
 	}
 }
 

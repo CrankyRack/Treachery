@@ -32,7 +32,7 @@ set_convoys = 500
 
 set_autonomy = {
 	target = UZB
-	autonomous_state = autonomy_puppet
+	autonomous_state = autonomy_chinese_province
 }
 
 add_ideas = {

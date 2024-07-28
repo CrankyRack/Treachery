@@ -4,7 +4,7 @@ set_technology = {
 	infantry_weapons = 1
 }
 
-#recruit_character = AFG_mohammed_zahir_shah
+recruit_character = SNU_ahmed_sharif_as_senussi
 
 set_politics = {
 	ruling_party = authoritarian
@@ -14,8 +14,6 @@ set_politics = {
 }
 
 set_popularities = {
-	monarchist = 15
-	vanguardism = 10
-	authoritarian = 75
+	authoritarian = 100
 }
 

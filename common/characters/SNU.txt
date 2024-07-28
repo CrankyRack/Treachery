@@ -1,0 +1,16 @@
+characters = {
+	SNU_ahmed_sharif_as_senussi = {
+		name="Ahmed Sharif as-Senussi"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SNU/SNU_ahmed_sharif_as_senussi.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
