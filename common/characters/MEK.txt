@@ -1,0 +1,16 @@
+characters = {
+	MEK_axel_reedtz_thott = {
+		name="Axel Reedtz-Thott"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/MEK/MEK_axel_reedtz_thott.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
