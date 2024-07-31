@@ -13,6 +13,8 @@ set_technology = {
 
 }
 
+create_faction = "French Indochina"
+
 add_ideas = {
 	VIN_the_factory_of_asia
 	VIN_the_banque_de_l_indochine
