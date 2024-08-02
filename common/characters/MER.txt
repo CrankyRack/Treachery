@@ -1,9 +1,9 @@
 characters = {
-	KNT_abbas_II = {
-		name="Ahmed Riza"
+	MER_hoshur_khan = {
+		name="Hoshur Khan"
 		portraits = {
 			civilian = {
-				large="gfx/leaders/KNT/KNT_abbas_II.dds"
+				large="gfx/leaders/MER/MER_hoshur_khan.dds"
 			}
 		}
 		country_leader = {
