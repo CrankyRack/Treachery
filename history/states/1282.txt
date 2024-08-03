@@ -1,0 +1,26 @@
+
+state={
+	id=1282
+	name="Kenville"
+	manpower = 89004
+	state_category = rural
+	
+	history={
+		owner = RUP
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+		add_core_of = RUP
+		add_core_of = CAN
+		victory_points = {
+			12357 5 
+		}
+
+	}
+
+	provinces={
+		1785 4787
+	}
+
+	local_supplies=0.0 
+}

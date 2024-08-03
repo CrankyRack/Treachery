@@ -5060,5 +5060,19 @@
  KAN:0 "Emirate of Qandahar"
  KAN_DEF:0 "the Emirate of Qandahar"
  KAN_ADJ:0 "Qandahari"
+ 
+ MIC:0 "Commonwealth of Michigania"
+ MIC_DEF:0 "the Commonwealth of Michigania"
+ MIC_ADJ:0 "Michiganian"
+ MIC_subject:0 "$OVERLORDADJ$ Michigania"
+ MIC_subject_DEF:0 "the Dominion of $OVERLORDADJ$ Michigania"
+ MIC_subject_ADJ:0 "Michiganian"
+ 
+ RUP:0 "Rupertsland"
+ RUP_DEF:0 "the Rupertsland"
+ RUP_ADJ:0 "Rupertslander"
+ RUP_subject:0 "$OVERLORDADJ$ Rupertsland"
+ RUP_subject_DEF:0 "the Dominion of $OVERLORDADJ$ Rupertsland"
+ RUP_subject_ADJ:0 "Rupertslander"
 
 

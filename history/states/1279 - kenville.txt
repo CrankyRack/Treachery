@@ -1,0 +1,30 @@
+
+state={
+	id=1279
+	name="Kenville"
+	manpower = 89004
+	state_category = rural
+	
+	resources={
+		steel=5 # was: 84
+	}
+
+	history={
+		owner = RUP
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+		add_core_of = DAK
+		add_core_of = RUP
+		victory_points = {
+			12357 5 
+		}
+
+	}
+
+	provinces={
+		7896 12588
+	}
+
+	local_supplies=0.0 
+}

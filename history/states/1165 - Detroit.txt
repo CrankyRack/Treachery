@@ -1,26 +1,27 @@
 state={
 	id=1165
-	name="Detroit"
+	name="Fort William"
 	resources={
 
 	}
 	
-	state_category = metropolis
+	state_category = rural
 
 	history={
-		owner = CAN
+		owner = MIC
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = USA
+		add_core_of = MIC
+		add_claim_by = DAK
 		victory_points = {
 			6710 20
 		}
 	}
 
 	provinces={
-		6710
+		602 777 4775 7899 12278 12582 
 	}
 	manpower=323441
 	buildings_max_level_factor=1.000

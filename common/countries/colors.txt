@@ -1491,3 +1491,11 @@ KAN = {
     color = rgb { 93 113 180 }
 	color_ui = rgb { 93 113 180 }
 }
+MIC = {
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
+}
+RUP = {
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
+}

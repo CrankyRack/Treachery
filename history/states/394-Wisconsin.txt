@@ -2,21 +2,21 @@
 state={
 	id=394
 	name="STATE_394"
-	manpower = 2939004
-	state_category = city
+	manpower = 1939004
+	state_category = town
 	
 	resources={
-		steel=53 # was: 84
+		steel=23 # was: 84
 	}
 
 	history={
-		owner = CAN
+		owner = MIC
 		buildings = {
 			infrastructure = 2 #was: 6
 			industrial_complex = 2
 		}
 		add_core_of = DAK
-		add_core_of = CAN
+		add_core_of = MIC
 		victory_points = {
 			12357 5 
 		}
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		703 926 1560 1719 1734 1760 1849 3699 4029 4166 4738 4834 6767 6827 7776 7829 7896 9657 9678 10341 10526 11589 12312 12357 12456 12550 12588
+		703 709 751 926 1560 1719 1734 1760 1849 3699 4029 4166 4738 4834 4854 5205 6767 6827 7776 7829 9657 9678 10341 10526 10599 11589 12312 12357 12456 12550
 	}
 
 	local_supplies=0.0 

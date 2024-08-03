@@ -391,4 +391,7 @@ BAL = "countries/baltistan.txt"
 MER = "countries/Merv.txt"
 HER = "countries/herat.txt"
 KAN = "countries/kandahar.txt"
+
+MIC = "countries/michigania.txt"
+RUP = "countries/ruperts_land.txt"
 #NOTE: Useful to add a basic default loc entry for each tag in 00_countries.txt so that hovering over a tag will show the tag's name in loc (ie. PAP: "Papal States")

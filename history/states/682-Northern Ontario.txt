@@ -10,18 +10,18 @@ state={
 	}
 
 	history={
-		owner = CAN
+		owner = RUP
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
 
 		}
-		add_core_of = CAN
+		add_core_of = RUP
 
 	}
 
 	provinces={
-		602 777 1299 1769 1782 4775 4784 4869 4875 6510 7366 7794 7899 9467 9480 9740 10621 10718 11571 12278 12582 12701 13094  
+		1299 1769 1782 4784 4869 4875 7794 9740 10621 10718 11571 12701 13094  
 	}
 	manpower=139059
 	buildings_max_level_factor=1.000
