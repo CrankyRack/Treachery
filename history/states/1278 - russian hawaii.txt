@@ -1,25 +1,25 @@
 
 state={
-	id=629
-	name="STATE_629"
-	manpower = 468336
-	state_category = town
+	id=1278
+	name="Kauai"
+	manpower = 61344
+	state_category = rural
 	history={
-		owner = HAW
+		owner = SOV
 		add_core_of = HAW
 		buildings = {
 			infrastructure = 2
-			4180 = {
+			7112 = {
 				naval_base = 3
 			}
 		}
 		victory_points = {
-			4180 10
+			7112 3
 		 }
 	}
 
 	provinces={
-		4180 7195 10048 
+		7112
 	}
 
 	local_supplies=0.0 

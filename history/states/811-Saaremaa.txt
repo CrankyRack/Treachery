@@ -7,9 +7,18 @@ state={
 		owner = EST
 		buildings = {
 			infrastructure = 1
+			185 = {
+				naval_base = 1
+			}
+			13281 = {
+				naval_base = 1
+			}
 		}
 		victory_points = {
 			185 1
+		}
+		victory_points = {
+			13281 1
 		}
 		add_core_of = EST
 		add_core_of = SWE
