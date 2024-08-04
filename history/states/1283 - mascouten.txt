@@ -1,0 +1,27 @@
+
+state={
+	id=1283
+	name="Mascouten"
+	manpower = 189004
+	state_category = rural
+	
+	history={
+		owner = DAK
+		buildings = {
+			infrastructure = 2 #was: 6
+		}
+		add_core_of = DAK
+		add_core_of = MIC
+		add_claim_by = USA
+		victory_points = {
+			12357 5 
+		}
+
+	}
+
+	provinces={
+		691 695 9684 11641 11685
+	}
+
+	local_supplies=0.0 
+}

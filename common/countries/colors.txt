@@ -29,8 +29,8 @@ LUX = {
 	color_ui = rgb { 85 228 233 }
 }
 BEL = { 
-    color = rgb { 174 23 47 }
-	color_ui = rgb { 174 23 47 }
+    color = rgb { 208 12 39 }
+	color_ui = rgb { 208 12 39 }
 }
 HOL = {	
 	#color = rgb { 216 115 21 }
@@ -1220,8 +1220,8 @@ MOG = {
 	color_ui = rgb { 197 101 98 }
 }
 NEN = {
-	color = rgb { 164 13 37 }
-	color_ui = rgb { 164 13 37 }
+	color = rgb { 120 143 98 }
+	color_ui = rgb { 120 143 98 }
 }
 #NEN = {
 	#color = rgb { 204 255 204 }
@@ -1492,10 +1492,10 @@ KAN = {
 	color_ui = rgb { 93 113 180 }
 }
 MIC = {
-	color = rgb { 174 23 47 }
-	color_ui = rgb { 174 23 47 }
+	color = rgb { 208 12 39 }
+	color_ui = rgb { 208 12 39 }
 }
 RUP = {
-	color = rgb { 174 23 47 }
-	color_ui = rgb { 174 23 47 }
+	color = rgb { 208 12 39 }
+	color_ui = rgb { 208 12 39 }
 }
