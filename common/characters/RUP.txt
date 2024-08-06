@@ -1,0 +1,16 @@
+characters = {
+	RUP_john_gibson = {
+		name="John Morison Gibson"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/RUP/RUP_john_gibson.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
