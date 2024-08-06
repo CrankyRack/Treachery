@@ -1,7 +1,7 @@
 state=
 {
 	id=974
-	name="Hawkins"
+	name="Vermont"
 
 	manpower = 397012
 	
@@ -9,18 +9,23 @@ state=
 	
 	history=
 	{
-		owner = USA
-		victory_points = { 11662 2 }
+		owner = NEN
+		victory_points = { 4445 3 }
+		set_province_name = {
+			id = 4445
+			name = "Montpelier"
+		}
 		add_core_of = HKS
-		add_core_of = USA
+		add_core_of = NEN
+		add_claim_by = USA
 		buildings = {
 			infrastructure = 2 #was: 6
-			arms_factory = 2
+			arms_factory = 1
 			industrial_complex = 1
 		}
 	}
 	provinces={
-		3602 10381 11662
+		4445 7629 9675
 	}
 
 	local_supplies=0.0 

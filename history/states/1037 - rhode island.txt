@@ -1,0 +1,32 @@
+state=
+{
+	id=1037
+	name="Rhode Island"
+
+	manpower = 472112
+
+	state_category = town
+	
+	
+	history={
+		owner = NEN
+		victory_points = {
+			9832 5
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			9832 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = NEN
+		add_claim_by = USA
+	}
+	provinces={
+		9832
+	}
+	local_supplies=0.0 
+}

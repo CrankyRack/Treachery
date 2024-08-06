@@ -1,23 +1,35 @@
 state=
 {
 	id=978
-	name="New Gothemburg"
+	name="New Hampshire"
 
-	manpower = 311012
+	manpower = 423110
 	
-	state_category = town
+	state_category = rural
 	
 	history=
 	{
-		owner = USA
-		victory_points = { 3917 3 }
-		add_core_of = USA
+		owner = NEN
+		victory_points = { 3712 3 }
+		set_province_name = {
+			id = 3712
+			name = "Concord"
+		}
+		
+		victory_points = { 10481 1 }
+		set_province_name = {
+			id = 10481
+			name = "Lancaster"
+		}
+		
+		add_core_of = NEN
+		add_claim_by = USA
 		buildings = {
 			infrastructure = 2 #was: 6
 		}
 	}
 	provinces={
-		9801 9864 11740 11900
+		733 3712 3715 10481
 	}
 
 	local_supplies=0.0 

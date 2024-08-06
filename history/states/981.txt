@@ -1,23 +1,32 @@
 state=
 {
 	id=981
-	name="Hawkins"
+	name="Connecticut"
 
-	manpower = 624788
+	manpower = 1124788
 	
 	state_category = town
 	
 	history={
-		owner = USA
-		victory_points = { 8014 5 }
-		add_core_of = USA
+		owner = NEN
+		victory_points = { 6909 5 }
+			set_province_name = {
+			id = 6909
+			name = "New Haven"
+		}
+		add_core_of = NEN
+		add_claim_by = USA
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
+			6909 = {
+				naval_base = 2
+
+			}
 		}
 	}
 	provinces={
-		913 7791 8014 10657
+		6909 9847 9850 11830
 	}
 
 	local_supplies=0.0 

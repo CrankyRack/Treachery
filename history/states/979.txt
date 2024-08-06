@@ -1,7 +1,7 @@
 state=
 {
 	id=979
-	name="Johnstown"
+	name="Western Pennsylvania"
 
 	manpower = 254788
 	
@@ -11,6 +11,7 @@ state=
 	{
 		owner = USA
 		victory_points = { 880 3 }
+		victory_points = { 11800 15 }
 		add_core_of = USA
 		buildings = {
 			infrastructure = 3 #was: 6
@@ -18,7 +19,7 @@ state=
 		}
 	}
 	provinces={
-		880 3880 6899 9662 9836 11648 11789
+		880 3687 3880 6705 6850 6899 9662 9789 9836 11648 11789 11800
 	}
 
 	local_supplies=0.0 

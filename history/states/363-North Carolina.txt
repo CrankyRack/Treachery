@@ -2,7 +2,7 @@
 state={
 	id=363
 	name="STATE_363"
-	manpower = 2170274
+	manpower = 2970274
 	
 	state_category = city
 
@@ -10,18 +10,36 @@ state={
 		owner = USA
 		buildings = {
 			infrastructure = 3 #was: 6
-			industrial_complex = 3
+			industrial_complex = 2
 			1132 = {
-				naval_base = 1
+				naval_base = 2
 			}
 		}
 		add_core_of = USA
+		victory_points = {
+			7138 20 
+		}
+		
 		victory_points = {
 			10096 3 
 		}
 			set_province_name = {
 			id = 10096
 			name = "Hickory"
+		}
+		victory_points = {
+			1132 10 
+		}
+			set_province_name = {
+			id = 1132
+			name = "Wilmington"
+		}
+		victory_points = {
+			4168 5 
+		}
+			set_province_name = {
+			id = 4168
+			name = "New Bern"
 		}
 		victory_points = {
 			9876 3 
@@ -34,7 +52,7 @@ state={
 	}
 
 	provinces={
-		6943 7045 7643 9876 9967 10081 10096 10468 10495 11783 12445 
+		1019 1077 1132 1163 4168 6943 7045 7083 7138 7643 9876 10051 10081 10096 10468 10495 11783 12054 12445 
 	}
 
 	local_supplies=0.0 
