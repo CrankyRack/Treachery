@@ -4,6 +4,13 @@ set_research_slots = 2
 set_stability = 0.4
 set_war_support = 0.1 
 
+NIR = {
+set_autonomy = {
+		target = BEL
+		autonomous_state = autonomy_autonomous_territory
+	}
+}
+
 set_technology = {
 	infantry_weapons = 1
 }

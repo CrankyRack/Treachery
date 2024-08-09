@@ -1,0 +1,16 @@
+characters = {
+	GAM_oscar_baumann = {
+		name="Oscar Baumann"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/AUS/GAM_oscar_baumann.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

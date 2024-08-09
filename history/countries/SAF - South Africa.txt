@@ -4,6 +4,13 @@ recruit_character = SAF_sir_walter
 
 #oob = "SAF_1936"
 
+NIR = {
+set_autonomy = {
+		target = SAF
+		autonomous_state = autonomy_crown_colony
+	}
+}
+
 set_stability = 0.6
 set_war_support = 0.1
 

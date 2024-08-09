@@ -8,15 +8,14 @@ state=
 	
 	history=
 	{
-		owner = MAN
-		add_core_of = MAN
+		owner = AUS
+		add_core_of = AUS
 		victory_points = {
 			10000 5 
 		}
 		buildings = {
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
-			air_base = 1
 			10000 = {
 				naval_base = 5
 				coastal_bunker = 1
@@ -27,7 +26,7 @@ state=
 		
 	}
 	provinces={
-		10000
+		10000 13286
 	}
 
 	local_supplies=0.0 

@@ -1,0 +1,41 @@
+state=
+{
+	id=1284
+	name="Franz Joseph Land"
+	manpower = 489800
+	resources={
+		rubber=21 # was: 72
+	}
+	
+	state_category = rural
+
+	history=
+	{
+		owner = GAM
+		victory_points = {
+			10240 15
+		}
+		victory_points = {
+			10199 3
+		}
+		victory_points = {
+			10212 5
+		}
+		buildings = {
+			infrastructure = 2
+			10212 = {
+				naval_base = 1
+			}
+			10240 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = GAM
+	}
+
+	provinces={
+		1306 1335 4282 4338 7358 10143 10199 10212 10240 12171 12186 12228
+	}
+
+	local_supplies=0.0 
+}

@@ -2,21 +2,10 @@
 
 set_research_slots = 4
 
-set_autonomy = {
-		target = CAN
-		autonomous_state = autonomy_colony
-	}
+
 set_autonomy = {
 		target = MAL
 		autonomous_state = autonomy_colony
-	}
-set_autonomy = {
-		target = BEL
-		autonomous_state = autonomy_dominion
-	}
-set_autonomy = {
-		target = CAS
-		autonomous_state = autonomy_dominion
 	}
 set_autonomy = {
 		target = RAJ
@@ -40,14 +29,6 @@ set_autonomy = {
 	}
 set_autonomy = {
 		target = BRP
-		autonomous_state = autonomy_colony
-	}
-set_autonomy = {
-		target = AST
-		autonomous_state = autonomy_dominion
-	}
-set_autonomy = {
-		target = SAF
 		autonomous_state = autonomy_colony
 	}
 set_autonomy = {

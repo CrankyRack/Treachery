@@ -1,5 +1,12 @@
 ﻿capital = 285
 
+NIR = {
+set_autonomy = {
+		target = AST
+		autonomous_state = autonomy_crown_colony
+	}
+}
+
 #oob = "AST_1936"
 set_stability = 0.8
 set_war_support = 0.3

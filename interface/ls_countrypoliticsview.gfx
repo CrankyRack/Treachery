@@ -8,6 +8,14 @@ spriteTypes = {
 		name = "GFX_autonomy_chinese_province_icon"
 		texturefile = "gfx/interface/autonomy/autonomy_chinese_province.dds"
 	}
+	SpriteType = {
+		name = "GFX_autonomy_crown_colony_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_crown_colony.dds"
+	}
+	SpriteType = {
+		name = "GFX_autonomy_autonomous_territory_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_autonomous_territory.dds"
+	}
 
 }
 
