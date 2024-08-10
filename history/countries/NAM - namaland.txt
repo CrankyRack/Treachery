@@ -1,4 +1,4 @@
-﻿capital = 542
+﻿capital = 893
 
 
 # Starting tech
@@ -7,9 +7,15 @@ set_technology = {
 	tech_mountaineers = 1
 }
 
+SAF = {
+set_autonomy = {
+		target = NAM
+		autonomous_state = autonomy_german_prince_1
+	}
+}
 
 
-recruit_character = ANG_acgs
+recruit_character = NAM_arthur_macdonald
 
 
 

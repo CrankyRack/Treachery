@@ -1,0 +1,16 @@
+characters = {
+	NAM_arthur_macdonald = {
+		name="Arthur Macdonald"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/NIR/NAM_arthur_macdonald.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

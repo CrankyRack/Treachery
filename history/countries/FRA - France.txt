@@ -74,6 +74,7 @@ set_autonomy = {
 		autonomous_state = autonomy_german_prince_1
 	}
 
+give_guarantee = LAN
 give_guarantee = TOS
 give_guarantee = HAN
 give_guarantee = LSS

@@ -1,0 +1,16 @@
+characters = {
+	BNJ_muhammad_seman = {
+		name="Muhammad Seman"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BNJ/BNJ_muhammad_seman.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

@@ -1,0 +1,16 @@
+characters = {
+	LAN_sun_yung = {
+		name="Sun-yùng"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/LAN/LAN_sun_yung.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

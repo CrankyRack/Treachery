@@ -6,10 +6,6 @@ set_autonomy = {
 		target = OST
 		autonomous_state = autonomy_colony
 	}
-set_autonomy = {
-		target = GEL
-		autonomous_state = autonomy_german_prince_1
-	}
 
 add_ideas = {
 	GEN_confederation_of_rhine

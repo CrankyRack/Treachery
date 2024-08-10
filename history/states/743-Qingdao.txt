@@ -8,8 +8,9 @@ state=
 	
 	history=
 	{
-		owner = AUS
-		add_core_of = AUS
+		owner = GAM
+		add_core_of = MAN
+		add_core_of = GAM
 		victory_points = {
 			10000 5 
 		}
@@ -17,9 +18,9 @@ state=
 			infrastructure = 3 #was: 5
 			industrial_complex = 1
 			10000 = {
-				naval_base = 5
-				coastal_bunker = 1
-				bunker = 1
+				naval_base = 6
+				coastal_bunker = 2
+				bunker = 3
 			}
 		}
 
