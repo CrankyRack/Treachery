@@ -8,6 +8,7 @@ recruit_character = NEN_edwin
 
 add_ideas = {
 	NEN_birth_of_new_royalism
+	NEN_canadian_naval_leasing
 }
 
 

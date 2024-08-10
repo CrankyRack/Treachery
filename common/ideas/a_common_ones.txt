@@ -637,6 +637,23 @@ ideas = {
 				war_support_factor = 0.05
 			}
 		}
+		NEN_canadian_naval_leasing = {
+
+			picture = NEN_canadian_naval_leasing
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			navy_refit_speed = -0.2
+			navy_leader_cost_factor = 0.5 
+			industrial_capacity_dockyard = -0.2
+			consumer_goods_factor = -0.2
+			}
+		}
 	}   
 }
 

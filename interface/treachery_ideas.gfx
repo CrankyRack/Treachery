@@ -215,4 +215,8 @@ spriteTypes = {
 		name = "GFX_idea_NEN_birth_of_new_royalism"
 		texturefile = "gfx/interface/ideas/NEN_birth_of_new_royalism.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_NEN_canadian_naval_leasing"
+		texturefile = "gfx/interface/ideas/NEN_canadian_naval_leasing.dds"  
+	}
 }
