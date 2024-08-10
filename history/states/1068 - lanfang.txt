@@ -15,11 +15,11 @@ state=
 	history={
 		owner = LAN
 		victory_points = {
-			4279 10
+			4279 20
 		}
 			set_province_name = {
 			id = 4279
-			name = "Pontianak"
+			name = "Dōng Wàn Lǜ"
 		}
 		buildings = {
 			infrastructure = 2

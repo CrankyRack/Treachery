@@ -558,6 +558,85 @@ ideas = {
 				 stability_factor = 0.12
 			}
 		}
+		USA_populist_woes = {
+
+			picture = USA_populist_woes
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    political_power_factor = -0.23
+				 stability_factor = -0.13
+			}
+		}
+		USA_which_side_are_you_on = {
+
+			picture = USA_which_side_are_you_on
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    stability_factor = -0.15
+				democratic_socialism_drift = 0.01
+				progressivism_drift = 0.01
+				vanguardism_drift = 0.01
+				revolutionary_socialism_drift = 0.01
+				Patrimonialism_drift = 0.01
+			}
+		}
+		USA_calm_before_the_storm = {
+
+			picture = USA_calm_before_the_storm
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    stability_factor = 0.3
+			}
+		}
+		USA_washingtons_nightmare = {
+
+			picture = USA_washingtons_nightmare
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    political_power_factor = -0.23
+				war_support_factor = -0.1
+				consumer_goods_factor = 0.25
+			}
+		}
+		NEN_birth_of_new_royalism = {
+
+			picture = NEN_birth_of_new_royalism
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    stability_factor = 0.15
+				war_support_factor = 0.05
+			}
+		}
 	}   
 }
 

@@ -1,9 +1,9 @@
 state=
 {
 	id=1038
-	name="Long Island"
+	name="New York City"
 
-	manpower = 2611788
+	manpower = 1611788
 
 	
 	state_category = city

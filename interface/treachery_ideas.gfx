@@ -195,4 +195,24 @@ spriteTypes = {
 		name = "GFX_idea_traditionalism"
 		texturefile = "gfx/interface/ideas/traditionalism.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_USA_populist_woes"
+		texturefile = "gfx/interface/ideas/USA_populist_woes.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_which_side_are_you_on"
+		texturefile = "gfx/interface/ideas/USA_which_side_are_you_on.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_calm_before_the_storm"
+		texturefile = "gfx/interface/ideas/USA_calm_before_the_storm.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_USA_washingtons_nightmare"
+		texturefile = "gfx/interface/ideas/USA_washingtons_nightmare.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_NEN_birth_of_new_royalism"
+		texturefile = "gfx/interface/ideas/NEN_birth_of_new_royalism.dds"  
+	}
 }
