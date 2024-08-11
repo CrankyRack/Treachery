@@ -219,4 +219,20 @@ spriteTypes = {
 		name = "GFX_idea_NEN_canadian_naval_leasing"
 		texturefile = "gfx/interface/ideas/NEN_canadian_naval_leasing.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_POL_the_general_confederation"
+		texturefile = "gfx/interface/ideas/POL_the_general_confederation.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_BAH_gibraltar_of_the_baltic"
+		texturefile = "gfx/interface/ideas/BAH_gibraltar_of_the_baltic.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_LAN_paris_of_the_east"
+		texturefile = "gfx/interface/ideas/LAN_paris_of_the_east.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_LAN_merchant_republic"
+		texturefile = "gfx/interface/ideas/LAN_merchant_republic.dds"  
+	}
 }

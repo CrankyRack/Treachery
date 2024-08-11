@@ -654,6 +654,74 @@ ideas = {
 			consumer_goods_factor = -0.2
 			}
 		}
+		POL_the_general_confederation = {
+
+			picture = POL_the_general_confederation
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 stability_factor = 0.1
+			 war_support_factor = -0.2
+			 political_power_factor = -0.25
+			}
+		}
+		BAH_gibraltar_of_the_baltic = {
+
+			picture = BAH_gibraltar_of_the_baltic
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 army_core_defence_factor = 0.1
+			 dig_in_speed_factor = 0.2
+			 max_dig_in = 0.15
+			 state_production_speed_bunker_factor = 0.25
+             state_production_speed_coastal_bunker_factor = 0.25
+			 experience_gain_factor = -0.5
+			 pocket_penalty -0.05
+			}
+		}
+		LAN_paris_of_the_east = {
+
+			picture = LAN_paris_of_the_east
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 consumer_goods_factor = 0.2
+			 war_support_factor = -0.2
+             stability_factor = 0.4
+			}
+		}
+		LAN_merchant_republic = {
+
+			picture = LAN_merchant_republic
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 trade_opinion_factor = 0.1
+			 min_export = 0.5
+			 global_building_slots_factor = 0.25
+			}
+		}
 	}   
 }
 

@@ -2,6 +2,11 @@
 
 #oob = "MEX_1936"
 
+set_autonomy = {
+		target = PHI
+		autonomous_state = autonomy_colony
+	}
+
 
 # Starting tech
 set_technology = {

@@ -13,11 +13,12 @@ state=
 	
 	history=
 	{
-		owner = LBV
+		owner = MAL
 		victory_points = {
 			12798 10 
 		}
-		add_core_of = INS
+		add_core_of = MAL
+		add_claim_by = INS
 		buildings = {
 			infrastructure = 2 #was: 6
 			12113 = {

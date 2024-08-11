@@ -7,6 +7,10 @@ set_technology = {
 	infantry_weapons = 1
 }
 
+add_ideas = {
+		BAH_gibraltar_of_the_baltic
+}
+
 set_convoys = 30
 
 recruit_character = BAH_clemens_delbruck
