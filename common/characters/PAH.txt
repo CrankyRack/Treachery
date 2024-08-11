@@ -1,0 +1,16 @@
+characters = {
+	PAH_ahmad_al_mu_adzam = {
+		name="Ahmad Al-Mu'adzam Shah"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/PAH/PAH_ahmad_al_mu_adzam.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

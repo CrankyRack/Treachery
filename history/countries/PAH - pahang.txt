@@ -16,7 +16,7 @@ add_ideas = {
 
 set_convoys = 210
 
-#recruit_character = AFA_sultan_mohamed_yayyo_of_aussa
+recruit_character = PAH_ahmad_al_mu_adzam
 
 set_politics = {
 	ruling_party = authoritarian
