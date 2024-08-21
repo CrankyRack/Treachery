@@ -722,6 +722,48 @@ ideas = {
 			 global_building_slots_factor = 0.25
 			}
 		}
+		DAK_lightning_in_a_bottle = {
+
+			picture = DAK_lightning_in_a_bottle
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 stability_factor = 0.1
+			}
+		}
+		DAK_hoffmans_treachery = {
+
+			picture = DAK_hoffmans_treachery
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 stability_factor = 0.1
+			}
+		}
+		DAK_dreams_of_an_pan_indian_union = {
+
+			picture = DAK_dreams_of_an_pan_indian_union
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 stability_factor = 0.1
+			}
+		}
 	}   
 }
 

@@ -1,0 +1,16 @@
+characters = {
+	SKK_sidkeong_namgyal = {
+		name="Sidkeong Tulku Namgyal"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SKK/SKK_sidkeong_namgyal.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

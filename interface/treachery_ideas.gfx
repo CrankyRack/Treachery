@@ -235,4 +235,16 @@ spriteTypes = {
 		name = "GFX_idea_LAN_merchant_republic"
 		texturefile = "gfx/interface/ideas/LAN_merchant_republic.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_DAK_lightning_in_a_bottle"
+		texturefile = "gfx/interface/ideas/DAK_lightning_in_a_bottle.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_DAK_hoffmans_treachery"
+		texturefile = "gfx/interface/ideas/DAK_hoffmans_treachery.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_DAK_dreams_of_an_pan_indian_union"
+		texturefile = "gfx/interface/ideas/DAK_dreams_of_an_pan_indian_union.dds"  
+	}
 }
