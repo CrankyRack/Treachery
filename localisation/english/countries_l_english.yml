@@ -5100,5 +5100,21 @@
  DEI_subject:0 "$OVERLORDADJ$ East Indies"
  DEI_subject_DEF:0 "the $OVERLORDADJ$ East Indies"
  DEI_subject_ADJ:0 "$OVERLORDADJ$ East Indian"
+ 
+ CRN_monarchist:0 "Kingdom of Cornwall"
+ CRN_monarchist_DEF:0 "the Kingdom of Cornwall"
+ CRN_democratic:0 "Kingdom of Cornwall"
+ CRN_democratic_DEF:0 "the Kingdom of Cornwall"
+ CRN_authoritarian:0 "Kingdom of Cornwall"
+ CRN_authoritarian_DEF:0 "the Kingdom of Cornwall"
+ CRN_vanguardism:0 "Cornish People's Republic"
+ CRN_vanguardism_DEF:0 "the Cornish People's Republic"
+ CRN_monarchist_ADJ:0 "Cornish"
+ CRN_democratic_ADJ:0 "Cornish"
+ CRN_authoritarian_ADJ:0 "Cornish"
+ CRN_vanguardism_ADJ:0 "Cornish"
+ CRN:0 "Kingdom of Cornwall"
+ CRN_DEF:0 "the Kingdom of Cornwall"
+ CRN_ADJ:0 "Cornish"
 
 

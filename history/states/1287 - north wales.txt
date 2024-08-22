@@ -1,20 +1,17 @@
 state= {
-	id=122
-	name="STATE_122"
-	manpower = 1809230
+	id=1287
+	name="STATE_1287"
+	manpower = 249265
 	
-	state_category = large_town
+	state_category = rural
 	
 	resources={
-		aluminium=3 # was: 4
+		steel=11 # was: 16
 	}
 
 	history=
 	{
 		owner = GBR
-		victory_points = {
-			407 3 #Swansea
-		}
 		victory_points = {
 			311 1 #Wrexham
 		}
@@ -22,17 +19,13 @@ state= {
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
-			377 = {
-				naval_base = 3
-			}
 		}
 		add_core_of = GBR
 		add_core_of = WLS
 	}
-
-	provinces=
-	{
-253 377 407 3274 11361 	}
+	provinces={
+		311 6363 9364
+	}
 
 	local_supplies=0.0 
 }

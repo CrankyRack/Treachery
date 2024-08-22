@@ -18,6 +18,7 @@ state= {
 
 		}
 		add_core_of = GBR
+		add_core_of = CRN
 	}
 
 	provinces= {
