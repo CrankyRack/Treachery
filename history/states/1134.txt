@@ -6,7 +6,7 @@ state={
 	state_category = enclave
 	
 	history={
-		owner = HAN
+		owner = DEI
 		add_core_of = MAN
 		victory_points = {
 			7071 10 

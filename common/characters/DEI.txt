@@ -1,0 +1,16 @@
+characters = {
+	DEI_andreas_de_richeliue = {
+		name="Andreas du Plessis de Richelieu"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/DEN/DEI_andreas_de_richeliue.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

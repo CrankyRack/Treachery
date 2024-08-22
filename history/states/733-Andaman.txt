@@ -5,7 +5,7 @@ state={
 	state_category = small_island
 	
 	history={
-		owner = DEN
+		owner = DEI
 		buildings = {
 			infrastructure = 2
 			12251 = {

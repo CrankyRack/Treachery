@@ -5074,5 +5074,16 @@
  RUP_subject:0 "$OVERLORDADJ$ Rupertsland"
  RUP_subject_DEF:0 "the Dominion of $OVERLORDADJ$ Rupertsland"
  RUP_subject_ADJ:0 "Rupertslander"
+ 
+ PLW:0 "Republic of Palawan"
+ PLW_DEF:0 "the Republic of Palawan"
+ PLW_ADJ:0 "Palawani"
+ 
+ DEI:0 "Republic of the Danish East Indies"
+ DEI_DEF:0 "the Republic of the Danish East Indies"
+ DEI_ADJ:0 "East Indian"
+ DEI_subject:0 "$OVERLORDADJ$ East Indies"
+ DEI_subject_DEF:0 "the $OVERLORDADJ$ East Indies"
+ DEI_subject_ADJ:0 "$OVERLORDADJ$ East Indian"
 
 

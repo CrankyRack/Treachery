@@ -119,6 +119,10 @@ DEN = {
 	color = rgb { 159 83 80 }
 	color_ui = rgb { 159 83 80 }
 }
+DEI = {
+	color = rgb { 159 83 80 }
+	color_ui = rgb { 159 83 80 }
+}
 BUL = {
 	color = rgb { 114 148 80 }
 	color_ui = rgb { 74 186 82 }
