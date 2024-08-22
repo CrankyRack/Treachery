@@ -10,8 +10,7 @@ state={
 
 
 	history={
-		add_core_of = TRI
-		owner = NIR
+		owner = GBR
 		victory_points = {
 			3284 1
 		}

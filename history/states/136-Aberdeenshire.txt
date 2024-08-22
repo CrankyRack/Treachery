@@ -12,8 +12,8 @@ state={
 
 	history={
 		add_core_of = SCO
-		add_core_of = NIR
-		owner = NIR
+		add_core_of = GBR
+		owner = GBR
 		victory_points = {
 			200 5 #Aberdeen
 		}

@@ -2,16 +2,16 @@
 state={
 	id=130
 	name="STATE_130"
-	manpower = 4762495
+	manpower = 4062495
 	
-	state_category = metropolis
+	state_category = large_city
 	
 	resources={
-		steel=71 # was: 120
+		steel=61 # was: 120
 	}
 
 	history={
-		owner = NIR
+		owner = GBR
 		victory_points = {
 			9379 10 
 		}
@@ -29,12 +29,12 @@ state={
 				naval_base = 5
 			}
 		}
-		add_core_of = NIR
+		add_core_of = GBR
 		
 	}
 
 	provinces={
-		6268 9269 9315 9332 9379 9397 11297 11317 11382 
+		9269 9315 9332 9379 9397 11297 11317 11382 
 	}
 
 	local_supplies=0.0 

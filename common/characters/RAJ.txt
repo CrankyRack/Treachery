@@ -3,7 +3,7 @@ characters={
 		name="Lord George Curzon"
 		portraits={
 			civilian={
-				large="gfx/leaders/NIR/RAJ_george_curzon.dds"
+				large="gfx/leaders/GBR/RAJ_george_curzon.dds"
 			}
 		}
 		country_leader={

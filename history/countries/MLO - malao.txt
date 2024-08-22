@@ -8,12 +8,12 @@ set_technology = {
 
 set_convoys = 10
 
-recruit_character = BEG_frederik_hillingso
+recruit_character = MLO_panagiotis_gargalidis
 
 
 set_politics = {
 	ruling_party = authoritarian
-	last_election = "1936.1.1"
+	last_election = "1900.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }

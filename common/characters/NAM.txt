@@ -3,7 +3,7 @@ characters = {
 		name="Arthur Macdonald"
 		portraits = {
 			civilian = {
-				large="gfx/leaders/NIR/NAM_arthur_macdonald.dds"
+				large="gfx/leaders/GBR/NAM_arthur_macdonald.dds"
 			}
 		}
 		country_leader = {

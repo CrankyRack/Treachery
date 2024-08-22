@@ -3,7 +3,7 @@ characters={
 		name="Francis Rickman Barton"
 		portraits={
 			civilian={
-				large="gfx/leaders/NIR/PNG_francis_rickman_barton.dds"
+				large="gfx/leaders/GBR/PNG_francis_rickman_barton.dds"
 			}
 		}
 		country_leader={

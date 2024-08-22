@@ -1,0 +1,16 @@
+characters = {
+	MLO_panagiotis_gargalidis = {
+		name="Panagiotis Gargalidis"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/GRE/MLO_panagiotis_gargalidis.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

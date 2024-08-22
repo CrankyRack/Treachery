@@ -4,7 +4,7 @@
 
 set_research_slots = 3
 
-NIR = {
+GBR = {
 set_autonomy = {
 		target = MAL
 		autonomous_state = autonomy_crown_colony

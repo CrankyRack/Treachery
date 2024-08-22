@@ -2,28 +2,36 @@
 state={
 	id=128
 	name="STATE_128"
-	manpower = 3685235
+	manpower = 3185235
 	
-	state_category = metropolis
+	state_category = city
 	resources={
 		steel=27 # was: 48
 	}
 
 	history={
-		owner = NIR
+		owner = GBR
+		
+		victory_points = {
+			6237 10 #Nottingham
+		}
+		victory_points = {
+			11279 3 #Leicester
+		}
+		
 		buildings = {
 			infrastructure = 4 #was: 8
-			arms_factory = 2
-			industrial_complex = 3
+			arms_factory = 1
+			industrial_complex = 2
 		}
 		victory_points = {
 			9297 25
 		}
-		add_core_of = NIR
+		add_core_of = GBR
 	}
 
 	provinces={
-		3241 3301 6270 6301 7239 9297 11345 
+		3205 3241 3301 6268 6237 6270 6301 6378 7239 9297 11279 11345 
 	}
 
 	local_supplies=0.0 

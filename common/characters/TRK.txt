@@ -3,7 +3,7 @@ characters={
 		name="Sir Percy Girouard"
 		portraits={
 			civilian={
-				large="gfx/leaders/NIR/TRK_Percy_Girouard.dds"
+				large="gfx/leaders/GBR/TRK_Percy_Girouard.dds"
 			}
 		}
 		country_leader={

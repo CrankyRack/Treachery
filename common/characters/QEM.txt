@@ -3,7 +3,7 @@ characters = {
 		name="Sir William Edward Maxwell"
 		portraits = {
 			civilian = {
-				large="gfx/leaders/NIR/QEM_william_edward.dds"
+				large="gfx/leaders/GBR/QEM_william_edward.dds"
 			}
 		}
 		country_leader = {

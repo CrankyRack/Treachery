@@ -1,5 +1,11 @@
 ﻿capital = 1059
 
+BOR = {
+set_autonomy = {
+		target = KUT
+		autonomous_state = autonomy_german_prince_1
+	}
+}
 
 recruit_character = KUT_muhammad_al_sanussi
 

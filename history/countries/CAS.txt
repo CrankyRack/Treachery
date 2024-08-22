@@ -5,7 +5,7 @@ add_ideas = {
 	volunteer_only
 }
 
-NIR = {
+GBR = {
 set_autonomy = {
 		target = CAS
 		autonomous_state = autonomy_crown_colony

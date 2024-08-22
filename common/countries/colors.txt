@@ -42,6 +42,10 @@ NIR = {
 	color = rgb { 174 23 47 }
 	color_ui = rgb { 174 23 47 }
 }
+GBR = {
+	color = rgb { 174 23 47 }
+	color_ui = rgb { 174 23 47 }
+}
 CZE = {	
 	color = rgb { 54 167 156 }
 	color_ui = rgb { 70 217 203 }

@@ -12,7 +12,7 @@ state={
 	history={
 		add_core_of = GYA
 		add_claim_by = COL
-		owner = NIR
+		owner = GBR
 		victory_points = {
 			4982 1
 		}

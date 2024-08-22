@@ -3,7 +3,7 @@ characters={
 		name="Henry Northcote"
 		portraits={
 			civilian={
-				large="gfx/leaders/NIR/AST_henry_northcote.dds"
+				large="gfx/leaders/GBR/AST_henry_northcote.dds"
 			}
 		}
 		country_leader={

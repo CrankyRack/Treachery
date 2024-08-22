@@ -3,7 +3,7 @@ characters={
 		name="Sir Henry Hesketh Bell"
 		portraits={
 			civilian={
-				large="gfx/leaders/NIR/DAH_henry_bell.dds"
+				large="gfx/leaders/GBR/DAH_henry_bell.dds"
 			}
 		}
 		country_leader={

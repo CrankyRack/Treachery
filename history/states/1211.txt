@@ -3,9 +3,9 @@ state={
 	name="Tristan da Cunha"
 
 	history={
-		add_core_of = NIR
+		add_core_of = GBR
 
-		owner = NIR
+		owner = GBR
 		buildings = {
 			infrastructure = 2		
             13264 = {

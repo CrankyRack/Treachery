@@ -3,7 +3,7 @@ characters = {
 		name="Lord William Plunket"
 		portraits = {
 			civilian = {
-				large="gfx/leaders/NIR/NZL_lord_william_plunket.dds"
+				large="gfx/leaders/GBR/NZL_lord_william_plunket.dds"
 			}
 		}
 		country_leader = {

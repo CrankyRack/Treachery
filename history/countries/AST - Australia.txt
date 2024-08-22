@@ -1,6 +1,6 @@
 ﻿capital = 285
 
-NIR = {
+GBR = {
 set_autonomy = {
 		target = AST
 		autonomous_state = autonomy_crown_colony

@@ -1,0 +1,25 @@
+
+state={
+	id=1286
+	name="Essex"
+	manpower = 363174
+	
+	state_category = town
+
+	history={
+		owner = GBR
+		victory_points = { 11221 5 }
+		buildings = {
+			infrastructure = 4 #was: 7
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = GBR
+	}
+
+	provinces={
+		221 9239 11221
+	}
+
+	local_supplies=0.0 
+}
