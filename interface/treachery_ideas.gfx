@@ -247,4 +247,24 @@ spriteTypes = {
 		name = "GFX_idea_DAK_dreams_of_an_pan_indian_union"
 		texturefile = "gfx/interface/ideas/DAK_dreams_of_an_pan_indian_union.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_IRE_irish_grand_army"
+		texturefile = "gfx/interface/ideas/IRE_irish_grand_army.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_IRE_the_parisian_alliance"
+		texturefile = "gfx/interface/ideas/IRE_the_parisian_alliance.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_IRE_the_spear_of_cuchulainn"
+		texturefile = "gfx/interface/ideas/IRE_the_spear_of_cuchulainn.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_NIR_guidance_of_the_order"
+		texturefile = "gfx/interface/ideas/NIR_guidance_of_the_order.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_NIR_sectarian_violence"
+		texturefile = "gfx/interface/ideas/NIR_sectarian_violence.dds"  
+	}
 }

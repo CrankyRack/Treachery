@@ -18,6 +18,9 @@ state={
 		victory_points = {
 			11279 3 #Leicester
 		}
+		victory_points = {
+			6301 2 
+		}
 		
 		buildings = {
 			infrastructure = 4 #was: 8

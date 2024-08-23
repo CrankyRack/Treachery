@@ -9,17 +9,22 @@ add_ideas = {
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1
-	fuel_silos = 1
 	basic_train = 1
 }
 
 set_convoys = 26
 
-recruit_character = IRE_thomas_esmonde
+add_ideas = {
+		IRE_irish_grand_army
+		IRE_the_parisian_alliance
+		IRE_the_spear_of_cuchulainn
+}
+
+recruit_character = IRE_seosamh_mac_tire
 
 set_politics = {
 	ruling_party = democratic
-	last_election = "1933.1.24"
+	last_election = "1903.1.24"
 	election_frequency = 48
 	elections_allowed = yes
 }

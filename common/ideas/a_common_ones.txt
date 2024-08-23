@@ -764,6 +764,103 @@ ideas = {
 			 stability_factor = 0.1
 			}
 		}
+		IRE_irish_grand_army = {
+
+			picture = IRE_irish_grand_army
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 army_infantry_attack_factor = 0.05
+			 army_core_attack_factor = 0.05
+			 army_org_factor = 0.15
+			 training_time_army_factor = 0.25
+			 stability_factor = -0.05
+			}
+			targeted_modifier = {
+             tag = GBR    # this can also take a variable that stores a scope
+             attack_bonus_against = 0.1
+            }
+			targeted_modifier = {
+             tag = NIR    # this can also take a variable that stores a scope
+             attack_bonus_against = 0.1
+            }
+		}
+		IRE_the_parisian_alliance = {
+
+			picture = IRE_the_parisian_alliance
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 stability_factor = 0.05
+			}
+			targeted_modifier = {
+             tag = FRA 
+             trade_cost_for_target_factor = -0.1
+            }
+			
+		}
+		IRE_the_spear_of_cuchulainn = {
+
+			picture = IRE_the_spear_of_cuchulainn
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 stability_weekly_factor = 0.005
+			 war_support_weekly = 0.001
+			 state_production_speed_bunker_factor = -0.25
+			 liberalism_drift = 0.01
+			}
+		}
+		NIR_guidance_of_the_order = {
+
+			picture = NIR_guidance_of_the_order
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 stability_factor = -0.15
+			 war_support_factor = 0.05
+			 production_speed_buildings_factor = 0.25
+			 dig_in_speed_factor = 0.15
+			}
+		}
+		NIR_sectarian_violence = {
+
+			picture = NIR_sectarian_violence
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 consumer_goods_factor = 0.3
+			 stability_weekly_factor = -0.0015
+			 production_speed_buildings_factor = 0.35
+			 army_infantry_attack_factor = -0.15
+			 army_org_factor = -0.1
+			}
+		}
 	}   
 }
 

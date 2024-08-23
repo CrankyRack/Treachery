@@ -16,7 +16,12 @@ set_autonomy = {
 	}
 }
 
-#recruit_character = NIR_king_edward
+add_ideas = {
+	NIR_guidance_of_the_order
+	NIR_sectarian_violence
+}
+
+recruit_character = NIR_king_edward
 
 
 set_politics = {

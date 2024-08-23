@@ -1,0 +1,15 @@
+characters={
+	NIR_king_edward={
+		name="Edward VII Saxe-Coburg & Gotha"
+		portraits={
+			civilian={
+				large="gfx/leaders/GBR/GBR_king_edward.dds"
+			}
+		}
+		country_leader={
+			ideology=conservatism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

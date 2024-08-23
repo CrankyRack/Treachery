@@ -14,11 +14,11 @@ state={
 		owner = GBR
 	
 		victory_points = {
-			11279 3 #Leicester
+			364 1 
 		}
 		buildings = {
 			infrastructure = 4 #was: 8
-			arms_factory = 2
+			arms_factory = 1
 			industrial_complex = 1
 		}
 		add_core_of = GBR

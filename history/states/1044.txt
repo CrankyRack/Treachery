@@ -6,7 +6,7 @@ state=
 		steel=3 # was: 18
 	}
 
-	manpower =227788
+	manpower =727788
 
 	
 	state_category = rural

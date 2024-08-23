@@ -1,13 +1,15 @@
 characters={
-	IRE_thomas_esmonde={
-		name="Thomas Esmonde"
+	IRE_seosamh_mac_tire={
+		name="Seosamh Mac Tíre "
 		portraits={
 			civilian={
-				large="gfx/leaders/IRE/IRE_thomas_esmonde.dds"
+				large="gfx/leaders/IRE/IRE_seosamh_mac_tire.dds"
 			}
 		}
 		country_leader={
+		    desc="POLITICS_SEOSAMH_MAC_TIRE_DESC"
 			ideology=conservatism
+			traits = {the_bonaparte_of_ireland}
 			expire="1965.1.1.1"
 			id=-1
 		}
