@@ -267,4 +267,12 @@ spriteTypes = {
 		name = "GFX_idea_NIR_sectarian_violence"
 		texturefile = "gfx/interface/ideas/NIR_sectarian_violence.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_STR_the_almighty_dollar"
+		texturefile = "gfx/interface/ideas/STR_the_almighty_dollar.dds"  
+	}
+	SpriteType = {
+		name = "GFX_idea_STR_pinkerton_detective_agency"
+		texturefile = "gfx/interface/ideas/STR_pinkerton_detective_agency.dds"  
+	}
 }

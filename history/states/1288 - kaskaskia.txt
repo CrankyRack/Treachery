@@ -1,0 +1,22 @@
+
+state={
+	id=1288
+	name="Kaskaskia"
+	manpower = 330651
+	state_category = rural
+
+	history={
+		owner = DAK
+		buildings = {
+			industrial_complex = 1
+		}
+		add_core_of = DAK
+		add_claim_by = USA
+	}
+
+	provinces={
+		954 1604 7626 7831 12305
+	}
+
+	local_supplies=0.0 
+}

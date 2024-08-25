@@ -1,0 +1,22 @@
+
+state={
+	id=1289
+	name="Peoria"
+	manpower = 612359
+	state_category = town
+
+	history={
+		owner = DAK
+		buildings = {
+			industrial_complex = 1
+		}
+		add_core_of = DAK
+		add_claim_by = USA
+	}
+
+	provinces={
+		720 1655 4508 7611 10457 10461 12368 12497 12697
+	}
+
+	local_supplies=0.0 
+}

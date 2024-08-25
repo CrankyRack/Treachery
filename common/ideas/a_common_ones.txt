@@ -733,7 +733,9 @@ ideas = {
 			removal_cost = -1
 
 			modifier = {
-			 stability_factor = 0.1
+			 stability_factor = -0.1
+			 army_infantry_attack_factor = 0.05
+			 war_support_weekly = 0.001
 			}
 		}
 		DAK_hoffmans_treachery = {
@@ -747,7 +749,10 @@ ideas = {
 			removal_cost = -1
 
 			modifier = {
-			 stability_factor = 0.1
+			 stability_factor = -0.05
+			 war_support_weekly = 0.001
+			 production_speed_buildings_factor = -0.25
+			 consumer_goods_factor = 0.25
 			}
 		}
 		DAK_dreams_of_an_pan_indian_union = {
@@ -761,7 +766,10 @@ ideas = {
 			removal_cost = -1
 
 			modifier = {
-			 stability_factor = 0.1
+			 war_support_weekly = 0.001
+			 army_core_attack_factor = 0.15
+			 liberalism_drift = 0.01
+			 revolutionary_socialism_drift = 0.01
 			}
 		}
 		IRE_irish_grand_army = {
@@ -839,7 +847,7 @@ ideas = {
 			modifier = {
 			 stability_factor = -0.15
 			 war_support_factor = 0.05
-			 production_speed_buildings_factor = 0.25
+			 production_speed_buildings_factor = -0.25
 			 dig_in_speed_factor = 0.15
 			}
 		}
@@ -859,6 +867,39 @@ ideas = {
 			 production_speed_buildings_factor = 0.35
 			 army_infantry_attack_factor = -0.15
 			 army_org_factor = -0.1
+			}
+		}
+		STR_the_almighty_dollar= {
+
+			picture = STR_the_almighty_dollar
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 consumer_goods_factor = -0.45
+			 stability_weekly_factor = -0.0015
+			 production_speed_buildings_factor = 0.5
+			}
+		}
+		STR_pinkerton_detective_agency = {
+
+			picture = STR_pinkerton_detective_agency
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 army_infantry_attack_factor = 0.25
+			 army_org_factor = 0.15
+			 dig_in_speed_factor = -0.1
+			 stability_factor = -0.25
 			}
 		}
 	}   
