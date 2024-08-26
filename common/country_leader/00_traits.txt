@@ -13,6 +13,43 @@
 ###Todo remove commented advisor experience gains
 
 leader_traits = {
+	rittmeister = {
+		war_support_factor = 0.05
+		grant_medal_cost_factor = -0.1
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	corps_borussia_bonn = {
+		war_support_factor = 0.1
+		army_morale_factor = 0.05
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	marechal_de_campagne = {
+		war_support_factor = 0.05
+		army_attack_factor = 0.05
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	the_prince_of_moscow = {
+		war_support_factor = 0.03
+		army_morale_factor = 0.02
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	the_bourgeois_king = {
+		war_support_factor = -0.05
+		political_power_gain = 0.1
+		random = no
+		ai_will_do = {
+			factor = 1
+		}
+	}
 	austrian_general = {
 		army_org_factor = 0.1
 		power_balance_weekly = -0.05
@@ -32,8 +69,8 @@ leader_traits = {
 	}
 	
 	stroke_victim = {
-		stability_factor = -0.50
-		political_power_gain = -1
+		stability_factor = -0.25
+		political_power_gain = -0.5
 		random = no
 		ai_will_do = {
 			factor = 1

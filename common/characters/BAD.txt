@@ -8,7 +8,7 @@ characters = {
 		}
 		country_leader = {
 			ideology=despotism
-			traits = { # }
+			traits = { marechal_de_campagne }
 			expire="1965.1.1.1"
 			id=-1
 		}
