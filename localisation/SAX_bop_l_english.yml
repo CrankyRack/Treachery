@@ -1,11 +1,14 @@
 ﻿l_english:
 
  SAX_power_balance:0 "The Rhine Confederation Stance"
- mid_range:0 "No stance on the Rheinbundakte"
- left_side_range:0 "Refusal of the Rheinbundakte"
- middle_left_side_range:0 "Major refusal on the Rheinbundakte"
- far_left_side_range:0 "Total refusal on the Rheinbundakte"
- right_side_range:0 "Support of the Rheinbundakte"
- middle_right_side_range:0 "Major support on the Rheinbundakte"
- far_right_side_range:0 "Total support on the Rheinbundakte"
- 
+ SAX_mid_range:0 "No stance on the Rheinbundakte"
+ SAX_left_side_range:0 "Refusal of the Rheinbundakte"
+ SAX_middle_left_side_range:0 "Major refusal on the Rheinbundakte"
+ SAX_far_left_side_range:0 "Total refusal on the Rheinbundakte"
+ SAX_right_side_range:0 "Support of the Rheinbundakte"
+ SAX_middle_right_side_range:0 "Major support on the Rheinbundakte"
+ SAX_far_right_side_range:0 "Total support on the Rheinbundakte"
+ SAX_default_right_side:0 "Rhine Confederation Supporter"
+ SAX_default_left_side:0 "Rhine Confederation Detractor"
+
+
