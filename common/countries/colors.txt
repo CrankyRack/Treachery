@@ -1376,8 +1376,8 @@ GDL = {
 	color_ui = rgb { 53 73 140 }
 }
 BOH = {
-	color = rgb { 53 73 140 }
-	color_ui = rgb { 53 73 140 }
+	color = rgb { 188 53 41 }
+	color_ui = rgb { 188 53 41 }
 }
 LUR = {
 	color = rgb { 80 159 90 }
@@ -1506,4 +1506,12 @@ MIC = {
 RUP = {
 	color = rgb { 208 12 39 }
 	color_ui = rgb { 208 12 39 }
+}
+JAZ = {
+	color = rgb { 24 130 80 }
+	color_ui = rgb { 80 115 45 }
+}
+PON = {
+	color = rgb { 19 131 196 }
+	color_ui = rgb { 19 131 196 }
 }

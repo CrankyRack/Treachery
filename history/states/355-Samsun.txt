@@ -10,17 +10,24 @@ state={
 		victory_points = {
 			11881 10
 		}
+		victory_points = {
+			6995 3
+		}
 		buildings = {
 			infrastructure = 2
 			11881 = {
 				naval_base = 3
 			}
+			6995 = {
+				naval_base = 2
+			}
 		}
 		add_core_of = TUR
+		add_core_of = PON
 	}
 
 	provinces={
-		933 960 975 3935 3965 9900 9915 11881 11894 
+		960 3935 6995 9915 11881 11894 
 	}
 
 	local_supplies=0.0 

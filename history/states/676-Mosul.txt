@@ -11,7 +11,7 @@ state={
 
 
 	history={
-		owner = IRQ
+		owner = JAZ
 		buildings = {
 			infrastructure = 2
 		}
@@ -21,12 +21,16 @@ state={
 		victory_points = {
 			3916 3 
 		}
+		victory_points = {
+			3916 3 
+		}
 		add_core_of = IRQ
+		add_core_of = JAZ
 		add_core_of = KUR
 	}
 	
 	provinces={
-		1600 1938 10106 10804 12372 
+		1600 1938 3916 10106 10804 12372 
 	}
 
 	local_supplies=0.0 

@@ -69,10 +69,7 @@ set_autonomy = {
 		target = TUN
 		autonomous_state = autonomy_german_prince_1
 	}
-set_autonomy = {
-		target = BOH
-		autonomous_state = autonomy_german_prince_1
-	}
+
 
 give_guarantee = LAN
 give_guarantee = TOS

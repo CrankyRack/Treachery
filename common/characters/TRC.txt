@@ -1,0 +1,16 @@
+characters = {
+	TRC_rama_varma_vi = {
+		name="Rama Varma VI"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/TRC/TRC_rama_varma_vi.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

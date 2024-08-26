@@ -1,0 +1,16 @@
+characters = {
+	GWA_madho_rao_scindia = {
+		name="Madho Rao Scindia"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/GWA/GWA_madho_rao_scindia.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

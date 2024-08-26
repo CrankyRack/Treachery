@@ -3,9 +3,10 @@ state={
 	name="Qamishli"
 
 	history={
-		add_core_of = IRQ
+		add_core_of = JAZ
+		add_core_of = KUR
 
-		owner = IRQ
+		owner = JAZ
 		buildings = {
 			infrastructure = 1		
 		}
@@ -13,7 +14,7 @@ state={
 	}
 
 	provinces={
-		901 1549 1578 10882
+		901 1578 10882
 	}
 	manpower=134295
 	buildings_max_level_factor=1

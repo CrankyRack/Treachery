@@ -1,0 +1,16 @@
+characters = {
+	BHO_jahan_begum = {
+		name="Jahan Begum"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/BHO/BHO_jahan_begum.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

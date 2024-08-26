@@ -10,6 +10,10 @@ set_autonomy = {
 		target = KNT
 		autonomous_state = autonomy_puppet
 	}
+set_autonomy = {
+		target = BOH
+		autonomous_state = autonomy_german_prince_1
+	}
 
 set_technology = {
 	infantry_weapons = 1

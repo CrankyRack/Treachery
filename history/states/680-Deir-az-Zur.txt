@@ -6,7 +6,7 @@ state={
 	state_category = wasteland
 
 	history={
-		owner = SYR
+		owner = JAZ
 		victory_points = {
 			3942 1
 		}
@@ -19,13 +19,13 @@ state={
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = SYR
+		add_core_of = JAZ
 		add_core_of = KUR
 	}
 
 
 	provinces={
-		1606 1634 2013 3942 6883 7513 12442 
+		1634 2013 3942 6883 11871 12316 
 	}
 
 	local_supplies=4.0 

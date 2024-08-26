@@ -5116,5 +5116,15 @@
  CRN:0 "Kingdom of Cornwall"
  CRN_DEF:0 "the Kingdom of Cornwall"
  CRN_ADJ:0 "Cornish"
+ 
+ JAZ:0 "Jazirian Confederation"
+ JAZ_DEF:0 "the Jazirian Confederation"
+ JAZ_ADJ:0 "Jazirian"
+ 
+ PON:0 "Republic of Pontus"
+ PON_DEF:0 "the Republic of Pontus"
+ PON_ADJ:0 "Pontus"
+ PON_monarchist:0 "Kingdom of Pontus"
+ PON_monarchist_DEF:0 "the Kingdom of Pontus"
 
 
