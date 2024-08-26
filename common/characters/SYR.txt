@@ -1,0 +1,16 @@
+characters = {
+	SYR_leon_napoleon_louis_michel_ney = {
+		name="Léon Napoléon Louis Michel Ney"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/FRA/SYR_leon_napoleon_louis_michel_ney.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { the_prince_of_moscow }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
