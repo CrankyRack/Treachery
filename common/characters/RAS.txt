@@ -1,0 +1,15 @@
+characters={
+	RAS_boris_vilkitsky={
+		name="Boris Vilkitsky"
+		portraits={
+			civilian={
+				large="gfx/leaders/SOV/RAS_boris_vilkitsky.dds"
+			}
+		}
+		country_leader={
+			ideology=colonial_government
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
