@@ -14,27 +14,22 @@ set_technology = {
 }
 
 ##### Characters for both
-recruit_character = SWI_federal_assembly 
-recruit_character = SWI_max_leo_keller
-recruit_character = SWI_fritz_platten
-recruit_character = SWI_henri_guisan
-recruit_character = SWI_hans_oehler
-recruit_character = SWI_etienne_primault
-recruit_character = SWI_hermann_hessel_lorenz
-recruit_character = SWI_carl_jacob_burckhardt
-recruit_character = SWI_johannes_baumann
-recruit_character = SWI_roger_masson
-recruit_character = SWI_giuseppe_motta
-recruit_character = SWI_ernst_wetter
+
+recruit_character = SWI_johann_ulrich_von_salis_seewis 
+
 
 set_politics = {
-	ruling_party = authoritarian
-	last_election = "1905.10.27"
+	ruling_party = patrimonialism
+	last_election = "1849.10.27"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 }
 set_popularities = {
-	authoritarian = 96
-	monarchist = 2
-	vanguardism = 2
+	democratic = 11
+	liberalism = 18
+	authoritarian = 20
+	vanguardism = 1
+	democratic_socialism = 8
+	monarchist = 0.3
+	patrimonialism = 41.7
 }

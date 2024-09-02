@@ -16,8 +16,8 @@ state={
 		}
 		buildings = {
 			infrastructure = 4
-			arms_factory = 2
-			industrial_complex = 3
+			arms_factory = 1
+			industrial_complex = 2
 
 		}
 		add_core_of = WUR
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		519 694 3690 6555 6934 9517 9545 9655 11486 11499 
+		519 694 3690 6555 9517 9545 9655 11486 11499 
 	}
 	manpower=3086854
 	buildings_max_level_factor=1.000

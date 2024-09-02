@@ -4172,6 +4172,8 @@
  SWI_democratic_ADJ:0 "Swiss"
  SWI_vanguardism_ADJ:0 "Swiss"
  SWI_authoritarian_ADJ:0 "Swiss"
+ SWI_patrimonialism:0 "Swiss Confederation"
+ SWI_patrimonialism_DEF:0 "the Swiss Confederation"
 
  BRU:0 "Grand Duchy of Frankfurt"
  BRU_DEF:0 "the Grand Duchy of Frankfurt"
@@ -5122,5 +5124,21 @@
  PON_ADJ:0 "Pontus"
  PON_monarchist:0 "Kingdom of Pontus"
  PON_monarchist_DEF:0 "the Kingdom of Pontus"
+ 
+ LIC:0 "Liechtenstein"
+ LIC_DEF:0 "Liechtenstein"
+ LIC_ADJ:0 "Liechtensteiner"
+ LIC_monarchist:0 "Principality of Liechtenstein"
+ LIC_monarchist_DEF:0 "the Principality of Liechtenstein"
+ LIC_democratic:0 "Principality of Liechtenstein"
+ LIC_democratic_DEF:0 "the Principality of Liechtenstein"
+ LIC_authoritarian:0 "Principality of Liechtenstein"
+ LIC_authoritarian_DEF:0 "the Principality of Liechtenstein"
+ LIC_vanguardism:0 "Liechtensteiner People's Republic"
+ LIC_vanguardism_DEF:0 "the Liechtensteiner People's Republic"
+ LIC_monarchist_ADJ:0 "Liechtensteiner"
+ LIC_democratic_ADJ:0 "Liechtensteiner"
+ LIC_authoritarian_ADJ:0 "Liechtensteiner"
+ LIC_vanguardism_ADJ:0 "Liechtensteiner"
 
 
