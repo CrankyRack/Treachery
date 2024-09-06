@@ -15,7 +15,6 @@ state={
 			infrastructure = 2
 			industrial_complex = 1
 		}
-		add_core_of = ITA
 		add_core_of = SPM
 		add_core_of = FRA
 		add_claim_by = ITC

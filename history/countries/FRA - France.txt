@@ -214,7 +214,7 @@ add_ideas = {
 }
 add_opinion_modifier = {
 	target = ITA
-	modifier = strong_ties
+	modifier = family_ties
 }
 
 recruit_character = FRA_napoleon_four

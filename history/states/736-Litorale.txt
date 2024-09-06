@@ -9,7 +9,6 @@ state = {
 			6626 3
 		}
 		owner = CRO
-		add_core_of = ITA
 		add_core_of = SLV
 		add_core_of = CRO
 		add_claim_by = ITC

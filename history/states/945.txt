@@ -12,7 +12,6 @@ state=
 		victory_points = {
 			1616 5 
 		}
-		add_core_of = ITA
 		add_core_of = TOS
 		add_core_of = LSS
 		add_claim_by = ITC
