@@ -1,0 +1,36 @@
+state= {
+	id=1295
+	name="Cuba Oriente"
+	manpower = 1207919
+	resources={
+		steel=6 # was: 4
+		chromium=40 # was: 160
+	}
+	
+	state_category = town
+
+	history= {
+		owner = CUB
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			1356 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = CUB
+		add_core_of = NIC
+		victory_points = {
+			1356 5 
+		}
+		victory_points = {
+			7622 1
+		}
+
+	}
+	provinces={
+		1356 4600 7451 7622 7807 10715 13290 13291 13292 13293 13294 13295 13296 13297 13310
+	}
+
+	local_supplies=0.0 
+}

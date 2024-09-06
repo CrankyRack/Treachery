@@ -10,7 +10,7 @@ set_technology = {
 
 set_convoys = 5
 
-recruit_character = BOT_aa2
+recruit_character = BOT_william_forbes_gatacre
 
 SAF = {
 set_autonomy = {

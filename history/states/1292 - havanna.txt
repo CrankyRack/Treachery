@@ -1,0 +1,31 @@
+
+state={
+	id=1292
+	name="Havana"
+	manpower = 311129
+	
+	state_category = town
+
+	history={
+		owner = NIC
+		
+		victory_points = {
+			13287 20
+		}
+		buildings = {
+			infrastructure = 
+			industrial_complex = 1
+			13287 = {
+				naval_base = 7
+			}
+		}
+		add_core_of = NIC
+		add_core_of = CUB
+	}
+
+	provinces={
+		13287
+	}
+
+	local_supplies=0.0 
+}
