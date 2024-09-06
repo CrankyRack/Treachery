@@ -2,49 +2,29 @@ ideas = {
 
 	country = {
 
-		ITA_strong_french_influence = {
+		ITA_french_economic_reliance = {
 
-
+			# picture = 
 			allowed = {
 				tag = ITA
 			}
 
 			cancel = {
 				ROOT = { has_war_with = FRA }
-				OR = {
-					NOT = {
-						ROOT = { is_in_faction_with = FRA }
-					}
-				}
 			}
 
 			modifier = {
-				political_power_gain = -0.20
-				stability_factor = -0.20
-				drift_defence_factor = 0.5
-				research_speed_factor = 0.25
+				#political_power_gain = -0.25
+				#stability_factor = -0.2
+				#production_speed_buildings_factor = 0.2
+				#repair_speed_civilian_factory_factor = 0.2
+				#local_resources_factor = -0.15
+				#consumer_goods_factor = 0.1
 			}
 		}
 
-		# Triggers on an early event
-		ITA_democratization_protests = {
-
-			allowed = {
-				tag = ITA
-			}
-
-			cancel = {
-				NOT = {
-					ROOT = { has_government = monarchist }
-				}
-			}
-
-			modifier = {
-				# Still have to work on these
-				production_factory_efficiency_gain_factor = -0.15
-				industrial_capacity_factory = -0.25
-				local_resources_factor = -0.10
-			}
+		ITA_lombard_industrial_complex = {
+			
 		}
 
 	}

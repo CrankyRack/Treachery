@@ -11,7 +11,6 @@ state={
 
 	history={
 		add_core_of = LSS
-		add_core_of = ITA
 		add_core_of = TOS
 		add_claim_by = ITC
 		owner = LSS

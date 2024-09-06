@@ -17,7 +17,6 @@ state={
 				naval_base = 10
 			}
 		}
-		add_core_of = ITA
 	}
 	provinces={
 		3773 3976 6790 6973
