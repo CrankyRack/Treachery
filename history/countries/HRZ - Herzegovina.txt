@@ -3,7 +3,13 @@
 set_research_slots = 3
 
 # Starting tech
-# clone of Yugoslavia
+
+
+add_ideas = {
+	BOS_the_bosnian_experiment
+}
+
+
 set_technology = {
 	tech_support = 1		
 	tech_engineers = 1

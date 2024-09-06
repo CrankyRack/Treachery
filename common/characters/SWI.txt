@@ -1,0 +1,16 @@
+characters = {
+	SWI_johann_ulrich_von_salis_seewis = {
+		name="Johann Ulrich von Salis-Seewis"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/SWI/SWI_johann_ulrich_von_salis_seewis.dds"
+			}
+		}
+		country_leader = {
+			ideology=military_dictatorship
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

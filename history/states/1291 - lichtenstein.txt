@@ -1,0 +1,29 @@
+
+state={
+	id=1291
+	name="Liechtenstein"
+	manpower = 11129
+	
+	state_category = town
+
+	history={
+		owner = LIC
+		
+		victory_points = {
+			6934 2
+		}
+		buildings = {
+			infrastructure = 
+			industrial_complex = 1
+		}
+		add_core_of = LIC
+		add_claim_by = SWI
+		add_claim_by = AUS
+	}
+
+	provinces={
+		6934
+	}
+
+	local_supplies=0.0 
+}

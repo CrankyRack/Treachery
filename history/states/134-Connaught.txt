@@ -17,6 +17,11 @@ state=
 		}
 		buildings = {
 			infrastructure = 3 #was: 6
+			industrial_complex = 1
+			arms_factory = 1
+			9303 = {
+				naval_base = 2
+			}
 		}
 		add_core_of = IRE
 		add_core_of = NIR
@@ -24,7 +29,7 @@ state=
 
 	provinces=
 	{
-  3396 9255 9303 9321 9369 11238 11287 	}
+  3396 9303 9321 9369 11238 11287 11371	}
 
 	local_supplies=13.0 
 }

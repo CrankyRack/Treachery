@@ -1,9 +1,9 @@
 state=
 {
 	id=1044
-	name="South Ulster"
+	name="Donegal"
 	resources={
-		steel=3 # was: 18
+		steel=13 # was: 18
 	}
 
 	manpower =727788
@@ -15,7 +15,7 @@ state=
 	history={
 		owner = NIR
 		victory_points = {
-			11371 2 
+			9255 2 
 		}
 		buildings = {
 			infrastructure = 2
@@ -26,7 +26,7 @@ state=
 	}
 
 	provinces={
-		337 11257 11303 11371
+		337 9255 11303
 	}
 	local_supplies=0.0 
 }

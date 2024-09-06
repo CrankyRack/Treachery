@@ -103,6 +103,10 @@ SWI = {
 	color = rgb { 190 15 15 }
 	color_ui = rgb { 190 15 15 }
 }
+SCH = {
+	color = rgb { 159 83 80 }
+	color_ui = rgb { 159 83 80 }
+}
 TUR = {
 	color = rgb { 164 0 0 }
 	color_ui = rgb { 164 0 0 }
@@ -933,10 +937,6 @@ ALC = {
 	color = rgb { 105 105 105 }
 	color_ui = rgb { 105 105 105 }
 }
-SCH = {
-	color = rgb { 190 15 15 }
-	color_ui = rgb { 190 15 15 }
-}
 BRU = {
 	color = rgb { 170  10  10 }
 	color_ui = rgb { 255 0 0 }
@@ -1448,6 +1448,10 @@ RAG = {
 	color_ui = rgb { 87 150 137  }
 }
 EPI = {
+	color = rgb { 154 69 116 }
+	color_ui = rgb { 154 69 116 }
+}
+LIC = {
 	color = rgb { 154 69 116 }
 	color_ui = rgb { 154 69 116 }
 }

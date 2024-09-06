@@ -902,6 +902,21 @@ ideas = {
 			 stability_factor = -0.25
 			}
 		}
-	}   
+		BOS_the_bosnian_experiment = {
+
+			picture = BOS_the_bosnian_experiment
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 stability_factor = 0.3
+			 consumer_goods_factor = 0.25
+			}
+	    }   
+    }
 }
 

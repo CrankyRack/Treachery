@@ -4,26 +4,29 @@ state={
 	name="STATE_135"
 	manpower = 1441400
 
-	state_category = town
+	state_category = city
 
 	history={
 		owner = IRE
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 3
+			7394 = {
+				naval_base = 8
+			}
 		}
 		victory_points = {
-			7394 5 #Cork
+			7394 10 #Cork
 		}
 		victory_points = {
-			6313 1 #Limerick
+			6313 5 #Limerick
 		}
 		add_core_of = IRE
 		add_core_of = NIR
 	}
 
 	provinces={
-		6289 6313 6405 7394 9284 9405 11334 
+		6289 6313 6405 7394 9284 9310 9405 11267 11334 
 	}
 
 	local_supplies=0.0 

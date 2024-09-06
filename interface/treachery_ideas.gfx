@@ -275,4 +275,8 @@ spriteTypes = {
 		name = "GFX_idea_STR_pinkerton_detective_agency"
 		texturefile = "gfx/interface/ideas/STR_pinkerton_detective_agency.dds"  
 	}
+	SpriteType = {
+		name = "GFX_idea_BOS_the_bosnian_experiment"
+		texturefile = "gfx/interface/ideas/BOS_the_bosnian_experiment.dds"  
+	}
 }

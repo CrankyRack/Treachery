@@ -10,7 +10,7 @@ state={
 
 
 	history={
-		owner = SCH
+		owner = SWI
 		victory_points = { 663 10 }
 		victory_points = { 9638 5 }
 		buildings = {
@@ -18,7 +18,7 @@ state={
 			arms_factory = 3
 			industrial_complex = 3
 		}
-		add_core_of = SCH
+		add_core_of = SWI
 	}
 
 	provinces={
