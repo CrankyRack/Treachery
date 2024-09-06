@@ -8,7 +8,7 @@ set_war_support = 0.2
 add_ideas = {
 	limited_exports
 	volunteers_only
-	ITA_french_economic_reliance
+	ITA_french_state
 }
 
 add_opinion_modifier = {
