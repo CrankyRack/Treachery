@@ -3,30 +3,30 @@ state=
 	id=1045
 	name="Wexford"
 	resources={
-		chromium=1 # was: 18
+		chromium=4 # was: 18
 	}
 
 	manpower =631288
 
 	
-	state_category = rural
+	state_category = town
 	
 	
 	history={
 		owner = IRE
 		victory_points = {
-			285 2 
+			285 4 
 		}
 		buildings = {
 			infrastructure = 2
-			industrial_complex = 1
+			industrial_complex = 2
 		}
 		add_core_of = IRE
 		add_core_of = NIR
 	}
 
 	provinces={
-		285 9310 11237 11267 
+		285 3342 11237 
 	}
 	local_supplies=0.0 
 }

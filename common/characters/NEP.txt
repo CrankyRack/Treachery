@@ -1,0 +1,16 @@
+characters = {
+	NEP_prithvi_bikram_shah = {
+		name="Prithvi Bir Bikram Shah"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/NEP/NEP_prithvi_bikram_shah.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
