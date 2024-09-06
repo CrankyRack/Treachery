@@ -1,0 +1,28 @@
+
+state={
+	id=1293
+	name="Guantánamo"
+	manpower = 242182
+	
+	state_category = town
+
+	history={
+		owner = NIC
+		
+		victory_points = {
+			13288 5
+		}
+		buildings = {
+			infrastructure = 
+			industrial_complex = 1
+		}
+		add_core_of = NIC
+		add_core_of = CUB
+	}
+
+	provinces={
+		13288
+	}
+
+	local_supplies=0.0 
+}

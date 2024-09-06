@@ -1,0 +1,27 @@
+
+state={
+	id=1294
+	name="Isla de la Juventud"
+	manpower = 21344
+	state_category = small_island
+	history={
+		owner = NIC
+		add_core_of = CUB
+		add_core_of = NIC
+		buildings = {
+			infrastructure = 2
+			13289 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			13289 1
+		 }
+	}
+
+	provinces={
+		13289
+	}
+
+	local_supplies=0.0 
+}

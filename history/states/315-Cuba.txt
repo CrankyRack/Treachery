@@ -1,10 +1,9 @@
 state= {
 	id=315
-	name="STATE_315"
-	manpower = 3607919
+	name="Cuba Occidente"
+	manpower = 2607919
 	resources={
-		steel=3 # was: 4
-		chromium=90 # was: 160
+		chromium=32 # was: 160
 	}
 	
 	state_category = town
@@ -14,9 +13,6 @@ state= {
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
-			7622 = {
-				naval_base = 3
-			}
 			1550 = {
 				naval_base = 1
 			}
@@ -24,15 +20,18 @@ state= {
 		add_core_of = CUB
 		add_core_of = NIC
 		victory_points = {
-			7622 5 
+			1550 5 
 		}
 		victory_points = {
-			7590 1
+			13309 8
+		}
+		victory_points = {
+			13302 4
 		}
 
 	}
 	provinces={
-		1550 4476 4600 7451 7546 7590 7622 10374 10498 12347
+		1550 4476 7546 7590 10374 10498 12347 13298 13299 13300 13301 13302 13303 13304 13305 13306 13307 13308 13309
 	}
 
 	local_supplies=0.0 
