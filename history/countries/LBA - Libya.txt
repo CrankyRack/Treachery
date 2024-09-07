@@ -7,9 +7,11 @@ set_technology = {
 
 set_convoys = 20
 
+recruit_character = LBA_ali_karamanli
+
 set_politics = {
 	ruling_party = authoritarian
-	last_election = "1936.1.1"
+	last_election = "1900.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }

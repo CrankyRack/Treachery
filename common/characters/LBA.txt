@@ -1,0 +1,16 @@
+characters = {
+	LBA_ali_karamanli = {
+		name="Ali III Karamanli"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/AFRICA/LBA_ali_karamanli.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
