@@ -1,0 +1,16 @@
+characters = {
+	CUB_gerado_machado = {
+		name="Gerardo Machado"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/CUB/CUB_gerado_machado.dds"
+			}
+		}
+		country_leader = {
+			ideology=military_dictatorship
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

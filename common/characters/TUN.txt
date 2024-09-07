@@ -1,0 +1,16 @@
+characters = {
+	TUN_muhammad_v_nasir = {
+		name="Muhammad V an-Nasir"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/AFRICA/TUN_muhammad_v_nasir.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
