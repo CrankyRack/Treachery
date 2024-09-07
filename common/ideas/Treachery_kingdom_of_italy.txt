@@ -4,28 +4,84 @@ ideas = {
 
 		ITA_french_state = {
 
-			# picture = 
-
 			allowed = {
 				tag = ITA
 			}
 
 			cancel = {
-				ROOT = { has_war_with = FRA }
-				NOT = { ROOT = { has_government = royalism } }
+				has_war_with = FRA
+				NOT = { has_government = royalism }
 			}
 
 			modifier = {
-				political_power_gain = -0.25
-				stability_factor = -0.25
-				production_speed_buildings_factor = 0.2
-				drift_defence_factor = 0.5
-				local_resources_factor = -0.15
+				stability_factor = -0.2
+				war_support_factor = -0.1
+				enemy_declare_war_tension = 0.5
+				surrender_limit = 0.25
 			}
+
+			targeted_modifier = {
+				tag = FRA
+				cic_to_target_factor = 0.15
+			}
+
+			on_remove = {
+				# Through Italianization process
+				remove_opinion_modifier = {
+					target = FRA
+					modifier = family_ties
+				}
+				FRA = {
+					remove_opinion_modifier = {
+						target = ROOT
+						modifier = family_ties
+					}
+				}
+			}
+
+		}
+
+		ITA_pugno_di_ferro = {
+			# all political organizations illegal, 
+			# only allowed political organization is the Consiglio di Stato
+
+			allowed = {
+				tag = ITA
+			}
+
+			modifier = {
+				drift_defence_factor = 1
+				political_power_factor = -0.35
+			}
+
+			on_remove = {
+				# Only removable in the focus tree 
+				# Add a timed idea that adds party popularity to all major parties
+				
+			}
+
 		}
 
 		ITA_lombard_industrial_complex = {
 			
+			allowed = { 
+				tag = ITA
+			}
+
+			cancel = {
+				NOT = { 
+					159 = {
+						is_owned_and_controlled_by = ROOT
+					}
+				}
+			}
+
+			modifier = {
+				production_speed_industrial_complex_factor = 0.15
+				production_speed_arms_factory_factor = 0.15
+				industry_repair_factor = 0.2
+				recruitable_population_factor = -0.1
+			}
 		}
 
 		ITA_expanded_lombard_industrial_complex = {

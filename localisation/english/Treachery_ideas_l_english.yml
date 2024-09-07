@@ -108,6 +108,12 @@
  ITA_french_state:0 "French State"
  ITA_french_state_desc:0 "Since the country's founding a little over 100 years ago by §BEmperor§! §WNapoleon§! §RBonaparte§!, self-proclaimed King of Italy, the nation has been under nearly exclusive French administration, the King himself is a descendant of the French general Eugène de Beauharnais, who served Napoleon I in his Italic campaigns, and was thus awarded with the de-facto supreme command over the newborn Kingdom of Italy.\n\nThe political authority over the Kingdom's institutions may have weakened over the last century, yet it still looms over the economical and industrial situation of our nation, which still fundamentally relies on our neighbour's aid. \n\nNonetheless, we owe a lot to our Latin cousins for liberating us from Austrian oppression and gifting us a banner to stand for."
 
+ ITA_pugno_di_ferro:0 "Pugno di Ferro"
+ ITA_pugno_di_ferro_desc:0 "The "Pugno di Ferro" is a royal decree issued by King Augusto de Beauharnais, the predecessor of Eugène II, following the defeat of Garibaldi's army in Northern Italy. Using the threat of Garibaldist influence as a pretext, all political organizations—except the Consiglio di Stato—were declared illegal and subject to prosecution.\n\n Since its enactment in 1861, the decree has remained unchanged, sparking protests and strikes from various political groups across the spectrum. These demonstrations have been repeatedly and swiftly suppressed by the army."
+
+ ITA_lombard_industrial_complex:0 "Lombard Industrial Complex"
+ ITA_lombard_industrial_complex_desc:0 "."
+
  GEN_outdated_army:0 "Outdated Army"
  GEN_outdated_army_desc:0 "."
 

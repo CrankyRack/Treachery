@@ -70,20 +70,18 @@
  ENG_vanguardism_party:0 "CPGB"
  ENG_democratic_party:0 "Conservative Party"
  ENG_monarchist_party:0 "King's Party"
- ITA_vanguardism_party:1 "PCI"
- ITA_vanguardism_party_long:0 "Partito Comunista Italiano"
- ITA_democratic_party:1 "PPI"
- ITA_democratic_party_long:0 "Partito Popolare Italiano"
- ITA_monarchist_party:1 "PNF"
- ITA_monarchist_party_long:0 "Partito Nazionale Fascista"
- ITA_authoritarian_party:1 "PNM"
- ITA_authoritarian_party_long:0 "Partito Nazionale Monarchico"
- ITA_partito_socialista_italiano:0 "PSI"
- ITA_partito_socialista_italiano_long:0 "Partito Socialista Italiano"
- ITA_partito_democratico_del_lavoro:0 "PDL"
- ITA_partito_democratico_del_lavoro_long:0 "Partito Democratico del Lavoro"
- ITA_democrazia_cristiana:0 "DC"
- ITA_democrazia_cristiana_long:0 "Democrazia Cristiana"
+
+ ITA_vanguardism_party:1 "RI"
+ ITA_vanguardism_party_long:0 "Rivoluzionari Italiani" #Italian Revolutionaries
+ ITA_monarchist_party:1 "CS"
+ ITA_monarchist_party_long:0 "Consiglio di Stato" #State Council
+ ITA_patrimonialism_party:1 "UII"
+ ITA_patrimonialism_party_long:0 "Unione Irredenta Italiana" #Italian Irredenta Union
+ ITA_democratic_socialism_party:1 "PSI"
+ ITA_democratic_socialism_party_long:0 "Partito Socialista Italiano" #Socialist Party
+ ITA_democratic_party:1 "US" 
+ ITA_democratic_party_long:0 "Unità Settentrionale" #Northern Unity
+
  JAP_vanguardism_party:0 "Nihon Kyosan-to"
  JAP_democratic_party:0 "Rikken Minseito"
  JAP_monarchist_party:0 "Taisei Yokusankai"

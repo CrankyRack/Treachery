@@ -2,13 +2,16 @@ capital = 159
 
 
 set_research_slots = 2
-set_stability = 0.4
-set_war_support = 0.2
+set_stability = 0.5
+set_war_support = 0.25
 
 add_ideas = {
 	limited_exports
-	volunteers_only
+	volunteer_only
+	low_economic_mobilisation
 	ITA_french_state
+	ITA_pugno_di_ferro
+	ITA_lombard_industrial_complex
 }
 
 add_opinion_modifier = {
@@ -48,11 +51,14 @@ set_politics = {
 }
 
 set_popularities = {
-	democratic = 20
-	monarchist = 73
-	vanguardism = 2
-	authoritarian = 5
+	monarchist = 100
+	liberalism = 0
+	progressivism = 0
+	Patrimonialism = 0
+	revolutionary_socialism = 0
+	democratic_socialism = 0
+	democratic = 0
 }
 
-recruit_character = ITA_benito_mussolini
-}
+recruit_character = ITA_eugene_II 
+
