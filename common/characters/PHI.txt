@@ -1,6 +1,6 @@
 characters = {
 	PHI_pascual_cervera = {
-		name="Pascual Cervera y Topete"
+		name="Felipe Ángeles Ramírez"
 		portraits = {
 			civilian = {
 				large="gfx/leaders/PHI/PHI_pascual_cervera.dds"
