@@ -11,7 +11,7 @@ state = {
 	history = {
 		owner = ITA
 		victory_points = { #Venezia
-			11584 10 
+			11584 20 
 		}
 		victory_points = { #Padova
 			3604 3 
@@ -45,7 +45,7 @@ state = {
 	provinces = {
 		603 628 3604 3657 3776 6656 9582 9613 11584 
 	}
-	manpower = 5963151
+	manpower = 3663151
 	buildings_max_level_factor = 1.000
 
 	local_supplies = 5.0 

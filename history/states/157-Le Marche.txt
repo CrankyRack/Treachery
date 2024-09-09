@@ -2,14 +2,17 @@
 state = {
 	id = 157
 	name = "STATE_157"
-	manpower = 2979335
+	manpower = 637890
 	
-	state_category = city
+	state_category = large_town
 
 	history = {
 		owner = ITA
+		victory_points = { #Ancona
+			925 3
+		}
 		victory_points = {
-			925 1 
+			9924 1
 		}
 		buildings = {
 			infrastructure = 3 #was: 6

@@ -42,8 +42,8 @@ ideas = {
 		}
 
 		ITA_pugno_di_ferro = {
-			# all political organizations illegal, 
-			# only allowed political organization is the Consiglio di Stato
+			
+			picture = 
 
 			allowed = {
 				tag = ITA
@@ -77,10 +77,11 @@ ideas = {
 			}
 
 			modifier = {
-				production_speed_industrial_complex_factor = 0.15
-				production_speed_arms_factory_factor = 0.15
-				industry_repair_factor = 0.2
+				consumer_goods_factor = -0.1
+				industry_repair_factor = 0.15
+				industrial_capacity_factory = 0.2
 				recruitable_population_factor = -0.1
+				local_resources_factor = -0.075
 			}
 		}
 

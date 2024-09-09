@@ -4,7 +4,7 @@ state = {
 	name = "STATE_161"
 	manpower = 4802401
 	
-	state_category = large_city
+	state_category = city
 	
 	resources = {
 		aluminium=9 # was: 16
@@ -13,13 +13,13 @@ state = {
 	history = {
 		owner = ITA
 		victory_points = { #Bologna
-			6606 5
+			6606 10
 		}
 		victory_points = { #Ferrara
-			6793 3
+			6793 1
 		}
 		victory_points = { #Parma
-			9752 1
+			9752 3
 		}
 		buildings = {
 			infrastructure = 4 #was: 7

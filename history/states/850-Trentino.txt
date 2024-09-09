@@ -8,7 +8,7 @@ state = {
 
 	history = {
 		victory_points = { #Trento
-			9598 1
+			9598 5
 		}
 		victory_points = { #Bolzano
 			11598 1

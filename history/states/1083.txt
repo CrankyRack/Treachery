@@ -2,18 +2,21 @@ state=
 {
 	id=1083
 	name="Novara"
-	manpower = 146988
+	manpower = 766988
 	resources = {
 		aluminium = 16 # was: 28
 	}
 	
-	state_category = rural
+	state_category = town
 	
 	history=
 	{
 		owner = ITA
 		add_claim_by = ITC
 		add_core_of = ITA
+		victory_points = {
+			776 3
+		}
 		buildings = {
 			infrastructure = 3 #was: 6
 			9851 = {
