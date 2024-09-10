@@ -1,0 +1,16 @@
+characters = {
+	LAO_georges_marie_joseph_mahe = {
+		name="Georges Marie Joseph Mahé"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/FRA/LAO_georges_marie_joseph_mahe.dds"
+			}
+		}
+		country_leader = {
+			ideology=colonial_government
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

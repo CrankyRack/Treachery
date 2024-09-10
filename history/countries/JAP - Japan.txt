@@ -1,12 +1,12 @@
 ﻿capital = 282
 
 
-
 set_stability = 0.35
 set_war_support = 0.4
 
 set_research_slots = 2
 set_fuel_ratio = 1.0
+
 add_ideas = {
 	state_shintoism
 }
