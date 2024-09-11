@@ -1,0 +1,26 @@
+CHI_Cixi_dying_category = {
+
+
+	Cixi_Sickness = {
+		activation = {
+			has_country_flag = Cixi_Sick
+		}
+		available = {
+			always = no
+		}
+		cancel_trigger = {
+			has_war = no
+		}
+		icon = mission_icon     # For GFX_decision_mission_icon
+		#war_with_on_timeout = SOV
+		days_mission_timeout = 360
+		selectable_mission = no
+		complete_effect = {
+			
+		}
+		timeout_effect = {
+			
+		}
+	}
+
+}

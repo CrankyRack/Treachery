@@ -1,0 +1,507 @@
+﻿focus_tree = {
+	id = qing_focus
+	
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 100
+			tag = MAN
+			
+		}
+	}
+	
+	default = no
+	
+	continuous_focus_position = { x = 50 y = 1000 }
+
+#	focus = {
+#		id = QING_
+#		icon = GFX_goal_generic_construction
+#		prerequisite = { focus = }
+#		mutually_exclusive = { focus =  }
+#		x = -1
+#		y = 0
+#		relative_position_id = 
+#
+#		cost = 10
+#
+#		ai_will_do = {
+#			factor = 1
+#		}
+#
+#		available = {
+#
+#		}
+#		
+#		bypass = {
+#
+#		}
+#
+#		cancel_if_invalid = yes
+#		continue_if_invalid = no
+#		available_if_capitulated = no
+#
+#		complete_tooltip = {
+#
+#		}
+#
+#		completion_reward = {
+#
+#		}
+#	}
+
+	############################
+	####### Cixi Reforms #######
+	############################
+
+	focus = {
+		id = QING_The_New_Policies
+		icon = GFX_goal_generic_construction
+#		prerequisite = { focus = }
+#		mutually_exclusive = { focus =  }
+		x = 10
+		y = 0
+#		relative_position_id = 
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+	
+	#################################
+	####### Political Reforms #######
+	#################################
+	
+	focus = {
+		id = QING_promulgated_the_decree_of_Preparative_Constitutionalism
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_The_New_Policies }
+#		mutually_exclusive = { focus =  }
+		x = -6
+		y = 2
+		relative_position_id = QING_The_New_Policies
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+
+	#################################
+	####### Economial Reforms #######
+	#################################
+	
+	focus = {
+		id = QING_reform_finance_ministry
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_The_New_Policies }
+#		mutually_exclusive = { focus =  }
+		x = 0
+		y = 2
+		relative_position_id = QING_The_New_Policies
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+	
+	focus = {
+		id = QING_Establish_the_Great_Qing_Bank
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_reform_finance_ministry }
+#		mutually_exclusive = { focus =  }
+		x = 0
+		y = 1
+		relative_position_id = QING_reform_finance_ministry
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+	
+	focus = {
+		id = QING_Invite_Western_Specialists
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_Establish_the_Great_Qing_Bank }
+		mutually_exclusive = { focus = QING_Invite_Western_Military_Advisors }
+		x = 2
+		y = 1
+		relative_position_id = QING_Establish_the_Great_Qing_Bank
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+	
+	focus = {
+		id = QING_Introduce_Currency_Reforms
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_Establish_the_Great_Qing_Bank }
+#		mutually_exclusive = { focus =  }
+		x = 0
+		y = 1
+		relative_position_id = QING_Establish_the_Great_Qing_Bank
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+			
+		}
+	}
+	
+	################################
+	####### Military Reforms #######
+	################################
+	
+	focus = {
+		id = QING_New_Officer_Schools
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_The_New_Policies }
+#		mutually_exclusive = { focus =  }
+		x = 6
+		y = 2
+		relative_position_id = QING_The_New_Policies
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+	
+	
+	focus = {
+		id = QING_The_New_Army
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_New_Officer_Schools }
+#		mutually_exclusive = { focus =  }
+		x = 0
+		y = 1
+		relative_position_id = QING_New_Officer_Schools
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+	
+	focus = {
+		id = QING_Purchase_Western_Weaponry
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_New_Officer_Schools }
+#		mutually_exclusive = { focus =  }
+		x = 2
+		y = 1
+		relative_position_id = QING_New_Officer_Schools
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+	
+	focus = {
+		id = QING_Learn_From_Western_Weaponry
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_Purchase_Western_Weaponry }
+#		mutually_exclusive = { focus =  }
+		x = 0
+		y = 1
+		relative_position_id = QING_Purchase_Western_Weaponry
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+	
+	focus = {
+		id = QING_Invite_Western_Military_Advisors
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_The_New_Army }
+		mutually_exclusive = { focus = QING_Invite_Western_Specialists }
+		x = -2
+		y = 1
+		relative_position_id = QING_The_New_Army
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+	
+	focus = {
+		id = QING_New_Recruitment_Standards
+		icon = GFX_goal_generic_construction
+		prerequisite = { focus = QING_The_New_Army }
+#		mutually_exclusive = { focus =  }
+		x = 0
+		y = 1
+		relative_position_id = QING_The_New_Army
+
+		cost = 10
+
+		ai_will_do = {
+			factor = 1
+		}
+
+		available = {
+			
+		}
+		
+#		bypass = {
+#
+#		}
+
+		cancel_if_invalid = yes
+		continue_if_invalid = no
+		available_if_capitulated = no
+
+#		complete_tooltip = {
+#
+#		}
+
+		completion_reward = {
+
+		}
+	}
+}		

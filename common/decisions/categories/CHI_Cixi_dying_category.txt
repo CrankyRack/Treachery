@@ -1,0 +1,10 @@
+CHI_Cixi_dying_category = {
+	icon = GFX_decision_category_power_struggle
+	
+	allowed = {
+		original_tag = MAN
+	}
+	visible = {
+		has_country_flag = Cixi_Sick
+	}
+}
