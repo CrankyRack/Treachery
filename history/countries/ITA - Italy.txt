@@ -51,11 +51,12 @@ set_politics = {
 }
 
 set_popularities = {
-	monarchist = 100
+	monarchist = 92.5
 	liberalism = 0
-	progressivism = 0
-	Patrimonialism = 0
+	progressivism = 4
+	Patrimonialism = 2
 	revolutionary_socialism = 0
+	vanguardism = 1.5
 	democratic_socialism = 0
 	democratic = 0
 }

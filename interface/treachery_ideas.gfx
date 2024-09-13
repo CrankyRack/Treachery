@@ -279,4 +279,8 @@ spriteTypes = {
 		name = "GFX_idea_BOS_the_bosnian_experiment"
 		texturefile = "gfx/interface/ideas/BOS_the_bosnian_experiment.dds"  
 	}
+	spriteType = {
+		name = "GFX_idea_ITA_french_state"
+		texturefile = "gfx/interface/ideas/ITA_french_state.dds"
+	}
 }

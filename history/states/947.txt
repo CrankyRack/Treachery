@@ -1,7 +1,7 @@
 state=
 {
 	id=947
-	name="Pescara"
+	name="Abruzzo"
 	manpower = 496988
 	
 	state_category = town
