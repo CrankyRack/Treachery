@@ -1,0 +1,15 @@
+characters={
+	UBA_sir_alfred_sharpe={
+		name="Sir Alfred Sharpe "
+		portraits={
+			civilian={
+				large="gfx/leaders/GBR/UBA_sir_alfred_sharpe.dds"
+			}
+		}
+		country_leader={
+			ideology=colonial_government
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

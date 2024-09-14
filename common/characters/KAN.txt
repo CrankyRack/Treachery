@@ -1,0 +1,16 @@
+characters = {
+	KAN_mohammah_ayub_khan = {
+		name="Mohammad Ayub Khan Barakzai"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/KAN/KAN_mohammah_ayub_khan.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

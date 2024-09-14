@@ -6,7 +6,7 @@ set_technology = {
 }
 
 
-#recruit_character = AFG_mohammed_zahir_shah
+recruit_character = KAN_mohammah_ayub_khan
 
 
 

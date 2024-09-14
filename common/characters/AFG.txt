@@ -1,0 +1,16 @@
+characters = {
+	AFG_adarshpal_kharwala = {
+		name="Adarshpal Kharwala"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/AFG/AFG_adarshpal_kharwala.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
