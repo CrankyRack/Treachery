@@ -4956,8 +4956,8 @@
  UBA:0 "Sultanate of Ngbandi"
  UBA_DEF:0 "the Sultanate of Ngbandi"
  UBA_ADJ:0 "Ngbandi"
- UBA_subject:0 "$OVERLORDADJ$ Protectorate of Ubangia"
- UBA_subject_DEF:0 "the $OVERLORDADJ$ Protectorate of Ubangia"
+ UBA_subject:0 "$OVERLORDADJ$ Ubangiland"
+ UBA_subject_DEF:0 "the $OVERLORDADJ$ Protectorate of Ubangiland"
  
  RHE:0 "Free State of the Rhine"
  RHE_DEF:0 "the Free State of the Rhine"

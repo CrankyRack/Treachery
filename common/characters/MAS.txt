@@ -1,0 +1,16 @@
+characters = {
+	MAS_ismail_abdel_neb = {
+		name="Ismail Abdel Neb"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/MAS/MAS_ismail_abdel_neb.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
