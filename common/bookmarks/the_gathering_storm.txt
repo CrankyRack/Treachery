@@ -169,15 +169,13 @@ bookmarks = {
 		"ITA"={
 			minor = yes
 			history = "RAJ_GATHERING_STORM_DESC"
-			ideology = neutrality
+			ideology = monarchist
 			ideas = {
-				RAJ_agrarian_society
-				RAJ_princely_states
+				ITA_french_state
+				ITA_pugno_di_ferro
+				ITA_lombard_industrial_complex
 			}
 			focuses = {
-				RAJ_all_india_forward_bloc
-				RAJ_indian_gurkhas
-				RAJ_the_smiling_buddha
 			}
 		}
 		"CZE"={

@@ -16,6 +16,7 @@ ideas = {
 			}
 
 			modifier = {
+				political_power_cost = 0.2
 				stability_factor = -0.2
 				war_support_factor = -0.1
 				enemy_declare_war_tension = 0.5
@@ -45,6 +46,7 @@ ideas = {
 
 		ITA_pugno_di_ferro = {
 		
+			picture = GFX_idea_HUN_treaty_of_triannon
 
 			allowed = {
 				tag = ITA
