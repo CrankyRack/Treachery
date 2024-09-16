@@ -14,7 +14,7 @@ add_ideas = {
 }
 
 
-#recruit_character = AFA_sultan_mohamed_yayyo_of_aussa
+recruit_character = OMN_salim_bin_rashid_al_kharusi
 
 set_politics = {
 	ruling_party = authoritarian

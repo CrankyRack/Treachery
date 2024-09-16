@@ -325,8 +325,8 @@ YEM = {
 	color_ui = rgb { 202 131 139 }
 }
 OMA = {
-	color = rgb { 98 134 153 }
-	color_ui = rgb { 98 134 153 }
+	color = rgb { 169 17 1 }
+	color_ui = rgb { 169 17 1 }
 }
 SLO = {
 	color = rgb { 158  161  188 }

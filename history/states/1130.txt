@@ -1,26 +1,26 @@
 state={
 	id=1130
-	name="Mokpo"
+	name="Ash Shuwaymiyyah"
 	manpower = 312309
 	
 	state_category = enclave
 	
 	history={
-		owner = MAL
-		add_core_of = KOR
+		owner = KUW
+		add_core_of = OMA
 		victory_points = {
-			11948 3 
+			8002 3 
 		}
 		buildings = {
 			infrastructure = 2
-			11948 = {
-				naval_base = 4
+			8002 = {
+				naval_base = 1
 			}
 		}
 	}
 	
 	provinces={
-		11948 
+		8002 13079
 	}
 
 	local_supplies=0.0 
