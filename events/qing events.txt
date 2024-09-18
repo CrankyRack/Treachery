@@ -2,11 +2,70 @@
 ## Qing Events
 ############################
 
+add_namespace = qingsetupevents
+
+
+country_event = {
+	id = qingsetupevents.1 ##starting event
+	title = qingsetupevents.1.t
+	desc = qingsetupevents.1.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = {
+		name = qingsetupevents.1.a
+		
+	}
+			
+}
+
+country_event = {
+	id = qingsetupevents.2 ##Cixi is sick
+	title = qingsetupevents.2.t
+	desc = qingsetupevents.2.d
+	picture = GFX_report_event_swe_coronation
+	
+	fire_only_once = yes
+	
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	mean_time_to_happen = {
+		
+	}
+
+	immediate = {
+		
+	}
+	
+	option = {
+		name = qingsetupevents.2.a
+		
+	}
+			
+}
+
 add_namespace = colapse_of_qing
 
 
 country_event = {
-	id = colapse_of_qing.1 #a new dynasty? ##starting event
+	id = colapse_of_qing.1 #a new dynasty? ##starting event of collaps, happens after Cixi Dies
 	title = colapse_of_qing.1.t
 	desc = colapse_of_qing.1.d
 	picture = GFX_report_event_swe_coronation

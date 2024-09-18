@@ -22,5 +22,50 @@ CHI_Cixi_dying_category = {
 			
 		}
 	}
+	
+	Cixi_Sickness_Western_Treatments = {
+
+		icon = decision_generic_decision
+
+		allowed = {
+			tag = SPR
+		}
+
+		available = {
+			NOT = {
+				has_country_flag = SPR_inevitable_civil_war_in_progress_flag
+			}
+		}
+
+		cost = 30
+
+		fire_only_once = no
+
+		ai_will_do = {
+			base = 200
+		}
+
+		days_remove = 37
+
+		modifier = {
+			
+		}
+
+		visible = {
+			has_country_flag = Cixi_Sick
+		}
+
+		complete_effect = {
+
+		}
+
+		remove_effect = {
+			add_days_mission_timeout = {
+				mission = Cixi_Sickness
+				days = 103
+			}
+		}
+
+	}
 
 }

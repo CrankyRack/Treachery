@@ -156,7 +156,12 @@
 		}
 
 		available = {
-			
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
 		}
 		
 #		bypass = {
@@ -192,7 +197,12 @@
 		}
 
 		available = {
-			
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
 		}
 		
 #		bypass = {
@@ -228,7 +238,12 @@
 		}
 
 		available = {
-			
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
 		}
 		
 #		bypass = {
@@ -264,7 +279,12 @@
 		}
 
 		available = {
-			
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
 		}
 		
 #		bypass = {
@@ -304,7 +324,12 @@
 		}
 
 		available = {
-			
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
 		}
 		
 #		bypass = {
@@ -341,7 +366,12 @@
 		}
 
 		available = {
-			
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
 		}
 		
 #		bypass = {
@@ -377,7 +407,12 @@
 		}
 
 		available = {
-			
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
 		}
 		
 #		bypass = {
@@ -413,7 +448,12 @@
 		}
 
 		available = {
-			
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
 		}
 		
 #		bypass = {
@@ -485,7 +525,12 @@
 		}
 
 		available = {
-			
+			custom_trigger_tooltip = {
+				tooltip = cixi_dead
+				NOT = {
+					has_country_flag = Cixi_Dead
+				}
+			}
 		}
 		
 #		bypass = {
