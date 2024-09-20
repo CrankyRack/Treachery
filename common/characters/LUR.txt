@@ -1,0 +1,16 @@
+characters = {
+	LUR_nasir_khan_sardar_jang = {
+		name="Nasir Khan Sardar Jang"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/LUR/LUR_nasir_khan_sardar_jang.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

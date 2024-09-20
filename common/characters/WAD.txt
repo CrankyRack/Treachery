@@ -1,0 +1,16 @@
+characters = {
+	WAD_muhammad_salih_bin_yusuf = {
+		name="Muhammad Salih bin Yusuf"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/AFRICA/WAD_muhammad_salih_bin_yusuf.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

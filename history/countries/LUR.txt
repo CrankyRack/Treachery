@@ -14,11 +14,11 @@ add_ideas = {
 }
 
 
-#recruit_character = AFA_sultan_mohamed_yayyo_of_aussa
+recruit_character = LUR_nasir_khan_sardar_jang
 
 set_politics = {
 	ruling_party = authoritarian
-	last_election = "1936.1.1"
+	last_election = "1900.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }

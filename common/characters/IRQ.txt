@@ -1,6 +1,6 @@
 characters = {
 	IRQ_sultan_yusef = {
-		name="Yusef Effendi I al-Suwaidi"
+		name="Mahmud I Shevket "
 		portraits = {
 			civilian = {
 				large="gfx/leaders/IRQ/IRQ_sultan_yusef.dds"

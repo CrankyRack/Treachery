@@ -264,8 +264,8 @@ SAF = {
 	color_ui = rgb { 198 169 248 }
 }
 SAU = {
-	color = rgb { 80 112 48 }
-	color_ui = rgb { 80 112 48 }
+	color = rgb { 66 79 31 }
+	color_ui = rgb { 66 79 31 }
 }
 SIK = {
 	color = rgb { 239 187 55 }
@@ -321,8 +321,8 @@ HAI = {
 	color_ui = rgb { 174 113 113 }
 }
 YEM = {
-	color = rgb { 155 101 107 }
-	color_ui = rgb { 202 131 139 }
+	color = rgb { 193 156 108 }
+	color_ui = rgb { 193 156 108 }
 }
 OMA = {
 	color = rgb { 169 17 1 }
@@ -1416,12 +1416,12 @@ IHS = {
 	color_ui = rgb { 229 59 68 }
 }
 SAD = {
-	color = rgb { 222 187 91 }
-	color_ui = rgb { 229 59 68 }
+	color = rgb { 100 124 38 }
+	color_ui = rgb { 100 124 38 }
 }
 ASI = {
-	color = rgb { 153 116 93 }
-	color_ui = rgb { 229 59 68 }
+	color = rgb { 79 165 226 }
+	color_ui = rgb { 79 165 226 }
 }
 OMN = {
 	color = rgb { 185 151 91 }

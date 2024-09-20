@@ -10,7 +10,7 @@ state=
 	
 	
 	history={
-		owner = SWE
+		owner = PRE
 		victory_points = {
 			6334 5
 		}
@@ -28,7 +28,6 @@ state=
 		}
 		add_core_of = DNZ
 		add_core_of = PRE
-		add_core_of = SWE
 	}
 
 	provinces={
