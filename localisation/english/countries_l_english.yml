@@ -4565,12 +4565,12 @@
  NAJ_DEF:0 "Najran"
  NAJ_ADJ:0 "Najran"
  
- HJZ_monarchist:1 "Emirate of Hejaz"
- HJZ_monarchist_DEF:1 "the PEmirate of Hejaz"
- HJZ_democratic:0 "Emirate of Hejaz"
- HJZ_democratic_DEF:0 "the Emirate of Hejaz"
- HJZ_authoritarian:0 "Emirate of Hejaz"
- HJZ_authoritarian_DEF:0 "the Emirate of Hejaz"
+ HJZ_monarchist:1 "Sharifate of Hejaz"
+ HJZ_monarchist_DEF:1 "the Sharifate of Hejaz"
+ HJZ_democratic:0 "Sharifate of Hejaz"
+ HJZ_democratic_DEF:0 "the Sharifate of Hejaz"
+ HJZ_authoritarian:0 "Sharifate of Hejaz"
+ HJZ_authoritarian_DEF:0 "the Sharifate of Hejaz"
  HJZ_vanguardism:0 "Democratic Republic of Hejaz"
  HJZ_vanguardism_DEF:0 "the Democratic Republic of Hejaz"
  HJZ_monarchist_ADJ:0 " Hejazer"
@@ -4694,9 +4694,9 @@
  GEL_DEF:0 "the Sultanate of Geledi"
  GEL_ADJ:0 "Geledi"
  
- HOB:0 "Sultanate of Hobyo"
- HOB_DEF:0 "the Sultanate of Hobyo"
- HOB_ADJ:0 "Hobyo"
+ HOB:0 "Sultanate of Obbia"
+ HOB_DEF:0 "the Sultanate of Obbia"
+ HOB_ADJ:0 "Obbian"
  
  SOF:0 "Principality of Sofia"
  SOF_DEF:0 "the Principality of Sofia"
@@ -5142,5 +5142,11 @@
  LIC_democratic_ADJ:0 "Liechtensteiner"
  LIC_authoritarian_ADJ:0 "Liechtensteiner"
  LIC_vanguardism_ADJ:0 "Liechtensteiner"
+ 
+ MAJ:0 "Majeerteen Sultanate"
+ MAJ_DEF:0 "the Majeerteen Sultanate"
+ MAJ_ADJ:0 "Majeerteenese"
+ MAJ_monarchist:0 "Majeerteen Sultanate"
+ MAJ_monarchist_DEF:0 "the Majeerteen Sultanate"
 
 

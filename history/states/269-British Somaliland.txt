@@ -13,14 +13,17 @@ state=
 		victory_points = { 
 			5068 1
 		}
-		owner = SOM
+		victory_points = { 
+			7980 2 
+		}
+		owner = MLO
 		add_core_of = SOM
 		buildings = {
 			infrastructure = 1
 		}
 	}
 	provinces={
-		1905 5068 8094 12814
+		1905 5068 7980 8094
 	}
 
 	local_supplies=0.0 

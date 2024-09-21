@@ -13,9 +13,7 @@ state = {
 			# infrastructure = 1
 		}
 		# Gaba
-		victory_points = { 
-			10775 1
-		}
+		
 		victory_points = { 
 			12812 1
 		}
@@ -26,7 +24,7 @@ state = {
 	}
 
 	provinces = {
- 		4995 10775 12714 12757 12812 13248 13253
+ 		4995 12714 12757 12812 13248 13253
  	}
 
 	local_supplies = 0.0 

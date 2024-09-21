@@ -12,18 +12,22 @@ state=
 	
 	
 	history={
-		owner = FRA
+		owner = MAJ
 		victory_points = {
-			1992 3
+			12814 10
 		}
 		buildings = {
 			infrastructure = 2
+			12814 = {
+				naval_base = 1
+			}
 
 		}
 		add_core_of = SOM
+		add_core_of = MAJ
 	}
 	provinces={
-		1966 4909 10818 10891 10921
+		1966 4909 10818 10891 12814
 	}
 	local_supplies=0.0 
 }

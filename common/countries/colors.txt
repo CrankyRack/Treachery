@@ -1054,16 +1054,16 @@ ANA = {
 	color_ui = rgb { 204 206 72 }
 }
 JAB = {
-	color = rgb { 165 91 48 }
-	color_ui = rgb { 165 91 48 }
+	color = rgb { 175 91 35 }
+	color_ui = rgb { 175 91 35 }
 }
 NAJ = {
 	color = rgb { 255 180 136 }
 	color_ui = rgb { 255 120 138 }
 }
 HJZ = {
-	color = rgb { 153 116 93 }
-	color_ui = rgb { 37 140 93 }
+	color = rgb { 98 142 61 }
+	color_ui = rgb { 98 142 61 }
 	
 }
 CHA = {
@@ -1416,8 +1416,8 @@ IHS = {
 	color_ui = rgb { 229 59 68 }
 }
 SAD = {
-	color = rgb { 100 124 38 }
-	color_ui = rgb { 100 124 38 }
+	color = rgb { 145 115 55 }
+	color_ui = rgb { 145 115 55 }
 }
 ASI = {
 	color = rgb { 79 165 226 }
@@ -1518,4 +1518,8 @@ JAZ = {
 PON = {
 	color = rgb { 19 131 196 }
 	color_ui = rgb { 19 131 196 }
+}
+MAJ = {
+	color = rgb { 93 113 180 }
+	color_ui = rgb { 93 113 180 }
 }

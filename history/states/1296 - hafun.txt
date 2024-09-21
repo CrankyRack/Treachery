@@ -1,0 +1,30 @@
+
+state={
+	id=1296
+	name="Hafun"
+	manpower = 42182
+	
+	state_category = enclave
+
+	history={
+		owner = KUW
+		
+		victory_points = {
+			10921 5
+		}
+		buildings = {
+			infrastructure = 1
+			10921 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = MAJ
+		add_core_of = SOM
+	}
+
+	provinces={
+		10921
+	}
+
+	local_supplies=0.0 
+}

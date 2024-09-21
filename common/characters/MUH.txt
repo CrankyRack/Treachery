@@ -1,0 +1,16 @@
+characters = {
+	MUH_mizal_ibn_jabir_al_kaabi = {
+		name="Miz'al ibn Jabir Al Ka'abi"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/MUH/MUH_mizal_ibn_jabir_al_kaabi.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

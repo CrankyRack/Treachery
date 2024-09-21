@@ -10,7 +10,7 @@ state=
 	state_category = rural
 	
 	history={
-		owner = OST
+		owner = HOB
 		add_core_of = SOM
 		add_core_of = HOB
 		victory_points = {
@@ -21,7 +21,7 @@ state=
 		}
 	}
 	provinces = {
-		5065 12840
+		12840
 	}
 
 	local_supplies=0.0 
