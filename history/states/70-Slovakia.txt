@@ -10,7 +10,7 @@ state={
 	}
 
 	history={
-		owner = AUS
+		owner = HUN
 		victory_points = {
 			9692 10
 		}
@@ -23,12 +23,12 @@ state={
 			arms_factory = 1
 		}
 		add_core_of = SLO 
-		add_core_of = AUS
+		add_core_of = HUN
 
 	}
 
 	provinces={
-		3484 3537 11522 11539 
+		3484 3537 9551 11522 11539 
 	}
 
 	local_supplies=3.0 

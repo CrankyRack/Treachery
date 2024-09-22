@@ -7,22 +7,20 @@ state = {
 	state_category = city
 
 	history = {
-		owner = AUS
+		owner = HUN
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 3
 			arms_factory = 1
-			air_base = 2
 		}
 		victory_points = {
 			11659 1 
 		}
 		add_core_of = HUN
-		add_core_of = AUS
 	}
 
 	provinces={
-		679 699 730 3730 6735 9656 11644 11646 11659 
+		679 699 713 730 3696 3730 6735 9656 11644 11646 11659 
 	}
 
 	local_supplies=12.0 

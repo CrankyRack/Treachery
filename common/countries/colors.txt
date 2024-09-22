@@ -148,8 +148,8 @@ IRE = {
 	color_ui = rgb { 99 189 82 }
 }
 HUN = {
-	color = rgb { 175 95 77 }
-	color_ui = rgb { 175 95 77 }
+	color = rgb { 220 210 220 } #{ 175 95 77 }
+	color_ui = rgb { 220 210 220 }
 }
 AFG = {
 	color = rgb { 224 132 11 }
@@ -1196,8 +1196,8 @@ GEL = {
 	color_ui = rgb { 247 133 39 }
 }
 HOB = {
-	color = rgb { 106 100 95 }
-	color_ui = rgb { 106 100 95 }
+	color = rgb { 190 12 12 }
+	color_ui = rgb { 190 12 12 }
 }
 MLO = {
 	color = rgb { 107 147 206 }
@@ -1520,6 +1520,6 @@ PON = {
 	color_ui = rgb { 19 131 196 }
 }
 MAJ = {
-	color = rgb { 93 113 180 }
-	color_ui = rgb { 93 113 180 }
+	color = rgb { 149 45 102 }
+	color_ui = rgb { 149 45 102 }
 }

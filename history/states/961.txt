@@ -1,25 +1,23 @@
 state=
 {
 	id=961
-	name="Northern Dobrudja"
-	manpower = 746988
+	name="Bátyú"
+	manpower = 46988
 	
-	state_category = town
+	state_category = rural
 	
 	history=
 	{
-		owner = AUS
-		victory_points = { 657 3 }
+		owner = HUN
+		victory_points = { 11691 3 }
 		add_core_of = HUN
-		add_core_of = CRO
-		add_core_of = AUS
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1		
 		}
 	}
 	provinces={
-		3627 6647 11577 11580 11594 
+		9706 11691
 	}
 
 	local_supplies=0.0 

@@ -1,0 +1,15 @@
+characters = {
+	HUN_franz_joseph_II={
+		name="Franz Joseph I"
+		portraits={
+			civilian={
+				large="gfx/leaders/AUS/HUN_franz_joseph_II.dds"
+			}
+		}
+		country_leader={
+			ideology=despotism
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

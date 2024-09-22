@@ -2,23 +2,22 @@ state=
 {
 	id=959
 	name="Szeged"
-	manpower = 216988
+	manpower = 116988
 	
 	state_category = rural
 	
 	history=
 	{
-		owner = AUS
+		owner = HUN
 		victory_points = { 6700 5 }
 		add_core_of = HUN
-		add_core_of = AUS
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1
 		}
 	}
 	provinces={
-		6670 6700 11625
+		646 3623 6670 6700 9621 11625
 	}
 
 	local_supplies=0.0 
