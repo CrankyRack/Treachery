@@ -1,7 +1,7 @@
 state={
 	id=1128
 	name="Yangjiang"
-	manpower = 6157805
+	manpower = 157805
 	
 	state_category = enclave
 	

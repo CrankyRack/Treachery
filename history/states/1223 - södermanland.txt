@@ -2,7 +2,7 @@ state=
 {
 	id=1223
 	name="Södermanland"
-	manpower = 534288
+	manpower = 734288
 	
 	state_category = town
 	
