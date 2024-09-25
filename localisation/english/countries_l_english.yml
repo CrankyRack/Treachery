@@ -293,6 +293,7 @@
  ITA_ADJ:0 "Italian"
  ITA_subject:0 "$OVERLORDADJ$ $ITA$"
  ITA_subject_DEF:0 "$OVERLORDADJ$ $ITA$"
+
  ROM_monarchist:0 "Legionary Wallachia"
  ROM_monarchist_DEF:0 "Legionary Wallachia"
  ROM_democratic:0 "Wallachia"

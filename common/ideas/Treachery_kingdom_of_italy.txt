@@ -1,8 +1,8 @@
 ideas = {
 
 	country = {
-
-		ITA_french_state = {
+		
+		italian_royalist_league = {
 
 			picture = ITA_french_state
 
@@ -32,19 +32,19 @@ ideas = {
 				# Through Italianization process
 				remove_opinion_modifier = {
 					target = FRA
-					modifier = family_ties
+					modifier = historical_friendship
 				}
 				FRA = {
 					remove_opinion_modifier = {
 						target = ROOT
-						modifier = family_ties
+						modifier = historical_friendship
 					}
 				}
 			}
 
 		}
 
-		ITA_pugno_di_ferro = {
+		ITA_royal_decree_no_26 = {
 		
 			picture = GFX_idea_HUN_treaty_of_triannon
 
@@ -60,6 +60,23 @@ ideas = {
 			on_remove = {
 				# Only removable in the focus tree 
 				# Add a timed idea that adds party popularity to all major parties
+			}
+		}
+
+		ITA_augusto_messed_up = {
+
+			allowed = {
+				tag = ITA
+			}
+
+			modifier = {
+				stability_factor = -0.15
+				offensive_war_stability_factor = -0.2
+				party_popularity_stability_factor = 0.1
+			}
+
+			on_add = {
+				add_political_power = -50
 			}
 		}
 

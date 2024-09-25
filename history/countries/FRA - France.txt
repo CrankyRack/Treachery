@@ -80,7 +80,6 @@ give_guarantee = NSV
 give_guarantee = ITA
 
 create_faction = "Treaty of Paris"
-Add_to_faction = PAP
 Add_to_faction = TTS
 
 set_stability = 0.5
@@ -213,9 +212,10 @@ add_ideas = {
 	FRA_oversized_empire
 	FRA_the_boulanger_policy
 }
+
 add_opinion_modifier = {
 	target = ITA
-	modifier = family_ties
+	modifier = historical_friendship
 }
 
 recruit_character = FRA_napoleon_four

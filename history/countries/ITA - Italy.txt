@@ -9,14 +9,15 @@ add_ideas = {
 	limited_exports
 	volunteer_only
 	low_economic_mobilisation
-	ITA_french_state
-	ITA_pugno_di_ferro
+	# royal alliance idea here
+	ITA_royal_decree_no_26
+	ITA_augusto_messed_up
 	ITA_lombard_industrial_complex
 }
 
 add_opinion_modifier = {
 	target = FRA
-	modifier = family_ties
+	modifier = historical_friendship
 }
 
 add_dynamic_modifier = {

@@ -1,7 +1,6 @@
 opinion_modifiers = {
 
-	# France and Italy opinion modifier because they are buddies
-	family_ties = {
-		value = 35
+	historical_friendship = {
+		value = 45
 	}
 }
