@@ -1523,3 +1523,7 @@ MAJ = {
 	color = rgb { 149 45 102 }
 	color_ui = rgb { 149 45 102 }
 }
+ZAN = {
+	color = rgb { 139 0 0 }
+	color_ui = rgb { 139 0 0 }
+}

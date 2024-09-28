@@ -11,6 +11,7 @@ set_technology = {
 set_research_slots = 2
 set_stability = 0.7
 
+recruit_character = LIC_johann_ii
 
 set_politics = {
 	ruling_party = authoritarian
@@ -20,9 +21,8 @@ set_politics = {
 
 }
 set_popularities = {
-	democratic = 30
-	monarchist = 10
-	vanguardism = 60
+	monarchist = 15
+	authoritarian = 85
 }
 
 add_ideas = {

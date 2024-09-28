@@ -1,4 +1,4 @@
-﻿capital = 905
+﻿capital = 546
 
 set_cosmetic_tag = DAH_HOL
 

@@ -1,0 +1,26 @@
+
+state={
+	id=1299
+	name="Mohawk Valley"
+	manpower = 2129124
+	
+	state_category = rural
+
+	history={
+		owner = USA
+		
+		victory_points = {
+			2020 4
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = USA
+	}
+
+	provinces={
+		706 1436 3894 6717 9673 9693 9708 9721 9774 11650 11660 11680 11722
+	}
+
+	local_supplies=0.0 
+}

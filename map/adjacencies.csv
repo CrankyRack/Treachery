@@ -72,6 +72,9 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 10124;11932;sea;8318;-1;-1;-1;-1;;Okinawa 1
 1123;7115;sea;8318;-1;-1;-1;-1;;Okinawa 2
 7115;4198;sea;8318;-1;-1;-1;-1;;Okinawa 3
+2196;13311;sea;5394;-1;-1;-1;-1;;zanzibar 1
+13311;13312;sea;5394;-1;-1;-1;-1;;zanzibar 2
+2196;13313;sea;5394;-1;-1;-1;-1;;zanzibar 3
 3995;13024;sea;2855;-1;-1;-1;-1;;Saipan-Tinian
 1135;13090;sea;6471;-1;-1;-1;-1;;Amlia-Unalaska
 13090;10694;sea;6064;-1;-1;-1;-1;;Unalaska-Unimak
