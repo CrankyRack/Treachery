@@ -12,61 +12,36 @@ characters={
 			id=-1
 		}
 	}
-	SWE_sven_olov_lindholm={
-		name=SWE_sven_olov_lindholm
-		portraits={
-			civilian={
-				large=GFX_portrait_SWE_sven_olov_lindholm
-			}
-		}
-		country_leader={
-			ideology=socialism
-			expire="1965.1.1.1"
-			id=-1
-		}
-	}
-	SWE_sven_linderot={
-		name=SWE_sven_linderot
-		portraits={
-			civilian={
-				large=GFX_portrait_SWE_sven_linderot
-			}
-		}
-		country_leader={
-			ideology=marxism
-			expire="1965.1.1.1"
-			id=-1
-		}
-	}
-	SWE_axel_pehrssonbramstorp={
-		name=SWE_axel_pehrssonbramstorp
-		portraits={
-			civilian={
-				large=GFX_portrait_SWE_axel_pehrssonbramstorp
-			}
-		}
-		country_leader={
-			ideology=centrism
-			expire="1965.1.1.1"
-			id=-1
-		}
-	}
-	SWE_folke_hogberg={
-		name=SWE_folke_hogberg
+	SWE_erik_oxenstierna={
+		name="Erik Oxenstierna"
 		portraits={
 			army={
-				large=GFX_portrait_SWE_folke_hogberg
-				small=GFX_portrait_SWE_folke_hogberg_small
+				large="gfx/leaders/SWE/SWE_erik_oxenstierna.dds"
+				small="gfx/leaders/SWE/SWE_erik_oxenstierna_small.dds"
 			}
 		}
 		corps_commander={
-			traits={ commando }
+			traits={ hill_fighter }
 			skill=3
 			attack_skill=1
 			defense_skill=3
 			planning_skill=3
 			logistics_skill=3
 			legacy_id=0
+		}
+		advisor={
+			slot = army_chief
+			idea_token = SWE_per_sylvan
+			allowed = {
+					original_tag = SWE
+				}
+				traits = {
+					army_chief_defensive_1
+				}
+				cost =  50
+				ai_will_do = {
+					factor = 1.000
+				}
 		}
 	}
 	SWE_erik_af_edholm={
@@ -103,28 +78,6 @@ characters={
 			maneuvering_skill=3
 			coordination_skill=3
 			legacy_id=0
-		}
-	}
-	SWE_per_sylvan={
-		advisor={
-			slot = army_chief
-			idea_token = SWE_per_sylvan
-			allowed = {
-					original_tag = SWE
-				}
-				traits = {
-					army_chief_defensive_1
-				}
-				cost =  50
-				ai_will_do = {
-					factor = 1.000
-				}
-		}
-		name=SWE_per_sylvan
-		portraits={
-			army={
-				small="GFX_idea_generic_army_europe_6"
-			}
 		}
 	}
 	SWE_gosta_ehrensvard={
