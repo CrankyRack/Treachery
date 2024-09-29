@@ -1400,8 +1400,8 @@ LAA = {
 	color_ui = rgb { 229 59 68 }
 }
 BNG = {
-	color = rgb { 31  85  198 }
-	color_ui = rgb { 31  85  198 }
+	color = rgb { 229 59 68 }
+	color_ui = rgb { 229 59 68 }
 }
 GBY = {
 	color = rgb { 127 75 87 }

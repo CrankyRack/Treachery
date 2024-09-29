@@ -1,0 +1,16 @@
+characters = {
+	GBY_kambuji_muntu = {
+		name="Kambuji Muntu"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/AFRICA/GBY_kambuji_muntu.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

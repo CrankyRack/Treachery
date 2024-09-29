@@ -1,0 +1,16 @@
+characters = {
+	BNG_tshilombo_al_asad = {
+		name="Tshilombo al'Asad"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/AFRICA/BNG_tshilombo_al_asad.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
