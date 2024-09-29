@@ -1,6 +1,7 @@
 on_actions = {
 	on_startup = {
 		effect = {
+
 			USA = {
 				add_liberalism_to_coalition = yes
 			}

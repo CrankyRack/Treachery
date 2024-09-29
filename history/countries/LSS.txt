@@ -2,6 +2,9 @@
 
 recruit_character = LSS_princess_maria
 
+set_country_flag = CT_French_Army_Presence_flag
+set_country_flag = Bologna_Accords
+
 set_research_slots = 3
 set_stability = 0.75
 set_war_support = 0
@@ -16,7 +19,6 @@ add_dynamic_modifier = {
 	modifier = French_Army_Italy_Dynamic_Modifier
 }
 
-set_country_flag = CT_French_Army_Presence_flag
 
 set_variable = {
 	var = LSS.CT_French_Army_variable

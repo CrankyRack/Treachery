@@ -2,44 +2,28 @@ ideas = {
 
 	country = {
 		
-		italian_royalist_league = {
+		bologna_accords = {
 
 			picture = ITA_french_state
 
-			allowed = {
-				tag = ITA
+			allowed = { 
+				has_country_flag = Bologna_Accords
 			}
 
 			cancel = {
-				has_war_with = FRA
-				NOT = { has_government = royalism }
+				
 			}
 
 			modifier = {
-				political_power_cost = 0.2
-				stability_factor = -0.2
-				war_support_factor = -0.1
-				enemy_declare_war_tension = 0.5
-				surrender_limit = 0.25
-			}
-
-			targeted_modifier = {
-				tag = FRA
-				cic_to_target_factor = 0.15
+				political_power_cost = 0.15
+				war_support_factor = 0.15
+				defensive_war_stability_factor = 0.3
+				surrender_limit = 0.2
+				hidden_modifier = { ai_focus_defense_factor = 0.25 }
 			}
 
 			on_remove = {
-				# Through Italianization process
-				remove_opinion_modifier = {
-					target = FRA
-					modifier = historical_friendship
-				}
-				FRA = {
-					remove_opinion_modifier = {
-						target = ROOT
-						modifier = historical_friendship
-					}
-				}
+				clr_country_flag = Bologna_Accords
 			}
 
 		}
@@ -70,9 +54,9 @@ ideas = {
 			}
 
 			modifier = {
-				stability_factor = -0.15
-				offensive_war_stability_factor = -0.2
-				party_popularity_stability_factor = 0.1
+				stability_factor = -0.2
+				stability_weekly_factor = -0.25
+				offensive_war_stability_factor = -0.25
 			}
 
 			on_add = {

@@ -1,6 +1,10 @@
 opinion_modifiers = {
 
 	historical_friendship = {
-		value = 45
+		value = 30
+	}
+
+	bologna_accords = {
+		value = 25
 	}
 }

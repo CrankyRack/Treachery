@@ -2,17 +2,18 @@
 
 recruit_character = PAP_charles_louis_bonaparte
 
+set_country_flag = CT_French_Army_Presence_flag
+set_country_flag = Bologna_Accords
+
 set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.5
-add_ideas = {
-}
+
 
 add_dynamic_modifier = {
 	modifier = French_Army_Italy_Dynamic_Modifier
 }
 
-set_country_flag = CT_French_Army_Presence_flag
 
 set_variable = {
 	var = TTS.CT_French_Army_variable

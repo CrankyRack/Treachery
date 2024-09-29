@@ -72,12 +72,9 @@ set_autonomy = {
 
 
 give_guarantee = LAN
-give_guarantee = TOS
 give_guarantee = HAN
-give_guarantee = LSS
 give_guarantee = MAC
 give_guarantee = NSV
-give_guarantee = ITA
 
 create_faction = "Treaty of Paris"
 Add_to_faction = TTS

@@ -5,11 +5,14 @@ set_research_slots = 3
 set_stability = 0.5
 set_war_support = 0.25
 
+set_country_flag = CT_French_Army_Presence_flag
+set_country_flag = Bologna_Accords
+
 add_ideas = {
 	limited_exports
 	volunteer_only
 	low_economic_mobilisation
-	# royal alliance idea here
+	
 	ITA_royal_decree_no_26
 	ITA_augusto_messed_up
 	ITA_lombard_industrial_complex
@@ -23,8 +26,6 @@ add_opinion_modifier = {
 add_dynamic_modifier = {
 	modifier = French_Army_Italy_Dynamic_Modifier
 }
-
-set_country_flag = CT_French_Army_Presence_flag
 
 set_variable = {
 	var = ITA.CT_French_Army_variable

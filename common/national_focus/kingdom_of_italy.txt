@@ -1,0 +1,33 @@
+focus_tree = {
+	id = ITA_focus
+	country = { 
+		base = 0
+
+		modifier = {
+			tag = ITA
+			add = 50
+		}
+	}
+
+	default = no
+	continuous_focus_position = {
+		x = 1200
+		y = 10
+	}
+
+	focus = {
+		id = ITA_renew_the_bologna_accords
+		# icon =
+		cost = 5
+		x = 5
+		y = 1
+
+		available = {
+			has_government = royalism
+		}
+
+		completion_reward = {
+			renew_bologna_accords = yes
+		}
+	}
+}
