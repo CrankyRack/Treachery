@@ -15,7 +15,7 @@ state=
 	{
 		owner = KUW
 		victory_points = {
-			12248 2 
+			2029 2 
 		}
 		add_core_of = KUW
 		add_core_of = YEM

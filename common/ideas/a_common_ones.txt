@@ -916,7 +916,21 @@ ideas = {
 			 stability_factor = 0.3
 			 consumer_goods_factor = 0.25
 			}
-	    }   
+	    }
+		DAH_the_heart_of_darkness = {
+
+			picture = DAH_the_heart_of_darkness
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 attrition = 0.1
+			}
+		}
     }
 }
 

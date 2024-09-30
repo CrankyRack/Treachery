@@ -283,4 +283,8 @@ spriteTypes = {
 		name = "GFX_idea_ITA_french_state"
 		texturefile = "gfx/interface/ideas/ITA_french_state.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_DAH_the_heart_of_darkness"
+		texturefile = "gfx/interface/ideas/DAH_the_heart_of_darkness.dds"
+	}
 }
