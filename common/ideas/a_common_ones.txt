@@ -931,6 +931,66 @@ ideas = {
 			 attrition = 0.1
 			}
 		}
+		ZAN_westphalian_protectorate= {
+
+			picture = ZAN_westphalian_protectorate
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 stability_factor = -0.2
+
+			}
+			 targeted_modifier = {
+				tag = HAN
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+				extra_trade_to_target_factor = 0.1
+			}
+		}
+		ZAN_trade_empire_legacy = {
+			
+			picture = ZAN_trade_empire_legacy
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			consumer_goods_factor = -0.2
+			trade_opinion_factor = 0.1
+			naval_coordination = -0.07
+			experience_gain_navy_factor = -0.3
+			}
+		}
+		IRQ_scars_of_1891 = {
+			
+			picture = IRQ_scars_of_1891
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = -0.16
+			}
+		}
     }
 }
 

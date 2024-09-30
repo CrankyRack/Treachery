@@ -287,4 +287,16 @@ spriteTypes = {
 		name = "GFX_idea_DAH_the_heart_of_darkness"
 		texturefile = "gfx/interface/ideas/DAH_the_heart_of_darkness.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_ZAN_westphalian_protectorate"
+		texturefile = "gfx/interface/ideas/ZAN_westphalian_protectorate.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_ZAN_trade_empire_legacy"
+		texturefile = "gfx/interface/ideas/ZAN_trade_empire_legacy.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_IRQ_scars_of_1891"
+		texturefile = "gfx/interface/ideas/IRQ_scars_of_1891.dds"
+	}
 }

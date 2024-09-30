@@ -2,15 +2,24 @@
 
 #OOB = "AFA_1936"
 
+OST = {
+set_autonomy = {
+		target = ZAN
+		autonomous_state = autonomy_german_prince_1
+	}
+}
+
+
 # Starting tech
 set_technology = {
 	infantry_weapons = 1
 }
 
-add_manpower = 15000
+add_manpower = 12000
 
 add_ideas = {
-	#
+	ZAN_westphalian_protectorate
+	ZAN_trade_empire_legacy
 }
 
 
