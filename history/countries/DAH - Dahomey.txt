@@ -11,11 +11,13 @@ set_convoys = 100
 
 recruit_character = DAH_henry_bell
 
-
+add_ideas = {
+	DAH_the_heart_of_darkness
+}
 
 set_politics = {
 	ruling_party = authoritarian
-	last_election = "1936.1.1"
+	last_election = "1900.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
