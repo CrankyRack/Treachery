@@ -18,16 +18,37 @@ focus_tree = {
 	focus = {
 		id = ITA_renew_the_bologna_accords
 		# icon =
-		cost = 5
-		x = 5
+		cost = 1
+		x = 3
 		y = 1
 
 		available = {
-			has_government = royalism
+			
+		}
+
+		complete_tooltip = {
+			
+		}
+
+		mutually_exclusive = {
+			focus = ITA_abandon_the_bologna_accords
 		}
 
 		completion_reward = {
 			renew_bologna_accords = yes
 		}
+	}
+	focus = {
+		id = ITA_abandon_the_bologna_accords
+		# icon = GFX_portrait_ANS_guillaume_IV
+		cost = 1
+		x = 5
+		y = 1
+
+		mutually_exclusive = {
+			focus = ITA_renew_the_bologna_accords
+		}
+
+		completion_reward = { remove_ideas = bologna_accords }
 	}
 }

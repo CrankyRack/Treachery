@@ -3,28 +3,30 @@ renew_bologna_accords = {
         limit = {
             has_country_flag = Bologna_Accords
         }
-            
-        every_country = {
-            limit = { has_country_flag = Bologna_Accords }
 
-            give_guarantee = PREV
+        every_country = {
+            limit = {
+                has_country_flag = Bologna_Accords
+            }
+    
+            give_guarantee = ITA
+            ITA = { give_guarantee = PREV }
 
             add_opinion_modifier = {
                 target = PREV
                 modifier = bologna_accords
             }
-
         }
 
-        add_ideas = bologna_accords
+        add_ideas = { bologna_accords }
     }
-
+    
     945 = {
         remove_core_of = TOS
     }
     1084 = {
         remove_core_of = TOS
-    }
+    } 
 }
 
 # abandon_the_bologna_accords
