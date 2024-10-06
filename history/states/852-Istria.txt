@@ -1,15 +1,15 @@
 
 state = {
 	id = 852
-	name = "STATE_852" # Dalmatia #TODO_Manu: VP name (Fiume) should change to Rijeka under YUG control. Maybe state name too (State name changed from Carniola to Istria after merging with Pola (Istria))
-	manpower = 125850 # Fiume had 75000 before merging rest of Istria # Dalmatia had 1431700 before Fiume split
+	name = "STATE_852" 
+	manpower = 325850 
 
 	state_category = town 
 
 
 	history = {
 		owner = CRO
-		victory_points = { #Fiume (Rijeka)
+		victory_points = { 
 			11564 1 
 		}
 		buildings = {
@@ -21,9 +21,6 @@ state = {
 		}
 		add_core_of = SLV
 		add_core_of = CRO
-
-		#CONTROLLED BY ITALY AT GAME START -> ITALIAN NAMES
-		set_province_name = { id = 11564 name = VICTORY_POINTS_11564_ITA }
 	}
 
 	provinces = {

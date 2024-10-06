@@ -1,9 +1,9 @@
 state=
 {
 	id=1025
-	name="Lienz"
+	name="Carinthie"
 
-	manpower = 111788
+	manpower = 191788
 
 	
 	state_category = rural
