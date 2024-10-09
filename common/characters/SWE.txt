@@ -1,6 +1,6 @@
 characters={
 	SWE_per_albin_hansson={
-		name="Karl XIV Gustaf"
+		name="Karl XIV Gustaf Adlersparre"
 		portraits={
 			civilian={
 				large=GFX_portrait_SWE_per_albin_hansson

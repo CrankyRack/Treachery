@@ -17,7 +17,7 @@ add_ideas = {
 
 set_convoys = 0
 
-#recruit_character = AFA_sultan_mohamed_yayyo_of_aussa
+recruit_character = REW_gulab_singh_deo
 
 set_politics = {
 	ruling_party = authoritarian
@@ -26,8 +26,5 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 0
-	monarchist = 20
-	vanguardism = 5
-	authoritarian = 75
+	authoritarian = 100
 }

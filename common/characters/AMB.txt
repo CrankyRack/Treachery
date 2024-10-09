@@ -1,0 +1,16 @@
+characters = {
+	AMB_madho_singh_2 = {
+		name="Madho Singh II"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/INDIA/AMB_madho_singh_2.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

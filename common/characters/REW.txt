@@ -1,0 +1,16 @@
+characters = {
+	REW_gulab_singh_deo = {
+		name="Gulab Singh Deo Bahadur"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/INDIA/REW_gulab_singh_deo.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}

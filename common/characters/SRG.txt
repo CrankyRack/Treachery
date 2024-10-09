@@ -1,0 +1,16 @@
+characters = {
+	SRG_raghunath_saran_singh_deo = {
+		name="Raghunath Saran Singh Deo"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/INDIA/SRG_raghunath_saran_singh_deo.dds"
+			}
+		}
+		country_leader = {
+			ideology=despotism
+			traits = { # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+}
