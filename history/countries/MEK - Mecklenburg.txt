@@ -9,23 +9,30 @@ set_technology = {
 recruit_character = MEK_axel_reedtz_thott
 
 set_research_slots = 3
-set_convoys = 50
-set_stability = 0.75
+set_convoys = 24
+set_stability = 0.47
 
 set_politics = {
 	ruling_party = authoritarian
-	last_election = "1936.1.1"
+	last_election = "1906.1.1"
 	election_frequency = 48
-	elections_allowed = yes
+	elections_allowed = no
 
 }
 set_popularities = {
-	democratic = 30
-	monarchist = 10
-	vanguardism = 60
+	democratic = 10.5
+	liberalism = 18.5
+	authoritarian = 11
+	patrimonialism = 14.33
+	monarchist = 21.67
+	vanguardism = 9
+	democratic_socialism = 15
 }
 
+
 add_ideas = {
+    MEK_the_union_with_denmark
+	MEK_the_nikloting_circle
 }
 
 

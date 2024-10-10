@@ -1,6 +1,6 @@
 characters={
 	DEN_thorvald_stauning={
-		name="Frederick VIII"
+		name="Frederick VIII Glücksburg"
 		portraits={
 			civilian={
 				large=GFX_portrait_Thorvald_Stauning
@@ -8,7 +8,7 @@ characters={
 		}
 		country_leader={
 			traits={ controversial_king }
-			ideology=conservatism
+			ideology=despotism
 			expire="1965.1.1.1"
 			id=-1
 		}

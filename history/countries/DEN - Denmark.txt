@@ -20,7 +20,10 @@ set_autonomy = {
 		target = DEI
 		autonomous_state = autonomy_colony
 }
-
+set_autonomy = {
+		target = MEK
+		autonomous_state = autonomy_personal_union
+}
 
 recruit_character = DEN_thorvald_stauning
 recruit_character = DEN_frits_clausen
@@ -85,26 +88,22 @@ if = {
 
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1935.10.22"
+	ruling_party = authoritarian
+	last_election = "1905.10.22"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 97
-	monarchist = 1
-	vanguardism = 2
+	democratic = 13.4
+	liberalism = 12.6
+	authoritarian = 34
+	vanguardism = 3
+	democratic_socialism = 4
+	monarchist = 19
+	patrimonialism = 14
 }
 
 
-1939.1.1 = {
-	set_politics = {
-		ruling_party = democratic
-		last_election = "1939.4.3"
-		election_frequency = 48
-		elections_allowed = yes
-	}
-}
 
 set_convoys = 40
 

@@ -299,4 +299,20 @@ spriteTypes = {
 		name = "GFX_idea_IRQ_scars_of_1891"
 		texturefile = "gfx/interface/ideas/IRQ_scars_of_1891.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_SPM_spettatore_codardo"
+		texturefile = "gfx/interface/ideas/SPM_spettatore_codardo.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_SPM_pellouxs_regime"
+		texturefile = "gfx/interface/ideas/SPM_pellouxs_regime.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_SPM_via_mediterranea"
+		texturefile = "gfx/interface/ideas/SPM_via_mediterranea.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_MEK_the_nikloting_circle"
+		texturefile = "gfx/interface/ideas/MEK_the_nikloting_circle.dds"
+	}
 }

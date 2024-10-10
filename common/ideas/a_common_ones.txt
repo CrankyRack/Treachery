@@ -991,6 +991,109 @@ ideas = {
 			stability_factor = -0.16
 			}
 		}
+		SPM_spettatore_codardo = {
+			
+			picture = SPM_spettatore_codardo
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = -0.16
+			}
+		}
+		SPM_pellouxs_regime = {
+			
+			picture = SPM_pellouxs_regime
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = -0.16
+			}
+		}
+		SPM_via_mediterranea = {
+			
+			picture = SPM_via_mediterranea
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = -0.16
+			}
+		}
+		MEK_the_union_with_denmark = {
+			
+			picture = DEN_union_with_brandenburg
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			stability_factor = -0.2
+			consumer_goods_factor = -0.05
+			production_speed_buildings_factor = 0.1
+			}
+			targeted_modifier = {
+				tag = DEN
+				trade_cost_for_target_factor = -0.1
+				cic_to_target_factor = 0.1
+				extra_trade_to_target_factor = 0.1
+			}
+		}
+		MEK_the_nikloting_circle = {
+
+			picture = MEK_the_nikloting_circle
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 consumer_goods_factor = 0.3
+			 stability_weekly_factor = -0.0015
+			 monarchist_drift = 0.01
+			 army_infantry_attack_factor = -0.15
+			 army_org_factor = -0.1
+			 
+			}
+			targeted_modifier = {
+             tag = DEN    # this can also take a variable that stores a scope
+             attack_bonus_against = 0.2
+            }
+		}
     }
 }
 
