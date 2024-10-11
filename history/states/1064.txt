@@ -3,7 +3,7 @@ state=
 	id=1064
 	name="North Jutland"
 
-	manpower = 171732
+	manpower = 271732
 	resources={
 		#steel=3 # was: 18
 	}
@@ -20,6 +20,13 @@ state=
 			id = 394
 			name = "Fredrikshamn"
 		}
+		victory_points = {
+			6235 3 
+		}
+		set_province_name = {
+			id = 6235
+			name = "Aalborg"
+		}
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -32,7 +39,7 @@ state=
 	}
 
 	provinces={
-		316 394
+		316 394 3206 6235 13335 13336 13337
 	}
 	local_supplies=0.0 
 }

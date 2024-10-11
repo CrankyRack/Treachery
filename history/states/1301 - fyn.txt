@@ -1,0 +1,28 @@
+state={
+	id=1301
+	name="Fyn"
+	manpower = 612182
+	
+	state_category = town
+
+	history={
+		owner = DEN
+		
+		victory_points = {
+			3325 5
+		}
+		buildings = {
+			infrastructure = 3
+			3325 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = DEN
+	}
+
+	provinces={
+		3325 3374 13324 13325 13326
+	}
+
+	local_supplies=0.0 
+}

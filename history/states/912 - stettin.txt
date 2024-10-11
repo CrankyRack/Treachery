@@ -23,7 +23,7 @@ state=
 		}
 	}
 	provinces={
-		349 6282
+		349 6282 13278
 	}
 
 	local_supplies=0.0 

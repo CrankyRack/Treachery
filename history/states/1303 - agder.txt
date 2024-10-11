@@ -1,0 +1,29 @@
+state = {
+	id = 1303
+	name = "Agder"
+
+	history = {
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			9296 = {
+				naval_base = 3
+				coastal_bunker = 1
+			}
+		}
+		victory_points = {
+			9296 2 
+		}
+		owner = DEN
+		add_core_of = NOR
+		add_core_of = DEN
+	}
+
+	provinces = {
+		100 3049 3094 3129 6072 6151 6184 9036 9096 9174 9196 9296 11101 11029 11176 11198 11367 
+	}
+	manpower = 242000
+	buildings_max_level_factor = 1.000
+	state_category = town
+	local_supplies = 0.000
+}

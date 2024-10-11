@@ -1,0 +1,41 @@
+
+state={
+	id=1304
+	name="Finnmark"
+	manpower = 55251
+	
+	state_category = rural
+	
+	resources={
+		steel=9 # was: 12
+		tungsten = 15 # was: 20
+	}
+
+	history={
+		owner = DEN
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			192 = {
+				naval_base = 3
+			}
+			11050 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			192 1
+		}
+		victory_points = {
+			11050 1
+		}
+		add_core_of = NOR
+		add_core_of = DEN
+	}
+
+	provinces={
+		22 64 76 128 2995 3016 3040 6015 6092 9042 9064 9089 9128 9191 11077 11104 11034 11063 11169 
+	}
+
+	local_supplies=0.0 
+}

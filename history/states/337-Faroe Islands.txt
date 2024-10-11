@@ -16,6 +16,7 @@ state=
 			}
 		}
 		add_core_of = DEN
+		add_claim_by = NOR
 	}
 	provinces= { 13003 }
 

@@ -14,11 +14,11 @@ state=
 	history={
 		owner = DEN
 		victory_points = {
-			11366 3
+			11366 12
 		}
 			set_province_name = {
 			id = 11366
-			name = "Flensburg"
+			name = "Flensborg"
 		}
 		buildings = {
 			infrastructure = 4
@@ -30,7 +30,7 @@ state=
 	}
 
 	provinces={
-		317 11366
+		317 11366 13338 13339 
 	}
 	local_supplies=0.0 
 }

@@ -10,7 +10,6 @@ state={
 		owner = SOV
 		buildings = {
 			infrastructure = 3 #was: 5
-			air_base = 3
 		}
 		add_claim_by = SWE
 		add_core_of = SOV
@@ -20,7 +19,7 @@ state={
 	}
 
 	provinces={
-		104 126 181 3120 6197 9097 9120 9408 11032 11080 11186 
+		104 126 181 9097 11080 11186 
 	}
 
 	local_supplies=0.0 

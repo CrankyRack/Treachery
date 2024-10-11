@@ -10,10 +10,9 @@ state=
 	{
 		owner = SOV
 		victory_points = {
-			11465 5 
+			6282 5 
 		}
 		add_core_of = LAT
-		add_claim_by LIT
 		buildings = {
 			infrastructure = 3 #was: 6
 			industrial_complex = 1

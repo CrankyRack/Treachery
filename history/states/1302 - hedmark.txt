@@ -1,0 +1,25 @@
+state = {
+	id = 1302
+	name = "Hedmark"
+
+	history = {
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+		}
+		victory_points = {
+			3021 2 
+		}
+		owner = DEN
+		add_core_of = NOR
+		add_core_of = DEN
+	}
+
+	provinces = {
+		10 111 133 179 3021 3105 3136 6042 6160 9227 11113 11206
+	}
+	manpower = 413052
+	buildings_max_level_factor = 1.000
+	state_category = town
+	local_supplies = 0.000
+}
