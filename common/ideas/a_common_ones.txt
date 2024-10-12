@@ -1094,6 +1094,46 @@ ideas = {
              attack_bonus_against = 0.2
             }
 		}
+		EST_vana_hea_rootsi_aeg = {
+
+			picture = EST_vana_hea_rootsi_aeg
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 war_support_factor = 0.12
+			 stability_weekly_factor = 0.001
+			 political_power_factor = 0.1
+			 
+			}
+			targeted_modifier = {
+             tag = SOV    # this can also take a variable that stores a scope
+             defense_bonus_against = 0.3
+            }
+		}
+		EST_fortress_estonia = {
+
+			picture = EST_fortress_estonia
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			 army_core_defence_factor = 0.05
+			 dig_in_speed_factor = 0.3
+			 max_dig_in = 20
+			 state_production_speed_bunker_factor = 0.3
+			 recruitable_population_factor = 0.2
+			 consumer_goods_factor = 0.12
+			}
+		}
     }
 }
 

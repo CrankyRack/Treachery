@@ -7,7 +7,7 @@ set_autonomy = {
 	}
 set_autonomy = {
 		target = BAH
-		autonomous_state = autonomy_puppet
+		autonomous_state = autonomy_free_city
 	}	
 set_autonomy = {
 		target = HOL

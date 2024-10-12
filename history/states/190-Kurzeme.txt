@@ -16,13 +16,12 @@ state={
 		buildings = {
 			infrastructure = 3 #was: 5
 			9262 = {
-				naval_base = 1
+				naval_base = 2
 			}
 			dockyard = 1
 		}
-		add_core_of = LAT
 		add_core_of = SIL
-		add_claim_by = LIT
+		add_claim_by = SOV
 	}
 
 	provinces={

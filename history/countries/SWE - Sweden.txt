@@ -18,6 +18,10 @@ set_autonomy = {
 		target = EST
 		autonomous_state = autonomy_personal_union
 	}
+set_autonomy = {
+		target = NSV
+		autonomous_state = autonomy_free_city
+	}	
 
 
 set_research_slots = 3

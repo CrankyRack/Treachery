@@ -14,7 +14,11 @@ spriteTypes = {
 	}
 	SpriteType = {
 		name = "GFX_autonomy_autonomous_territory_icon"
-		texturefile = "gfx/interface/autonomy/autonomy_autonomous_territory.dds"
+		texturefile = "gfx/interface/autonomy/autonomy_autonomous_territory.dds" 
+	}
+	SpriteType = {
+		name = "GFX_autonomy_free_city_icon"
+		texturefile = "gfx/interface/autonomy/autonomy_free_city.dds"
 	}
 
 }

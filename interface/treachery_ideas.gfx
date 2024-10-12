@@ -315,4 +315,12 @@ spriteTypes = {
 		name = "GFX_idea_MEK_the_nikloting_circle"
 		texturefile = "gfx/interface/ideas/MEK_the_nikloting_circle.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_EST_vana_hea_rootsi_aeg"
+		texturefile = "gfx/interface/ideas/EST_vana_hea_rootsi_aeg.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_EST_fortress_estonia"
+		texturefile = "gfx/interface/ideas/EST_fortress_estonia.dds"
+	}
 }

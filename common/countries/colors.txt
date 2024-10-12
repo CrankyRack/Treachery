@@ -962,8 +962,8 @@ TEX = {
 	color_ui = rgb { 168 50 59 }
 }
 NSV = {
-	color = rgb { 81 92 173 }
-	color_ui = rgb { 81 92 173 }
+	color = rgb { 130 150 60 }
+	color_ui = rgb { 130 150 60 }
 }
 VAN = {
 	color = rgb { 75 154 175 }
