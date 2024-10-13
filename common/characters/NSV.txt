@@ -1,19 +1,4 @@
 characters = {
-	NSV_georg_schwein = {
-		name="Georg August Schweinfurth"
-		portraits = {
-			civilian = {
-				large="gfx/leaders/NSV/NSV_georg_schwein.dds"
-			}
-		}
-		country_leader = {
-			ideology=conservatism
-			traits={ # }
-			expire="1965.1.1.1"
-			id=-1
-		}
-	}
-	
 	NSV_riga_town_council = {
 		name="Riga Town Council"
 		portraits = {
@@ -23,6 +8,21 @@ characters = {
 		}
 		country_leader = {
 			ideology=oligarchism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
+	
+	NSV_georg_schwein = {
+		name="Georg August Schweinfurth"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/NSV/NSV_georg_schwein.dds"
+			}
+		}
+		country_leader = {
+			ideology=conservatism
 			traits={ # }
 			expire="1965.1.1.1"
 			id=-1
