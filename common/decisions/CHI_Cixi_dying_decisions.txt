@@ -28,13 +28,14 @@ CHI_Cixi_dying_category = {
 		icon = decision_generic_decision
 
 		allowed = {
-			tag = SPR
+		
 		}
 
 		available = {
 			NOT = {
-				has_country_flag = SPR_inevitable_civil_war_in_progress_flag
+				has_country_flag = MAN_Cixi_Treatments
 			}
+			has_country_flag = MAN_Western_Medicine
 		}
 
 		cost = 30
@@ -56,7 +57,7 @@ CHI_Cixi_dying_category = {
 		}
 
 		complete_effect = {
-
+			set_country_flag = MAN_Cixi_Treatments
 		}
 
 		remove_effect = {
@@ -64,6 +65,7 @@ CHI_Cixi_dying_category = {
 				mission = Cixi_Sickness
 				days = 103
 			}
+			clr_country_flag = MAN_Cixi_Treatments
 		}
 
 	}

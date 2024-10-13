@@ -259,7 +259,10 @@
 #		}
 
 		completion_reward = {
-
+			custom_effect_tooltip = get_western_medicines
+			hidden_effect = {
+				set_country_flag = MAN_Western_Medicine
+			}
 		}
 	}
 	
