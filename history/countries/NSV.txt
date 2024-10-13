@@ -17,11 +17,11 @@ set_technology = {
 	basic_train = 1
 }
 
-
-recruit_character = NSV_riga_town_council
-recruit_character = NSV_georg_schwein
-
-
+1906.01.01 = {
+	recruit_character = NSV_riga_town_council
+	recruit_character = NSV_georg_schwein
+	promote_character = NSV_georg_schwein
+}
 set_convoys = 128
 
 

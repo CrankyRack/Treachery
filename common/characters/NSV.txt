@@ -8,12 +8,11 @@ characters = {
 		}
 		country_leader = {
 			ideology=oligarchism
-			traits={ # }
+			traits={  }
 			expire="1965.1.1.1"
 			id=-1
 		}
 	}
-	
 	NSV_georg_schwein = {
 		name="Georg August Schweinfurth"
 		portraits = {
@@ -23,7 +22,7 @@ characters = {
 		}
 		country_leader = {
 			ideology=conservatism
-			traits={ # }
+			traits={  }
 			expire="1965.1.1.1"
 			id=-1
 		}
