@@ -13,4 +13,22 @@ characters = {
 			id=-1
 		}
 	}
+	
+	NSV_riga_town_council = {
+		name="Riga Town Council"
+		portraits = {
+			civilian = {
+				large="gfx/leaders/NSV/NSV_riga_town_council.dds"
+			}
+		}
+		country_leader = {
+			ideology=oligarchism
+			traits={ # }
+			expire="1965.1.1.1"
+			id=-1
+		}
+	}
 }
+
+
+

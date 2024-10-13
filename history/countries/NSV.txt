@@ -10,62 +10,40 @@ set_war_support = 0
 set_technology = {
 	infantry_weapons = 1
 	infantry_weapons1 = 1
-	tech_recon = 1
 	tech_support = 1		
 	tech_engineers = 1
 	gw_artillery = 1
-	
-	early_submarine = 1
-	basic_submarine = 1
-	early_destroyer = 1
-	early_light_cruiser = 1
-	basic_light_cruiser = 1
-	early_heavy_cruiser = 1
 	transport = 1
 	basic_train = 1
 }
 
-if = {
-	limit = {
-		NOT = { has_dlc = "By Blood Alone" }
-	}
-	set_technology = {
-		early_fighter = 1
-		cv_early_fighter = 1
-		cv_naval_bomber1 = 1
-		cv_CAS1 = 1
-		naval_bomber1 = 1
-		CAS1 = 1
-		early_bomber = 1
-		
-	}
-}
 
-
+recruit_character = NSV_riga_town_council
 recruit_character = NSV_georg_schwein
 
 
-set_convoys = 120
+set_convoys = 128
 
 
 set_politics = {
-	ruling_party = democratic
-	last_election = "1902.11.8"
+	ruling_party = authoritarian
+	last_election = "1903.11.8"
 	election_frequency = 48
 	elections_allowed = yes
 }
 set_popularities = {
-	democratic = 35
-	liberalism = 29
-	authoritarian = 25
+	democratic = 25
+	liberalism = 19
+	authoritarian = 45
 	democratic_socialism = 8
 	patrimonialism = 3
 }
 
 add_ideas = {
 	civilian_economy
-	volunteer_only
 	free_trade
+	NSV_the_pearl_of_the_baltic
+	NSV_the_freeport_of_riga
 }
 
 

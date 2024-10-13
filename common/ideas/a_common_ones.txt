@@ -1134,6 +1134,57 @@ ideas = {
 			 consumer_goods_factor = 0.12
 			}
 		}
+		SWE_souring_relations_with_denmark = {
+			
+			picture = DEN_souring_relations_with_sweden
+			
+			allowed = {
+			    always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+			war_support_factor = 0.1
+			}
+			targeted_modifier = { tag = DEN trade_cost_for_target_factor = 0.25 }
+			targeted_modifier = { tag = DEN improve_relations_maintain_cost_factor = 1 }
+		}
+		NSV_the_pearl_of_the_baltic = {
+
+			picture = NSV_the_pearl_of_the_baltic
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+			    stability_factor = 0.1
+				army_core_defence_factor = 0.1
+			}
+		}
+		NSV_the_freeport_of_riga = {
+
+			picture = NSV_the_pearl_of_the_baltic
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+
+			modifier = {
+				industrial_capacity_dockyard = 0.2
+				trade_opinion_factor = 0.1
+				min_export = 0.5
+			}
+		}
     }
 }
 

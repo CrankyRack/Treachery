@@ -323,4 +323,12 @@ spriteTypes = {
 		name = "GFX_idea_EST_fortress_estonia"
 		texturefile = "gfx/interface/ideas/EST_fortress_estonia.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_NSV_the_pearl_of_the_baltic"
+		texturefile = "gfx/interface/ideas/NSV_the_pearl_of_the_baltic.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_NSV_the_freeport_of_riga"
+		texturefile = "gfx/interface/ideas/NSV_the_freeport_of_riga.dds"
+	}
 }
