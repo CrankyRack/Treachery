@@ -31,7 +31,7 @@ focus_tree = {
 		}
 
 		mutually_exclusive = {
-			focus = ITA_abandon_the_bologna_accords
+			focus = ITA_disband_the_bologna_accords
 		}
 
 		completion_reward = {
@@ -39,7 +39,7 @@ focus_tree = {
 		}
 	}
 	focus = {
-		id = ITA_abandon_the_bologna_accords
+		id = ITA_disband_the_bologna_accords
 		# icon = GFX_portrait_ANS_guillaume_IV
 		cost = 1
 		x = 5
