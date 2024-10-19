@@ -224,4 +224,5 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 5035;7041;sea;8871;-1;-1;-1;-1;;oasis11
 1901;7041;sea;8871;-1;-1;-1;-1;;oasis12
 7041;8111;sea;8871;-1;-1;-1;-1;;oasis13
+13300;13299;;5700;-1;-1;-1;-1;;cuba
 -1;-1;;-1;-1;-1;-1;-1;-1
