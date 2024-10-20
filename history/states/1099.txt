@@ -16,7 +16,7 @@ state={
 		add_core_of = BOT
 	}
 	provinces={
-		1509 5203 10668
+		1509 10668
 	}
 	local_supplies=0.0 
 }

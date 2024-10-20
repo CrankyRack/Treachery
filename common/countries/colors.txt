@@ -1527,3 +1527,7 @@ ZAN = {
 	color = rgb { 139 0 0 }
 	color_ui = rgb { 139 0 0 }
 }
+NRP = {
+	color = rgb { 114 148 80 }
+	color_ui = rgb { 114 148 80 }
+}

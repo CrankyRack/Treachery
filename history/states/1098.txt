@@ -8,13 +8,14 @@ state={
 	}
 	state_category = pastoral
 	history={
-		owner = BOT
+		owner = TSW
 		victory_points = { 8214 1 }
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = BOT
+		add_core_of = TSW
 		add_core_of = BAM
+		add_claim_by = BOT
 	}
 	provinces={
 		8214
