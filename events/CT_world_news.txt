@@ -23,7 +23,7 @@ news_event = {
 		}
 	}
 	option = {
-		name = CT_news.1.b
+		name = CT_news.1b
 		trigger = { TAG = GBR }
 	}
 }
@@ -44,13 +44,13 @@ news_event = {
 	}
 
 	option = {
-		name = CT_news.2.a
+		name = CT_news.2a
 		trigger = { 
 			NOT = { TAG = ITC }
 		}
 	}
 	option = {
-		name = CT_news.2.b
+		name = CT_news.2b
 		trigger = { TAG = ITC }
 	}
 }
@@ -70,13 +70,13 @@ news_event = {
 	}
 
 	option = {
-		name = CT_news.3.a
+		name = CT_news.3a
 		trigger = { 
 			NOT = { TAG = FRA }
 		}
 	}
 	option = {
-		name = CT_news.3.b
+		name = CT_news.3b
 		trigger = { TAG = FRA }
 	}
 }
@@ -97,7 +97,7 @@ news_event = {
 	}
 
 	option = {
-		name = CT_news.4.a
+		name = CT_news.4a
 		trigger = { 
 			NOT = { TAG = GBR }
 		}
@@ -105,5 +105,115 @@ news_event = {
 	option = {
 		name = CT_news.4b
 		trigger = { TAG = GBR }
+	}
+}
+
+# Assassination of doctor Mauchanp
+news_event = {
+	id = CT_news.5
+	title = CT_news.5.t
+	desc = CT_news.5.d
+	picture = GFX_news_event_005
+	
+	major = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		date > 1907.3.19
+	}
+
+	option = {
+		name = CT_news.5a
+		trigger = { 
+			NOT = { TAG = FRA }
+		}
+	}
+	option = {
+		name = CT_news.5b
+		trigger = { TAG = FRA }
+	}
+}
+
+# Assassination of doctor Mauchanp
+news_event = {
+	id = CT_news.5
+	title = CT_news.5.t
+	desc = CT_news.5.d
+	picture = GFX_news_event_005
+	
+	major = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		date > 1907.3.19
+	}
+
+	option = {
+		name = CT_news.5a
+		trigger = { 
+			NOT = { TAG = FRA }
+		}
+	}
+	option = {
+		name = CT_news.5b
+		trigger = { TAG = FRA }
+	}
+}
+
+# Revolt of the winegrowers
+news_event = {
+	id = CT_news.6
+	title = CT_news.6.t
+	desc = CT_news.6.d
+	picture = GFX_news_event_006
+	
+	major = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		date > 1907.3.11
+	}
+
+	option = {
+		name = CT_news.6a
+		trigger = { 
+			NOT = { TAG = FRA }
+		}
+	}
+	option = {
+		name = CT_news.6b
+		trigger = { TAG = FRA }
+	}
+}
+
+# Erivansky Square robbery
+news_event = {
+	id = CT_news.7
+	title = CT_news.7.t
+	desc = CT_news.7.d
+	picture = GFX_news_event_007
+	
+	major = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		date > 1907.6.26
+	}
+
+	option = {
+		name = CT_news.7a
+		trigger = { 
+			NOT = { TAG = GEO
+			}
+		}
+	option = {
+		name = CT_news.7b
+		trigger = { 
+			TAG = GEO 
+		}
 	}
 }
