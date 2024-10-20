@@ -1,0 +1,109 @@
+add_namespace = CT_news
+
+# The Olympic games of 1908
+news_event = {
+	id = CT_news.1
+	title = CT_news.1.t
+	desc = CT_news.1.d
+	picture = GFX_news_event_001
+	
+	major = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		date > 1908.4.27
+		NOT = { GBR = { has_war = yes } }
+	}
+
+	option = {
+		name = CT_news.1a
+		trigger = { 
+			NOT = { TAG = GBR }
+		}
+	}
+	option = {
+		name = CT_news.1.b
+		trigger = { TAG = GBR }
+	}
+}
+
+# Vesuvio 1906 eruption
+news_event = {
+	id = CT_news.2
+	title = CT_news.2.t
+	desc = CT_news.2.d
+	picture = GFX_news_event_002
+	
+	major = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		date > 1906.4.29
+	}
+
+	option = {
+		name = CT_news.2.a
+		trigger = { 
+			NOT = { TAG = ITC }
+		}
+	}
+	option = {
+		name = CT_news.2.b
+		trigger = { TAG = ITC }
+	}
+}
+
+# Holland joins the Rhine Confederation
+news_event = {
+	id = CT_news.3
+	title = CT_news.3.t
+	desc = CT_news.3.d
+	picture = GFX_news_event_003
+	
+	major = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+	}
+
+	option = {
+		name = CT_news.3.a
+		trigger = { 
+			NOT = { TAG = FRA }
+		}
+	}
+	option = {
+		name = CT_news.3.b
+		trigger = { TAG = FRA }
+	}
+}
+
+# Launching of the Dreadnought
+news_event = {
+	id = CT_news.4
+	title = CT_news.4.t
+	desc = CT_news.4.d
+	picture = GFX_news_event_004
+	
+	major = yes
+
+	is_triggered_only = yes
+	
+	trigger = {
+		date > 1906.2.10
+	}
+
+	option = {
+		name = CT_news.4.a
+		trigger = { 
+			NOT = { TAG = GBR }
+		}
+	}
+	option = {
+		name = CT_news.4b
+		trigger = { TAG = GBR }
+	}
+}
