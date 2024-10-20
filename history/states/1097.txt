@@ -16,7 +16,7 @@ state={
 		add_core_of = BAT
 	}
 	provinces={
-		1580
+		1580 5154
 	}
 	local_supplies=0.0 
 }

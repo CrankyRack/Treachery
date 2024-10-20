@@ -1,0 +1,21 @@
+
+state={
+	id=1306
+	name="Basutoland"
+	manpower = 117296
+
+	state_category = pastoral
+	history={
+		owner = SBS
+
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = SBS
+		add_claim_by = SAF
+	}
+	provinces={
+		4556
+	}
+	local_supplies=0.0 
+}
